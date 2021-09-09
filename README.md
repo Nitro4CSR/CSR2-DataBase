@@ -9,4 +9,8 @@
 	-Fusions<br>
 	-Stage6's<br>
 	-Support Gifts<br>
-	-Visual Codes
+	-Visual Codes<br>
+
+Credits/Special Thanks:<br>
+Ysterperd: Script to extract and rename car files from raw NSB files
+【ƬHᏋ ᏣᏒᏫᏊ】: All Seasons Spreadsheet: https://docs.google.com/spreadsheets/d/1_QvcjyGz9PW48iybbU2AxWcoW6VHJMIj9vohwlYQKBg<br>
