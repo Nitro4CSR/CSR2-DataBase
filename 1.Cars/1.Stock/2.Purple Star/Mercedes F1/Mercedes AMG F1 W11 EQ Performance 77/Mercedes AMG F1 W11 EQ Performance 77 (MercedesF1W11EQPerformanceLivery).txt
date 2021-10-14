@@ -1,6 +1,6 @@
 {
-      "unid": 497,
-      "crdb": "MercedesAMGF1_W11_2020",
+      "unid": 496,
+      "crdb": "MercedesAMGF1_W11VB_2020",
       "awar": false,
       "grsp": [
         6.5,
@@ -48,9 +48,9 @@
       "orlzsid": 9,
       "apln": "",
       "apcn": [
-        "MercedesAMGF1_W11_2020_Wheel1A_3D"
+        "MercedesAMGF1_W11VB_2020_Wheel1A_3D"
       ],
-      "opcn": "MercedesAMGF1_W11_2020_Wheel1A_3D",
+      "opcn": "MercedesAMGF1_W11VB_2020_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
