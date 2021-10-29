@@ -1,6 +1,6 @@
 "picl": [
     "eRewards"
-  ]
+  ],
   "playinbitms": [
     {
       "reason": ":TEXT_TAG_CS_COMPENSATION",
@@ -13,7 +13,8 @@
         "partType": 0,
         "partGrade": 0,
         "gachaConfig": 69,
-        "amount": 1
+        "amount": 1,
+        "ConsumableBoostId": ""
       }
     }
-  ]
+  ],
