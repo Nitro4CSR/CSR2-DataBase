@@ -1,0 +1,3 @@
+The ShowdownLeagues Tickets got replaced by the 
+ProLeagues Tickets and therefor the is no need to
+add files for them
