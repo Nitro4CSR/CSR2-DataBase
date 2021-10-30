@@ -28,6 +28,6 @@ Due to the amount of files this project has it can be quite hard to find the fil
 
 ## Latest Update Info
 **Update V.3.4.2**
-![]()
+![](https://cdn.discordapp.com/attachments/904024380370223114/904042472471142420/V.3.4.0_chart.png)
 
 ## History
