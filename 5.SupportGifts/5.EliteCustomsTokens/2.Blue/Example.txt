@@ -3,7 +3,7 @@
   ],
   "playinbitms": [
     {
-      "reason": ":TEXT_TAG_CS_COMPENSATION",
+      "reason": "TEXT_TAG_CS_COMPENSATION",
       "ttl": 0,
       "id": "",
       "rank": 0,
