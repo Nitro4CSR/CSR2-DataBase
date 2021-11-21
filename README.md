@@ -24,10 +24,12 @@ Due to the amount of files this project has it can be quite hard to find the fil
 
 **Credits/Special Thanks:**<br>
 1. Ysterperd: Script to extract and rename car files from raw NSB files
-2. 【ƬHᏋ ᏣᏒᏫᏊ】: All Seasons Spreadsheet: [Direct-link](https://docs.google.com/spreadsheets/d/1_QvcjyGz9PW48iybbU2AxWcoW6VHJMIj9vohwlYQKBg)<br>
+2. 【ƬHᏋ ᏣᏒᏫᏊ】: All Seasons [Spreadsheet](https://docs.google.com/spreadsheets/d/1_QvcjyGz9PW48iybbU2AxWcoW6VHJMIj9vohwlYQKBg)<br>
 
 ## Latest Update Info
-**Update V.3.4.2**
-![](https://cdn.discordapp.com/attachments/904024380370223114/904042472471142420/V.3.4.0_chart.png)
+**Update V.3.5.0**
+![](https://cdn.discordapp.com/attachments/904024380370223114/911929694004314132/V.3.5.0Chart.jpg)
 
 ## History
+**Update V.3.4.0**
+![](https://cdn.discordapp.com/attachments/904024380370223114/911929693517799445/V.3.4.0Chart.jpg)
