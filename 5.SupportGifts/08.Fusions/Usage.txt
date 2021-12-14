@@ -8,6 +8,6 @@ tires: 5
 transmission: 6
 
 fusionrarity:
-green: 0
-blue: 1
-red: 2
+green: 1
+blue: 2
+red: 3
