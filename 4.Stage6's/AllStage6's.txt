@@ -14686,5 +14686,383 @@
       "esut": "TRANSMISSION",
       "esdb": "Ferrari_488GTModificata_2021"
     },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
     3
   ]
