@@ -1,5 +1,0 @@
-Ingeme there is no difference between those 2 option at the moment.
-The 100% correct way would be using Option1 for Purple Star Cars and
-Option2 for Gold Star Cars.
-I personally use Option1 only because I learned it that way and it's
-faster using just 1 or the 2 options
