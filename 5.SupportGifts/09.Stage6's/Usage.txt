@@ -1,8 +1,0 @@
-upgradetype:
-engine: 0
-turbo: 1
-intake: 2
-nitrous: 3
-body: 4
-tires: 5
-transmission: 6
