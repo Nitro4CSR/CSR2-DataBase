@@ -1,3 +1,0 @@
-The chosen currency might not be applied evn if
-everything is correctly implemented due to the
-anticheat system!
