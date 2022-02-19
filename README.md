@@ -37,8 +37,8 @@ Due to the amount of files this project has it can be quite hard to find the fil
 **Update V.3.5.0**
 ![](https://cdn.discordapp.com/attachments/904024380370223114/920360028119105606/unknown.png)
 <br>
-**Update V.3.6.0 OTA**
-![](https://cdn.discordapp.com/attachments/904024380370223114/942875401468923945/unknown.png)
-<br>
 **Update V.3.6.0**
 ![](https://cdn.discordapp.com/attachments/904024380370223114/920360028517597244/unknown.png)
+<br>
+**Update V.3.6.0 OTA**
+![](https://cdn.discordapp.com/attachments/904024380370223114/942875401468923945/unknown.png)
