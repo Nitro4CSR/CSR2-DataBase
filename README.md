@@ -28,20 +28,20 @@ Due to the amount of files this project has it can be quite hard to find the fil
 
 ## Latest Update Info
 **Update V.3.7.0 OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954288527548514354/unknown.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/954401649147924531/3.7.0_OTA1.png)
 <br>
 ## History
 **Update V.3.4.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954287176466714654/unknown.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/954401647503745044/3.4.0.png)
  <br>
 **Update V.3.5.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954287308952174603/unknown.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/954401647767990303/3.5.0.png)
 <br>
 **Update V.3.6.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954287775472042004/unknown.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/954401647503745044/3.4.0.png)
 <br>
 **Update V.3.6.0 OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954287933068812288/unknown.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/954402260702597140/3.6.0_OTA1.png)
 <br>
 **Update V.3.7.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954288272052465684/unknown.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/954401648745283614/3.7.0.png)
