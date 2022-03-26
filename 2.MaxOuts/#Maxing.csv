@@ -1,4 +1,4 @@
-﻿TIER_1,Abarth_500_2014,T1-1-27.txt
+TIER_1,Abarth_500_2014,T1-1-27.txt
 TIER_1,Ford_F150SVTRaptorElite_2014,T1-3-32.txt
 TIER_1,Ford_FiestaST_2016,T1-1-27.txt
 TIER_1,Ford_FocusSTCrew_2014,T1-3-32.txt
@@ -102,6 +102,7 @@ TIER_3,Subaru_BRZF8_2013,T3-4-84.txt
 TIER_3,Subaru_BRZRocketBunny_2013,T3-3-77.txt
 TIER_3,Subaru_BRZRocketBunnyVIP_2013,T3-3-77.txt
 TIER_3,Toyota_GRSupra_2020,T3-4-77.txt
+Tier_4,Acura_NSXF9_2018,T4-4-98.txt
 TIER_4,AlfaRomeo_8CCompetizione_2007,T4-5-98.txt
 TIER_4,AlfaRomeo_8CSpiderReward_2009,T4-5-98.txt
 TIER_4,AlfaRomeo_8CSpiderRewardRecycled_2009,T4-5-91.txt
@@ -190,6 +191,7 @@ TIER_4,Infiniti_Q60ProjectBlackSReward_2018,T4-5-98.txt
 TIER_4,Infiniti_Q60ProjectBlackSRewardRecycled_2018,T4-5-91.txt
 TIER_4,Jaguar_FTypeRCoupe_2016,T4-3-78.txt
 TIER_4,Jaguar_FTypeRCoupeF8_2016,T4-5-98.txt
+Tier_4,Jaguar_XESVProject8F9_2018,T4-4-98.txt
 TIER_4,Jaguar_XESVProject8Reward_2018,T4-5-98.txt
 TIER_4,Jaguar_XESVProject8RewardRecycled_2018,T4-5-91.txt
 TIER_4,Jeep_GladiatorF9_2019,T4-5-98.txt
@@ -198,6 +200,7 @@ TIER_4,Jeep_GrandCherokeeTrackhawkF9_2018,T4-5-98.txt
 TIER_4,Lamborghini_CountachClassic_1988,T4-5-98.txt
 TIER_4,Lamborghini_UrusReward_2018,T4-4-98.txt
 TIER_4,Lamborghini_UrusRewardRecycled_2018,T4-4-91.txt
+Tier_4,Lexus_LC500TNR_2018,T4-5-108.txt
 TIER_4,Lotus_EvoraGT430Reward_2018,T4-5-98.txt
 TIER_4,Lotus_EvoraGT430RewardRecycled_2018,T4-5-91.txt
 TIER_4,Lotus_Type131Reward_2022,T4-5-98.txt
@@ -206,6 +209,7 @@ TIER_4,Maserati_GhibliSQ4_2014,T4-4-91.txt
 TIER_4,Maserati_GranTurismoMCReward_2018,T4-4-98.txt
 TIER_4,Maserati_GranTurismoMCRewardRecycled_2018,T4-4-91.txt
 TIER_4,Maserati_LBGranTurismoS_2018,T4-5-91.txt
+Tier_4,Mazda_RBRX8_2004,T4-4-98.txt
 TIER_4,Mazda_RX7F1_1993,T4-5-98.txt
 TIER_4,Mazda_RX7Reward_1993,T4-5-98.txt
 TIER_4,Mazda_RX7RewardEaster_1993,T4-5-98.txt
@@ -225,6 +229,7 @@ TIER_4,Mitsubishi_LancerEVOXTNR_2015,T4-5-108.txt
 TIER_4,Nissan_350ZF3_2003,T4-5-98.txt
 TIER_4,Nissan_350ZRocketBunny_2003,T4-5-98.txt
 TIER_4,Nissan_350ZRocketBunnyV2_2003,T4-5-98.txt
+Tier_4,Nissan_350ZRocketBunnyV2Easter_2003,T4-4-98.txt
 TIER_4,Nissan_GTR_2017,T4-4-91.txt
 TIER_4,Nissan_GTRNismoCrew_2017,T4-5-98.txt
 TIER_4,Nissan_GTRNismoCrewRecycled_2017,T4-4-91.txt
@@ -310,6 +315,8 @@ TIER_5,Bentley_ContinentalGTConvertibleRewardRecycled_2019,T5-5-128.txt
 TIER_5,Bentley_ContinentalGTReward_2018,T5-4-135.txt
 TIER_5,Bentley_ContinentalGTRewardRecycled_2018,T5-4-128.txt
 TIER_5,Bentley_ContinentalGTSpeed_2016,T5-3-110.txt
+TIER_5,Bentley_ContinentalGTSpeedReward_2021,T5-5-135.txt
+TIER_5,Bentley_ContinentalGTSpeedRewardRecycled_2021,T5-5-128.txt
 TIER_5,Bentley_MullinerBacalarReward_2021,T5-5-135.txt
 TIER_5,Bentley_MullinerBacalarRewardRecycled_2021,T5-5-128.txt
 TIER_5,BMW_M8Competition_2020,T5-5-135.txt
@@ -323,6 +330,7 @@ TIER_5,Brabham_BT62RRewardRecycled_2020,T5-5-128.txt
 TIER_5,Bugatti_AtlanticConcept_2015,T5-5-135.txt
 TIER_5,Bugatti_Chiron42Seconds_2016,T5-5-135.txt
 TIER_5,Bugatti_ChironProjectHero_2016,T5-5-135.txt
+TIER_5,Bugatti_ChironPurSportEditionGP_2022,T5-5-135.txt
 TIER_5,Bugatti_ChironReward_2016,T5-5-135.txt
 TIER_5,Bugatti_ChironRewardGold_2016,T5-5-135.txt
 TIER_5,Bugatti_ChironRewardRecycled_2016,T5-5-128.txt
@@ -369,6 +377,7 @@ TIER_5,Chevrolet_HSCustomsCamaroRewardRecycled_2016,T5-5-128.txt
 TIER_5,Chevrolet_MonteCarloRaceCarF9_1995,T5-5-135.txt
 TIER_5,Chevrolet_NASCARCamaroZL1_2020,T5-5-135.txt
 TIER_5,Chevrolet_NASCARCamaroZL1JE_2020,T5-5-135.txt
+TIER_5,Chevrolet_NovaSSF9_1970,T5-5-135.txt
 TIER_5,Chevrolet_QuintinBrotherCamaroReward_1968,T5-5-135.txt
 TIER_5,Chevrolet_QuintinBrotherCamaroRewardRecycled_1968,T5-5-128.txt
 TIER_5,Chevrolet_RingbrothersCamaro_1969,T5-5-135.txt
@@ -385,10 +394,13 @@ TIER_5,Dodge_ChargerRTF1_1970,T5-5-135.txt
 TIER_5,Dodge_ChargerRTF4_1970,T5-5-135.txt
 TIER_5,Dodge_ChargerRTF8_1970,T5-5-135.txt
 TIER_5,Dodge_ChargerRTF9_1966,T5-5-135.txt
+TIER_5,Dodge_ChargerTantrumF9_1970,T5-5-135.txt
+TIER_5,Dodge_DemonChargerF9_2018,T5-5-135.txt
 TIER_5,Dodge_HavocChallenger_1970,T5-5-135.txt
 TIER_5,Dodge_HPE1200Demon_2018,T5-5-135.txt
 TIER_5,Dodge_HPE1200DemonGold_2018,T5-5-128.txt
 TIER_5,Dodge_ViperACRExtremeAeroPackage_2016,T5-4-128.txt
+TIER_5,Dodge_WidebodyChargerF9_1968,T5-5-135.txt
 TIER_5,Donkervoort_D8GTOReward_2015,T5-5-135.txt
 TIER_5,Donkervoort_D8GTORewardRecycled_2015,T5-5-128.txt
 TIER_5,Ferrari_458Speciale_2014,T5-5-135.txt
@@ -433,6 +445,8 @@ TIER_5,Ferrari_PortofinoReward_2018,T5-4-135.txt
 TIER_5,Ferrari_PortofinoRewardRecycled_2018,T5-4-128.txt
 TIER_5,Ferrari_RomaReward_2020,T5-5-135.txt
 TIER_5,Ferrari_RomaRewardRecycled_2020,T5-5-128.txt
+TIER_5,Ferrari_SF90SpiderReward_2021,T5-5-135.txt
+TIER_5,Ferrari_SF90SpiderRewardRecycled_2021,T5-5-128.txt
 TIER_5,Ferrari_SF90Stradale_2020,T5-5-135.txt
 TIER_5,FnF_FlipCar_2013,T5-5-135.txt
 TIER_5,Ford_Durty30_2016,T5-5-128.txt
@@ -446,6 +460,7 @@ TIER_5,Ford_GTRewardRecycled66_2017,T5-4-128.txt
 TIER_5,Ford_MustangCobraJet_2019,T5-5-128.txt
 TIER_5,Ford_MustangF3_1967,T5-5-135.txt
 TIER_5,Ford_MustangFoxbodyF9_1987,T5-5-135.txt
+TIER_5,Ford_MustangGT350F9_2016,T5-5-135.txt
 TIER_5,Ford_MustangGTHoonicornV2_1965,T5-5-135.txt
 TIER_5,Ford_MustangRTRSpec3_2019,T5-4-128.txt
 TIER_5,Ford_MustangRTRSPEC5_2019,T5-5-135.txt
@@ -629,6 +644,7 @@ TIER_5,Nissan_SkylineGTRF4_2002,T5-5-135.txt
 TIER_5,Nissan_SkylineGTRR34F2_1999,T5-5-135.txt
 TIER_5,Nissan_SkylineGTRR34TNR_2002,T5-5-150.txt
 TIER_5,Noble_M600CarbonSport_2017,T5-5-135.txt
+TIER_5,Noble_M600F9_2017,T5-5-135.txt
 TIER_5,Noble_M600Reward_2017,T5-5-135.txt
 TIER_5,Noble_M600RewardRecycled_2017,T5-5-128.txt
 TIER_5,Pagani_Huayra_2014,T5-4-128.txt
@@ -645,6 +661,8 @@ TIER_5,Pagani_Imola_2021,T5-5-135.txt
 TIER_5,Pagani_ImolaGold_2021,T5-5-135.txt
 TIER_5,Pagani_ZondaBarchetta_2018,T5-5-135.txt
 TIER_5,Pagani_ZondaCinqueCoupe_2009,T5-5-135.txt
+TIER_5,Pagani_ZondaCinqueRoadsterReward_2010,T5-5-135.txt
+TIER_5,Pagani_ZondaCinqueRoadsterRewardRecycled_2010,T5-5-128.txt
 TIER_5,Pagani_ZondaRevolucion_2013,T5-5-135.txt
 TIER_5,Plymouth_FormulaSBarracuda_1968,T5-5-128.txt
 TIER_5,Plymouth_FormulaSBarracudaElite_1968,T5-5-135.txt
@@ -680,6 +698,8 @@ TIER_5,Porsche_935_2019,T5-5-135.txt
 TIER_5,Porsche_935Salzburg_2019,T5-5-135.txt
 TIER_5,Porsche_Canepa959_1988,T5-5-135.txt
 TIER_5,Porsche_CarreraGTClassic_2003,T5-5-135.txt
+TIER_5,Porsche_DD911GTRSRReward_2017,T5-5-135.txt
+TIER_5,Porsche_DD911GTRSRRewardRecycled_2017,T5-5-128.txt
 TIER_5,Porsche_RWB993Evo_1993,T5-5-135.txt
 TIER_5,Porsche_RWB993Reward_1993,T5-5-135.txt
 TIER_5,Porsche_RWB993RewardRecycled_1993,T5-5-128.txt
@@ -705,6 +725,7 @@ TIER_5,SSC_TuataraSilver_2019,T5-5-128.txt
 TIER_5,SSC_TuataraWRE_2020,T5-5-135.txt
 TIER_5,Subaru_BRZtSTNR_2020,T5-5-150.txt
 TIER_5,Subaru_WRXSTIF8_2018,T5-5-135.txt
+TIER_5,Toyota_GRSupraF9_2020,T5-5-135.txt
 TIER_5,Toyota_GRSupraTNR_2020,T5-5-150.txt
 TIER_5,Toyota_LBGRSupraReward_2020,T5-5-135.txt
 TIER_5,Toyota_LBGRSupraRewardRecycled_2020,T5-5-128.txt
