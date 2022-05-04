@@ -14,7 +14,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 0,
                 0,
@@ -24,17 +24,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -44,7 +34,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -54,7 +44,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -64,7 +64,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -90,7 +90,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 0,
                 0,
@@ -100,17 +100,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -120,7 +110,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -130,7 +120,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -140,7 +130,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
               "fsg": [
                 3,
                 0,
@@ -166,7 +166,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 0,
                 0,
@@ -176,17 +176,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -196,7 +186,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -206,7 +196,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -216,7 +216,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -242,7 +242,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 0,
                 0,
@@ -252,17 +252,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -272,7 +262,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -282,7 +272,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -292,7 +292,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -318,7 +318,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 0,
                 0,
@@ -328,7 +328,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -338,7 +338,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -348,7 +348,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -358,7 +358,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -368,7 +368,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -394,7 +394,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 0,
                 0,
@@ -404,27 +404,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -434,17 +414,37 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
                 2,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -470,7 +470,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 0,
                 0,
@@ -480,27 +480,17 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
-                2,
+                0,
                 0,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -510,7 +500,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -520,7 +510,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
               "fsg": [
                 2,
                 3,
