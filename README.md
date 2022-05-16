@@ -27,8 +27,8 @@ Due to the amount of files this project has it can be quite hard to find the fil
 2. 【ƬHᏋ ᏣᏒᏫᏊ】: All Seasons [Spreadsheet](https://docs.google.com/spreadsheets/d/1_QvcjyGz9PW48iybbU2AxWcoW6VHJMIj9vohwlYQKBg)<br>
 
 ## Latest Update Info
-**Update V.3.7.0 OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954401649147924531/3.7.0_OTA1.png)
+**Update V.3.9.0**
+![](https://cdn.discordapp.com/attachments/904024380370223114/975686499016253460/3.9.0.png)
 <br>
 ## History
 **Update V.3.4.0**
@@ -45,3 +45,12 @@ Due to the amount of files this project has it can be quite hard to find the fil
 <br>
 **Update V.3.7.0**
 ![](https://cdn.discordapp.com/attachments/904024380370223114/954401648745283614/3.7.0.png)
+<br>
+**Update V.3.7.0 OTA1**
+![](https://cdn.discordapp.com/attachments/904024380370223114/954401649147924531/3.7.0_OTA1.png)
+<br>
+**Update V.3.8.0**
+![](https://cdn.discordapp.com/attachments/904024380370223114/957033538111291413/unknown.png)
+<br>
+![](https://cdn.discordapp.com/attachments/904024380370223114/972867456647430164/3.8.0_OTA1.png)
+<br>
