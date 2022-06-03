@@ -621,7 +621,7 @@
     "RIMS": 0,
     "TIRE": 0
   },
-  "fpul": 0,
+  "fpul": 1,
   "rsup": 0,
   "rpbb": 0,
   "rncu": false,
@@ -656,6 +656,6 @@
   "whbn": "Wheel2A_3D",
   "tlad": 0.0,
   "need": false,
-  "cmlv": 0,
+  "cmlv": 50,
   "isra": false
 }

@@ -622,13 +622,13 @@
     "RIMS": 0,
     "TIRE": 0
   },
-  "fpul": 0,
-  "rsup": 0,
-  "rpbb": 0,
+  "fpul": 1,
+  "rsup": 1,
+  "rpbb": 3,
   "rncu": false,
-  "fcu": false,
-  "pncu": false,
-  "cncu": false,
+  "fcu": true,
+  "pncu": true,
+  "cncu": true,
   "cppi": 501,
   "cepi": 0,
   "tdut": 18.215,
@@ -657,6 +657,6 @@
   "whbn": "Wheel2C_3D",
   "tlad": 0.0,
   "need": false,
-  "cmlv": 0,
+  "cmlv": 50,
   "isra": false
 }

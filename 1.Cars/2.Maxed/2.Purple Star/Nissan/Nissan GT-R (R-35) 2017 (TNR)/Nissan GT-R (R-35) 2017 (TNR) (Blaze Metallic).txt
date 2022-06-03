@@ -620,13 +620,13 @@
     "RIMS": 0,
     "TIRE": 0
   },
-  "fpul": 0,
-  "rsup": 0,
-  "rpbb": 0,
+  "fpul": 4,
+  "rsup": 3,
+  "rpbb": 18,
   "rncu": false,
-  "fcu": false,
-  "pncu": false,
-  "cncu": false,
+  "fcu": true,
+  "pncu": true,
+  "cncu": true,
   "cppi": 603,
   "cepi": 0,
   "tdut": 16.045,
@@ -655,6 +655,6 @@
   "whbn": "Wheel1A_Alpha",
   "tlad": 0.0,
   "need": false,
-  "cmlv": 0,
-  "isra": false
+  "cmlv": 35,
+  "isra": true
 }

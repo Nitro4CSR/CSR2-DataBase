@@ -618,9 +618,9 @@
     "RIMS": 0,
     "TIRE": 0
   },
-  "fpul": 0,
-  "rsup": 0,
-  "rpbb": 0,
+  "fpul": 3,
+  "rsup": 3,
+  "rpbb": 15,
   "rncu": false,
   "fcu": false,
   "pncu": false,
@@ -653,6 +653,6 @@
   "whbn": "",
   "tlad": 0.0,
   "need": false,
-  "cmlv": 0,
+  "cmlv": 35,
   "isra": false
 }
