@@ -39,7 +39,7 @@ Due to the amount of files this project has it can be quite hard to find the fil
 ![](https://cdn.discordapp.com/attachments/904024380370223114/954401647767990303/3.5.0.png)
 <br>
 **Update V.3.6.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954401647503745044/3.6.0.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/954401648103538738/3.6.0.png)
 <br>
 **Update V.3.6.0 OTA1**
 ![](https://cdn.discordapp.com/attachments/904024380370223114/954402260702597140/3.6.0_OTA1.png)
