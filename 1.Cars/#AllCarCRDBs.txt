@@ -489,7 +489,6 @@ Maserati_MC12CarbonBlue_2004
 Maserati_MC12_2004
 Mazda_Furai_2008
 Mazda_MX5_2016
-Mazda_MX5_2016
 Mazda_PandeMMX5_2016
 Mazda_RBRX8_2004
 Mazda_RX7F1_1993
