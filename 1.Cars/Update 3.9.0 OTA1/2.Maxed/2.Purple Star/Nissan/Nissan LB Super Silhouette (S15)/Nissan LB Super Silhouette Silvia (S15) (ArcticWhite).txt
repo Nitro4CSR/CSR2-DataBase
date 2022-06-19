@@ -1,18 +1,16 @@
 {
-  "unid": 3074,
-  "crdb": "Porsche_CayenneTurboGTRewardRecycled_2022",
+  "unid": 3069,
+  "crdb": "Nissan_LBSuperSilhouetteSilviaS15_1999",
   "awar": false,
   "grsp": [
-    4.714,
-    3.143,
-    2.106,
-    1.667,
-    1.285,
+    3.62,
+    2.628,
+    1.705,
+    1.21,
     1.0,
-    0.839,
-    0.667
+    0.77
   ],
-  "fidr": 2.95,
+  "fidr": 3.69,
   "nlpr": 0.5,
   "tafr": 0.5,
   "titp": 0.5,
@@ -23,29 +21,29 @@
   "ttpp": 0.5,
   "appi": 0,
   "orpi": 0,
-  "apiid": 1459,
-  "oriid": 1459,
-  "apcid": 83,
-  "orcid": 83,
+  "apiid": 1468,
+  "oriid": 1468,
+  "apcid": 3,
+  "orcid": 3,
   "apcns": 0,
   "appns": 0,
   "opcns": 0,
   "oppns": 0,
   "aplid": -2147483648,
   "orlid": -2147483648,
-  "aplzsid": -1,
-  "orlzsid": -1,
+  "aplzsid": -2147483648,
+  "orlzsid": -2147483648,
   "apln": "",
   "apcn": [
-    "Porsche_CayenneTurboGTRewardRecycled_2022_Wheel1A_3D"
+    "Nissan_LBSuperSilhouetteSilviaS15_1999_Wheel1A_3D"
   ],
-  "opcn": "Porsche_CayenneTurboGTRewardRecycled_2022_Wheel1A_3D",
+  "opcn": "Nissan_LBSuperSilhouetteSilviaS15_1999_Wheel1A_3D",
   "bqmt": 0.0,
   "bhmt": 0.0,
   "ditr": 0.0,
   "rcat": 0,
   "rwon": 0,
-  "msou": 3009000,
+  "msou": 5979000,
   "nuub": 35,
   "ccna": 0,
   "upst": [
@@ -60,26 +58,6 @@
           "ulpf": true,
           "fsg": [
             1,
-            1,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
             2,
             0,
             0,
@@ -101,7 +79,7 @@
           "fsg": [
             1,
             2,
-            0,
+            2,
             0,
             0
           ]
@@ -109,11 +87,31 @@
         {
           "ulpf": true,
           "fsg": [
+            1,
+            1,
             2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
             3,
             3,
             3,
-            0
+            3,
+            3
           ]
         }
       ]
@@ -129,97 +127,8 @@
           "ulpf": true,
           "fsg": [
             1,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
             1,
             2,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            2,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            2,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            2,
-            3,
-            3,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            2,
-            3,
-            0,
-            0,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "lvlo": 6,
-      "lvlf": 6,
-      "lvls": [
-        {
-          "ulpf": true
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            2,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            2,
-            0,
             0,
             0
           ]
@@ -239,17 +148,37 @@
           "fsg": [
             1,
             2,
+            2,
             3,
-            0,
             0
           ]
         },
         {
           "ulpf": true,
           "fsg": [
+            1,
+            1,
+            2,
+            2,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
             2,
             3,
             3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            3,
+            0,
+            0,
             0,
             0
           ]
@@ -268,6 +197,95 @@
           "fsg": [
             1,
             1,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
             0,
             0,
             0
@@ -286,28 +304,8 @@
         {
           "ulpf": true,
           "fsg": [
-            1,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
             2,
-            0,
+            3,
             0,
             0,
             0
@@ -366,8 +364,8 @@
           "ulpf": true,
           "fsg": [
             1,
-            0,
-            0,
+            2,
+            2,
             0,
             0
           ]
@@ -378,8 +376,8 @@
             1,
             2,
             3,
-            0,
-            0
+            3,
+            3
           ]
         },
         {
@@ -405,9 +403,29 @@
           "ulpf": true,
           "fsg": [
             1,
+            1,
             0,
             0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
             0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
             0
           ]
         },
@@ -424,29 +442,9 @@
         {
           "ulpf": true,
           "fsg": [
-            1,
             2,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
             2,
-            0,
+            3,
             0,
             0
           ]
@@ -455,7 +453,7 @@
           "ulpf": true,
           "fsg": [
             2,
-            2,
+            3,
             3,
             3,
             3
@@ -474,28 +472,8 @@
           "ulpf": true,
           "fsg": [
             1,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
             1,
             0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
-            1,
-            2,
-            3,
             0,
             0
           ]
@@ -514,26 +492,46 @@
           "ulpf": true,
           "fsg": [
             1,
-            2,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "ulpf": true,
-          "fsg": [
             2,
             2,
             3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
             3,
             0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            3,
+            3,
+            3
           ]
         }
       ]
     }
   ],
-  "fpin": 2,
+  "fpin": 3,
   "rpst": [
     {
       "rvlo": 0,
@@ -568,17 +566,17 @@
   "fcu": false,
   "pncu": false,
   "cncu": false,
-  "cppi": 503,
+  "cppi": 603,
   "cepi": 0,
-  "tdut": 18.169,
-  "tdtt": 18.169,
-  "ttqm": 11.331,
-  "tthm": 18.169,
-  "tt60": 3.082,
-  "tt1h": 7.13,
-  "spqm": 121.175,
-  "sphm": 139.575,
-  "ctie": "TIER_4",
+  "tdut": 16.048,
+  "tdtt": 16.048,
+  "ttqm": 10.143,
+  "tthm": 16.048,
+  "tt60": 2.679,
+  "tt1h": 5.353,
+  "spqm": 143.02,
+  "sphm": 156.924,
+  "ctie": "TIER_5",
   "csrc": "Gacha",
   "nupl": {
     "txt": "",
@@ -587,10 +585,10 @@
   "esup": true,
   "elcl": 0,
   "gacp": false,
-  "paid": 1948,
-  "inid": 1459,
-  "caid": 83,
-  "lzsid": -1,
+  "paid": 1404,
+  "inid": 1468,
+  "caid": 3,
+  "lzsid": -2147483648,
   "livid": -2147483648,
   "whbn": "Wheel1A_3D",
   "tlad": 0.0,
