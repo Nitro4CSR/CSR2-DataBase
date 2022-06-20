@@ -636,7 +636,7 @@
       "spqm": 131.092,
       "sphm": 132.463,
       "ctie": "TIER_1",
-      "csrc": "Tutorial",
+      "csrc": "Gacha",
       "nupl": {
         "txt": "",
         "cpf": true

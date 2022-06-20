@@ -639,7 +639,7 @@
       "spqm": 119.918,
       "sphm": 142.89,
       "ctie": "TIER_4",
-      "csrc": "Gacha",
+      "csrc": "High_Stakes",
       "nupl": {
         "txt": "",
         "cpf": false

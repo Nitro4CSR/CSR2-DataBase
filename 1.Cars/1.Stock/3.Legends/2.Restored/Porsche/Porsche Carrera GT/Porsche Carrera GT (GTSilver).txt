@@ -638,7 +638,7 @@
       "spqm": 144.206,
       "sphm": 166.431,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "ShopCash",
       "nupl": {
         "txt": "",
         "cpf": false

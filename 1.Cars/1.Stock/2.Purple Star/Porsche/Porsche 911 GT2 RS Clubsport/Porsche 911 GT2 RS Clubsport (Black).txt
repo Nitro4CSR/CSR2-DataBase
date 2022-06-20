@@ -639,7 +639,7 @@
       "spqm": 0.0,
       "sphm": 0.0,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "Prize",
       "nupl": {
         "txt": "",
         "cpf": false

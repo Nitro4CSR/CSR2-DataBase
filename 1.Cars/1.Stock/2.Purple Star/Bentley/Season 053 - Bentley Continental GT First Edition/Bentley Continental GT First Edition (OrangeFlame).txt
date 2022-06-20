@@ -640,7 +640,7 @@
       "spqm": 135.942,
       "sphm": 156.591,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "Prize",
       "nupl": {
         "txt": "",
         "cpf": false

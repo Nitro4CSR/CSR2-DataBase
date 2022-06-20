@@ -640,7 +640,7 @@
       "spqm": 147.319,
       "sphm": 173.591,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "IAPSpecial",
       "nupl": {
         "txt": "",
         "cpf": false

@@ -638,7 +638,7 @@
       "spqm": 125.864,
       "sphm": 152.063,
       "ctie": "TIER_4",
-      "csrc": "PRIZE",
+      "csrc": "Prize",
       "nupl": {
         "txt": "",
         "cpf": false
