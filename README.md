@@ -28,8 +28,8 @@ Due to the amount of files this project has it can be quite hard to find the fil
 3. TheRedBandit & LCN: MaxOut Tool︱Check out their [Website](https://nsb.lcn-innovation.dk/)
 
 ## Latest Update Info
-**Update V.3.9.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/988440660963098664/3.9.X_OTA1.png?size=4096)
+**Update V.4.0.0**
+![](https://cdn.discordapp.com/attachments/904024380370223114/989233991771099166/4.0.0.png?size=4096)
 <br>
 ## History
 **Update V.3.4.0**
@@ -54,8 +54,11 @@ Due to the amount of files this project has it can be quite hard to find the fil
 ![](https://cdn.discordapp.com/attachments/904024380370223114/988440197479940186/3.8.0.png?size=4096)
 <br>
 **Update V.3.8.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/988440373112234006/3.8.X_OTA1.png?size=4096)
+![](https://cdn.discordapp.com/attachments/904024380370223114/989233794492014771/3.8.X_OTA1.png?size=4096)
 <br>
 **Update V.3.9.0**
 ![](https://cdn.discordapp.com/attachments/904024380370223114/988440489256710204/3.9.0.png?size=4096)
+<br>
+**Update V.3.9.X OTA1**
+![](https://cdn.discordapp.com/attachments/904024380370223114/988440660963098664/3.9.X_OTA1.png?size=4096)
 <br>
