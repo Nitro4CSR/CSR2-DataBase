@@ -15,42 +15,50 @@ If you found a bug, have ideas on how to improve the project, want to get notifi
 Due to the amount of files this project has it can be quite hard to find the file you need. The solution to this is using the<br> [File-Finder](https://github.com/Nitro4CSR/CSR2-DataBase/find/main).<br>
  
 **The project will cover the following:**<br>
-1. Cars (stock/maxed)<br>
-2. Maxing Files<br>
-3. Fusions<br>
-4. Stage6's<br>
-5. Support Gifts<br>
-6. Visual Codes<br>
+1. Cars (stock/maxed) ✔️<br>
+2. Maxing Files ✔️<br>
+3. Fusions ✔️<br>
+4. Stage6's ✔️<br>
+5. Support Gifts ✔️<br>
+6. Visual Codes ❌<br>
 
 **Credits/Special Thanks:**<br>
 1. Ysterperd: Script to extract and rename car files from raw NSB files
 2. 【ƬHᏋ ᏣᏒᏫᏊ】: All Seasons [Spreadsheet](https://docs.google.com/spreadsheets/d/1_QvcjyGz9PW48iybbU2AxWcoW6VHJMIj9vohwlYQKBg)<br>
+3. TheRedBandit & LCN: MaxOut Tool︱Check out their [Website](https://nsb.lcn-innovation.dk/)
 
 ## Latest Update Info
-**Update V.3.9.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/975686499016253460/3.9.0.png)
+**Update V.4.0.0**
+![](https://cdn.discordapp.com/attachments/904024380370223114/989233991771099166/4.0.0.png?size=4096)
 <br>
 ## History
 **Update V.3.4.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954401647503745044/3.4.0.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/988438573642547200/3.4.0.png?size=4096)
  <br>
 **Update V.3.5.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954401647767990303/3.5.0.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/988438798511775744/3.5.0.png?size=4096)
 <br>
 **Update V.3.6.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954401647503745044/3.4.0.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/988439141370974228/3.6.0.png?size=4096)
 <br>
-**Update V.3.6.0 OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954402260702597140/3.6.0_OTA1.png)
+**Update V.3.6.X OTA1**
+![](https://cdn.discordapp.com/attachments/904024380370223114/988439282354110566/3.6.X_OTA1.png?size=4096)
 <br>
 **Update V.3.7.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954401648745283614/3.7.0.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/988439825235476480/3.7.0.png?size=4096)
 <br>
-**Update V.3.7.0 OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/954401649147924531/3.7.0_OTA1.png)
+**Update V.3.7.X OTA1**
+![](https://cdn.discordapp.com/attachments/904024380370223114/988440011303170058/3.7.X_OTA1.png?size=4096)
 <br>
 **Update V.3.8.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/957033538111291413/unknown.png)
+![](https://cdn.discordapp.com/attachments/904024380370223114/988440197479940186/3.8.0.png?size=4096)
 <br>
-![](https://cdn.discordapp.com/attachments/904024380370223114/972867456647430164/3.8.0_OTA1.png)
+**Update V.3.8.X OTA1**
+![](https://cdn.discordapp.com/attachments/904024380370223114/989233794492014771/3.8.X_OTA1.png?size=4096)
+<br>
+**Update V.3.9.0**
+![](https://cdn.discordapp.com/attachments/904024380370223114/988440489256710204/3.9.0.png?size=4096)
+<br>
+**Update V.3.9.X OTA1**
+![](https://cdn.discordapp.com/attachments/904024380370223114/988440660963098664/3.9.X_OTA1.png?size=4096)
 <br>
