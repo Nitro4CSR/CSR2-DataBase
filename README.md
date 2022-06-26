@@ -12,7 +12,7 @@ If you found a bug, have ideas on how to improve the project, want to get notifi
 [![](https://cdn.discordapp.com/attachments/904024380370223114/904025176671420466/dc_logo_256x.png)](https://discord.gg/GRepTF4Jv5)<br>
 
 **Find Files quicker**<br>
-Due to the amount of files this project has it can be quite hard to find the file you need. The solution to this is using the<br> [File-Finder](https://github.com/Nitro4CSR/CSR2-DataBase/find/main).<br>
+Due to the amount of files this project has it can be quite hard to find the file you need. The solution to this is using the<br> [File-Finder](https://github.com/Nitro4CSR/CSR2-DataBase/find/Everything).<br>
  
 **The project will cover the following:**<br>
 1. Cars (stock/maxed) ✔️<br>
