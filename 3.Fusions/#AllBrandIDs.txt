@@ -15,6 +15,7 @@ id_brabham
 id_bugatti
 id_cadillac
 id_chevrolet
+id_czinger
 id_dodge
 id_donkervoort
 id_ferrari
