@@ -1,3 +1,7 @@
 Feel free to experiment with these.
 Most of them should be pretty useless and
 others we haven't fully figured out yet
+
+38-41 will be figured out in future and
+then removed from this list and added to
+actual presets for easy use!

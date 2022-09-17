@@ -19,4 +19,10 @@
 	CrewNameUnlock = 32
 	FusionProfileUpgradeFullyUnlocked = 33
 	TNRCustomisationUnlock = 34
-	MaxrewardType = 36
+	SuperRarityStarUpgrade = 36
+	ConsumableLeaguesBoost = 37
+	JokerFusionUpgrade = 38
+	JokerRestorationUpgrade = 39
+	JokerStageUpgrade = 40
+	SeasonPassPremiumUnlock = 41
+	MaxRewardTypes = 42
