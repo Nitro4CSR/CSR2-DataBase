@@ -76,6 +76,8 @@ Audi_RS6AvantRewardRecycled_2020
 Audi_RS6AvantReward_2020
 Audi_RS7SportbackRewardRecycled_2020
 Audi_RS7SportbackReward_2020
+Audi_RSetronGTRewardRecycled_2022
+Audi_RSetronGTReward_2022
 Audi_TTRSPlusCoupe_2014
 BAC_MonoRewardRecycled_2017
 BAC_MonoReward_2017
@@ -359,6 +361,7 @@ Ginetta_AkulaGold_2019
 Ginetta_Akula_2019
 Hennessey_CamaroExorcistRewardRecycled_2017
 Hennessey_CamaroExorcistReward_2017
+Hennessey_CamaroTheResurrection_2017
 Hennessey_VenomF5Gold_2020
 Hennessey_VenomF5_2020
 Hennessey_VenomF5_2021
@@ -760,6 +763,7 @@ TVR_SagarisReward_2006
 TVR_Sagaris_2006
 Toyota_86Boss_2014
 Toyota_86_2014
+Toyota_CamryNASCAR_2022
 Toyota_GRSupraF9_2020
 Toyota_GRSupraTNR_2020
 Toyota_GRSupra_2020
