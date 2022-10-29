@@ -78,6 +78,7 @@ Audi_RS7SportbackRewardRecycled_2020
 Audi_RS7SportbackReward_2020
 Audi_RSetronGTRewardRecycled_2022
 Audi_RSetronGTReward_2022
+Audi_S1ETronQuattroHoonitron_2022
 Audi_TTRSPlusCoupe_2014
 BAC_MonoRewardRecycled_2017
 BAC_MonoReward_2017
@@ -89,6 +90,8 @@ BMW_LBi8RewardRecycled_2017
 BMW_LBi8Reward_2017
 BMW_M235iCoupe_2014
 BMW_M2Competition_2018
+BMW_M2CoupeG87RewardRecycled_2023
+BMW_M2CoupeG87Reward_2023
 BMW_M3E92CoupeGTSElite_2011
 BMW_M3E92CoupeGTSRewardRecycled_2011
 BMW_M3E92CoupeGTSReward_2011
@@ -222,6 +225,7 @@ Chevrolet_RingbrothersCamaroUSA_1969
 Chevrolet_RingbrothersCamaro_1969
 Chevrolet_SickSecondsCamaroSS_1969
 Czinger_21C_2021
+Devel_Sixteen_2022
 Dodge_ChallengerMoparDragPakGold_2021
 Dodge_ChallengerMoparDragPak_2021
 Dodge_ChallengerRTShakerF7_2015
@@ -645,6 +649,8 @@ Noble_M600CarbonSport_2017
 Noble_M600F9_2017
 Noble_M600RewardRecycled_2017
 Noble_M600Reward_2017
+Noble_M600SpeedsterRewardRecycled_2018
+Noble_M600SpeedsterReward_2018
 Pagani_C10_2023
 Pagani_HuayraBCRewardRecycled_2016
 Pagani_HuayraBCReward_2016
@@ -676,6 +682,7 @@ Pontiac_FieroF9_1986
 Pontiac_GTOTheJudgeClassic_1969
 Porsche_718BoxsterS_2017
 Porsche_718BoxsterSpyder_2020
+Porsche_718CaymanGT4RS_2022
 Porsche_718CaymanGT4_2020
 Porsche_911Carrera4SCabrioletRewardRecycled_2020
 Porsche_911Carrera4SCabrioletReward_2020
@@ -724,6 +731,7 @@ Porsche_RWB993Evo_1993
 Porsche_RWB993RewardRecycled_1993
 Porsche_RWB993Reward_1993
 Porsche_RWB993Rotana_1993
+Porsche_TaycanTurboSCrossTurismo_2022
 Porsche_TaycanTurboSRewardRecycled_2021
 Porsche_TaycanTurboSReward_2021
 Porsche_VorsteinerGT4VCS_2016

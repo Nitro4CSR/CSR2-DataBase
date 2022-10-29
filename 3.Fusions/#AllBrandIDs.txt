@@ -16,6 +16,7 @@ id_bugatti
 id_cadillac
 id_chevrolet
 id_czinger
+id_devel
 id_dodge
 id_donkervoort
 id_ferrari
