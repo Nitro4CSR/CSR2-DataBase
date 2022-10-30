@@ -4,7 +4,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_eng0",
+        "adid": "Devel_Sixteen_2022_eng0",
         "ulid": "TEXT_UPGRADE_ENGINE01",
         "upty": "ENGINE",
         "uplv": 0,
@@ -27,7 +27,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_tur0",
+        "adid": "Devel_Sixteen_2022_tur0",
         "ulid": "TEXT_UPGRADE_TURBO01",
         "upty": "TURBO",
         "uplv": 0,
@@ -50,7 +50,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_int0",
+        "adid": "Devel_Sixteen_2022_int0",
         "ulid": "TEXT_UPGRADE_INTAKE01",
         "upty": "INTAKE",
         "uplv": 0,
@@ -73,7 +73,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_nit0",
+        "adid": "Devel_Sixteen_2022_nit0",
         "ulid": "TEXT_UPGRADE_NITROUS01",
         "upty": "NITROUS",
         "uplv": 0,
@@ -96,7 +96,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_bod0",
+        "adid": "Devel_Sixteen_2022_bod0",
         "ulid": "TEXT_UPGRADE_BODY01",
         "upty": "BODY",
         "uplv": 0,
@@ -119,7 +119,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_tir0",
+        "adid": "Devel_Sixteen_2022_tir0",
         "ulid": "TEXT_UPGRADE_TYRES01",
         "upty": "TYRES",
         "uplv": 0,
@@ -142,7 +142,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_tra0",
+        "adid": "Devel_Sixteen_2022_tra0",
         "ulid": "TEXT_UPGRADE_TRANS01",
         "upty": "TRANSMISSION",
         "uplv": 0,
@@ -165,7 +165,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_eng1",
+        "adid": "Devel_Sixteen_2022_eng1",
         "ulid": "TEXT_UPGRADE_ENGINE02",
         "upty": "ENGINE",
         "uplv": 1,
@@ -188,7 +188,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_tur1",
+        "adid": "Devel_Sixteen_2022_tur1",
         "ulid": "TEXT_UPGRADE_TURBO02",
         "upty": "TURBO",
         "uplv": 1,
@@ -211,7 +211,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_int1",
+        "adid": "Devel_Sixteen_2022_int1",
         "ulid": "TEXT_UPGRADE_INTAKE02",
         "upty": "INTAKE",
         "uplv": 1,
@@ -234,7 +234,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_nit1",
+        "adid": "Devel_Sixteen_2022_nit1",
         "ulid": "TEXT_UPGRADE_NITROUS02",
         "upty": "NITROUS",
         "uplv": 1,
@@ -257,7 +257,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_bod1",
+        "adid": "Devel_Sixteen_2022_bod1",
         "ulid": "TEXT_UPGRADE_BODY02",
         "upty": "BODY",
         "uplv": 1,
@@ -280,7 +280,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_tir1",
+        "adid": "Devel_Sixteen_2022_tir1",
         "ulid": "TEXT_UPGRADE_TYRES02",
         "upty": "TYRES",
         "uplv": 1,
@@ -303,7 +303,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_tra1",
+        "adid": "Devel_Sixteen_2022_tra1",
         "ulid": "TEXT_UPGRADE_TRANS02",
         "upty": "TRANSMISSION",
         "uplv": 1,
@@ -326,7 +326,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_eng2",
+        "adid": "Devel_Sixteen_2022_eng2",
         "ulid": "TEXT_UPGRADE_ENGINE03",
         "upty": "ENGINE",
         "uplv": 2,
@@ -349,7 +349,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_tur2",
+        "adid": "Devel_Sixteen_2022_tur2",
         "ulid": "TEXT_UPGRADE_TURBO03",
         "upty": "TURBO",
         "uplv": 2,
@@ -372,7 +372,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_int2",
+        "adid": "Devel_Sixteen_2022_int2",
         "ulid": "TEXT_UPGRADE_INTAKE03",
         "upty": "INTAKE",
         "uplv": 2,
@@ -395,7 +395,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_nit2",
+        "adid": "Devel_Sixteen_2022_nit2",
         "ulid": "TEXT_UPGRADE_NITROUS03",
         "upty": "NITROUS",
         "uplv": 2,
@@ -418,7 +418,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_bod2",
+        "adid": "Devel_Sixteen_2022_bod2",
         "ulid": "TEXT_UPGRADE_BODY03",
         "upty": "BODY",
         "uplv": 2,
@@ -441,7 +441,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_tir2",
+        "adid": "Devel_Sixteen_2022_tir2",
         "ulid": "TEXT_UPGRADE_TYRES03",
         "upty": "TYRES",
         "uplv": 2,
@@ -464,7 +464,7 @@
       "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
-        "adid": "Czinger_21C_2021_tra2",
+        "adid": "Devel_Sixteen_2022_tra2",
         "ulid": "TEXT_UPGRADE_TRANS03",
         "upty": "TRANSMISSION",
         "uplv": 2,

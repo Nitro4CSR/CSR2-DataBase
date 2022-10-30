@@ -16936,5 +16936,5 @@
       "esut": "TRANSMISSION",
       "esdb": "Porsche_718CaymanGT4RS_2022"
     },
-    "esnn": 3
+    3
   ]
