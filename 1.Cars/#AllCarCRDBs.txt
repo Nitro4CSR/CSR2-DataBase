@@ -167,6 +167,7 @@ Bugatti_VeyronGrandSportVitesse_2012
 Bugatti_VeyronGrandSportVitesseiOS_2012
 Bugatti_VeyronSuperSportGold_2012
 Bugatti_VeyronSuperSport_2012
+Bugatti_W16Mistral_2023
 Bugatti_X16Gold_2024
 Bugatti_X16_2024
 Cadillac_CT5VBlackwingRewardRecycled_2022
@@ -337,10 +338,12 @@ Ford_GTRewardRecycled_2017
 Ford_GTReward_2017
 Ford_GT_2005
 Ford_Mustang302_1970
+Ford_MustangCobraJetVIP_2019
 Ford_MustangCobraJet_2019
 Ford_MustangF3_1967
 Ford_MustangFoxbodyF9_1987
 Ford_MustangGT350F9_2016
+Ford_MustangGTFastbackTNR_2018
 Ford_MustangGTHPE750Silver_2015
 Ford_MustangGTHoonicornV2_1965
 Ford_MustangGTPremiumBoss_2015
