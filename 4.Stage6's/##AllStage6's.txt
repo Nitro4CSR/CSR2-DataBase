@@ -17062,5 +17062,47 @@
       "esut": "TRANSMISSION",
       "esdb": "Ford_MustangGTFastbackTNR_2018"
     },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
     3
   ]
