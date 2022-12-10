@@ -17108,43 +17108,43 @@
     {
       "esnn": 0,
       "esut": "ENGINE",
-      "esdb": "Acura_NSXTypeSReward_2022"
+      "esdb": "Acura_NSXTypeSRewardRecycled_2022"
     },
     3,
     {
       "esnn": 0,
       "esut": "TURBO",
-      "esdb": "Acura_NSXTypeSReward_2022"
+      "esdb": "Acura_NSXTypeSRewardRecycled_2022"
     },
     3,
     {
       "esnn": 0,
       "esut": "INTAKE",
-      "esdb": "Acura_NSXTypeSReward_2022"
+      "esdb": "Acura_NSXTypeSRewardRecycled_2022"
     },
     3,
     {
       "esnn": 0,
       "esut": "NITROUS",
-      "esdb": "Acura_NSXTypeSReward_2022"
+      "esdb": "Acura_NSXTypeSRewardRecycled_2022"
     },
     3,
     {
       "esnn": 0,
       "esut": "BODY",
-      "esdb": "Acura_NSXTypeSReward_2022"
+      "esdb": "Acura_NSXTypeSRewardRecycled_2022"
     },
     3,
     {
       "esnn": 0,
       "esut": "TYRES",
-      "esdb": "Acura_NSXTypeSReward_2022"
+      "esdb": "Acura_NSXTypeSRewardRecycled_2022"
     },
     3,
     {
       "esnn": 0,
       "esut": "TRANSMISSION",
-      "esdb": "Acura_NSXTypeSReward_2022"
+      "esdb": "Acura_NSXTypeSRewardRecycled_2022"
     },
     3,
     {
