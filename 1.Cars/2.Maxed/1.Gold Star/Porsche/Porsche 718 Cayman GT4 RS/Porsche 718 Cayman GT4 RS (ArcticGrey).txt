@@ -583,7 +583,7 @@
         "txt": "",
         "cpf": false
       },
-      "esup": false,
+      "esup": true,
       "elcl": 0,
       "gacp": false,
       "paid": 1948,

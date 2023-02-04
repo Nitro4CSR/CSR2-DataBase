@@ -38,7 +38,9 @@ AstonMartin_ValhallaGold_2020
 AstonMartin_Valhalla_2020
 AstonMartin_ValkyrieAMRProConcept_2020
 AstonMartin_ValkyrieSpirit_2020
+AstonMartin_ValkyrieTrackPackAMR_2020
 AstonMartin_ValkyrieTrackPack_2020
+AstonMartin_Valkyrie_2020
 AstonMartin_VanquishZagatoRewardRecycled_2017
 AstonMartin_VanquishZagatoReward_2017
 AstonMartin_VanquishZagatoSB_2017
@@ -103,6 +105,8 @@ BMW_M4CoupeMPerformance_2021
 BMW_M4CoupeRewardRecycled_2021
 BMW_M4CoupeReward_2021
 BMW_M4Coupe_2014
+BMW_M4CSLRewardRecycled_2022
+BMW_M4CSLReward_2022
 BMW_M4GT3_2022
 BMW_M4GTS_2016
 BMW_M5CSRewardRecycled_2022
@@ -460,6 +464,7 @@ Lamborghini_CountachLPI8004_2022
 Lamborghini_CountachLPI8004Reward_2022
 Lamborghini_CountachLPI8004RewardRecycled_2022
 Lamborghini_EssenzaSCV12Monterey_2021
+Lamborghini_EssenzaSCV12Nero_2021
 Lamborghini_EssenzaSCV12_2021
 Lamborghini_FewOff_2020
 Lamborghini_HuracanEvoRewardRecycled_2019
@@ -525,6 +530,8 @@ Maserati_MC12BC_2004
 Maserati_MC12CarbonBlue_2004
 Maserati_MC12_2004
 Mazda_Furai_2008
+Mazda_KRCJapanRX8RewardRecycled_2004
+Mazda_KRCJapanRX8Reward_2004
 Mazda_MX5_2016
 Mazda_PandeMMX5_2016
 Mazda_RBRX8_2004
@@ -609,6 +616,7 @@ MercedesBenz_C63AMGEdition507_2014
 MercedesBenz_CLA45AMGShootingBrakeBoss_2015
 MercedesBenz_CLKGTR_1999
 MercedesBenz_LBC63AMGCoupeBlackSeries_2014
+MercedesBenz_SL65AMGBlackSeries_2009
 MercedesBenz_SLSAMGBlackSeries_2013
 Mini_CooperJCWGP_2020
 Mini_CooperSElite_2014
@@ -676,6 +684,8 @@ Pagani_ImolaGold_2021
 Pagani_Imola_2021
 Pagani_ZondaBarchetta_2018
 Pagani_ZondaCinqueCoupe_2009
+Pagani_ZondaCinqueCoupeRewardRecycled_2009
+Pagani_ZondaCinqueCoupeReward_2009
 Pagani_ZondaCinqueRoadsterRewardRecycled_2010
 Pagani_ZondaCinqueRoadsterReward_2010
 Pagani_ZondaCinqueRoadster_2010
@@ -747,6 +757,7 @@ Porsche_TaycanTurboSRewardRecycled_2021
 Porsche_TaycanTurboSReward_2021
 Porsche_VorsteinerGT4VCS_2016
 RAM_1500TRX_2021
+Rimac_Nevera_2021
 SCG_004CS_2020
 SCG_007_2021
 SCG_SCG003S_2017
