@@ -56,6 +56,7 @@ id_plymouth
 id_pontiac
 id_porsche
 id_ram
+id_rimac
 id_saleen
 id_scg
 id_shelby
