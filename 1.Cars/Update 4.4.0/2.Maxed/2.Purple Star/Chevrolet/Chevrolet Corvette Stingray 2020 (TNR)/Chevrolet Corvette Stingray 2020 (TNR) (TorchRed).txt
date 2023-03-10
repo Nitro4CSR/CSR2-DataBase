@@ -596,5 +596,5 @@
       "tlad": 0.0,
       "need": false,
       "cmlv": 35,
-      "isra": false
+      "isra": true
     }
