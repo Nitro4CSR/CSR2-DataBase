@@ -136,6 +136,8 @@ Bentley_ContinentalGT3PikesPeak_2021
 Bentley_ContinentalGT3RRewardRecycled_2015
 Bentley_ContinentalGT3RReward_2015
 Bentley_ContinentalGT3RaceCar_2020
+Bentley_ContinentalGTCSpeedRewardRecycled_2022
+Bentley_ContinentalGTCSpeedReward_2022
 Bentley_ContinentalGTConvertibleRewardRecycled_2019
 Bentley_ContinentalGTConvertibleReward_2019
 Bentley_ContinentalGTRewardRecycled_2018
@@ -286,6 +288,8 @@ Ferrari_488Spider_2015
 Ferrari_599GTORewardRecycled_2010
 Ferrari_599GTOReward_2010
 Ferrari_599XXEvoluzione_2011
+Ferrari_812CompetizioneRewardRecycled_2021
+Ferrari_812CompetizioneReward_2021
 Ferrari_812Competizione_2021
 Ferrari_812GTSRewardRecycled_2020
 Ferrari_812GTSReward_2020
@@ -354,6 +358,7 @@ Ford_GT_2005
 Ford_Mustang302_1970
 Ford_MustangCobraJetVIP_2019
 Ford_MustangCobraJet_2019
+Ford_MustangDarkHorse_2024
 Ford_MustangF3_1967
 Ford_MustangFoxbodyF9_1987
 Ford_MustangGT350F9_2016
@@ -363,6 +368,7 @@ Ford_MustangGTHoonicornV2_1965
 Ford_MustangGTPremiumBoss_2015
 Ford_MustangGTPremiumElite_2015
 Ford_MustangGTPremium_2015
+Ford_MustangGT_2024
 Ford_MustangMach1_2021
 Ford_MustangMachE1400_2021
 Ford_MustangMachEGTRewardRecycled_2021
@@ -411,6 +417,8 @@ Honda_NSXRocketBunny_1992
 Honda_S2000F1_2001
 Honda_S2000F2_2001
 Honda_S2000TNR_2001
+Hyundai_ElantraNRewardRecycled_2022
+Hyundai_ElantraNReward_2022
 Hyundai_VelosterTurboRSpecARK_2014
 Hyundai_VelosterTurboRSpecCrew_2014
 Hyundai_VelosterTurboRSpec_2014
@@ -576,6 +584,7 @@ McLaren_765LTSpiderReward_2021
 McLaren_765LT_2021
 McLaren_ArturaRewardRecycled_2022
 McLaren_ArturaReward_2022
+McLaren_ElvaGOSH_2021
 McLaren_ElvaGold_2021
 McLaren_ElvaMSO_2021
 McLaren_Elva_2021
@@ -603,7 +612,10 @@ McLaren_SennaGTRLM_2020
 McLaren_SennaGTR_2020
 McLaren_SennaLE_2018
 McLaren_Senna_2018
+McLaren_SolusGT_2023
 McLaren_SpeedtailOrange_2019
+McLaren_SpeedtailRedSEG_2019
+McLaren_SpeedtailRed_2019
 McLaren_Speedtail_2019
 McLaren_Vorsteiner570VXRewardRecycled_2016
 McLaren_Vorsteiner570VXReward_2016
@@ -663,6 +675,8 @@ Nissan_GTRTNR_2017
 Nissan_GTR_2017
 Nissan_JukeR20ConceptRewardRecycled_2015
 Nissan_JukeR20ConceptReward_2015
+Nissan_KRCJapanGTRR35RewardRecycled_2017
+Nissan_KRCJapanGTRR35Reward_2017
 Nissan_LBGTRType2_2017
 Nissan_LBSuperSilhouetteSilviaS15_1999
 Nissan_PandeMGTRR33RewardRecycled_1995
@@ -680,6 +694,7 @@ Nissan_SkylineGTRR34TNR_2002
 Nissan_SkylineR33NismoSTune_1995
 Nissan_StillenMaximaF1_1999
 Nissan_TopSecret350ZF3_2003
+Noble_M500_2022
 Noble_M600CarbonSport_2017
 Noble_M600F9_2017
 Noble_M600RewardRecycled_2017
