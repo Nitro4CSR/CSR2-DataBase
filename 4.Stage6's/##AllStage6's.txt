@@ -17284,5 +17284,551 @@
       "esut": "TRANSMISSION",
       "esdb": "Rimac_Nevera_2021"
     },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Bentley_ContinentalGTSpeed_2016"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Bentley_ContinentalGTSpeed_2016"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Bentley_ContinentalGTSpeed_2016"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Bentley_ContinentalGTSpeed_2016"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Bentley_ContinentalGTSpeed_2016"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Bentley_ContinentalGTSpeed_2016"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Bentley_ContinentalGTSpeed_2016"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_CorvetteStingrayTNR_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_CorvetteStingrayTNR_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_CorvetteStingrayTNR_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_CorvetteStingrayTNR_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_CorvetteStingrayTNR_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_CorvetteStingrayTNR_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_CorvetteStingrayTNR_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ferrari_296GTB_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ferrari_296GTB_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ferrari_296GTB_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ferrari_296GTB_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ferrari_296GTB_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ferrari_296GTB_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ferrari_296GTB_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ford_MustangMachEGTRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ford_MustangMachEGTRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ford_MustangMachEGTRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ford_MustangMachEGTRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ford_MustangMachEGTRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ford_MustangMachEGTRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ford_MustangMachEGTRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Jeep_GladiatorRewardRecycled_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Jeep_GladiatorRewardRecycled_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Jeep_GladiatorRewardRecycled_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Jeep_GladiatorRewardRecycled_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Jeep_GladiatorRewardRecycled_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Jeep_GladiatorRewardRecycled_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Jeep_GladiatorRewardRecycled_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Kimera_EVO37Gold_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Kimera_EVO37Gold_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Kimera_EVO37Gold_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Kimera_EVO37Gold_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Kimera_EVO37Gold_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Kimera_EVO37Gold_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Kimera_EVO37Gold_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Maserati_MC20_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Maserati_MC20_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Maserati_MC20_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Maserati_MC20_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Maserati_MC20_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Maserati_MC20_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Maserati_MC20_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Pininfarina_Battista_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Pininfarina_Battista_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Pininfarina_Battista_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Pininfarina_Battista_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Pininfarina_Battista_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Pininfarina_Battista_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Pininfarina_Battista_2020"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Volkswagen_IDR_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Volkswagen_IDR_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Volkswagen_IDR_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Volkswagen_IDR_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Volkswagen_IDR_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Volkswagen_IDR_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Volkswagen_IDR_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Noble_M500_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Noble_M500_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Noble_M500_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Noble_M500_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Noble_M500_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Noble_M500_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Noble_M500_2022"
+    },
     3
   ]
