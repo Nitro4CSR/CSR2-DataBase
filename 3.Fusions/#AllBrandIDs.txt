@@ -33,6 +33,7 @@ id_italdesign
 id_jaguar
 id_jeep
 id_kia
+id_kimera
 id_koenigsegg
 id_ktm
 id_lamborghini
@@ -51,6 +52,7 @@ id_mitsubishi
 id_nissan
 id_noble
 id_pagani
+id_pininfarina
 id_placeholder
 id_plymouth
 id_pontiac
