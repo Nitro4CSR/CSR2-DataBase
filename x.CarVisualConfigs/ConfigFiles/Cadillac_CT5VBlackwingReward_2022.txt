@@ -1,7 +1,7 @@
 MonoBehaviour Base
 	PPtr<GameObject> m_GameObject
 		int m_FileID = 0
-		SInt64 m_PathID = -3841292782592802355
+		SInt64 m_PathID = 6943070097639960965
 	UInt8 m_Enabled = 1
 	PPtr<MonoScript> m_Script
 		int m_FileID = 0
@@ -13,7 +13,7 @@ MonoBehaviour Base
 		Array Array
 		int size = 1
 			[0]
-			int data = 2000
+			int data = 1993
 	vector CarLiveryZonesSetIDs
 		Array Array
 		int size = 0
@@ -24,12 +24,12 @@ MonoBehaviour Base
 		Array Array
 		int size = 1
 			[0]
-			int data = 1477
+			int data = 1469
 	vector CarCalliperIDs
 		Array Array
 		int size = 1
 			[0]
-			int data = 240
+			int data = 3
 	vector WheelBundleNames
 		Array Array
 		int size = 1
@@ -43,10 +43,10 @@ MonoBehaviour Base
 			CarVisualsGachaConfig data
 				string gachaLetter = "A"
 				int duplicate = 0
-				int PaintID = 2000
+				int PaintID = 1993
 				int WrapPaintID = 2147483647
-				int InteriorID = 1477
-				int CalliperID = 240
+				int InteriorID = 1469
+				int CalliperID = 3
 				int LiveryZonesSetID = 2147483647
 				int LiveryID = 2147483647
 				string WheelBundleName = "Wheel1A_3D"
