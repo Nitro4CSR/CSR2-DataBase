@@ -17540,48 +17540,6 @@
     {
       "esnn": 0,
       "esut": "ENGINE",
-      "esdb": "Maserati_MC20_2021"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "TURBO",
-      "esdb": "Maserati_MC20_2021"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "INTAKE",
-      "esdb": "Maserati_MC20_2021"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "NITROUS",
-      "esdb": "Maserati_MC20_2021"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "BODY",
-      "esdb": "Maserati_MC20_2021"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "TYRES",
-      "esdb": "Maserati_MC20_2021"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "TRANSMISSION",
-      "esdb": "Maserati_MC20_2021"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "ENGINE",
       "esdb": "Pininfarina_Battista_2020"
     },
     3,
@@ -17829,6 +17787,342 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Noble_M500_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ford_MustangDarkHorse_2024"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ford_MustangDarkHorse_2024"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ford_MustangDarkHorse_2024"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ford_MustangDarkHorse_2024"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ford_MustangDarkHorse_2024"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ford_MustangDarkHorse_2024"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ford_MustangDarkHorse_2024"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ferrari_DaytonaSP3_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ferrari_DaytonaSP3_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ferrari_DaytonaSP3_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ferrari_DaytonaSP3_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ferrari_DaytonaSP3_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ferrari_DaytonaSP3_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ferrari_DaytonaSP3_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ford_Supervan4_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ford_Supervan4_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ford_Supervan4_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ford_Supervan4_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ford_Supervan4_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ford_Supervan4_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ford_Supervan4_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Maserati_MC20Coupe_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Maserati_MC20Coupe_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Maserati_MC20Coupe_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Maserati_MC20Coupe_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Maserati_MC20Coupe_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Maserati_MC20Coupe_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Maserati_MC20Coupe_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "McMurtry_Speirling_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "McMurtry_Speirling_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "McMurtry_Speirling_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "McMurtry_Speirling_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "McMurtry_Speirling_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "McMurtry_Speirling_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "McMurtry_Speirling_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Porsche_MissionRConcept_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Porsche_MissionRConcept_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Porsche_MissionRConcept_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Porsche_MissionRConcept_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Porsche_MissionRConcept_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Porsche_MissionRConcept_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_MissionRConcept_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "SCG_SCG003SCarbon_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "SCG_SCG003SCarbon_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "SCG_SCG003SCarbon_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "SCG_SCG003SCarbon_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "SCG_SCG003SCarbon_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "SCG_SCG003SCarbon_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "SCG_SCG003SCarbon_2017"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Subaru_WRXSTIGobstopperII_2015"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Subaru_WRXSTIGobstopperII_2015"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Subaru_WRXSTIGobstopperII_2015"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Subaru_WRXSTIGobstopperII_2015"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Subaru_WRXSTIGobstopperII_2015"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Subaru_WRXSTIGobstopperII_2015"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Subaru_WRXSTIGobstopperII_2015"
     },
     3
   ]
