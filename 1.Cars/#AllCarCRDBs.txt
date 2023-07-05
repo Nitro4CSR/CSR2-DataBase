@@ -564,7 +564,6 @@ Maserati_MC12BC_2004
 Maserati_MC12CarbonBlue_2004
 Maserati_MC12_2004
 Maserati_MC20Coupe_2021
-Maserati_MC20_2021
 Mazda_Furai_2008
 Mazda_KRCJapanRX8RewardRecycled_2004
 Mazda_KRCJapanRX8Reward_2004
