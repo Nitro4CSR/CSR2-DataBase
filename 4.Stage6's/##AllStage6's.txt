@@ -18124,5 +18124,89 @@
       "esut": "TRANSMISSION",
       "esdb": "Subaru_WRXSTIGobstopperII_2015"
     },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_RingbrothersPickUp_1948"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_RingbrothersPickUp_1948"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_RingbrothersPickUp_1948"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_RingbrothersPickUp_1948"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_RingbrothersPickUp_1948"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_RingbrothersPickUp_1948"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_RingbrothersPickUp_1948"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_GreeningCamaroIROCZ_1985"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_GreeningCamaroIROCZ_1985"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_GreeningCamaroIROCZ_1985"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_GreeningCamaroIROCZ_1985"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_GreeningCamaroIROCZ_1985"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_GreeningCamaroIROCZ_1985"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_GreeningCamaroIROCZ_1985"
+    },
     3
   ]
