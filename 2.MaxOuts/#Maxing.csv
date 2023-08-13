@@ -1,5 +1,4 @@
-﻿Tier,CarName,FileName,NUUB,MSOU,ESUP
-TIER_1,Abarth_500_2014,T1_1_27_20_7_0.txt,35,202460,true
+﻿TIER_1,Abarth_500_2014,T1_1_27_20_7_0.txt,35,202460,true
 TIER_1,Ford_F150SVTRaptorElite_2014,T1_3_32_16_16_0.txt,35,300900,true
 TIER_1,Ford_FiestaST_2016,T1_1_27_20_7_0.txt,35,202460,true
 TIER_1,Ford_FocusSTCrewRecycled_2014,T1_2_32_23_9_0.txt,35,300900,true
@@ -434,6 +433,7 @@ TIER_5,Chevrolet_CorvetteZR1Reward_2018,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_CorvetteZR1SH1_2018,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_DutchboysCamaroLB_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_DutchboysCamaroMS_1969,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_GreeningCamaroIROCZ_1985,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_HSCustomsCamaroRewardRecycled_2016,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Chevrolet_HSCustomsCamaroReward_2016,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_MonteCarloRaceCarF9_1995,T5_5_135_36_50_49.txt,35,5979000,true
@@ -444,6 +444,7 @@ TIER_5,Chevrolet_QuintinBrotherCamaroRewardRecycled_1968,T5_5_128_44_43_41.txt,3
 TIER_5,Chevrolet_QuintinBrotherCamaroReward_1968,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_RingbrothersCamaroUSA_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_RingbrothersCamaro_1969,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_RingbrothersPickUp_1948,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_SickSecondsCamaroSS_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Czinger_21C_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Devel_Sixteen_2022,T5_5_135_36_50_49.txt,35,5979000,true
@@ -887,3 +888,4 @@ TIER_5,Zenvo_TS1GT_2018,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Zenvo_TSRSGold_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Zenvo_TSRS_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Zenvo_TSRS_2020,T5_5_135_36_50_49.txt,35,5979000,true
+Tier,CarName,FileName,NUUB,MSOU,ESUP
