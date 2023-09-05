@@ -43,7 +43,7 @@
       "ditr": 0.0,
       "rcat": 0,
       "rwon": 0,
-      "msou": 5979000,
+      "msou": 1496200,
       "nuub": 35,
       "ccna": 0,
       "upst": [
