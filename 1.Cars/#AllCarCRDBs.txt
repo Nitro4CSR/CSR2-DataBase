@@ -187,6 +187,7 @@ Bugatti_VeyronSuperSport_2012
 Bugatti_W16Mistral_2023
 Bugatti_X16Gold_2024
 Bugatti_X16_2024
+Buick_RoadstershopGrandNational_1987
 Cadillac_CT5VBlackwingRewardRecycled_2022
 Cadillac_CT5VBlackwingReward_2022
 Cadillac_CTSVRewardRecycled_2017
@@ -277,6 +278,7 @@ Dodge_DemonChargerF9_2018
 Dodge_HPE1200DemonGold_2018
 Dodge_HPE1200Demon_2018
 Dodge_HavocChallenger_1970
+Dodge_RingbrosChargerCAPTIV_1969
 Dodge_ViperACRCrew_2016
 Dodge_ViperACRExtremeAeroPackage_2016
 Dodge_ViperACRRewardRecycled_2016

@@ -18544,5 +18544,89 @@
       "esut": "TRANSMISSION",
       "esdb": "Nissan_SilviaS15TNR_1999"
     },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Dodge_RingbrosChargerCAPTIV_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Dodge_RingbrosChargerCAPTIV_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Dodge_RingbrosChargerCAPTIV_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Dodge_RingbrosChargerCAPTIV_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Dodge_RingbrosChargerCAPTIV_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Dodge_RingbrosChargerCAPTIV_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_RingbrosChargerCAPTIV_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Buick_RoadstershopGrandNational_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Buick_RoadstershopGrandNational_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Buick_RoadstershopGrandNational_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Buick_RoadstershopGrandNational_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Buick_RoadstershopGrandNational_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Buick_RoadstershopGrandNational_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Buick_RoadstershopGrandNational_1987"
+    },
     3
   ]

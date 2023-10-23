@@ -13,6 +13,7 @@ id_bentley
 id_bmw
 id_brabham
 id_bugatti
+id_buick
 id_cadillac
 id_chevrolet
 id_czinger
