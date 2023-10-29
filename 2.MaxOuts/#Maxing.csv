@@ -1,4 +1,5 @@
-﻿TIER_1,Abarth_500_2014,T1_1_27_20_7_0.txt,35,202460,true
+﻿Tier,CarName,FileName,NUUB,MSOU,ESUP
+TIER_1,Abarth_500_2014,T1_1_27_20_7_0.txt,35,202460,true
 TIER_1,Ford_F150SVTRaptorElite_2014,T1_3_32_16_16_0.txt,35,300900,true
 TIER_1,Ford_FiestaST_2016,T1_1_27_20_7_0.txt,35,202460,true
 TIER_1,Ford_FocusSTCrewRecycled_2014,T1_2_32_23_9_0.txt,35,300900,true
@@ -114,6 +115,7 @@ TIER_3,Subaru_BRZF8_2013,T3_4_84_29_36_19.txt,35,1496200,true
 TIER_3,Subaru_BRZRocketBunnyVIP_2013,T3_3_77_36_26_15.txt,35,1496200,true
 TIER_3,Subaru_BRZRocketBunny_2013,T3_3_77_36_26_15.txt,35,1496200,true
 TIER_3,Toyota_GRSupra_2020,T3_4_77_36_26_15.txt,35,1496200,true
+TIER_4,Acura_NSXF9_2018,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,AlfaRomeo_8CCompetizione_2007,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,AlfaRomeo_8CSpiderRewardRecycled_2009,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,AlfaRomeo_8CSpiderReward_2009,T4_5_98_29_40_29.txt,35,3009000,true
@@ -217,6 +219,7 @@ TIER_4,Infiniti_Q60ProjectBlackSRewardRecycled_2018,T4_5_91_36_32_23.txt,35,3009
 TIER_4,Infiniti_Q60ProjectBlackSReward_2018,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Jaguar_FTypeRCoupeF8_2016,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Jaguar_FTypeRCoupe_2016,T4_3_78_34_25_19.txt,35,2024600,true
+TIER_4,Jaguar_XESVProject8F9_2018,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Jaguar_XESVProject8RewardRecycled_2018,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,Jaguar_XESVProject8Reward_2018,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Jeep_GladiatorF9_2019,T4_5_98_29_40_29.txt,35,3009000,true
@@ -229,6 +232,7 @@ TIER_4,Lamborghini_UrusPerformanteRewardRecycled_2023,T4_5_91_36_32_23.txt,35,30
 TIER_4,Lamborghini_UrusPerformanteReward_2023,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Lamborghini_UrusRewardRecycled_2018,T4_4_91_36_32_23.txt,35,3009000,true
 TIER_4,Lamborghini_UrusReward_2018,T4_4_98_29_40_29.txt,35,3009000,true
+TIER_4,Lexus_LC500TNR_2018,T4_5_108_32_46_30.txt,35,3009000,true
 TIER_4,Lotus_EvoraGT430RewardRecycled_2018,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,Lotus_EvoraGT430Reward_2018,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Lotus_Type131RewardRecycled_2022,T4_5_91_36_32_23.txt,35,3009000,true
@@ -239,6 +243,7 @@ TIER_4,Maserati_GranTurismoMCReward_2018,T4_4_98_29_40_29.txt,35,3009000,true
 TIER_4,Maserati_LBGranTurismoS_2018,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,Mazda_KRCJapanRX8RewardRecycled_2004,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,Mazda_KRCJapanRX8Reward_2004,T4_5_98_29_40_29.txt,35,3009000,true
+TIER_4,Mazda_RBRX8_2004,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Mazda_RX7F1_1993,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Mazda_RX7RewardEaster_1993,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Mazda_RX7RewardRecycled_1993,T4_5_98_36_39_23.txt,35,3009000,true
@@ -256,6 +261,7 @@ TIER_4,Mitsubishi_LancerEVOXTNR_2015,T4_5_108_32_46_30.txt,35,3009000,true
 TIER_4,Mitsubishi_LancerEvolutionIXF3_2006,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Mitsubishi_LancerEvolutionVIIF2_2002,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Nissan_350ZF3_2003,T4_5_98_29_40_29.txt,35,3009000,true
+TIER_4,Nissan_350ZRocketBunnyV2Easter_2003,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Nissan_350ZRocketBunnyV2_2003,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Nissan_350ZRocketBunny_2003,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Nissan_GTRNismoCrewRecycled_2017,T4_4_91_36_32_23.txt,35,3009000,true
@@ -445,6 +451,7 @@ TIER_5,Chevrolet_QuintinBrotherCamaroRewardRecycled_1968,T5_5_128_44_43_41.txt,3
 TIER_5,Chevrolet_QuintinBrotherCamaroReward_1968,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_RingbrothersCamaroUSA_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_RingbrothersCamaro_1969,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_RingbrothersChevelle_1966,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_SickSecondsCamaroSS_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Czinger_21C_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Devel_Sixteen_2022,T5_5_135_36_50_49.txt,35,5979000,true
@@ -545,6 +552,7 @@ TIER_5,Ford_MustangF3_1967,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_MustangFoxbodyF9_1987,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_MustangGT350F9_2016,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_MustangGTFastbackTNR_2018,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Ford_MustangGTHoonicornV1_1965,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_MustangGTHoonicornV2_1965,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_MustangMachE1400_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_MustangNASCAR_2022,T5_5_135_36_50_49.txt,35,5979000,true
@@ -558,6 +566,7 @@ TIER_5,Ford_Supervan4_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_WeaverCustomsModelAElite_1931,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_WeaverCustomsModelALB_1931,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_WeaverCustomsModelAMS_1931,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Ford_WeaverCustomsMustangFastback_1968,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,GTA_SpanoCrewRecycled_2015,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,GTA_SpanoCrew_2015,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ginetta_AkulaGold_2019,T5_5_128_44_43_41.txt,35,5979000,true
@@ -645,6 +654,8 @@ TIER_5,Lamborghini_HuracanSTOEVO_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_HuracanSTO_2021,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Lamborghini_HuracanTecnicaRewardRecycled_2023,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Lamborghini_HuracanTecnicaReward_2023,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Lamborghini_IVRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Lamborghini_IVReward_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_LBAventadorLP7004RewardGold_2011,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_LBAventadorLP7004RewardRecycled_2011,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Lamborghini_LBAventadorLP7004RewardVIP_2011,T5_5_135_36_50_49.txt,35,5979000,true
@@ -656,6 +667,8 @@ TIER_5,Lamborghini_LBSilhouetteHuracanReward_2014,T5_5_135_36_50_49.txt,35,59790
 TIER_5,Lamborghini_MurcielagoLP640F8_2006,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoSVRewardRecycled_2009,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoSVReward_2009,T5_4_135_36_50_49.txt,35,5979000,true
+TIER_5,Lamborghini_RevueltoRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Lamborghini_RevueltoReward_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_SC18Alston_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_SC20_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_SestoElementoCrewRecycled_2012,T5_4_128_44_43_41.txt,35,5979000,true
@@ -804,6 +817,8 @@ TIER_5,Plymouth_WeaverCustomsCudaTorcReward_2016,T5_5_135_36_50_49.txt,35,597900
 TIER_5,Pontiac_FieroF9_1986,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Pontiac_RyansFirebirdTransAm_1978,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_718CaymanGT4RS_2022,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Porsche_718SpyderRSRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Porsche_718SpyderRSReward_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT2RSClubSportSalzburg_2019,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Porsche_911GT2RSClubSport_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT2RSGold_2017,T5_5_128_44_43_41.txt,35,5979000,true
@@ -899,9 +914,3 @@ TIER_5,Zenvo_TS1GT_2018,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Zenvo_TSRSGold_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Zenvo_TSRS_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Zenvo_TSRS_2020,T5_5_135_36_50_49.txt,35,5979000,true
-Tier,CarName,FileName,NUUB,MSOU,ESUP
-Tier_4,Acura_NSXF9_2018,T4_5_98_29_40_29.txt,35,3009000,true
-Tier_4,Jaguar_XESVProject8F9_2018,T4_5_98_29_40_29.txt,35,3009000,true
-Tier_4,Lexus_LC500TNR_2018,T4_5_108_32_46_30.txt,35,3009000,true
-Tier_4,Mazda_RBRX8_2004,T4_5_98_29_40_29.txt,35,3009000,true
-Tier_4,Nissan_350ZRocketBunnyV2Easter_2003,T4_5_98_29_40_29.txt,35,3009000,true
