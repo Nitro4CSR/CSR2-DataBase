@@ -90,7 +90,7 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_buick",
       "upnn": AMOUNT,
@@ -288,7 +288,7 @@
         "errd": 0.0,
         "drcd": -0.03,
         "wedi": 0.0,
-        "grdi": AMOUNT.0,
+        "grdi": 100.0,
         "gstd": 0.0,
         "trlp": 0.0,
         "niti": 0.0,
