@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Mazda_LBSuperSilhouetteRX7_1993"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Mazda_LBSuperSilhouetteRX7_1993"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Mazda_LBSuperSilhouetteRX7_1993"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Mazda_LBSuperSilhouetteRX7_1993"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Mazda_LBSuperSilhouetteRX7_1993"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Mazda_LBSuperSilhouetteRX7_1993"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Mazda_LBSuperSilhouetteRX7_1993"
+    },
+    7

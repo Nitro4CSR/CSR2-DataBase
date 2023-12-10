@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ferrari_PurosangueRewardRecycled_2023"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ferrari_PurosangueRewardRecycled_2023"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ferrari_PurosangueRewardRecycled_2023"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ferrari_PurosangueRewardRecycled_2023"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ferrari_PurosangueRewardRecycled_2023"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ferrari_PurosangueRewardRecycled_2023"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ferrari_PurosangueRewardRecycled_2023"
+    },
+    7
