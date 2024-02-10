@@ -29,7 +29,7 @@ Due to the amount of files this project has it can be quite hard to find the fil
 
 ## Latest Update Info
 **Update 4.9.X OTA1**
-![]()
+![](https://cdn.discordapp.com/attachments/904024380370223114/1205838840703754281/4.9.X_OTA1.png?size=4096)
 ## History
 **Update V.3.4.0**
 ![](https://media.discordapp.net/attachments/904024380370223114/993865438767358043/3.4.0.png?size=4096)
