@@ -28,87 +28,90 @@ Due to the amount of files this project has it can be quite hard to find the fil
 3. TheRedBandit & LCN: MaxOut Tool︱Check out their [Website](https://nsb.lcn-innovation.dk/)
 
 ## Latest Update Info
-**Update 4.9.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1205838840703754281/4.9.X_OTA1.png?size=4096)
+**Update 4.9.X OTA2**
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.9.0_OTA2.png)
 ## History
 **Update V.3.4.0**
-![](https://media.discordapp.net/attachments/904024380370223114/993865438767358043/3.4.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.4.0.png)
  <br>
 **Update V.3.5.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865487480016936/3.5.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.5.0.png)
 <br>
 **Update V.3.6.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865531901878332/3.6.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.6.0.png)
 <br>
 **Update V.3.6.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865585685450862/3.6.X_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.6.X_OTA1.png)
 <br>
 **Update V.3.7.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865627070648431/3.7.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.7.0.png)
 <br>
 **Update V.3.7.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865695349715076/3.7.X_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.7.X_OTA1.png)
 <br>
 **Update V.3.8.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865747199692930/3.8.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.8.0.png)
 <br>
 **Update V.3.8.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865797615222854/3.8.X_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.8.X_OTA1.png)
 <br>
 **Update V.3.9.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865838841036860/3.9.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.9.0.png)
 <br>
 **Update V.3.9.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865888946204802/3.9.X_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.9.X_OTA1.png)
 <br>
 **Update V.4.0.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/993865940884271226/4.0.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.0.0.png)
 <br>
 **Update V.4.0.X OTA2**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1006255340884607077/4.0.x_OTA2.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.0.x_OTA2.png)
 <br>
 **Update V.4.1.0 OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1020611242878058536/4.1.0_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.1.0_OTA1.png)
 <br>
 **Update V.4.2.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1028018750588465246/4.2.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.2.0.png)
 <br>
 **Update V.4.2.0 OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1035944592635338824/4.2.0_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.2.0_OTA1.png)
 <br>
 **Update V.4.3.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1083114739678318702/4.3.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.3.0.png)
 <br>
 **Update V.4.3.0 OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1051180838211047534/4.3.0_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.3.0_OTA1.png)
 <br>
 **Update V.4.3.0 OTA2**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1071391733029544038/4.3.0_OTA2.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.3.0_OTA2.png)
 <br>
 **Update V.4.4.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1083114530101526711/4.4.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.4.0.png)
 <br>
 **Update V.4.5.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1104398869384659095/4.5.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.5.0.png)
 <br>
 **Update 4.5.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1144691717052846141/4.5.0_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.5.0_OTA1.png)
 <br>
 **Update 4.6.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1139236953313771520/4.6.0_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.6.0_OTA1.png)
 <br>
 **Update 4.7.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1183415118512541847/4.7.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.7.0.png)
 <br>
 **Update 4.7.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1167796742016741487/4.7.0_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.7.0_OTA1.png)
 <br>
 **Update 4.8.0**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1167796798518214736/4.8.0.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.8.0.png)
 <br>
 **Update 4.8.X OTA1**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1183413455731044503/4.8.0_OTA1.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.8.0_OTA1.png)
 <br>
 **Update 4.8.X OTA2**
-![](https://cdn.discordapp.com/attachments/904024380370223114/1196159564937183242/4.8.X_OTA2.png?size=4096)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.8.X_OTA2.png)
+<br>
+**Update 4.9.X OTA1**
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.9.0_OTA1.png)
 <br>

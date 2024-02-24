@@ -337,6 +337,7 @@ TIER_5,AstonMartin_ValhallaGold_2020,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,AstonMartin_Valhalla_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,AstonMartin_ValkyrieAMRProConcept_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,AstonMartin_ValkyrieAMRPro_2022,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,AstonMartin_ValkyrieSpider_2022,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,AstonMartin_ValkyrieSpirit_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,AstonMartin_ValkyrieTrackPackAMR_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,AstonMartin_ValkyrieTrackPack_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
@@ -357,6 +358,8 @@ TIER_5,Audi_R8LMSGT3_2019,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Audi_R8SpyderRewardRecycled_2020,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Audi_R8SpyderReward_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Audi_R8V10Decennium_2019,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Audi_R8V10GTRewardRecycled_2023,T5_5_128_44_43_41.txt,35,5979000,true,true
+TIER_5,Audi_R8V10GTReward_2023,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Audi_R8V10GreenHell_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Audi_R8V10PlusCoupeRewardRecycled_2016,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Audi_R8V10PlusCoupeReward_2016,T5_5_135_36_50_49.txt,35,5979000,true,true
@@ -459,6 +462,7 @@ TIER_5,Chevrolet_NASCARCamaroZL1JE_2020,T5_5_135_36_50_49.txt,35,5979000,true,tr
 TIER_5,Chevrolet_NASCARCamaroZL1_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Chevrolet_NapalmNova_1972,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Chevrolet_NovaSSF9_1970,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Chevrolet_PandeMCamaroZ28_1972,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Chevrolet_QuintinBrotherCamaroRewardRecycled_1968,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Chevrolet_QuintinBrotherCamaroReward_1968,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Chevrolet_RingbrothersCamaroUSA_1969,T5_5_135_36_50_49.txt,35,5979000,true,true
@@ -597,6 +601,7 @@ TIER_5,Hennessey_VenomGTSpyderRewardRecycled_2016,T5_5_128_44_43_41.txt,35,59790
 TIER_5,Hennessey_VenomGTSpyderReward_2016,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Hennessey_VenomGT_2012,T5_4_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Honda_IndyTruck_2017,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Honda_NSXTNR_1992,T5_5_150_39_57_54.txt,35,5979000,true,true
 TIER_5,Honda_S2000F1_2001,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Honda_S2000F2_2001,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Honda_S2000TNR_2001,T5_5_150_39_57_54.txt,35,5979000,true,true
@@ -807,6 +812,8 @@ TIER_5,Noble_M600RewardRecycled_2017,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Noble_M600Reward_2017,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Noble_M600SpeedsterRewardRecycled_2018,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Noble_M600SpeedsterReward_2018,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Pagani_C10RewardRecycled_2023,T5_5_128_44_43_41.txt,35,5979000,true,true
+TIER_5,Pagani_C10Reward_2023,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Pagani_C10_2023,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Pagani_HuayraBCRewardRecycled_2016,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Pagani_HuayraBCReward_2016,T5_5_135_36_50_49.txt,35,5979000,true,true
