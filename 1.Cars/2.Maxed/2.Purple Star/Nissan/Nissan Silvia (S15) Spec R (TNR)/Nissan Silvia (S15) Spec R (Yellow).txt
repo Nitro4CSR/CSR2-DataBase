@@ -531,7 +531,7 @@
           ]
         }
       ],
-      "fpin": 0,
+      "fpin": 13,
       "rpst": [
         {
           "rvlo": 0,
@@ -559,9 +559,9 @@
         "RIMS": 0,
         "TIRE": 0
       },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
+      "fpul": 4,
+      "rsup": 3,
+      "rpbb": 18,
       "rncu": false,
       "fcu": false,
       "pncu": false,
@@ -593,6 +593,6 @@
       "whbn": "Wheel1A_Alpha",
       "tlad": 0.0,
       "need": false,
-      "cmlv": 0,
-      "isra": false
+      "cmlv": 35,
+      "isra": true
   }
