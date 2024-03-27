@@ -28,8 +28,8 @@ Due to the amount of files this project has it can be quite hard to find the fil
 3. TheRedBandit & LCN: MaxOut Tool︱Check out their [Website](https://nsb.lcn-innovation.dk/)
 
 ## Latest Update Info
-**Update 4.9.X OTA2**
-![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.9.0_OTA2.png)
+**Update 5.0.0**
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/5.0.0.png)
 ## History
 **Update V.3.4.0**
 ![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.4.0.png)
@@ -114,4 +114,7 @@ Due to the amount of files this project has it can be quite hard to find the fil
 <br>
 **Update 4.9.X OTA1**
 ![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.9.0_OTA1.png)
+<br>
+**Update 4.9.X OTA2**
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/4.9.0_OTA2.png)
 <br>
