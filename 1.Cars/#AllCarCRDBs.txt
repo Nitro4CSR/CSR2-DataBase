@@ -159,6 +159,7 @@ BMW_i8RewardHoliday_2017
 BMW_i8RewardRecycled_2017
 BMW_i8RewardSilver_2017
 BMW_i8Reward_2017
+BTTF_TimeMachine1_1985
 Bentley_BentaygaRewardRecycled_2018
 Bentley_BentaygaReward_2018
 Bentley_ContinentalGT3PikesPeak_2021
@@ -290,6 +291,7 @@ Chevrolet_RingbrothersPickUp_1948
 Chevrolet_RoadsterShopCamaro_1970
 Chevrolet_SickSecondsCamaroSS_1969
 Chevrolet_WeaverCustoms3100_1949
+Czinger_21CGold_2021
 Czinger_21CVMax_2023
 Czinger_21C_2021
 Devel_Sixteen_2022
@@ -562,6 +564,7 @@ Koenigsegg_RegeraHalloween_2016
 Koenigsegg_RegeraRewardGold_2016
 Koenigsegg_RegeraRewardRecycled_2016
 Koenigsegg_RegeraReward_2016
+Lamborghini_Autentica_2023
 Lamborghini_AventadorLP7004_2011
 Lamborghini_AventadorLP7504Superveloce_2015
 Lamborghini_AventadorSJRewardRecycled_2021
@@ -700,6 +703,8 @@ McLaren_720SGT3_2019
 McLaren_720SSpiderRewardRecycled_2019
 McLaren_720SSpiderReward_2019
 McLaren_720STNR_2017
+McLaren_750SRewardRecycled_2023
+McLaren_750SReward_2023
 McLaren_765LTSpiderRewardRecycled_2021
 McLaren_765LTSpiderReward_2021
 McLaren_765LT_2021
@@ -856,6 +861,7 @@ Pagani_Huayra_2014
 Pagani_ImolaGold_2021
 Pagani_ImolaRoadster_2023
 Pagani_Imola_2021
+Pagani_UtopiaRoadster_2024
 Pagani_ZondaBarchetta_2018
 Pagani_ZondaCinqueCoupeRewardRecycled_2009
 Pagani_ZondaCinqueCoupeReward_2009
@@ -945,6 +951,8 @@ Porsche_MissionRConcept_2021
 Porsche_PanameraSportTurismoRewardRecycled_2021
 Porsche_PanameraSportTurismoReward_2021
 Porsche_RWB911Turbo_1991
+Porsche_RWB964RewardRecycled_1991
+Porsche_RWB964Reward_1991
 Porsche_RWB993Evo_1993
 Porsche_RWB993RewardRecycled_1993
 Porsche_RWB993Reward_1993
@@ -1031,6 +1039,7 @@ WMotors_FenyrSupersportRewardRecycled_2016
 WMotors_FenyrSupersportReward_2016
 WMotors_LykanHyperSportRewardRecycled_2015
 WMotors_LykanHyperSportReward_2015
+Zenvo_AuroraAgil_2024
 Zenvo_AuroraTurRewardRecycled_2024
 Zenvo_AuroraTurReward_2024
 Zenvo_AuroraTur_2024
