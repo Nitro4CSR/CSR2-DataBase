@@ -217,6 +217,8 @@ Bugatti_VeyronGrandSportVitesse_2012
 Bugatti_VeyronGrandSportVitesseiOS_2012
 Bugatti_VeyronSuperSportGold_2012
 Bugatti_VeyronSuperSport_2012
+Bugatti_W16MistralRewardRecycled_2023
+Bugatti_W16MistralReward_2023
 Bugatti_W16Mistral_2023
 Bugatti_X16Gold_2024
 Bugatti_X16_2024
@@ -254,6 +256,7 @@ Chevrolet_CorvetteC8RLB_2020
 Chevrolet_CorvetteC8RMS_2020
 Chevrolet_CorvetteC8RewardRecycled_2020
 Chevrolet_CorvetteC8Reward_2020
+Chevrolet_CorvetteC8ZR1_2024
 Chevrolet_CorvetteGrandSport_2017
 Chevrolet_CorvetteStingRayC2F8_1966
 Chevrolet_CorvetteStingrayTNR_2020
@@ -414,6 +417,7 @@ FnF_FlipCar_2013
 Ford_Durty30Gold_2016
 Ford_Durty30_2016
 Ford_EscortMKIF6_1970
+Ford_EscortRSCosworthCossieV2_1994
 Ford_F150Hoonitruck_1977
 Ford_F150SVTRaptorElite_2014
 Ford_F150SVTRaptor_2014
@@ -910,6 +914,7 @@ Porsche_911GT2RSGold_2017
 Porsche_911GT2RSVIP_2017
 Porsche_911GT2RS_2017
 Porsche_911GT2_1993
+Porsche_911GT3RRennsport_2023
 Porsche_911GT3RS992Tribute_2023
 Porsche_911GT3RS992_2023
 Porsche_911GT3RSCrewRecycled_2016
@@ -937,6 +942,7 @@ Porsche_911TurboSRewardRecycled_2021
 Porsche_911TurboSReward_2016
 Porsche_911TurboSReward_2021
 Porsche_912Hoonipigasus_1966
+Porsche_917K_1970
 Porsche_918SpyderGold_2015
 Porsche_918SpyderMartini_2015
 Porsche_918SpyderRewardRecycled_2015
@@ -944,6 +950,7 @@ Porsche_918SpyderReward_2015
 Porsche_935Salzburg_2019
 Porsche_935_2019
 Porsche_959_1988
+Porsche_963LMDh_2023
 Porsche_Bisimoto935K3V_1984
 Porsche_Canepa959_1988
 Porsche_CarreraGTClassic_2003
@@ -972,6 +979,7 @@ Porsche_TaycanTurboSReward_2021
 Porsche_VorsteinerGT4VCS_2016
 RAM_1500TRX_2021
 Radford_Type62GOSH_2021
+Radford_Type62PikesPeak_2023
 Radford_Type62RewardRecycled_2021
 Radford_Type62Reward_2021
 Rimac_NeveraReward_2022
