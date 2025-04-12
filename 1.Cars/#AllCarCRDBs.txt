@@ -44,6 +44,8 @@ AstonMartin_One77RewardRecycled_2010
 AstonMartin_One77Reward_2010
 AstonMartin_V12SpeedsterDBR1_2021
 AstonMartin_V12Speedster_2021
+AstonMartin_V12VantageRRewardRecycled_2023
+AstonMartin_V12VantageRReward_2023
 AstonMartin_V12Vantage_2023
 AstonMartin_ValhallaGold_2020
 AstonMartin_Valhalla_2020
@@ -313,6 +315,7 @@ Dodge_ChallengerSRTHellcat_2015
 Dodge_ChallengerSRTSuperStockRewardRecycled_2021
 Dodge_ChallengerSRTSuperStockReward_2021
 Dodge_ChargerDaytonaF6_1970
+Dodge_ChargerDaytonaScatPack_2025
 Dodge_ChargerDaytona_1970
 Dodge_ChargerHellcatDaytona50th_2020
 Dodge_ChargerHellcatRedeyeRewardRecycled_2021
@@ -790,6 +793,7 @@ Mini_CooperJCWGP_2020
 Mini_CooperSElite_2014
 Mini_CooperS_2014
 Mitsubishi_EclipseF1_1995
+Mitsubishi_EclipseSpyderF2_2003
 Mitsubishi_LancerEVOXTNR_2015
 Mitsubishi_LancerEvolutionIXF3_2006
 Mitsubishi_LancerEvolutionVIIF2_2002
@@ -914,6 +918,7 @@ Porsche_911GT2RSGold_2017
 Porsche_911GT2RSVIP_2017
 Porsche_911GT2RS_2017
 Porsche_911GT2_1993
+Porsche_911GT39922_2025
 Porsche_911GT3RRennsport_2023
 Porsche_911GT3RS992Tribute_2023
 Porsche_911GT3RS992_2023
@@ -950,6 +955,7 @@ Porsche_918SpyderReward_2015
 Porsche_935Salzburg_2019
 Porsche_935_2019
 Porsche_959_1988
+Porsche_962C_1987
 Porsche_963LMDh_2023
 Porsche_Bisimoto935K3V_1984
 Porsche_Canepa959_1988
