@@ -249,6 +249,8 @@ TIER_4,Lotus_EvoraGT430RewardRecycled_2018,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,Lotus_EvoraGT430Reward_2018,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,Lotus_Type131RewardRecycled_2022,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,Lotus_Type131Reward_2022,T4_5_98_29_40_29.txt,35,3009000,true
+TIER_4,Lotus_VorsteinerEmiraRewardRecycled_2022,T4_5_91_36_32_23.txt,35,5979000,true
+TIER_4,Lotus_VorsteinerEmiraReward_2022,T4_5_98_29_40_29.txt,35,5979000,true
 TIER_4,Maserati_GhibliSQ4_2014,T4_4_91_36_32_23.txt,35,3009000,true
 TIER_4,Maserati_GranTurismoMCRewardRecycled_2018,T4_4_91_36_32_23.txt,35,3009000,true
 TIER_4,Maserati_GranTurismoMCReward_2018,T4_4_98_29_40_29.txt,35,3009000,true
@@ -634,6 +636,7 @@ TIER_5,Ford_MustangMachE1400_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_MustangNASCAR_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_MustangRTRSPEC5_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_MustangRTRSpec3_2019,T5_4_128_44_43_41.txt,35,5979000,true
+TIER_5,Ford_MustangShelbyGT350LPClassic_1965,T5_5_150_37_60_53.txt,35,5979000,true
 TIER_5,Ford_MustangShelbyGT500RewardRecycled_2019,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Ford_MustangShelbyGT500Reward_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_ROUSHStage3Mustang_2019,T5_4_128_44_43_41.txt,35,5979000,true
@@ -761,6 +764,7 @@ TIER_5,Lamborghini_LBMurcielagoSVRewardRecycled_2009,T5_5_128_44_43_41.txt,35,59
 TIER_5,Lamborghini_LBMurcielagoSVReward_2009,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_LBSilhouetteHuracanRewardRecycled_2014,T5_5_135_44_50_41.txt,35,5979000,true
 TIER_5,Lamborghini_LBSilhouetteHuracanReward_2014,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Lamborghini_MiuraSVLPClassic_1971,T5_5_150_37_60_53.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoLP640F8_2006,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoSVRewardRecycled_2009,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoSVReward_2009,T5_4_135_36_50_49.txt,35,5979000,true
@@ -1037,6 +1041,7 @@ TIER_5,SSC_Tuatara_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Saleen_S1RewardRecycled_2018,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Saleen_S1Reward_2018,T5_4_135_36_50_49.txt,35,5979000,true
 TIER_5,Saleen_S7Classic_2004,T5_5_135_37_46_52.txt,35,5979000,true
+TIER_5,Shelby_CobraDaytonaLP_1964,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Shelby_SuperSnakeRewardRecycled_2019,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Shelby_SuperSnakeReward_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Shelby_SuperSnakeS650RewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true
