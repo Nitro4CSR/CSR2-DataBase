@@ -101,6 +101,8 @@ TIER_3,Hyundai_ElantraNReward_2022,T3_3_84_36_33_15.txt,35,1496200,true
 TIER_3,Kia_StingerGTS_2020,T3_4_77_36_26_15.txt,35,1496200,true
 TIER_3,LocalMotor_RallyFighterF8_2013,T3_4_84_29_36_19.txt,35,1496200,true
 TIER_3,LocalMotor_RallyFighter_2013,T3_3_84_36_33_15.txt,35,1496200,true
+TIER_3,MercedesAMG_CLAEVRewardRecycled_2025,T3_4_77_36_26_15.txt,35,1496200,true
+TIER_3,MercedesAMG_CLAEVReward_2025,T3_4_84_29_36_19.txt,35,1496200,true
 TIER_3,MercedesBenz_C63AMGEdition507_2014,T3_3_84_36_33_15.txt,35,1496200,true
 TIER_3,MercedesBenz_CLA45AMGShootingBrakeBoss_2015,T3_3_59_29_19_11.txt,35,1496200,true
 TIER_3,Nissan_ProtoZ_2020,T3_4_77_36_26_15.txt,35,1496200,true
@@ -370,6 +372,7 @@ TIER_5,AstonMartin_Valour_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_VanquishZagatoRewardRecycled_2017,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,AstonMartin_VanquishZagatoReward_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_VanquishZagatoSB_2017,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,AstonMartin_Vanquish_2025,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_VantageGTE_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_Vantage_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_Victor_2020,T5_5_135_36_50_49.txt,35,5979000,true
@@ -921,6 +924,7 @@ TIER_5,Pagani_HuayraBCRoadsterPB_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Pagani_HuayraBCRoadster_2019,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Pagani_HuayraCodalunga_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Pagani_HuayraElite_2014,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Pagani_HuayraREvo_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Pagani_HuayraR_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Pagani_HuayraRoadsterRewardRecycled_2017,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Pagani_HuayraRoadsterReward_2017,T5_5_135_36_50_49.txt,35,5979000,true
@@ -967,6 +971,7 @@ TIER_5,Porsche_911GT2RSVIP_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT2RS_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT2_1993,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT39922_2025,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Porsche_911GT3R992_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT3RRennsport_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT3RS992Tribute_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT3RS992_2023,T5_5_128_44_43_41.txt,35,5979000,true
