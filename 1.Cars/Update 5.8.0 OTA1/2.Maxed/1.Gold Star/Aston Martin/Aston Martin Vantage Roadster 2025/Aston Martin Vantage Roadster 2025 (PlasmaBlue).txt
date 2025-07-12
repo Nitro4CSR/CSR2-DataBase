@@ -1,17 +1,18 @@
 {
-      "unid": 7226,
-      "crdb": "Audi_TTRSCoupeIERewardRecycled_2023",
+      "unid": 7234,
+      "crdb": "AstonMartin_VantageRRewardRecycled_2025",
       "awar": false,
       "grsp": [
-        3.563,
-        2.147,
-        1.427,
-        1.022,
-        0.788,
-        0.54,
-        0.347
+        4.714,
+        3.143,
+        2.106,
+        1.667,
+        1.285,
+        1.0,
+        0.839,
+        0.667
       ],
-      "fidr": 4.13,
+      "fidr": 3.08,
       "nlpr": 0.5,
       "tafr": 0.5,
       "titp": 0.5,
@@ -20,12 +21,12 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 4,
-      "orpi": 4,
-      "apiid": 1890,
-      "oriid": 1890,
-      "apcid": 0,
-      "orcid": 0,
+      "appi": 3,
+      "orpi": 3,
+      "apiid": 10,
+      "oriid": 10,
+      "apcid": 105,
+      "orcid": 105,
       "apcns": 0,
       "appns": 0,
       "opcns": 0,
@@ -36,15 +37,15 @@
       "orlzsid": -1,
       "apln": "",
       "apcn": [
-        "Audi_TTRSCoupeIERewardRecycled_2023_Wheel1A_3D"
+        "AstonMartin_VantageRRewardRecycled_2025_Wheel2A_3D"
       ],
-      "opcn": "Audi_TTRSCoupeIERewardRecycled_2023_Wheel1A_3D",
+      "opcn": "AstonMartin_VantageRRewardRecycled_2025_Wheel2A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
       "rcat": 0,
       "rwon": 0,
-      "msou": 3009000,
+      "msou": 5979000,
       "nuub": 35,
       "ccna": 0,
       "upst": [
@@ -69,16 +70,6 @@
               "ulpf": true,
               "fsg": [
                 1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
                 2,
                 0,
                 0,
@@ -99,20 +90,30 @@
               "ulpf": true,
               "fsg": [
                 1,
+                1,
                 2,
-                0,
-                0,
+                3,
                 0
               ]
             },
             {
               "ulpf": true,
               "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
                 2,
                 3,
                 3,
-                3,
-                0
+                3
               ]
             }
           ]
@@ -128,96 +129,7 @@
               "ulpf": true,
               "fsg": [
                 1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
                 1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                3,
-                3,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                2,
-                3,
-                0,
-                0,
-                0
-              ]
-            }
-          ]
-        },
-        {
-          "lvlo": 6,
-          "lvlf": 6,
-          "lvls": [
-            {
-              "ulpf": true
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
                 0,
                 0,
                 0
@@ -237,18 +149,38 @@
               "ulpf": true,
               "fsg": [
                 1,
+                1,
                 2,
                 3,
-                0,
                 0
               ]
             },
             {
               "ulpf": true,
               "fsg": [
+                1,
+                2,
+                2,
+                2,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
                 2,
                 3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
                 3,
+                0,
+                0,
                 0,
                 0
               ]
@@ -277,7 +209,76 @@
               "fsg": [
                 1,
                 2,
+                3,
                 0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                3,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
                 0,
                 0
               ]
@@ -306,7 +307,7 @@
               "ulpf": true,
               "fsg": [
                 2,
-                0,
+                3,
                 0,
                 0,
                 0
@@ -365,6 +366,75 @@
               "ulpf": true,
               "fsg": [
                 1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                2,
+                3,
+                3,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
                 0,
                 0,
                 0,
@@ -404,6 +474,16 @@
               "ulpf": true,
               "fsg": [
                 1,
+                1,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
                 0,
                 0,
                 0,
@@ -415,8 +495,8 @@
               "fsg": [
                 1,
                 2,
-                0,
-                0,
+                2,
+                3,
                 0
               ]
             },
@@ -425,18 +505,8 @@
               "fsg": [
                 1,
                 2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
+                3,
+                3,
                 0
               ]
             },
@@ -458,75 +528,6 @@
                 3,
                 3,
                 3
-              ]
-            }
-          ]
-        },
-        {
-          "lvlo": 6,
-          "lvlf": 6,
-          "lvls": [
-            {
-              "ulpf": true
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                3,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                2,
-                2,
-                3,
-                3,
-                0
               ]
             }
           ]
@@ -567,17 +568,17 @@
       "fcu": false,
       "pncu": false,
       "cncu": false,
-      "cppi": 500,
+      "cppi": 603,
       "cepi": 0,
-      "tdut": 18.238,
-      "tdtt": 18.238,
-      "ttqm": 12.111,
-      "tthm": 18.238,
-      "tt60": 4.873,
-      "tt1h": 7.877,
-      "spqm": 136.683,
-      "sphm": 156.502,
-      "ctie": "TIER_4",
+      "tdut": 16.052,
+      "tdtt": 16.052,
+      "ttqm": 10.113,
+      "tthm": 16.052,
+      "tt60": 2.259,
+      "tt1h": 5.259,
+      "spqm": 136.484,
+      "sphm": 163.265,
+      "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
         "txt": "",
@@ -586,12 +587,12 @@
       "esup": true,
       "elcl": 0,
       "gacp": false,
-      "paid": 2193,
-      "inid": 1890,
-      "caid": 0,
+      "paid": 2249,
+      "inid": 10,
+      "caid": 105,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
+      "whbn": "Wheel2A_3D",
       "tlad": 0.0,
       "need": false,
       "cmlv": 0,
