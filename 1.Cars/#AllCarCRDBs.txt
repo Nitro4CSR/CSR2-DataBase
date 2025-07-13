@@ -29,6 +29,7 @@ AstonMartin_DB12VolanteRewardRecycled_2024
 AstonMartin_DB12VolanteReward_2024
 AstonMartin_DB12_2023
 AstonMartin_DB5Classic_1964
+AstonMartin_DBR22_2023
 AstonMartin_DBS770UltimateRewardRecycled_2023
 AstonMartin_DBS770UltimateReward_2023
 AstonMartin_DBSGTZagato_2020
@@ -227,6 +228,7 @@ Bugatti_VeyronSuperSportGold_2012
 Bugatti_VeyronSuperSport_2012
 Bugatti_W16MistralRewardRecycled_2023
 Bugatti_W16MistralReward_2023
+Bugatti_W16MistralWRE_2024
 Bugatti_W16Mistral_2023
 Bugatti_X16Gold_2024
 Bugatti_X16_2024
@@ -311,6 +313,7 @@ Chevrolet_WeaverCustoms3100_1949
 Czinger_21CGold_2021
 Czinger_21CVMax_2023
 Czinger_21C_2021
+DeTomaso_PanteraGT5S_1984
 Devel_Sixteen_2022
 Dodge_ChallengerMoparDragPakGold_2021
 Dodge_ChallengerMoparDragPak_2021
@@ -711,6 +714,7 @@ Mazda_MX5_2016
 Mazda_PandeMMX5_2016
 Mazda_RBRX8_2004
 Mazda_RX7F1_1993
+Mazda_RX7F2_1993
 Mazda_RX7F3_1993
 Mazda_RX7RewardEaster_1993
 Mazda_RX7RewardRecycled_1993
@@ -959,12 +963,15 @@ Porsche_911RReward_2017
 Porsche_911RWBRewardRecycled_1972
 Porsche_911RWBReward_1972
 Porsche_911STRII_1972
+Porsche_911STRewardRecycled_2024
+Porsche_911STReward_2024
 Porsche_911SpeedsterRewardRecycled_2020
 Porsche_911SpeedsterReward_2020
 Porsche_911Targa4GTSRewardRecycled_2025
 Porsche_911Targa4GTSReward_2025
 Porsche_911Targa4SRewardRecycled_2021
 Porsche_911Targa4SReward_2021
+Porsche_911TurboFlachbauC_1987
 Porsche_911TurboSRewardRecycled_2016
 Porsche_911TurboSRewardRecycled_2021
 Porsche_911TurboSReward_2016
