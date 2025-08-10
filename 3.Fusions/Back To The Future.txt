@@ -1,6 +1,6 @@
 ,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -23,7 +23,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -46,7 +46,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -69,7 +69,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -92,7 +92,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -115,7 +115,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -138,7 +138,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -161,7 +161,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -184,7 +184,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -207,7 +207,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -230,7 +230,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -253,7 +253,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -276,7 +276,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -299,7 +299,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -322,7 +322,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -345,7 +345,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -368,7 +368,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -391,7 +391,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -414,7 +414,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -437,7 +437,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
@@ -460,7 +460,7 @@
     },
     100,
     {
-      "upma": "id_BTTF",
+      "upma": "id_bttf",
       "upnn": 0,
       "upfb": true,
       "upcu": {
