@@ -23662,5 +23662,89 @@
       "esut": "TRANSMISSION",
       "esdb": "Lexus_LC500ConvertibleRewardRecycled_2017"
     },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Plymouth_SuperbirdLPClassic_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Plymouth_SuperbirdLPClassic_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Plymouth_SuperbirdLPClassic_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Plymouth_SuperbirdLPClassic_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Plymouth_SuperbirdLPClassic_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Plymouth_SuperbirdLPClassic_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Plymouth_SuperbirdLPClassic_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Porsche_911CarreraRS27LPClassic_1973"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Porsche_911CarreraRS27LPClassic_1973"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Porsche_911CarreraRS27LPClassic_1973"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Porsche_911CarreraRS27LPClassic_1973"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Porsche_911CarreraRS27LPClassic_1973"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Porsche_911CarreraRS27LPClassic_1973"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_911CarreraRS27LPClassic_1973"
+    },
     3
   ]
