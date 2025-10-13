@@ -1381,12 +1381,6 @@
     3,
     {
       "esnn": 0,
-      "esut": "BODY",
-      "esdb": "BMW_M3E92CoupeGTSRewardRecycled_2011"
-    },
-    3,
-    {
-      "esnn": 0,
       "esut": "TURBO",
       "esdb": "Chevrolet_CorvetteStingray_2015"
     },
@@ -1503,12 +1497,6 @@
       "esnn": 0,
       "esut": "BODY",
       "esdb": "Dodge_ViperGTS_2015"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "ENGINE",
-      "esdb": "Nissan_GTRPremium_2015"
     },
     3,
     {
@@ -1773,12 +1761,6 @@
       "esnn": 0,
       "esut": "ENGINE",
       "esdb": "Landrover_RangeRoverEvoqueCoupeCrew_2016"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "TRANSMISSION",
-      "esdb": "Nissan_SilviaS15Crew_1999"
     },
     3,
     {
@@ -9675,12 +9657,6 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Porsche_RWB993Rotana_1993"
-    },
-    3,
-    {
-      "esnn": 0,
-      "esut": "TRANSMISSION",
-      "esdb": "Dodge_ChargerRTCrew_1969"
     },
     3,
     {
@@ -24039,6 +24015,300 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Dodge_ChargerRedeyeSplatter_2023"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_DuSoldDesignCamaro_1967"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_DuSoldDesignCamaro_1967"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_DuSoldDesignCamaro_1967"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_DuSoldDesignCamaro_1967"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_DuSoldDesignCamaro_1967"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_DuSoldDesignCamaro_1967"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_DuSoldDesignCamaro_1967"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_WeaverCamaro_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_WeaverCamaro_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_WeaverCamaro_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_WeaverCamaro_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_WeaverCamaro_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_WeaverCamaro_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_WeaverCamaro_1969"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_AmericanLegendsChevelle_1966"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_AmericanLegendsChevelle_1966"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_AmericanLegendsChevelle_1966"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_AmericanLegendsChevelle_1966"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_AmericanLegendsChevelle_1966"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_AmericanLegendsChevelle_1966"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_AmericanLegendsChevelle_1966"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Buick_RingbrothersGNX_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Buick_RingbrothersGNX_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Buick_RingbrothersGNX_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Buick_RingbrothersGNX_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Buick_RingbrothersGNX_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Buick_RingbrothersGNX_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Buick_RingbrothersGNX_1987"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Plymouth_RingbrothersCuda_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Plymouth_RingbrothersCuda_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Plymouth_RingbrothersCuda_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Plymouth_RingbrothersCuda_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Plymouth_RingbrothersCuda_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Plymouth_RingbrothersCuda_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Plymouth_RingbrothersCuda_1970"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Porsche_935Gold_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Porsche_935Gold_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Porsche_935Gold_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Porsche_935Gold_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Porsche_935Gold_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Porsche_935Gold_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_935Gold_2019"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Toyota_GRYarisRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Toyota_GRYarisRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Toyota_GRYarisRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Toyota_GRYarisRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Toyota_GRYarisRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Toyota_GRYarisRewardRecycled_2021"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Toyota_GRYarisRewardRecycled_2021"
     },
     3
   ]
