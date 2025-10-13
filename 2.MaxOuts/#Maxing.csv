@@ -121,6 +121,8 @@ TIER_3,Subaru_BRZRocketBunny_2013,T3_3_77_36_26_15.txt,35,1496200,true
 TIER_3,Subaru_BRZtSRewardRecycled_2024,T3_4_77_36_26_15.txt,35,1496200,true
 TIER_3,Subaru_BRZtSReward_2024,T3_4_84_29_36_19.txt,35,1496200,true
 TIER_3,Toyota_GRSupra_2020,T3_4_77_36_26_15.txt,35,1496200,true
+TIER_3,Toyota_GRYarisRewardRecycled_2021,T3_5_77_36_26_15.txt,35,5979000,true
+TIER_3,Toyota_GRYarisReward_2021,T3_5_84_29_36_19.txt,35,5979000,true
 TIER_4,Acura_NSXF9_2018,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,AlfaRomeo_8CCompetizione_2007,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,AlfaRomeo_8CSpiderRewardRecycled_2009,T4_5_91_36_32_23.txt,35,3009000,true
@@ -374,6 +376,8 @@ TIER_5,AstonMartin_Valkyrie_2020,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,AstonMartin_ValourRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,AstonMartin_ValourReward_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_Valour_2024,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,AstonMartin_VanquishVRewardRecycled_2025,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,AstonMartin_VanquishVReward_2025,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_VanquishZagatoRewardRecycled_2017,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,AstonMartin_VanquishZagatoReward_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_VanquishZagatoSB_2017,T5_5_135_36_50_49.txt,35,5979000,true
@@ -479,7 +483,9 @@ TIER_5,Bugatti_W16Mistral_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Bugatti_X16Gold_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Bugatti_X16_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Buick_GNX_1987,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Buick_RingbrothersGNX_1987,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Buick_RoadstershopGrandNational_1987,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_AmericanLegendsChevelle_1966,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_BlazinRodsChevelle_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_C10Elite_2016,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_C10Halloween_2016,T5_5_135_36_50_49.txt,35,5979000,true
@@ -508,6 +514,7 @@ TIER_5,Chevrolet_CorvetteZ06Z07Package_2023,T5_5_135_36_50_49.txt,35,5979000,tru
 TIER_5,Chevrolet_CorvetteZR1RewardRecycled_2018,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Chevrolet_CorvetteZR1Reward_2018,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_CorvetteZR1SH1_2018,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_DuSoldDesignCamaro_1967,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_DutchboysCamaroLB_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_DutchboysCamaroMS_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_EddiesCorvetteC2_1963,T5_5_135_36_50_49.txt,35,5979000,true
@@ -525,6 +532,7 @@ TIER_5,Chevrolet_NASCARCamaroZL1_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_NapalmNova_1972,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_NovaSSF9_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_PandeMCamaroZ28_1972,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_PickUpVerminsDinerOG_1936,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_PickUpVerminsDiner_1936,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_QuintinBrotherCamaroRewardRecycled_1968,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Chevrolet_QuintinBrotherCamaroReward_1968,T5_5_135_36_50_49.txt,35,5979000,true
@@ -533,7 +541,9 @@ TIER_5,Chevrolet_RingbrothersCamaro_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_RingbrothersChevelle_1966,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_RoadsterShopCamaro_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_SickSecondsCamaroSS_1969,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_WeaverCamaro_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_WeaverCustoms3100_1949,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_ZwygartNova_1967,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Czinger_21CGold_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Czinger_21CGold_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Czinger_21CVMax_2023,T5_5_135_36_50_49.txt,35,5979000,true
@@ -556,6 +566,7 @@ TIER_5,Dodge_ChargerRTF1_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ChargerRTF4_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ChargerRTF8_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ChargerRTF9_1966,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Dodge_ChargerRedeyeSplatter_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ChargerTantrumF9_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_DemonChargerF9_2018,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_HPE1200DemonGold_2018,T5_5_128_44_43_41.txt,35,5979000,true
@@ -796,6 +807,8 @@ TIER_5,Lamborghini_LBMurcielagoSVRewardRecycled_2009,T5_5_128_44_43_41.txt,35,59
 TIER_5,Lamborghini_LBMurcielagoSVReward_2009,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_LBSilhouetteHuracanRewardRecycled_2014,T5_5_135_44_50_41.txt,35,5979000,true
 TIER_5,Lamborghini_LBSilhouetteHuracanReward_2014,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Lamborghini_LBWKMurcielagoRewardRecycled_2009,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Lamborghini_LBWKMurcielagoReward_2009,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_MiuraSVLPClassic_1971,T5_5_150_37_60_53.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoLP640F8_2006,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoSVRewardRecycled_2009,T5_4_128_44_43_41.txt,35,5979000,true
@@ -985,6 +998,7 @@ TIER_5,Plymouth_FormulaSBarracudaElite_1968,T5_5_135_36_50_49.txt,35,5979000,tru
 TIER_5,Plymouth_FormulaSBarracuda_1968,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Plymouth_FuryJimBelvedere_1958,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Plymouth_RidesByKamBarracuda_1970,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Plymouth_RingbrothersCuda_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Plymouth_RoadRunnerGTXF8_1971,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Plymouth_SuperbirdLPClassic_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Plymouth_SuperbirdLPClassic_1970,T5_5_150_39_57_54.txt,35,5979000,true
@@ -1042,6 +1056,7 @@ TIER_5,Porsche_918SpyderGold_2015,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Porsche_918SpyderMartini_2015,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_918SpyderRewardRecycled_2015,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Porsche_918SpyderReward_2015,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Porsche_935Gold_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_935Salzburg_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_935_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_962C_1987,T5_5_135_36_50_49.txt,35,5979000,true
