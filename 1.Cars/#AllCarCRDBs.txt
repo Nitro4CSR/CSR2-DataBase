@@ -323,6 +323,7 @@ Chevrolet_ZwygartNova_1967
 Czinger_21CGold_2021
 Czinger_21CVMax_2023
 Czinger_21C_2021
+Datsun_240ZLPClassic_1972
 DeTomaso_PanteraGT5S_1984
 Devel_Sixteen_2022
 Dodge_ChallengerMoparDragPakGold_2021
