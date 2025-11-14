@@ -3,6 +3,7 @@ ATSAutomobili_GTRewardRecycled_2018
 ATSAutomobili_GTReward_2018
 ATSAutomobili_RRTurbo_2020
 Abarth_500_2014
+Acura_IntegraGSRF1_1998
 Acura_IntegraTypeRDB8F1_1995
 Acura_NSXF9_2018
 Acura_NSXTypeSRewardRecycled_2022
@@ -264,6 +265,7 @@ Chevrolet_CamaroZL1CrewRecycled_2017
 Chevrolet_CamaroZL1Crew_2017
 Chevrolet_CamaroZL1NASCAR_2022
 Chevrolet_CapriceDonk_1971
+Chevrolet_CorvetteC1LPClassic_1958
 Chevrolet_CorvetteC4ZR1_1994
 Chevrolet_CorvetteC7REditionRewardRecycled_2015
 Chevrolet_CorvetteC7REditionReward_2015
@@ -591,6 +593,7 @@ KTM_XBowRRewardRecycled_2011
 KTM_XBowRReward_2011
 Kia_StingerGTS_2020
 Kimera_EVO37Gold_2022
+Kimera_EVO37Martini_2024
 Kimera_EVO37_2022
 Koenigsegg_AgeraRSRewardRecycled_2017
 Koenigsegg_AgeraRSReward_2017
@@ -887,6 +890,8 @@ Nissan_SkylineGTRR34TNR_2002
 Nissan_SkylineR33NismoSTune_1995
 Nissan_StillenMaximaF1_1999
 Nissan_TopSecret350ZF3_2003
+Nissan_VeilsideZRewardRecycled_2023
+Nissan_VeilsideZReward_2023
 Nissan_ZNISMORewardRecycled_2024
 Nissan_ZNISMOReward_2024
 Nissan_ZTNR_2023
@@ -1085,6 +1090,7 @@ TVR_Sagaris_2006
 Toyota_86Boss_2014
 Toyota_86_2014
 Toyota_CamryNASCAR_2022
+Toyota_GR86TNR_2023
 Toyota_GRSupraF9_2020
 Toyota_GRSupraTNR_2020
 Toyota_GRSupra_2020
