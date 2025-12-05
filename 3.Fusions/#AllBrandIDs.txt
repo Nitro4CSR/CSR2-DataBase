@@ -19,6 +19,7 @@ id_buick
 id_cadillac
 id_chevrolet
 id_czinger
+id_dallara
 id_datsun
 id_detomaso
 id_devel
@@ -27,11 +28,13 @@ id_donkervoort
 id_ferrari
 id_fnf
 id_ford
+id_fsd
 id_ginetta
 id_gtamotor
 id_hennessey
 id_honda
 id_hyundai
+id_hyperion
 id_indycar
 id_infiniti
 id_italdesign
