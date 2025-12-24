@@ -442,7 +442,9 @@ TIER_5,Bentley_ContinentalGTConvertibleReward_2019,T5_5_135_36_50_49.txt,35,5979
 TIER_5,Bentley_ContinentalGTRewardRecycled_2018,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Bentley_ContinentalGTReward_2018,T5_4_135_36_50_49.txt,35,5979000,true
 TIER_5,Bentley_ContinentalGTSpeedRewardRecycled_2021,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Bentley_ContinentalGTSpeedRewardRecycled_2025,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Bentley_ContinentalGTSpeedReward_2021,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Bentley_ContinentalGTSpeedReward_2025,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Bentley_ContinentalGTSpeed_2016,T5_3_110_38_37_35.txt,35,5979000,true
 TIER_5,Bentley_MullinerBacalarRewardRecycled_2021,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Bentley_MullinerBacalarReward_2021,T5_5_135_36_50_49.txt,35,5979000,true
@@ -750,6 +752,7 @@ TIER_5,KTM_XBowRReward_2011,T5_4_135_36_50_49.txt,35,5979000,true
 TIER_5,Kimera_EVO37Gold_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Kimera_EVO37Martini_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Kimera_EVO37_2022,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Kimera_EVO38_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Koenigsegg_AgeraRSRewardRecycled_2017,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Koenigsegg_AgeraRSReward_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Koenigsegg_AgeraR_2013,T5_5_96_35_31_30.txt,35,5979000,true
@@ -788,6 +791,7 @@ TIER_5,Lamborghini_DiabloSV_1997,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_EssenzaSCV12Monterey_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_EssenzaSCV12Nero_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_EssenzaSCV12_2021,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Lamborghini_Fenomeno_2026,T5_5_135_36_50_49.txt,35,5979000,true,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_FewOffAdPersonam_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_FewOff_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_HuracanEVOTNR_2021,T5_5_150_39_57_54.txt,35,5979000,true
