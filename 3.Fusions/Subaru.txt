@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_subaru",
       "upnn": AMOUNT,
       "upfb": true,
