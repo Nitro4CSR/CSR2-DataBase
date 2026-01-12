@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_mazda",
       "upnn": AMOUNT,
       "upfb": true,
