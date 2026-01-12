@@ -1,4 +1,3 @@
-,
     {
       "upma": "id_mini",
       "upnn": AMOUNT,
