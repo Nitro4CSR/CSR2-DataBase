@@ -1,5 +1,4 @@
-,
-    {
+  {
       "upma": "id_toyota",
       "upnn": AMOUNT,
       "upfb": true,
