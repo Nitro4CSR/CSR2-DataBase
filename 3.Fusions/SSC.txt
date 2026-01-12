@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_ssc",
       "upnn": AMOUNT,
       "upfb": true,
