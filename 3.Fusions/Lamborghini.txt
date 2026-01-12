@@ -1,5 +1,4 @@
-,
-    {
+  {
       "upma": "id_lamborghini",
       "upnn": AMOUNT,
       "upfb": true,
