@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_mitsubishi",
       "upnn": AMOUNT,
       "upfb": true,
