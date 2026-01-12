@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_tvr",
       "upnn": AMOUNT,
       "upfb": true,
