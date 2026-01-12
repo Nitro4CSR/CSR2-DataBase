@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_alpine",
       "upnn": AMOUNT,
       "upfb": true,
