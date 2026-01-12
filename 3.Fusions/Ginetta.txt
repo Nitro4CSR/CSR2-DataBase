@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_ginetta",
       "upnn": AMOUNT,
       "upfb": true,
