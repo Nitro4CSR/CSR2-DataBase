@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_bentley",
       "upnn": AMOUNT,
       "upfb": true,
