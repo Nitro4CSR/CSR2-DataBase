@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_kimera",
       "upnn": AMOUNT,
       "upfb": true,
