@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_pagani",
       "upnn": AMOUNT,
       "upfb": true,
