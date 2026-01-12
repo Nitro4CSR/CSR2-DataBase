@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_hyundai",
       "upnn": AMOUNT,
       "upfb": true,
