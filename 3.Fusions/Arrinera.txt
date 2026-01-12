@@ -1,4 +1,3 @@
-,
     {
       "upma": "id_arrinera",
       "upnn": AMOUNT,
