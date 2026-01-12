@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_vuhl",
       "upnn": AMOUNT,
       "upfb": true,
