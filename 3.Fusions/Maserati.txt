@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_maserati",
       "upnn": AMOUNT,
       "upfb": true,
