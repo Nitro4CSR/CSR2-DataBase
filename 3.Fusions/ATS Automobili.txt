@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_atsautomobili",
       "upnn": AMOUNT,
       "upfb": true,
