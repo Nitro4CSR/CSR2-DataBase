@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_pininfarina",
       "upnn": AMOUNT,
       "upfb": true,
