@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_lancia",
       "upnn": AMOUNT,
       "upfb": true,
