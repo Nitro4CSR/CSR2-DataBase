@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_mazzanti",
       "upnn": AMOUNT,
       "upfb": true,
