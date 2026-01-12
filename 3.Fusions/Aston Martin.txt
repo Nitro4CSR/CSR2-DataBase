@@ -1,4 +1,3 @@
-,
     {
       "upma": "id_astonmartin",
       "upnn": AMOUNT,
