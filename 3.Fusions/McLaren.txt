@@ -1,5 +1,4 @@
-,
-    {
+  {
       "upma": "id_mclaren",
       "upnn": AMOUNT,
       "upfb": true,
