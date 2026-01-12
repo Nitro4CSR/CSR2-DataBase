@@ -1,5 +1,4 @@
-,
-    {
+ {
       "upma": "id_mercedes",
       "upnn": AMOUNT,
       "upfb": true,
