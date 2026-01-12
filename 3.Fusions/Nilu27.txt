@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_nilu27",
       "upnn": AMOUNT,
       "upfb": true,
