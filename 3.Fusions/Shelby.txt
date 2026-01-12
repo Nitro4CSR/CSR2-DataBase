@@ -1,5 +1,4 @@
-,
-    {
+  {
       "upma": "id_shelby",
       "upnn": AMOUNT,
       "upfb": true,
