@@ -1,4 +1,3 @@
-,
     {
       "upma": "id_mercedesamgpetronas",
       "upnn": AMOUNT,
