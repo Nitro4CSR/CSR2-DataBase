@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_landrover",
       "upnn": AMOUNT,
       "upfb": true,
