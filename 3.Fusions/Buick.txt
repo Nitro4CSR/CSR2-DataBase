@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_buick",
       "upnn": AMOUNT,
       "upfb": true,
