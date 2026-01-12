@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_mcmurtry",
       "upnn": AMOUNT,
       "upfb": true,
