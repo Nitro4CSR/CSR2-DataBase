@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_brabham",
       "upnn": AMOUNT,
       "upfb": true,
