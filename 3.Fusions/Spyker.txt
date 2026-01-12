@@ -1,5 +1,4 @@
-,
-    {
+  {
       "upma": "id_spyker",
       "upnn": AMOUNT,
       "upfb": true,
