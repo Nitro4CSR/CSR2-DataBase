@@ -1,5 +1,4 @@
-,
-    {
+  {
       "upma": "id_jaguar",
       "upnn": AMOUNT,
       "upfb": true,
