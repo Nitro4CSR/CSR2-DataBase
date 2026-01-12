@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_cadillac",
       "upnn": AMOUNT,
       "upfb": true,
