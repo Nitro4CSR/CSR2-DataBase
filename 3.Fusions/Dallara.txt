@@ -1,7 +1,6 @@
-,
-    {
+  {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_eng0",
@@ -21,10 +20,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_tur0",
@@ -44,10 +43,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_int0",
@@ -67,10 +66,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_nit0",
@@ -90,10 +89,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_bod0",
@@ -113,10 +112,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_tir0",
@@ -136,10 +135,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_tra0",
@@ -159,10 +158,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_eng1",
@@ -182,10 +181,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_tur1",
@@ -205,10 +204,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_int1",
@@ -228,10 +227,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_nit1",
@@ -251,10 +250,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_bod1",
@@ -274,10 +273,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_tir1",
@@ -288,7 +287,7 @@
         "errd": 0.0,
         "drcd": -0.03,
         "wedi": 0.0,
-        "grdi": 100.0,
+        "grdi": AMOUNT,.0,
         "gstd": 0.0,
         "trlp": 0.0,
         "niti": 0.0,
@@ -297,10 +296,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_tra1",
@@ -320,10 +319,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_eng2",
@@ -343,10 +342,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_tur2",
@@ -366,10 +365,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_int2",
@@ -389,10 +388,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_nit2",
@@ -412,10 +411,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_bod2",
@@ -435,10 +434,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_tir2",
@@ -458,10 +457,10 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_dallara",
-      "upnn": 0,
+      "upnn": AMOUNT,
       "upfb": true,
       "upcu": {
         "adid": "Dallara_Stradale_2019_tra2",
@@ -481,4 +480,4 @@
         "erpm": 0
       }
     },
-    100
+    AMOUNT
