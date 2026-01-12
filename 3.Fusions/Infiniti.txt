@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_infiniti",
       "upnn": AMOUNT,
       "upfb": true,
