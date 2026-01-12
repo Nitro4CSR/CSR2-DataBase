@@ -1,4 +1,3 @@
-,
     {
       "upma": "id_placeholder",
       "upnn": AMOUNT,
