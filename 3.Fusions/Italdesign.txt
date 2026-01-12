@@ -1,5 +1,4 @@
-,
-    {
+   {
       "upma": "id_italdesign",
       "upnn": AMOUNT,
       "upfb": true,
