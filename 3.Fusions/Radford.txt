@@ -1,5 +1,4 @@
-,
-    {
+  {
       "upma": "id_radford",
       "upnn": AMOUNT,
       "upfb": true,
