@@ -89,7 +89,7 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_pagani",
       "upnn": AMOUNT,
