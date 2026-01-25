@@ -156,6 +156,8 @@ TIER_4,Audi_TTRSCoupeIERewardRecycled_2023,T4_4_91_36_32_23.txt,35,3009000,true
 TIER_4,Audi_TTRSCoupeIEReward_2023,T4_4_98_29_40_29.txt,35,3009000,true
 TIER_4,BMW_LBi8RewardRecycled_2017,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,BMW_LBi8Reward_2017,T4_5_98_29_40_29.txt,35,3009000,true
+TIER_4,BMW_M2CSG87RewardRecycled_2025,T4_5_91_36_32_23.txt,35,5979000,true
+TIER_4,BMW_M2CSG87Reward_2025,T4_5_98_29_40_29.txt,35,5979000,true
 TIER_4,BMW_M3CSTouringRewardRecycled_2025,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,BMW_M3CSTouringReward_2025,T4_5_98_29_40_29.txt,35,3009000,true
 TIER_4,BMW_M3SportEvoE30_1990,T4_5_98_29_40_29.txt,35,3009000,true
@@ -371,6 +373,7 @@ TIER_5,AstonMartin_V12VantageRReward_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_V12Vantage_2023,T4_5_91_36_32_23.txt,35,5979000,true
 TIER_5,AstonMartin_ValhallaGold_2020,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,AstonMartin_Valhalla_2020,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,AstonMartin_Valhalla_2025,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_Valiant_2025,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_ValkyrieAMRProConcept_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_ValkyrieAMRPro_2022,T5_5_135_36_50_49.txt,35,5979000,true
@@ -431,6 +434,8 @@ TIER_5,BTTF_TimeMachine1_1985,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,BTTF_TimeMachine1_1985,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,BTTF_TimeMachine2_2015,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,BTTF_TimeMachine3_1885,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Bentley_BaturConvertibleRewardRecycled_2025,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Bentley_BaturConvertibleReward_2025,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Bentley_ContinentalGT3PikesPeak_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Bentley_ContinentalGT3RRewardRecycled_2015,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Bentley_ContinentalGT3RReward_2015,T5_4_135_36_50_49.txt,35,5979000,true
@@ -711,6 +716,7 @@ TIER_5,Hennessey_CamaroExorcistRewardRecycled_2017,T5_5_128_44_43_41.txt,35,5979
 TIER_5,Hennessey_CamaroExorcistReward_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Hennessey_CamaroTheResurrection_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Hennessey_VenomF5Gold_2020,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Hennessey_VenomF5Revolution_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Hennessey_VenomF5RoadsterRewardRecycled_2023,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Hennessey_VenomF5RoadsterReward_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Hennessey_VenomF5_2020,T5_5_135_36_50_49.txt,35,5979000,true
@@ -787,6 +793,7 @@ TIER_5,Lamborghini_Centenario_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_CountachLPI8004RewardRecycled_2022,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Lamborghini_CountachLPI8004Reward_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_CountachLPI8004_2022,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Lamborghini_DiabloGT_2000,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_DiabloSV_1997,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_EssenzaSCV12Monterey_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_EssenzaSCV12Nero_2021,T5_5_135_36_50_49.txt,35,5979000,true
@@ -934,6 +941,7 @@ TIER_5,McLaren_Vorsteiner570VXRewardRecycled_2016,T5_4_128_44_43_41.txt,35,59790
 TIER_5,McLaren_Vorsteiner570VXReward_2016,T5_4_135_36_50_49.txt,35,5979000,true
 TIER_5,McLaren_Vorsteiner720SRewardRecycled_2018,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,McLaren_Vorsteiner720SReward_2018,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,McLaren_W1_2025,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,McMurtry_Speirling_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,MercedesAMGF1_W11VB_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,MercedesAMGF1_W11_2020,T5_5_135_36_50_49.txt,35,5979000,true
@@ -1137,6 +1145,7 @@ TIER_5,Toyota_CamryNASCAR_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Toyota_GR86TNR_2023,T5_5_150_39_57_54.txt,35,5979000,true
 TIER_5,Toyota_GRSupraF9_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Toyota_GRSupraTNR_2020,T5_5_150_39_57_54.txt,35,5979000,true
+TIER_5,Toyota_GRSupraV2TNR_2021,T5_5_150_39_57_54.txt,35,5979000,true
 TIER_5,Toyota_LBGRSupraRewardRecycled_2020,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Toyota_LBGRSupraReward_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Toyota_PandeMGRSupraV15_2020,T5_5_135_36_50_49.txt,35,5979000,true
