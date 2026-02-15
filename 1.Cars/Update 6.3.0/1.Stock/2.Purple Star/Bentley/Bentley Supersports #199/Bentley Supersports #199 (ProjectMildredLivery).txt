@@ -1,0 +1,129 @@
+{
+  "unid": 7521,
+  "crdb": "Bentley_ContinentalGTEVO_2026",
+  "grsp": [
+    5.966,
+    3.235,
+    2.083,
+    1.42,
+    1.054,
+    0.841,
+    0.678,
+    0.534
+  ],
+  "fidr": 3.15,
+  "apiid": 1999,
+  "oriid": 1999,
+  "apcn": [
+    "Bentley_ContinentalGTEVO_2026_Wheel1A_3D"
+  ],
+  "opcn": "Bentley_ContinentalGTEVO_2026_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 3,
+  "cppi": 603,
+  "ttqm": 9.988,
+  "tthm": 16.047,
+  "ctie": "TIER_5",
+  "csrc": "Gacha",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 2638,
+  "inid": 1999,
+  "caid": 0,
+  "lzsid": -2147483648,
+  "livid": -2147483648,
+  "whbn": "Wheel1A_3D"
+}

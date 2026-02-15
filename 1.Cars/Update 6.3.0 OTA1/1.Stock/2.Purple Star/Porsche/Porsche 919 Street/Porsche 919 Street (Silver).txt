@@ -1,0 +1,134 @@
+{
+  "unid": 7526,
+  "crdb": "Porsche_919Street_2020",
+  "grsp": [
+    3.077,
+    2.353,
+    1.882,
+    1.526,
+    1.238,
+    1.037,
+    0.867
+  ],
+  "fidr": 2.22,
+  "apiid": 940,
+  "oriid": 940,
+  "apcid": 361,
+  "orcid": 361,
+  "aplid": 1361,
+  "orlid": 1361,
+  "aplzsid": 9,
+  "orlzsid": 9,
+  "apcn": [
+    "Porsche_919Street_2020_Wheel1A_3D"
+  ],
+  "opcn": "Porsche_919Street_2020_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 3,
+  "cppi": 603,
+  "ttqm": 10.293,
+  "tthm": 16.059,
+  "ctie": "TIER_5",
+  "csrc": "Gacha",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 2587,
+  "inid": 940,
+  "caid": 361,
+  "lzsid": 9,
+  "livid": 1361,
+  "whbn": "Wheel1A_3D"
+}

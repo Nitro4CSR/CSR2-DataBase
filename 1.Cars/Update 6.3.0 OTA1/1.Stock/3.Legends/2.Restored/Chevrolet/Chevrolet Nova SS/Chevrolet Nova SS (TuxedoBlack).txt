@@ -1,0 +1,149 @@
+{
+      "unid": 7502,
+      "crdb": "Chevrolet_NovaSSLPClassic_1970",
+      "grsp": [
+        2.44,
+        1.5,
+        1.1,
+        0.75
+      ],
+      "fidr": 2.33,
+      "apiid": 1931,
+      "oriid": 1931,
+      "apcid": 4,
+      "orcid": 4,
+      "aplid": 1363,
+      "orlid": 1363,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Chevrolet_NovaSSLPClassic_1970_Wheel2A_3D"
+      ],
+      "opcn": "Chevrolet_NovaSSLPClassic_1970_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "rpst": [
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 2,
+          "rvlf": 2
+        }
+      ],
+      "cppi": 603,
+      "ttqm": 10.613,
+      "tthm": 16.052,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2598,
+      "inid": 1931,
+      "caid": 4,
+      "lzsid": 15,
+      "livid": 1363,
+      "whbn": "Wheel2A_3D"
+    }

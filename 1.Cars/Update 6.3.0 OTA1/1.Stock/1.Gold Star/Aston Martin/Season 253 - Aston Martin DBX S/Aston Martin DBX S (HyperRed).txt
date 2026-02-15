@@ -1,0 +1,136 @@
+{
+  "unid": 7494,
+  "crdb": "AstonMartin_DBXSRewardRecycled_2026",
+  "grsp": [
+    5.35,
+    3.24,
+    2.25,
+    1.63,
+    1.21,
+    1.0,
+    0.86,
+    0.71,
+    0.6
+  ],
+  "fidr": 3.55,
+  "appi": 9,
+  "orpi": 9,
+  "apiid": 1993,
+  "oriid": 1993,
+  "apcid": 106,
+  "orcid": 106,
+  "aplzsid": -1,
+  "orlzsid": -1,
+  "apcn": [
+    "AstonMartin_DBXSRewardRecycled_2026_Wheel2A_3D"
+  ],
+  "opcn": "AstonMartin_DBXSRewardRecycled_2026_Wheel2A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 2,
+  "cppi": 500,
+  "ttqm": 11.412,
+  "tthm": 18.239,
+  "ctie": "TIER_4",
+  "csrc": "Gacha",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 990,
+  "inid": 1993,
+  "caid": 106,
+  "lzsid": -1,
+  "livid": -2147483648,
+  "whbn": "Wheel2A_3D"
+}

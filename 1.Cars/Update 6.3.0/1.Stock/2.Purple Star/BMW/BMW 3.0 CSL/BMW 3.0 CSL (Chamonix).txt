@@ -1,0 +1,131 @@
+{
+  "unid": 7520,
+  "crdb": "BMW_30CSLE9LP_1973",
+  "grsp": [
+    3.06,
+    1.62,
+    1.0,
+    0.7
+  ],
+  "fidr": 3.14,
+  "apiid": 1982,
+  "oriid": 1982,
+  "apcid": 9,
+  "orcid": 9,
+  "aplid": 1379,
+  "orlid": 1379,
+  "aplzsid": 15,
+  "orlzsid": 15,
+  "apcn": [
+    "BMW_30CSLE9LP_1973_Wheel1A_3D"
+  ],
+  "opcn": "BMW_30CSLE9LP_1973_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 3,
+  "cppi": 603,
+  "ttqm": 10.26,
+  "tthm": 16.059,
+  "ctie": "TIER_5",
+  "csrc": "Gacha",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 2613,
+  "inid": 1982,
+  "caid": 9,
+  "lzsid": 15,
+  "livid": 1379,
+  "whbn": "Wheel1A_3D"
+}
