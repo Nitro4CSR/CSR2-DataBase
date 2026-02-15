@@ -1,0 +1,532 @@
+{
+  "unid": 7518,
+  "crdb": "Porsche_911TurboSRewardRecycled_2026",
+  "grsp": [
+    4.89,
+    3.17,
+    2.15,
+    1.56,
+    1.18,
+    0.94,
+    0.76,
+    0.61
+  ],
+  "fidr": 3.99,
+  "appi": 14,
+  "orpi": 14,
+  "apiid": 2010,
+  "oriid": 2010,
+  "apcid": 254,
+  "orcid": 254,
+  "aplid": 1388,
+  "orlid": 1388,
+  "aplzsid": 9,
+  "orlzsid": 9,
+  "apcn": [
+    "Porsche_911TurboSRewardRecycled_2026_Wheel1A_3D"
+  ],
+  "opcn": "Porsche_911TurboSRewardRecycled_2026_Wheel1A_3D",
+  "upst": [
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            2,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            3,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "fpin": 2,
+  "cppi": 603,
+  "ttqm": 10.651,
+  "tthm": 16.071,
+  "ctie": "TIER_5",
+  "csrc": "Gacha",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 2401,
+  "inid": 2010,
+  "caid": 254,
+  "lzsid": 9,
+  "livid": 1388,
+  "whbn": "Wheel1A_3D",
+  "esup": true,
+  "nuub": 35,
+  "msou": 5979000
+}

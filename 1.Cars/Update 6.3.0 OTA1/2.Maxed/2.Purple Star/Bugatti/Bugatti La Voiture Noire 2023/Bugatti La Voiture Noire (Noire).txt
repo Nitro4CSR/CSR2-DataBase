@@ -1,0 +1,527 @@
+{
+  "unid": 7522,
+  "crdb": "Bugatti_LaVoitureNoire_2022",
+  "grsp": [
+    3.176,
+    2.235,
+    1.68,
+    1.29,
+    1.057,
+    0.878,
+    0.784
+  ],
+  "fidr": 2.4,
+  "apiid": 1978,
+  "oriid": 1978,
+  "apcid": 57,
+  "orcid": 57,
+  "aplzsid": -1,
+  "orlzsid": -1,
+  "apcn": [
+    "Bugatti_LaVoitureNoire_2022_Wheel1A_3D"
+  ],
+  "opcn": "Bugatti_LaVoitureNoire_2022_Wheel1A_3D",
+  "upst": [
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            2,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            3,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            3,
+            3
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            2,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "lvlo": 6,
+      "lvlf": 6,
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            1,
+            2,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ulpf": true,
+          "fsg": [
+            2,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "fpin": 3,
+  "cppi": 609,
+  "ttqm": 10.095,
+  "tthm": 15.872,
+  "ctie": "TIER_5",
+  "csrc": "Prize",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 1385,
+  "inid": 1978,
+  "caid": 57,
+  "lzsid": -1,
+  "livid": -2147483648,
+  "whbn": "Wheel1A_3D",
+  "esup": true,
+  "nuub": 35,
+  "msou": 5979000
+}
