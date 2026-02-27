@@ -506,6 +506,9 @@
         }
       ],
       "fpin": 3,
+      "fpul": 4,
+      "rsup": 3,
+      "rpbb": 18,
       "cppi": 603,
       "ttqm": 10.26,
       "tthm": 16.059,
@@ -521,6 +524,7 @@
       "livid": 1379,
       "whbn": "Wheel1A_3D",
       "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "nuub": 36,
+      "msou": 5979000,
+      "isra": true
     }

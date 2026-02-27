@@ -1,0 +1,133 @@
+{
+  "unid": 7558,
+  "crdb": "Chevrolet_CorvetteC8ZR1Reward_2024",
+  "grsp": [
+    2.905,
+    1.759,
+    1.22,
+    0.878,
+    0.653,
+    0.508,
+    0.397,
+    0.329
+  ],
+  "fidr": 3.46,
+  "apiid": 2034,
+  "oriid": 2034,
+  "aplid": 1393,
+  "orlid": 1393,
+  "aplzsid": 9,
+  "orlzsid": 9,
+  "apcn": [
+    "Chevrolet_CorvetteC8ZR1Reward_2024_Wheel1A_3D"
+  ],
+  "opcn": "Chevrolet_CorvetteC8ZR1Reward_2024_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 3,
+  "cppi": 603,
+  "ttqm": 10.381,
+  "tthm": 16.06,
+  "ctie": "TIER_5",
+  "csrc": "Prize",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 2672,
+  "inid": 2034,
+  "caid": 0,
+  "lzsid": 9,
+  "livid": 1393,
+  "whbn": "Wheel1A_3D"
+}

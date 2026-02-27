@@ -1,0 +1,130 @@
+{
+  "unid": 7560,
+  "crdb": "Ferrari_288GTO_1985",
+  "grsp": [
+    2.77,
+    1.72,
+    1.23,
+    0.96,
+    0.77
+  ],
+  "fidr": 2.22,
+  "apiid": 328,
+  "oriid": 328,
+  "apcid": 311,
+  "orcid": 311,
+  "aplzsid": -1,
+  "orlzsid": -1,
+  "apcn": [
+    "Ferrari_288GTO_1985_Wheel1A_3D"
+  ],
+  "opcn": "Ferrari_288GTO_1985_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 3,
+  "cppi": 603,
+  "ttqm": 10.402,
+  "tthm": 16.052,
+  "ctie": "TIER_5",
+  "csrc": "Prize",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 1118,
+  "inid": 328,
+  "caid": 311,
+  "lzsid": -1,
+  "livid": -2147483648,
+  "whbn": "Wheel1A_3D"
+}

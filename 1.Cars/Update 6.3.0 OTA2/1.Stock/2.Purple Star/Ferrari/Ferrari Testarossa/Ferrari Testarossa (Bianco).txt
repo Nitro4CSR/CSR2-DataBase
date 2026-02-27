@@ -1,0 +1,130 @@
+{
+  "unid": 7564,
+  "crdb": "Ferrari_MV512Testarossa_1986",
+  "grsp": [
+    3.139,
+    2.104,
+    1.526,
+    1.167,
+    0.875
+  ],
+  "fidr": 2.55,
+  "apiid": 2018,
+  "oriid": 2018,
+  "apcid": 311,
+  "orcid": 311,
+  "aplzsid": -1,
+  "orlzsid": -1,
+  "apcn": [
+    "Ferrari_MV512Testarossa_1986_Wheel1A_3D"
+  ],
+  "opcn": "Ferrari_MV512Testarossa_1986_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 3,
+  "cppi": 603,
+  "ttqm": 10.35,
+  "tthm": 16.063,
+  "ctie": "TIER_5",
+  "csrc": "Prize",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 1341,
+  "inid": 2018,
+  "caid": 311,
+  "lzsid": -1,
+  "livid": -2147483648,
+  "whbn": "Wheel1A_3D"
+}

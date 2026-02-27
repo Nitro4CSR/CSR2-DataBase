@@ -1,0 +1,135 @@
+{
+  "unid": 7532,
+  "crdb": "Lamborghini_TemerarioRewardRecycled_2025",
+  "grsp": [
+    3.9,
+    2.42,
+    1.8,
+    1.4,
+    1.15,
+    0.975,
+    0.83,
+    0.7
+  ],
+  "fidr": 3.7,
+  "appi": 1,
+  "orpi": 1,
+  "apiid": 240,
+  "oriid": 240,
+  "apcid": 271,
+  "orcid": 271,
+  "aplzsid": -1,
+  "orlzsid": -1,
+  "apcn": [
+    "Lamborghini_TemerarioRewardRecycled_2025_Wheel1A_3D"
+  ],
+  "opcn": "Lamborghini_TemerarioRewardRecycled_2025_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 2,
+  "cppi": 603,
+  "ttqm": 10.086,
+  "tthm": 16.057,
+  "ctie": "TIER_5",
+  "csrc": "Gacha",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 994,
+  "inid": 240,
+  "caid": 271,
+  "lzsid": -1,
+  "livid": -2147483648,
+  "whbn": "Wheel1A_3D"
+}

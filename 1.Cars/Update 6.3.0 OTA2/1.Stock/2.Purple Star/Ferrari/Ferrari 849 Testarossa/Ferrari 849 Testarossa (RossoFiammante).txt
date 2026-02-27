@@ -1,0 +1,133 @@
+{
+  "unid": 7561,
+  "crdb": "Ferrari_849Testarossa_2026",
+  "grsp": [
+    3.455,
+    2.263,
+    1.654,
+    1.29,
+    1.029,
+    0.837,
+    0.674,
+    0.481
+  ],
+  "fidr": 2.77,
+  "apiid": 2031,
+  "oriid": 2031,
+  "apcid": 14,
+  "orcid": 14,
+  "aplzsid": -1,
+  "orlzsid": -1,
+  "apcn": [
+    "Ferrari_849Testarossa_2026_Wheel1A_3D"
+  ],
+  "opcn": "Ferrari_849Testarossa_2026_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 3,
+  "cppi": 603,
+  "ttqm": 9.897,
+  "tthm": 16.054,
+  "ctie": "TIER_5",
+  "csrc": "Prize",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 2671,
+  "inid": 2031,
+  "caid": 14,
+  "lzsid": -1,
+  "livid": -2147483648,
+  "whbn": "Wheel1A_3D"
+}

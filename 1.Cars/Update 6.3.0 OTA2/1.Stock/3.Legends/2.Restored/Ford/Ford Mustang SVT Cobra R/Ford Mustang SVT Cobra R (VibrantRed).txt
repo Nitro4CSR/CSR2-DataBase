@@ -1,0 +1,148 @@
+{
+  "unid": 7527,
+  "crdb": "Ford_MustangSVTCobraRLPClassic_1993",
+  "grsp": [
+    3.35,
+    1.93,
+    1.26,
+    1.0,
+    0.68
+  ],
+  "fidr": 2.22,
+  "apiid": 2015,
+  "oriid": 2015,
+  "apcid": 5,
+  "orcid": 5,
+  "aplzsid": -1,
+  "orlzsid": -1,
+  "apcn": [
+    "Ford_MustangSVTCobraRLPClassic_1993_Wheel2A_3D"
+  ],
+  "opcn": "Ford_MustangSVTCobraRLPClassic_1993_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 0,
+  "rpst": [
+    {
+      "rvlo": 1,
+      "rvlf": 1
+    },
+    {
+      "rvlo": 1,
+      "rvlf": 1
+    },
+    {
+      "rvlo": 1,
+      "rvlf": 1
+    },
+    {
+      "rvlo": 2,
+      "rvlf": 2
+    }
+  ],
+  "cppi": 603,
+  "ttqm": 10.851,
+  "tthm": 16.061,
+  "ctie": "TIER_5",
+  "csrc": "Gacha",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 2650,
+  "inid": 2015,
+  "caid": 5,
+  "lzsid": -1,
+  "livid": -2147483648,
+  "whbn": "Wheel2A_3D"
+}
