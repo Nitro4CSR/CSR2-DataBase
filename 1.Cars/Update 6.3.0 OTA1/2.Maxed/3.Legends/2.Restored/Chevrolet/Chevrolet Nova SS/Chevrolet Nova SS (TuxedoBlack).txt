@@ -524,6 +524,9 @@
           "rvlf": 2
         }
       ],
+      "fpul": 4,
+      "rsup": 3,
+      "rpbb": 18,
       "cppi": 603,
       "ttqm": 10.613,
       "tthm": 16.052,
@@ -539,6 +542,7 @@
       "livid": 1363,
       "whbn": "Wheel2A_3D",
       "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "nuub": 39,
+      "msou": 5979000,
+      "isra": true
     }
