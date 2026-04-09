@@ -1,0 +1,133 @@
+{
+  "unid": 7012,
+  "crdb": "Dallara_EXP_2021",
+  "grsp": [
+    2.971,
+    2.071,
+    1.43,
+    1.0,
+    0.84,
+    0.56
+  ],
+  "fidr": 3.2,
+  "apiid": 1949,
+  "oriid": 1949,
+  "apcid": 371,
+  "orcid": 371,
+  "aplid": 1394,
+  "orlid": 1394,
+  "aplzsid": 9,
+  "orlzsid": 9,
+  "apcn": [
+    "Dallara_EXP_2021_Wheel1A_3D"
+  ],
+  "opcn": "Dallara_EXP_2021_Wheel1A_3D",
+  "upst": [
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "lvls": [
+        {
+          "ulpf": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "fpin": 3,
+  "cppi": 603,
+  "ttqm": 10.283,
+  "tthm": 16.051,
+  "ctie": "TIER_5",
+  "csrc": "Gacha",
+  "nupl": {
+    "cpf": false
+  },
+  "paid": 2677,
+  "inid": 1949,
+  "caid": 371,
+  "lzsid": 9,
+  "livid": 1394,
+  "whbn": "Wheel1A_3D"
+}
