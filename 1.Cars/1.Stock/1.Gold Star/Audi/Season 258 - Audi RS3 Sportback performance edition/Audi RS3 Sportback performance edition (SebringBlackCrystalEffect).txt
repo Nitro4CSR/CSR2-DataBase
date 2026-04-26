@@ -1,0 +1,134 @@
+{
+      "unid": 7004,
+      "crdb": "Audi_RS3SportbackRewardRecycled_2023",
+      "grsp": [
+        3.563,
+        2.147,
+        1.427,
+        1.022,
+        0.788,
+        0.647,
+        0.54
+      ],
+      "fidr": 4.06,
+      "appi": 3,
+      "orpi": 3,
+      "apiid": 1639,
+      "oriid": 1639,
+      "apcid": 191,
+      "orcid": 191,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Audi_RS3SportbackRewardRecycled_2023_Wheel1A_3D"
+      ],
+      "opcn": "Audi_RS3SportbackRewardRecycled_2023_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 402,
+      "ttqm": 12.674,
+      "tthm": 20.013,
+      "ctie": "TIER_3",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1623,
+      "inid": 1639,
+      "caid": 191,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

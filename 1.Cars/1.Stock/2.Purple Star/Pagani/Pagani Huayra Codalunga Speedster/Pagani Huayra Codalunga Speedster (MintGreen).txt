@@ -1,131 +1,131 @@
 {
-  "unid": 7565,
-  "crdb": "Pagani_HuayraCodalungaSpeedster_2025",
-  "grsp": [
-    3.07,
-    2.23,
-    1.72,
-    1.42,
-    1.2,
-    1.03
-  ],
-  "fidr": 3.1,
-  "apiid": 2029,
-  "oriid": 2029,
-  "apcid": 368,
-  "orcid": 368,
-  "aplzsid": -1,
-  "orlzsid": -1,
-  "apcn": [
-    "Pagani_HuayraCodalungaSpeedster_2025_Wheel1A_3D"
-  ],
-  "opcn": "Pagani_HuayraCodalungaSpeedster_2025_Wheel1A_3D",
-  "upst": [
-    {
-      "lvls": [
+      "unid": 7565,
+      "crdb": "Pagani_HuayraCodalungaSpeedster_2025",
+      "grsp": [
+        3.07,
+        2.23,
+        1.72,
+        1.42,
+        1.2,
+        1.03
+      ],
+      "fidr": 3.1,
+      "apiid": 2029,
+      "oriid": 2029,
+      "apcid": 368,
+      "orcid": 368,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Pagani_HuayraCodalungaSpeedster_2025_Wheel1A_3D"
+      ],
+      "opcn": "Pagani_HuayraCodalungaSpeedster_2025_Wheel1A_3D",
+      "upst": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 9.988,
+      "tthm": 16.061,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2668,
+      "inid": 2029,
+      "caid": 368,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
     }
-  ],
-  "fpin": 3,
-  "cppi": 603,
-  "ttqm": 9.988,
-  "tthm": 16.061,
-  "ctie": "TIER_5",
-  "csrc": "Prize",
-  "nupl": {
-    "cpf": false
-  },
-  "paid": 2668,
-  "inid": 2029,
-  "caid": 368,
-  "lzsid": -1,
-  "livid": -2147483648,
-  "whbn": "Wheel1A_3D"
-}

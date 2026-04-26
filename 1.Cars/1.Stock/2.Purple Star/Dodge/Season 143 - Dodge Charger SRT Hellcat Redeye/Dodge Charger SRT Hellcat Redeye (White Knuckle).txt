@@ -1,4 +1,4 @@
-    {
+{
       "unid": 1045,
       "crdb": "Dodge_ChargerHellcatRedeyeReward_2021",
       "awar": false,

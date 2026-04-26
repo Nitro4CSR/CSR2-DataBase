@@ -1,0 +1,126 @@
+{
+      "unid": 7006,
+      "crdb": "Hyundai_IONIQ6NRewardRecycled_2025",
+      "grsp": [
+        1.0
+      ],
+      "fidr": 4.96,
+      "apiid": 1687,
+      "oriid": 1687,
+      "apcid": 310,
+      "orcid": 310,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Hyundai_IONIQ6NRewardRecycled_2025_Wheel1A_3D"
+      ],
+      "opcn": "Hyundai_IONIQ6NRewardRecycled_2025_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 500,
+      "ttqm": 12.457,
+      "tthm": 18.248,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2120,
+      "inid": 1687,
+      "caid": 310,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

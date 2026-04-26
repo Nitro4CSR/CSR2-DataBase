@@ -1,137 +1,137 @@
 {
-  "unid": 7516,
-  "crdb": "Porsche_911TurboSRewardRecycled_2026",
-  "grsp": [
-    4.89,
-    3.17,
-    2.15,
-    1.56,
-    1.18,
-    0.94,
-    0.76,
-    0.61
-  ],
-  "fidr": 3.99,
-  "appi": 12,
-  "orpi": 12,
-  "apiid": 2009,
-  "oriid": 2009,
-  "apcid": 254,
-  "orcid": 254,
-  "aplid": 1388,
-  "orlid": 1388,
-  "aplzsid": 9,
-  "orlzsid": 9,
-  "apcn": [
-    "Porsche_911TurboSRewardRecycled_2026_Wheel1A_3D"
-  ],
-  "opcn": "Porsche_911TurboSRewardRecycled_2026_Wheel1A_3D",
-  "upst": [
-    {
-      "lvls": [
+      "unid": 7516,
+      "crdb": "Porsche_911TurboSRewardRecycled_2026",
+      "grsp": [
+        4.89,
+        3.17,
+        2.15,
+        1.56,
+        1.18,
+        0.94,
+        0.76,
+        0.61
+      ],
+      "fidr": 3.99,
+      "appi": 12,
+      "orpi": 12,
+      "apiid": 2009,
+      "oriid": 2009,
+      "apcid": 254,
+      "orcid": 254,
+      "aplid": 1388,
+      "orlid": 1388,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Porsche_911TurboSRewardRecycled_2026_Wheel1A_3D"
+      ],
+      "opcn": "Porsche_911TurboSRewardRecycled_2026_Wheel1A_3D",
+      "upst": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 10.651,
+      "tthm": 16.071,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1222,
+      "inid": 2009,
+      "caid": 254,
+      "lzsid": 9,
+      "livid": 1388,
+      "whbn": "Wheel1A_3D"
     }
-  ],
-  "fpin": 2,
-  "cppi": 603,
-  "ttqm": 10.651,
-  "tthm": 16.071,
-  "ctie": "TIER_5",
-  "csrc": "Gacha",
-  "nupl": {
-    "cpf": false
-  },
-  "paid": 1222,
-  "inid": 2009,
-  "caid": 254,
-  "lzsid": 9,
-  "livid": 1388,
-  "whbn": "Wheel1A_3D"
-}

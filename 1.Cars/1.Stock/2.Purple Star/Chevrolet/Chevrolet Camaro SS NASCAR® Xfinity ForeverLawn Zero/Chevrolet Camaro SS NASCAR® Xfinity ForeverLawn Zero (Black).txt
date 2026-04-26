@@ -1,4 +1,4 @@
-    {
+{
       "unid": 1049,
       "crdb": "Chevrolet_CamaroSSNASCARXfinity_2021",
       "awar": false,

@@ -1,4 +1,4 @@
-    {
+{
       "unid": 1200,
       "crdb": "Chevrolet_C10Halloween_2016",
       "awar": false,

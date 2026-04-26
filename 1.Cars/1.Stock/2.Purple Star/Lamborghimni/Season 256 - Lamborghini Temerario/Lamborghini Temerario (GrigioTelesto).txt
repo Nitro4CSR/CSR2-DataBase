@@ -1,135 +1,135 @@
 {
-  "unid": 7559,
-  "crdb": "Lamborghini_TemerarioReward_2025",
-  "grsp": [
-    3.9,
-    2.42,
-    1.8,
-    1.4,
-    1.15,
-    0.975,
-    0.83,
-    0.7
-  ],
-  "fidr": 3.7,
-  "apiid": 2025,
-  "oriid": 2025,
-  "apcid": 271,
-  "orcid": 271,
-  "aplid": 195,
-  "orlid": 195,
-  "aplzsid": 9,
-  "orlzsid": 9,
-  "apcn": [
-    "Lamborghini_TemerarioReward_2025_Wheel1A_3D"
-  ],
-  "opcn": "Lamborghini_TemerarioReward_2025_Wheel1A_3D",
-  "upst": [
-    {
-      "lvls": [
+      "unid": 7559,
+      "crdb": "Lamborghini_TemerarioReward_2025",
+      "grsp": [
+        3.9,
+        2.42,
+        1.8,
+        1.4,
+        1.15,
+        0.975,
+        0.83,
+        0.7
+      ],
+      "fidr": 3.7,
+      "apiid": 2025,
+      "oriid": 2025,
+      "apcid": 271,
+      "orcid": 271,
+      "aplid": 195,
+      "orlid": 195,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Lamborghini_TemerarioReward_2025_Wheel1A_3D"
+      ],
+      "opcn": "Lamborghini_TemerarioReward_2025_Wheel1A_3D",
+      "upst": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.086,
+      "tthm": 16.057,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1037,
+      "inid": 2025,
+      "caid": 271,
+      "lzsid": 9,
+      "livid": 195,
+      "whbn": "Wheel1A_3D"
     }
-  ],
-  "fpin": 3,
-  "cppi": 603,
-  "ttqm": 10.086,
-  "tthm": 16.057,
-  "ctie": "TIER_5",
-  "csrc": "Prize",
-  "nupl": {
-    "cpf": false
-  },
-  "paid": 1037,
-  "inid": 2025,
-  "caid": 271,
-  "lzsid": 9,
-  "livid": 195,
-  "whbn": "Wheel1A_3D"
-}

@@ -1,135 +1,135 @@
 {
-  "unid": 7556,
-  "crdb": "Lamborghini_TemerarioRewardRecycled_2025",
-  "grsp": [
-    3.9,
-    2.42,
-    1.8,
-    1.4,
-    1.15,
-    0.975,
-    0.83,
-    0.7
-  ],
-  "fidr": 3.7,
-  "appi": 11,
-  "orpi": 11,
-  "apiid": 1611,
-  "oriid": 1611,
-  "apcid": 364,
-  "orcid": 364,
-  "aplzsid": -1,
-  "orlzsid": -1,
-  "apcn": [
-    "Lamborghini_TemerarioRewardRecycled_2025_Wheel4A_3D"
-  ],
-  "opcn": "Lamborghini_TemerarioRewardRecycled_2025_Wheel4A_3D",
-  "upst": [
-    {
-      "lvls": [
+      "unid": 7556,
+      "crdb": "Lamborghini_TemerarioRewardRecycled_2025",
+      "grsp": [
+        3.9,
+        2.42,
+        1.8,
+        1.4,
+        1.15,
+        0.975,
+        0.83,
+        0.7
+      ],
+      "fidr": 3.7,
+      "appi": 11,
+      "orpi": 11,
+      "apiid": 1611,
+      "oriid": 1611,
+      "apcid": 364,
+      "orcid": 364,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Lamborghini_TemerarioRewardRecycled_2025_Wheel4A_3D"
+      ],
+      "opcn": "Lamborghini_TemerarioRewardRecycled_2025_Wheel4A_3D",
+      "upst": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 10.086,
+      "tthm": 16.057,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1231,
+      "inid": 1611,
+      "caid": 364,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel4A_3D"
     }
-  ],
-  "fpin": 2,
-  "cppi": 603,
-  "ttqm": 10.086,
-  "tthm": 16.057,
-  "ctie": "TIER_5",
-  "csrc": "Gacha",
-  "nupl": {
-    "cpf": false
-  },
-  "paid": 1231,
-  "inid": 1611,
-  "caid": 364,
-  "lzsid": -1,
-  "livid": -2147483648,
-  "whbn": "Wheel4A_3D"
-}

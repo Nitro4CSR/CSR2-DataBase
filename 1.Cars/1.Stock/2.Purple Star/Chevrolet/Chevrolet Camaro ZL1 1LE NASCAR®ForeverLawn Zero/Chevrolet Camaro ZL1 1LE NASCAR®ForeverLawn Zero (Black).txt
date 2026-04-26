@@ -1,4 +1,4 @@
-    {
+{
       "unid": 1050,
       "crdb": "Chevrolet_NASCARCamaroZL1JE_2020",
       "awar": false,

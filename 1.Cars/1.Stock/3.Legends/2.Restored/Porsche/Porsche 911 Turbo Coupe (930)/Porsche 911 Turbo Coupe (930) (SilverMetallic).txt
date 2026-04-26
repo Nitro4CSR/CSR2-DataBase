@@ -1,149 +1,149 @@
 {
-  "unid": 7528,
-  "crdb": "Porsche_911Turbo930LPClassic_1977",
-  "grsp": [
-    2.25,
-    1.304,
-    0.893,
-    0.656
-  ],
-  "fidr": 2.66,
-  "apiid": 940,
-  "oriid": 940,
-  "apcid": 2,
-  "orcid": 2,
-  "aplid": 1378,
-  "orlid": 1378,
-  "aplzsid": 15,
-  "orlzsid": 15,
-  "apcn": [
-    "Porsche_911Turbo930LPClassic_1977_Wheel2A_3D"
-  ],
-  "opcn": "Porsche_911Turbo930LPClassic_1977_Wheel1A_3D",
-  "upst": [
-    {
-      "lvls": [
+      "unid": 7528,
+      "crdb": "Porsche_911Turbo930LPClassic_1977",
+      "grsp": [
+        2.25,
+        1.304,
+        0.893,
+        0.656
+      ],
+      "fidr": 2.66,
+      "apiid": 940,
+      "oriid": 940,
+      "apcid": 2,
+      "orcid": 2,
+      "aplid": 1378,
+      "orlid": 1378,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Porsche_911Turbo930LPClassic_1977_Wheel2A_3D"
+      ],
+      "opcn": "Porsche_911Turbo930LPClassic_1977_Wheel1A_3D",
+      "upst": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "rpst": [
+        {
+          "rvlo": 1,
+          "rvlf": 1
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 2,
+          "rvlf": 2
+        }
+      ],
+      "cppi": 603,
+      "ttqm": 10.518,
+      "tthm": 16.058,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2637,
+      "inid": 940,
+      "caid": 2,
+      "lzsid": 15,
+      "livid": 1378,
+      "whbn": "Wheel2A_3D"
     }
-  ],
-  "fpin": 0,
-  "rpst": [
-    {
-      "rvlo": 1,
-      "rvlf": 1
-    },
-    {
-      "rvlo": 1,
-      "rvlf": 1
-    },
-    {
-      "rvlo": 1,
-      "rvlf": 1
-    },
-    {
-      "rvlo": 2,
-      "rvlf": 2
-    }
-  ],
-  "cppi": 603,
-  "ttqm": 10.518,
-  "tthm": 16.058,
-  "ctie": "TIER_5",
-  "csrc": "Gacha",
-  "nupl": {
-    "cpf": false
-  },
-  "paid": 2637,
-  "inid": 940,
-  "caid": 2,
-  "lzsid": 15,
-  "livid": 1378,
-  "whbn": "Wheel2A_3D"
-}

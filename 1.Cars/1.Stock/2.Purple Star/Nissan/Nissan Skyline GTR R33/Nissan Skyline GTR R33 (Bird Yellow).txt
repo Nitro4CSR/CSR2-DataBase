@@ -1,4 +1,4 @@
-    {
+{
       "unid": 1060,
       "crdb": "Nissan_SkylineGTRR33F1_1995",
       "awar": false,

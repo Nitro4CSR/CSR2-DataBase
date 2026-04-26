@@ -1,136 +1,136 @@
 {
-  "unid": 7492,
-  "crdb": "AstonMartin_DBXSRewardRecycled_2026",
-  "grsp": [
-    5.35,
-    3.24,
-    2.25,
-    1.63,
-    1.21,
-    1.0,
-    0.86,
-    0.71,
-    0.6
-  ],
-  "fidr": 3.55,
-  "appi": 5,
-  "orpi": 5,
-  "apiid": 1992,
-  "oriid": 1992,
-  "apcid": 105,
-  "orcid": 105,
-  "aplzsid": -1,
-  "orlzsid": -1,
-  "apcn": [
-    "AstonMartin_DBXSRewardRecycled_2026_Wheel3A_3D"
-  ],
-  "opcn": "AstonMartin_DBXSRewardRecycled_2026_Wheel3A_3D",
-  "upst": [
-    {
-      "lvls": [
+      "unid": 7492,
+      "crdb": "AstonMartin_DBXSRewardRecycled_2026",
+      "grsp": [
+        5.35,
+        3.24,
+        2.25,
+        1.63,
+        1.21,
+        1.0,
+        0.86,
+        0.71,
+        0.6
+      ],
+      "fidr": 3.55,
+      "appi": 5,
+      "orpi": 5,
+      "apiid": 1992,
+      "oriid": 1992,
+      "apcid": 105,
+      "orcid": 105,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "AstonMartin_DBXSRewardRecycled_2026_Wheel3A_3D"
+      ],
+      "opcn": "AstonMartin_DBXSRewardRecycled_2026_Wheel3A_3D",
+      "upst": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 500,
+      "ttqm": 11.412,
+      "tthm": 18.239,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2258,
+      "inid": 1992,
+      "caid": 105,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel3A_3D"
     }
-  ],
-  "fpin": 2,
-  "cppi": 500,
-  "ttqm": 11.412,
-  "tthm": 18.239,
-  "ctie": "TIER_4",
-  "csrc": "Gacha",
-  "nupl": {
-    "cpf": false
-  },
-  "paid": 2258,
-  "inid": 1992,
-  "caid": 105,
-  "lzsid": -1,
-  "livid": -2147483648,
-  "whbn": "Wheel3A_3D"
-}

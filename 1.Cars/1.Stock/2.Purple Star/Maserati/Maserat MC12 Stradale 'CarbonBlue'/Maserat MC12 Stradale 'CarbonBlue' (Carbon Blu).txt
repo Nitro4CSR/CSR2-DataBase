@@ -1,4 +1,4 @@
-    {
+{
       "unid": 1068,
       "crdb": "Maserati_MC12CarbonBlue_2004",
       "awar": false,

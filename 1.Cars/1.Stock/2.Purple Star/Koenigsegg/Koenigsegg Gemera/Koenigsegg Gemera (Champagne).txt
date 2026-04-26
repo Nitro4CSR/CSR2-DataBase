@@ -1,134 +1,134 @@
 {
-  "unid": 7524,
-  "crdb": "Koenigsegg_Gemera_2025",
-  "grsp": [
-    4.72,
-    3.64,
-    2.87,
-    2.25,
-    1.73,
-    1.37,
-    1.07,
-    0.83,
-    0.65
-  ],
-  "fidr": 2.55,
-  "apiid": 159,
-  "oriid": 159,
-  "apcid": 75,
-  "orcid": 75,
-  "aplzsid": -1,
-  "orlzsid": -1,
-  "apcn": [
-    "Koenigsegg_Gemera_2025_Wheel1A_3D"
-  ],
-  "opcn": "Koenigsegg_Gemera_2025_Wheel1A_3D",
-  "upst": [
-    {
-      "lvls": [
+      "unid": 7524,
+      "crdb": "Koenigsegg_Gemera_2025",
+      "grsp": [
+        4.72,
+        3.64,
+        2.87,
+        2.25,
+        1.73,
+        1.37,
+        1.07,
+        0.83,
+        0.65
+      ],
+      "fidr": 2.55,
+      "apiid": 159,
+      "oriid": 159,
+      "apcid": 75,
+      "orcid": 75,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Koenigsegg_Gemera_2025_Wheel1A_3D"
+      ],
+      "opcn": "Koenigsegg_Gemera_2025_Wheel1A_3D",
+      "upst": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.549,
+      "tthm": 16.053,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2669,
+      "inid": 159,
+      "caid": 75,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
     }
-  ],
-  "fpin": 3,
-  "cppi": 603,
-  "ttqm": 10.549,
-  "tthm": 16.053,
-  "ctie": "TIER_5",
-  "csrc": "Prize",
-  "nupl": {
-    "cpf": false
-  },
-  "paid": 2669,
-  "inid": 159,
-  "caid": 75,
-  "lzsid": -1,
-  "livid": -2147483648,
-  "whbn": "Wheel1A_3D"
-}

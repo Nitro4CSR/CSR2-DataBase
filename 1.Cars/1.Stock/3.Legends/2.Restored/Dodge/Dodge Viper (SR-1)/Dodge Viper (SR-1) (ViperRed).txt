@@ -1,151 +1,151 @@
 {
-  "unid": 7529,
-  "crdb": "Dodge_ViperSR1LPClassic_1995",
-  "grsp": [
-    2.66,
-    1.78,
-    1.3,
-    1.0,
-    0.74,
-    0.5
-  ],
-  "fidr": 2.22,
-  "apiid": 261,
-  "oriid": 261,
-  "apcid": 3,
-  "orcid": 3,
-  "aplid": 1384,
-  "orlid": 1384,
-  "aplzsid": 15,
-  "orlzsid": 15,
-  "apcn": [
-    "Dodge_ViperSR1LPClassic_1995_Wheel2A_3D"
-  ],
-  "opcn": "Dodge_ViperSR1LPClassic_1995_Wheel1A_3D",
-  "upst": [
-    {
-      "lvls": [
+      "unid": 7529,
+      "crdb": "Dodge_ViperSR1LPClassic_1995",
+      "grsp": [
+        2.66,
+        1.78,
+        1.3,
+        1.0,
+        0.74,
+        0.5
+      ],
+      "fidr": 2.22,
+      "apiid": 261,
+      "oriid": 261,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 1384,
+      "orlid": 1384,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Dodge_ViperSR1LPClassic_1995_Wheel2A_3D"
+      ],
+      "opcn": "Dodge_ViperSR1LPClassic_1995_Wheel1A_3D",
+      "upst": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    {
-      "lvls": [
         {
-          "ulpf": true
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "rpst": [
+        {
+          "rvlo": 1,
+          "rvlf": 1
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 2,
+          "rvlf": 2
+        }
+      ],
+      "cppi": 603,
+      "ttqm": 10.733,
+      "tthm": 16.059,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2283,
+      "inid": 261,
+      "caid": 3,
+      "lzsid": 15,
+      "livid": 1384,
+      "whbn": "Wheel2A_3D"
     }
-  ],
-  "fpin": 0,
-  "rpst": [
-    {
-      "rvlo": 1,
-      "rvlf": 1
-    },
-    {
-      "rvlo": 1,
-      "rvlf": 1
-    },
-    {
-      "rvlo": 1,
-      "rvlf": 1
-    },
-    {
-      "rvlo": 2,
-      "rvlf": 2
-    }
-  ],
-  "cppi": 603,
-  "ttqm": 10.733,
-  "tthm": 16.059,
-  "ctie": "TIER_5",
-  "csrc": "Gacha",
-  "nupl": {
-    "cpf": false
-  },
-  "paid": 2283,
-  "inid": 261,
-  "caid": 3,
-  "lzsid": 15,
-  "livid": 1384,
-  "whbn": "Wheel2A_3D"
-}

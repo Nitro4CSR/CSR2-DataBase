@@ -1,4 +1,4 @@
-    {
+{
       "unid": 1066,
       "crdb": "Ferrari_FXXEvoluzione_2008",
       "awar": false,

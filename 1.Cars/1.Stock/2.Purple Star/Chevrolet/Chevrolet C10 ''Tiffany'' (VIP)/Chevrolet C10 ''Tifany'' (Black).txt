@@ -1,4 +1,4 @@
-    {
+{
       "unid": 1201,
       "crdb": "Chevrolet_C10RewardVIP_2016",
       "awar": false,
