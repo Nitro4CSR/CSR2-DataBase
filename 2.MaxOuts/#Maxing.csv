@@ -354,6 +354,7 @@ TIER_5,Apollo_IntensaEmozioneCarbon_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Apollo_IntensaEmozioneOrangeDragon_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Apollo_IntensaEmozione_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Apollo_ProjectEvo_2022,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Apollo_S_2008,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Arrinera_HussaryaRewardRecycled_2020,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Arrinera_HussaryaReward_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Aspark_Owl_2021,T5_5_135_36_50_49.txt,35,5979000,true
@@ -397,6 +398,7 @@ TIER_5,AstonMartin_VanquishZagatoRewardRecycled_2017,T5_5_128_44_43_41.txt,35,59
 TIER_5,AstonMartin_VanquishZagatoReward_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_VanquishZagatoSB_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_Vanquish_2025,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,AstonMartin_VantageGT12_2016,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_VantageGTE_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_VantageRRewardRecycled_2025,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,AstonMartin_VantageRReward_2025,T5_4_135_36_50_49.txt,35,5979000,true
@@ -624,6 +626,7 @@ TIER_5,Ferrari_296GTBAssettoFiorano_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ferrari_296GTB_2022,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Ferrari_296GTSRewardRecycled_2023,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Ferrari_296GTSReward_2023,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Ferrari_296SpecialeA_2026,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ferrari_458Speciale_2014,T5_4_135_36_50_49.txt,35,5979000,true
 TIER_5,Ferrari_488GTB70thAnniversary_2015,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ferrari_488GTModificata_2021,T5_5_135_36_50_49.txt,35,5979000,true
@@ -862,6 +865,7 @@ TIER_5,Lamborghini_MiuraSVLPClassic_1971,T5_5_150_37_60_53.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoLP640F8_2006,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoSVRewardRecycled_2009,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Lamborghini_MurcielagoSVReward_2009,T5_4_135_36_50_49.txt,35,5979000,true
+TIER_5,Lamborghini_Reventon_2008,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_RevueltoRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Lamborghini_RevueltoReward_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_SC18Alston_2019,T5_5_135_36_50_49.txt,35,5979000,true
@@ -1081,6 +1085,7 @@ TIER_5,Porsche_911GT3R992_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT3RRennsport_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT3RS992Tribute_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT3RS992_2023,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Porsche_911GT3RS997_2012,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT3RSCrewRecycled_2016,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Porsche_911GT3RSCrew_2016,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_911GT3RSRewardRecycled_2018,T5_4_128_44_43_41.txt,35,5979000,true
@@ -1123,6 +1128,8 @@ TIER_5,Porsche_Canepa959_1988,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_CarreraGTClassic_2003,T5_5_135_37_46_52.txt,35,5979000,true
 TIER_5,Porsche_DD911GTRSRRewardRecycled_2017,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Porsche_DD911GTRSRReward_2017,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Porsche_Manthey911GT3RSRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Porsche_Manthey911GT3RSReward_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_MissionRConcept_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_RWB911Turbo_1991,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_RWB964RewardRecycled_1991,T5_5_128_44_43_41.txt,35,5979000,true
@@ -1139,6 +1146,7 @@ TIER_5,Porsche_TaycanTurboSCrossTurismo_2022,T5_5_135_36_50_49.txt,35,5979000,tr
 TIER_5,Porsche_TaycanTurboSPride_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Porsche_TaycanTurboSRewardRecycled_2021,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Porsche_TaycanTurboSReward_2021,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,RAESR_TachyonSpeed_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Radford_Type62GOSH_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Radford_Type62PikesPeak_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Radford_Type62RewardRecycled_2021,T5_5_128_44_43_41.txt,35,5979000,true
@@ -1210,7 +1218,3 @@ TIER_5,Zenvo_TSRGTReward_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Zenvo_TSRSGold_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Zenvo_TSRS_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Zenvo_TSRS_2020,T5_5_135_36_50_49.txt,35,5979000,true
-TIER_5,Porsche_Manthey911GT3RSRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true
-TIER_5,Porsche_Manthey911GT3RSReward_2024,T5_5_135_36_50_49.txt,35,5979000,true
-TIER_5,RAESR_TachyonSpeed_2024,T5_5_135_36_50_49.txt,35,5979000,true
-TIER_5,Ferrari_296SpecialeA_2026,T5_5_135_36_50_49.txt,35,5979000,true
