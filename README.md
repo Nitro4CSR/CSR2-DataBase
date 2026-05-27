@@ -229,3 +229,6 @@ Due to the amount of files this project has it can be quite hard to find the fil
 **Update 6.5.0**
 ![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/6.5.0.png)
 <br>
+**Update 6.5.0 Part 2**
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/6.5.0_Part_2.png)
+<br>

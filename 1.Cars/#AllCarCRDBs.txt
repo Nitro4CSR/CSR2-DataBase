@@ -392,6 +392,7 @@ Dodge_ViperACRExtremeAeroPackage_2016
 Dodge_ViperACRRewardRecycled_2016
 Dodge_ViperACRReward_2016
 Dodge_ViperACRVoodooII_2016
+Dodge_ViperACR_2009
 Dodge_ViperGTS_1996
 Dodge_ViperGTS_2015
 Dodge_ViperSR1LPClassic_1995
@@ -593,6 +594,8 @@ Honda_NSXTNR_1992
 Honda_S2000F1_2001
 Honda_S2000F2_2001
 Honda_S2000TNR_2001
+Honda_VarisS2000RewardRecycled_2005
+Honda_VarisS2000Reward_2005
 Hyperion_XP1_2023
 Hyundai_ElantraNRewardRecycled_2022
 Hyundai_ElantraNReward_2022
@@ -792,6 +795,7 @@ Mazda_RX7RewardRecycled_1993
 Mazda_RX7Reward_1993
 Mazda_RX7TNR_1993
 Mazda_RX8F3_2004
+Mazda_RX8TNR_2008
 Mazzanti_EvantraMillecavalliGold_2019
 Mazzanti_EvantraMillecavalli_2019
 McLaren_570S_2016
@@ -863,6 +867,8 @@ MercedesAMGF1_W11VB_2020
 MercedesAMGF1_W11_2020
 MercedesAMG_CLAEVRewardRecycled_2025
 MercedesAMG_CLAEVReward_2025
+MercedesAMG_CLE53CoupeRewardRecycled_2024
+MercedesAMG_CLE53CoupeReward_2024
 MercedesAMG_G63SUVRewardRecycled_2020
 MercedesAMG_G63SUVReward_2020
 MercedesAMG_GT3_2020
@@ -1120,11 +1126,13 @@ SSC_TuataraSilver_2019
 SSC_TuataraStriker_2022
 SSC_TuataraWRE_2020
 SSC_Tuatara_2019
+SSC_UltimateAeroTT_2009
 Saleen_S1RewardRecycled_2018
 Saleen_S1Reward_2018
 Saleen_S7Classic_2004
 Shelby_Cobra427SCClassic_1965
 Shelby_CobraDaytonaLP_1964
+Shelby_MustangSuperSnakeR_2025
 Shelby_SuperSnakeRewardRecycled_2019
 Shelby_SuperSnakeReward_2019
 Shelby_SuperSnakeS650RewardRecycled_2024
