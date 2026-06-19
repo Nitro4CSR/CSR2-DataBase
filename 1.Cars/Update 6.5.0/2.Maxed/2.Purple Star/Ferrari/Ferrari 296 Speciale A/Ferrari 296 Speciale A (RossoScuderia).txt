@@ -510,7 +510,7 @@
       "ttqm": 10.315,
       "tthm": 16.058,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "Prize",
       "nupl": {
         "cpf": false
       },

@@ -506,7 +506,7 @@
       "ttqm": 10.335,
       "tthm": 16.048,
       "ctie": "TIER_5",
-      "csrc": "IAPSpecial",
+      "csrc": "Prize",
       "nupl": {
         "cpf": false
       }

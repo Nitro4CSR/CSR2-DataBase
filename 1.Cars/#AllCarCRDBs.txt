@@ -1,3 +1,4 @@
+Ford_RingbrothersMustang_1969
 AMC_RingbrothersJavelinDefiant_1972
 ATSAutomobili_GTRewardRecycled_2018
 ATSAutomobili_GTReward_2018
@@ -264,6 +265,7 @@ Cadillac_CTSVReward_2017
 Chevrolet_AlphaSixCamaroSSCrewRecycled_2016
 Chevrolet_AlphaSixCamaroSSCrew_2016
 Chevrolet_AmericanLegendsChevelle_1966
+Chevrolet_BBTImpala_1959
 Chevrolet_BlazinRodsChevelle_1970
 Chevrolet_C10Elite_2016
 Chevrolet_C10Halloween_2016
@@ -286,6 +288,7 @@ Chevrolet_CamaroZL1NASCAR_2022
 Chevrolet_CapriceDonk_1971
 Chevrolet_CorvetteC1LPClassic_1958
 Chevrolet_CorvetteC4ZR1_1994
+Chevrolet_CorvetteC6ZR1_2012
 Chevrolet_CorvetteC7REditionRewardRecycled_2015
 Chevrolet_CorvetteC7REditionReward_2015
 Chevrolet_CorvetteC8Convertible_2020
@@ -433,6 +436,8 @@ Ferrari_812GTSReward_2020
 Ferrari_812SuperfastRewardRecycled_2018
 Ferrari_812SuperfastReward_2018
 Ferrari_849Testarossa_2026
+Ferrari_AmalfiRewardRecycled_2027
+Ferrari_AmalfiReward_2027
 Ferrari_California30RewardRecycled_2012
 Ferrari_California30Reward_2012
 Ferrari_CaliforniaT70thAnniversary_2015
@@ -514,6 +519,8 @@ Ford_GT_2005
 Ford_Mustang302_1970
 Ford_MustangCobraJetVIP_2019
 Ford_MustangCobraJet_2019
+Ford_MustangDarkHorseSCRewardRecycled_2025
+Ford_MustangDarkHorseSCReward_2025
 Ford_MustangDarkHorse_2024
 Ford_MustangF3_1967
 Ford_MustangFoxbodyF9_1987
@@ -547,6 +554,7 @@ Ford_RuffianMustangFIAFastback_1967
 Ford_RuffianMustang_1970
 Ford_ShelbyGT350RElite_2016
 Ford_ShelbyGT350R_2016
+Ford_SpeedShopF100_1956
 Ford_Supervan4_2022
 Ford_WeaverCustomsModelAElite_1931
 Ford_WeaverCustomsModelALB_1931
@@ -628,6 +636,7 @@ Jaguar_XESVProject8F9_2018
 Jaguar_XESVProject8RewardRecycled_2018
 Jaguar_XESVProject8Reward_2018
 Jaguar_XJ220Classic_1993
+Jaguar_XKRSGT_2014
 Jeep_GladiatorF9_2019
 Jeep_GladiatorRewardRecycled_2019
 Jeep_GladiatorReward_2019
@@ -954,6 +963,7 @@ Nissan_VeilsideZReward_2023
 Nissan_ZNISMORewardRecycled_2024
 Nissan_ZNISMOReward_2024
 Nissan_ZTNR_2023
+Nissan_Zero4Skyline2000GT_1971
 Noble_M500_2022
 Noble_M600CarbonSport_2017
 Noble_M600F9_2017
@@ -1010,6 +1020,7 @@ Pontiac_FieroF9_1986
 Pontiac_FirebirdTransAm_1977
 Pontiac_GTOTheJudgeClassic_1969
 Pontiac_HorizonMotorsportsTransAm_1973
+Pontiac_NHRFirebird_1970
 Pontiac_RyansFirebirdTransAm_1978
 Porsche_718BoxsterS_2017
 Porsche_718BoxsterSpyder_2020
