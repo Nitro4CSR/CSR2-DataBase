@@ -1193,6 +1193,7 @@ Toyota_PandeMGRSupraV1_2020
 Toyota_SprinterTruenoAE86_1980
 Toyota_SupraMK4TNR_1994
 Toyota_SupraMKIVF1_1994
+Toyota_SupraMKIVF7_1995
 Toyota_SupraMKIVVaris_1994
 Ultima_EVOCoupeRewardRecycled_2016
 Ultima_EVOCoupeReward_2016

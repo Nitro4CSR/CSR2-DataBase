@@ -1,0 +1,129 @@
+{
+      "unid": 7116,
+      "crdb": "Toyota_SupraMKIVF7_1995",
+      "grsp": [
+        3.83,
+        2.36,
+        1.69,
+        1.31,
+        1.0,
+        0.79
+      ],
+      "fidr": 3.47,
+      "apiid": 110,
+      "oriid": 110,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Toyota_SupraMKIVF7_1995_Wheel1A_3D"
+      ],
+      "opcn": "Toyota_SupraMKIVF7_1995_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.339,
+      "tthm": 16.061,
+      "ctie": "TIER_5",
+      "csrc": "IAPSpecial",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2723,
+      "inid": 110,
+      "caid": 0,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

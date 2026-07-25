@@ -1,5 +1,4 @@
 ﻿Tier,CarName,FileName,NUUB,MSOU,ESUP
-TIER_5,Ford_RingbrothersMustang_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_1,Abarth_500_2014,T1_1_27_20_7_0.txt,35,202460,true
 TIER_1,Ford_F150SVTRaptorElite_2014,T1_3_32_16_16_0.txt,35,300900,true
 TIER_1,Ford_FiestaST_2016,T1_1_27_20_7_0.txt,35,202460,true
@@ -740,6 +739,7 @@ TIER_5,Ford_MustangShelbyGT500RewardRecycled_2019,T5_5_128_44_43_41.txt,35,59790
 TIER_5,Ford_MustangShelbyGT500Reward_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_ROUSHStage3Mustang_2019,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Ford_RingbrothersMustangMach1_1969,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Ford_RingbrothersMustang_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_RuffianGT40_1966,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_RuffianGalaxie500_1964,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_RuffianMustangFIAFastback_1967,T5_5_135_36_50_49.txt,35,5979000,true
@@ -1218,6 +1218,7 @@ TIER_5,Toyota_PandeMGRSupraV1_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Toyota_SprinterTruenoAE86_1980,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Toyota_SupraMK4TNR_1994,T5_5_150_39_57_54.txt,35,5979000,true
 TIER_5,Toyota_SupraMKIVF1_1994,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Toyota_SupraMKIVF7_1995,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Toyota_SupraMKIVVaris_1994,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ultima_EVOCoupeRewardRecycled_2016,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Ultima_EVOCoupeReward_2016,T5_5_135_36_50_49.txt,35,5979000,true
