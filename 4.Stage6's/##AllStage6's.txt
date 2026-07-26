@@ -26873,7 +26873,6 @@
       "esdb": "Chevrolet_GAPCorvette_1972"
     },
     3,
-    3,
     {
       "esnn": 0,
       "esut": "ENGINE",
@@ -26914,6 +26913,76 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Plymouth_RuffianCoupe_1935"
+    },
+    3,
+    {
+      "esut": "ENGINE",
+      "esdb": "Porsche_Manthey911GT3RSRewardRecycled_2024"
+    },
+    3,
+    {
+      "esut": "TURBO",
+      "esdb": "Porsche_Manthey911GT3RSRewardRecycled_2024"
+    },
+    3,
+    {
+      "esut": "INTAKE",
+      "esdb": "Porsche_Manthey911GT3RSRewardRecycled_2024"
+    },
+    3,
+    {
+      "esut": "NITROUS",
+      "esdb": "Porsche_Manthey911GT3RSRewardRecycled_2024"
+    },
+    3,
+    {
+      "esut": "BODY",
+      "esdb": "Porsche_Manthey911GT3RSRewardRecycled_2024"
+    },
+    3,
+    {
+      "esut": "TYRES",
+      "esdb": "Porsche_Manthey911GT3RSRewardRecycled_2024"
+    },
+    3,
+    {
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_Manthey911GT3RSRewardRecycled_2024"
+    },
+    3,
+    {
+      "esut": "ENGINE",
+      "esdb": "Dodge_ChallengerRTLPClassic_1970"
+    },
+    3,
+    {
+      "esut": "TURBO",
+      "esdb": "Dodge_ChallengerRTLPClassic_1970"
+    },
+    3,
+    {
+      "esut": "INTAKE",
+      "esdb": "Dodge_ChallengerRTLPClassic_1970"
+    },
+    3,
+    {
+      "esut": "NITROUS",
+      "esdb": "Dodge_ChallengerRTLPClassic_1970"
+    },
+    3,
+    {
+      "esut": "BODY",
+      "esdb": "Dodge_ChallengerRTLPClassic_1970"
+    },
+    3,
+    {
+      "esut": "TYRES",
+      "esdb": "Dodge_ChallengerRTLPClassic_1970"
+    },
+    3,
+    {
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_ChallengerRTLPClassic_1970"
     },
     3
   ]
