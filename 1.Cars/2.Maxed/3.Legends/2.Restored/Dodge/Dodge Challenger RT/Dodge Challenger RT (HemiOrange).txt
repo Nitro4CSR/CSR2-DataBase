@@ -538,5 +538,6 @@
       "whbn": "Wheel2A_3D",
       "esup": true,
       "nuub": 35,
+      "cmlv": 40,
       "msou": 5979000
     }
