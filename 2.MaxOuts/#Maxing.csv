@@ -561,6 +561,7 @@ TIER_5,Chevrolet_LBCamaroIROCZReward_1987,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_LMCorvetteC8_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_LMCorvetteZ06RewardRecycled_2023,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Chevrolet_LMCorvetteZ06Reward_2023,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_LowerLevelGarageApache_1959,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_MonteCarloRaceCarF9_1995,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_NASCARCamaroZL1JE_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_NASCARCamaroZL1_2020,T5_5_135_36_50_49.txt,35,5979000,true
@@ -578,6 +579,7 @@ TIER_5,Chevrolet_RingbrothersChevelle_1966,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_RingbrothersPickUp_1948,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_RoadsterShopCamaro_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_SickSecondsCamaroSS_1969,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_TimmBuiltElCamino_1978,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_WeaverCamaro_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_WeaverCustoms3100_1949,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_WolfeKustomsBelAir_1957,T5_5_135_36_50_49.txt,35,5979000,true
@@ -651,6 +653,8 @@ TIER_5,Ferrari_512TR_1991,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ferrari_599GTORewardRecycled_2010,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Ferrari_599GTOReward_2010,T5_4_135_36_50_49.txt,35,5979000,true
 TIER_5,Ferrari_599XXEvoluzione_2011,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Ferrari_599XXRewardRecycled_2010,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Ferrari_599XXReward_2010,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ferrari_812CompetizioneRewardRecycled_2021,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Ferrari_812CompetizioneReward_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ferrari_812Competizione_2021,T5_5_135_36_50_49.txt,35,5979000,true
@@ -738,6 +742,7 @@ TIER_5,Ford_MustangShelbyGT350LPClassic_1965,T5_5_150_37_60_53.txt,35,5979000,tr
 TIER_5,Ford_MustangShelbyGT500RewardRecycled_2019,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Ford_MustangShelbyGT500Reward_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_ROUSHStage3Mustang_2019,T5_4_128_44_43_41.txt,35,5979000,true
+TIER_5,Ford_RadRidesTroyRoadster_1936,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_RingbrothersMustangMach1_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_RingbrothersMustang_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_RuffianGT40_1966,T5_5_135_36_50_49.txt,35,5979000,true
@@ -888,6 +893,8 @@ TIER_5,Lamborghini_MurcielagoSVReward_2009,T5_4_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_Reventon_2008,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_RevueltoRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Lamborghini_RevueltoReward_2024,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Lamborghini_RevueltoSS1_2024,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Lamborghini_RevueltoSS2_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_SC18Alston_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_SC20_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Lamborghini_SC63LMDH_2024,T5_5_135_36_50_49.txt,35,5979000,true
