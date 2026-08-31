@@ -511,5 +511,8 @@
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      }
+      },
+      "esup": true,
+      "nuub": 35,
+      "msou": 5979000
     }

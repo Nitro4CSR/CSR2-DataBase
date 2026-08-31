@@ -511,5 +511,14 @@
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      }
+      },
+      "paid": 2697,
+      "inid": 940,
+      "caid": 3,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D",
+      "esup": true,
+      "nuub": 35,
+      "msou": 5979000
     }
