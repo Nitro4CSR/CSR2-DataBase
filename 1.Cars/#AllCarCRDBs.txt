@@ -26,6 +26,7 @@ Apollo_ProjectEvo_2022
 Apollo_S_2008
 Arrinera_HussaryaRewardRecycled_2020
 Arrinera_HussaryaReward_2020
+Aspark_OwlSP600_2024
 Aspark_Owl_2021
 AstonMartin_DB11RewardRecycled_2017
 AstonMartin_DB11Reward_2017
@@ -258,6 +259,7 @@ Bugatti_W16Mistral_2023
 Bugatti_X16Gold_2024
 Bugatti_X16_2024
 Buick_GNX_1987
+Buick_GrandNationalF4_1987
 Buick_RingbrothersGNX_1987
 Buick_RoadstershopGrandNational_1987
 Cadillac_CT5VBlackwingRewardRecycled_2022
@@ -390,6 +392,8 @@ Dodge_ChargerRTF4_1970
 Dodge_ChargerRTF8_1970
 Dodge_ChargerRTF9_1966
 Dodge_ChargerRedeyeSplatter_2023
+Dodge_ChargerSixpackRewardRecycled_2025
+Dodge_ChargerSixpackReward_2025
 Dodge_ChargerTantrumF9_1970
 Dodge_DemonChargerF9_2018
 Dodge_HPE1200DemonGold_2018
@@ -504,6 +508,7 @@ FnF_FlipCar_2013
 FnF_SupraMKIVF2_1994
 Ford_Durty30Gold_2016
 Ford_Durty30_2016
+Ford_DutchboysTorino_1969
 Ford_EscortMKIF6_1970
 Ford_EscortMk1RS2000LPClassic_1973
 Ford_EscortRSCosworthCossieV2_1994
@@ -779,6 +784,7 @@ Lexus_LFANurburgringPackage_2011
 Lexus_LFA_2011
 LocalMotor_RallyFighterF8_2013
 LocalMotor_RallyFighter_2013
+Lotus_Emira_2022
 Lotus_EvijaRewardRecycled_2020
 Lotus_EvijaReward_2020
 Lotus_Evija_2020
@@ -808,12 +814,14 @@ Mazda_KRCJapanRX8RewardRecycled_2004
 Mazda_KRCJapanRX8Reward_2004
 Mazda_LBSuperSilhouetteRX7SE_1993
 Mazda_LBSuperSilhouetteRX7_1993
+Mazda_MX5Gold_2016
 Mazda_MX5_2016
 Mazda_PandeMMX5_2016
 Mazda_RBRX8_2004
 Mazda_RX7F1_1993
 Mazda_RX7F2_1993
 Mazda_RX7F3_1993
+Mazda_RX7RSPantera_1993
 Mazda_RX7RewardEaster_1993
 Mazda_RX7RewardRecycled_1993
 Mazda_RX7Reward_1993

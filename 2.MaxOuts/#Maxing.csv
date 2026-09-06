@@ -9,7 +9,10 @@ TIER_1,Honda_Civic15VTECCrewRecycled_1994,T1_2_32_23_9_0.txt,35,300900,true
 TIER_1,Honda_Civic15VTECCrew_1994,T1_3_32_16_16_0.txt,35,300900,true
 TIER_1,Hyundai_VelosterTurboRSpecCrew_2014,T1_3_32_16_16_0.txt,35,300900,true
 TIER_1,Hyundai_VelosterTurboRSpec_2014,T1_1_27_20_7_0.txt,35,202460,true
+TIER_1,Lotus_Emira_2022,T1_1_27_20_7_0.txt,35,202460,true
+TIER_1,Mazda_MX5Gold_2016,T1_2_32_23_9_0.txt,35,300900,true
 TIER_1,Mazda_MX5_2016,T1_2_32_23_9_0.txt,35,300900,true
+TIER_1,Mazda_RX7RSPantera_1993,T1_1_27_20_7_0.txt,35,202460,true
 TIER_1,Mini_CooperSElite_2014,T1_3_32_16_16_0.txt,35,300900,true
 TIER_1,Mini_CooperS_2014,T1_1_27_20_7_0.txt,35,202460,true
 TIER_1,Mystery_CarSCS_1234,empty.txt,0,0,false
@@ -359,6 +362,7 @@ TIER_5,Apollo_ProjectEvo_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Apollo_S_2008,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Arrinera_HussaryaRewardRecycled_2020,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Arrinera_HussaryaReward_2020,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Aspark_OwlSP600_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Aspark_Owl_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,AstonMartin_DB11RewardRecycled_2017,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,AstonMartin_DB11Reward_2017,T5_4_135_36_50_49.txt,35,5979000,true
@@ -509,6 +513,7 @@ TIER_5,Bugatti_W16Mistral_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Bugatti_X16Gold_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Bugatti_X16_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Buick_GNX_1987,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Buick_GrandNationalF4_1987,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Buick_RingbrothersGNX_1987,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Buick_RoadstershopGrandNational_1987,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_AmericanLegendsChevelle_1966,T5_5_135_36_50_49.txt,35,5979000,true
@@ -612,6 +617,8 @@ TIER_5,Dodge_ChargerRTF4_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ChargerRTF8_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ChargerRTF9_1966,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ChargerRedeyeSplatter_2023,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Dodge_ChargerSixpackRewardRecycled_2025,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Dodge_ChargerSixpackReward_2025,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ChargerTantrumF9_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_DemonChargerF9_2018,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_HPE1200DemonGold_2018,T5_5_128_44_43_41.txt,35,5979000,true
@@ -712,6 +719,7 @@ TIER_5,FnF_FlipCar_2013,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,FnF_SupraMKIVF2_1994,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_Durty30Gold_2016,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_Durty30_2016,T5_5_128_44_43_41.txt,35,5979000,true
+TIER_5,Ford_DutchboysTorino_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_EscortMk1RS2000LPClassic_1973,T5_5_150_39_57_54.txt,35,5979000,true
 TIER_5,Ford_EscortRSCosworthCossieV2_1994,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_F150Hoonitruck_1977,T5_5_135_36_50_49.txt,35,5979000,true
