@@ -622,6 +622,8 @@ Honda_S2000F2_2001
 Honda_S2000TNR_2001
 Honda_VarisS2000RewardRecycled_2005
 Honda_VarisS2000Reward_2005
+Honda_VeilsideNSXRewardRecycled_1995
+Honda_VeilsideNSXReward_1995
 Hyperion_XP1_2023
 Hyundai_ElantraNRewardRecycled_2022
 Hyundai_ElantraNReward_2022
