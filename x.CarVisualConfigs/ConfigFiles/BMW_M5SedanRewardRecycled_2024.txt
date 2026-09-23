@@ -1,0 +1,171 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = -1856831296767885305
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = 4956490398670777961
+	string m_Name = ""
+	string ProjectorsParentBoneOverride = ""
+	string FlaresParentBoneOverride = ""
+	vector CarPaintIDs
+		Array Array
+		int size = 9
+			[0]
+			int data = 1739
+			[1]
+			int data = 1740
+			[2]
+			int data = 6
+			[3]
+			int data = 2275
+			[4]
+			int data = 2276
+			[5]
+			int data = 2277
+			[6]
+			int data = 876
+			[7]
+			int data = 940
+			[8]
+			int data = 1198
+	vector CarLiveryZonesSetIDs
+		Array Array
+		int size = 0
+	vector CarLiveryIDs
+		Array Array
+		int size = 0
+	vector CarInteriorIDs
+		Array Array
+		int size = 4
+			[0]
+			int data = 1721
+			[1]
+			int data = 1724
+			[2]
+			int data = 1722
+			[3]
+			int data = 1723
+	vector CarCalliperIDs
+		Array Array
+		int size = 3
+			[0]
+			int data = 0
+			[1]
+			int data = 3
+			[2]
+			int data = 314
+	vector WheelBundleNames
+		Array Array
+		int size = 3
+			[0]
+			string data = "Wheel1A_3D"
+			[1]
+			string data = "Wheel2A_3D"
+			[2]
+			string data = "Wheel2B_3D"
+	UInt8 HasOwnLivery = 0
+	CarVisualsGachaConfig GachaConfigs
+		Array Array
+		int size = 9
+			[0]
+			CarVisualsGachaConfig data
+				string gachaLetter = ""
+				int duplicate = 0
+				int PaintID = 1739
+				int WrapPaintID = 2147483647
+				int InteriorID = 1724
+				int CalliperID = 0
+				int LiveryZonesSetID = -1
+				int LiveryID = 2147483647
+				string WheelBundleName = "Wheel1A_3D"
+			[1]
+			CarVisualsGachaConfig data
+				string gachaLetter = ""
+				int duplicate = 0
+				int PaintID = 2275
+				int WrapPaintID = 2147483647
+				int InteriorID = 1723
+				int CalliperID = 3
+				int LiveryZonesSetID = -1
+				int LiveryID = 2147483647
+				string WheelBundleName = "Wheel1A_3D"
+			[2]
+			CarVisualsGachaConfig data
+				string gachaLetter = ""
+				int duplicate = 0
+				int PaintID = 2276
+				int WrapPaintID = 2147483647
+				int InteriorID = 1721
+				int CalliperID = 0
+				int LiveryZonesSetID = -1
+				int LiveryID = 2147483647
+				string WheelBundleName = "Wheel2A_3D"
+			[3]
+			CarVisualsGachaConfig data
+				string gachaLetter = ""
+				int duplicate = 0
+				int PaintID = 2277
+				int WrapPaintID = 2147483647
+				int InteriorID = 1723
+				int CalliperID = 3
+				int LiveryZonesSetID = -1
+				int LiveryID = 2147483647
+				string WheelBundleName = "Wheel2B_3D"
+			[4]
+			CarVisualsGachaConfig data
+				string gachaLetter = ""
+				int duplicate = 0
+				int PaintID = 6
+				int WrapPaintID = 2147483647
+				int InteriorID = 1721
+				int CalliperID = 314
+				int LiveryZonesSetID = -1
+				int LiveryID = 2147483647
+				string WheelBundleName = "Wheel1A_3D"
+			[5]
+			CarVisualsGachaConfig data
+				string gachaLetter = ""
+				int duplicate = 0
+				int PaintID = 876
+				int WrapPaintID = 2147483647
+				int InteriorID = 1724
+				int CalliperID = 0
+				int LiveryZonesSetID = -1
+				int LiveryID = 2147483647
+				string WheelBundleName = "Wheel1A_3D"
+			[6]
+			CarVisualsGachaConfig data
+				string gachaLetter = ""
+				int duplicate = 0
+				int PaintID = 940
+				int WrapPaintID = 2147483647
+				int InteriorID = 1721
+				int CalliperID = 314
+				int LiveryZonesSetID = -1
+				int LiveryID = 2147483647
+				string WheelBundleName = "Wheel2A_3D"
+			[7]
+			CarVisualsGachaConfig data
+				string gachaLetter = ""
+				int duplicate = 0
+				int PaintID = 1740
+				int WrapPaintID = 2147483647
+				int InteriorID = 1722
+				int CalliperID = 0
+				int LiveryZonesSetID = -1
+				int LiveryID = 2147483647
+				string WheelBundleName = "Wheel2A_3D"
+			[8]
+			CarVisualsGachaConfig data
+				string gachaLetter = ""
+				int duplicate = 0
+				int PaintID = 1198
+				int WrapPaintID = 2147483647
+				int InteriorID = 1723
+				int CalliperID = 3
+				int LiveryZonesSetID = -1
+				int LiveryID = 2147483647
+				string WheelBundleName = "Wheel2B_3D"
+	int lockPaintsToIndex = 0

@@ -1,0 +1,234 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 2253463527745185586
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = 4956490398670777961
+	string m_Name = ""
+	string ProjectorsParentBoneOverride = ""
+	string FlaresParentBoneOverride = ""
+	vector CarPaintIDs
+		Array Array
+		int size = 10
+			[0]
+			int data = 1957
+			[1]
+			int data = 292
+			[2]
+			int data = 1483
+			[3]
+			int data = 1487
+			[4]
+			int data = 1954
+			[5]
+			int data = 1953
+			[6]
+			int data = 902
+			[7]
+			int data = 291
+			[8]
+			int data = 1956
+			[9]
+			int data = 1486
+	vector CarLiveryZonesSetIDs
+		Array Array
+		int size = 1
+			[0]
+			int data = 9
+	vector CarLiveryIDs
+		Array Array
+		int size = 1
+			[0]
+			int data = 1312
+	vector CarInteriorIDs
+		Array Array
+		int size = 5
+			[0]
+			int data = 1873
+			[1]
+			int data = 1872
+			[2]
+			int data = 1874
+			[3]
+			int data = 1875
+			[4]
+			int data = 1876
+	vector CarCalliperIDs
+		Array Array
+		int size = 5
+			[0]
+			int data = 0
+			[1]
+			int data = 3
+			[2]
+			int data = 6
+			[3]
+			int data = 7
+			[4]
+			int data = 233
+	vector WheelBundleNames
+		Array Array
+		int size = 12
+			[0]
+			string data = "Wheel1A_3D"
+			[1]
+			string data = "Wheel1B_3D"
+			[2]
+			string data = "Wheel1C_3D"
+			[3]
+			string data = "Wheel1D_3D"
+			[4]
+			string data = "Wheel2A_3D"
+			[5]
+			string data = "Wheel2B_3D"
+			[6]
+			string data = "Wheel2C_3D"
+			[7]
+			string data = "Wheel2D_3D"
+			[8]
+			string data = "Wheel3A_3D"
+			[9]
+			string data = "Wheel3B_3D"
+			[10]
+			string data = "Wheel3C_3D"
+			[11]
+			string data = "Wheel3D_3D"
+	UInt8 HasOwnLivery = 0
+	CarVisualsGachaConfig GachaConfigs
+		Array Array
+		int size = 12
+			[0]
+			CarVisualsGachaConfig data
+				string gachaLetter = "A"
+				int duplicate = 0
+				int PaintID = 1957
+				int WrapPaintID = 2147483647
+				int InteriorID = 1875
+				int CalliperID = 233
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel1A_3D"
+			[1]
+			CarVisualsGachaConfig data
+				string gachaLetter = "B"
+				int duplicate = 0
+				int PaintID = 1956
+				int WrapPaintID = 2147483647
+				int InteriorID = 1873
+				int CalliperID = 0
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel2C_3D"
+			[2]
+			CarVisualsGachaConfig data
+				string gachaLetter = "A"
+				int duplicate = 0
+				int PaintID = 292
+				int WrapPaintID = 2147483647
+				int InteriorID = 1875
+				int CalliperID = 0
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel1A_3D"
+			[3]
+			CarVisualsGachaConfig data
+				string gachaLetter = "B"
+				int duplicate = 0
+				int PaintID = 1487
+				int WrapPaintID = 2147483647
+				int InteriorID = 1876
+				int CalliperID = 7
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel1A_3D"
+			[4]
+			CarVisualsGachaConfig data
+				string gachaLetter = "C"
+				int duplicate = 0
+				int PaintID = 902
+				int WrapPaintID = 2147483647
+				int InteriorID = 1873
+				int CalliperID = 0
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel1B_3D"
+			[5]
+			CarVisualsGachaConfig data
+				string gachaLetter = "D"
+				int duplicate = 0
+				int PaintID = 1954
+				int WrapPaintID = 2147483647
+				int InteriorID = 1874
+				int CalliperID = 0
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel1C_3D"
+			[6]
+			CarVisualsGachaConfig data
+				string gachaLetter = "E"
+				int duplicate = 0
+				int PaintID = 1953
+				int WrapPaintID = 2147483647
+				int InteriorID = 1876
+				int CalliperID = 7
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel2B_3D"
+			[7]
+			CarVisualsGachaConfig data
+				string gachaLetter = "F"
+				int duplicate = 0
+				int PaintID = 1486
+				int WrapPaintID = 2147483647
+				int InteriorID = 1874
+				int CalliperID = 0
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel1C_3D"
+			[8]
+			CarVisualsGachaConfig data
+				string gachaLetter = "G"
+				int duplicate = 0
+				int PaintID = 1956
+				int WrapPaintID = 2147483647
+				int InteriorID = 1874
+				int CalliperID = 6
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel2D_3D"
+			[9]
+			CarVisualsGachaConfig data
+				string gachaLetter = "H"
+				int duplicate = 0
+				int PaintID = 1483
+				int WrapPaintID = 2147483647
+				int InteriorID = 1876
+				int CalliperID = 7
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel2A_3D"
+			[10]
+			CarVisualsGachaConfig data
+				string gachaLetter = "I"
+				int duplicate = 0
+				int PaintID = 291
+				int WrapPaintID = 2147483647
+				int InteriorID = 1872
+				int CalliperID = 233
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel1A_3D"
+			[11]
+			CarVisualsGachaConfig data
+				string gachaLetter = "J"
+				int duplicate = 0
+				int PaintID = 292
+				int WrapPaintID = 2147483647
+				int InteriorID = 1875
+				int CalliperID = 3
+				int LiveryZonesSetID = 9
+				int LiveryID = 1312
+				string WheelBundleName = "Wheel1D_3D"
+	int lockPaintsToIndex = 0

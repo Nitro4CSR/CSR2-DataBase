@@ -1,0 +1,59 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 4178468112444581312
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = 4956490398670777961
+	string m_Name = ""
+	string ProjectorsParentBoneOverride = "Animate_Hood"
+	string FlaresParentBoneOverride = "Animate_Hood"
+	vector CarPaintIDs
+		Array Array
+		int size = 1
+			[0]
+			int data = 2255
+	vector CarLiveryZonesSetIDs
+		Array Array
+		int size = 1
+			[0]
+			int data = 10
+	vector CarLiveryIDs
+		Array Array
+		int size = 1
+			[0]
+			int data = 1248
+	vector CarInteriorIDs
+		Array Array
+		int size = 1
+			[0]
+			int data = 261
+	vector CarCalliperIDs
+		Array Array
+		int size = 2
+			[0]
+			int data = 3
+			[1]
+			int data = 0
+	vector WheelBundleNames
+		Array Array
+		int size = 1
+			[0]
+			string data = "Wheel1A_3D"
+	UInt8 HasOwnLivery = 0
+	CarVisualsGachaConfig GachaConfigs
+		Array Array
+		int size = 1
+			[0]
+			CarVisualsGachaConfig data
+				string gachaLetter = "A"
+				int duplicate = 0
+				int PaintID = 2255
+				int WrapPaintID = 2147483647
+				int InteriorID = 261
+				int CalliperID = 3
+				int LiveryZonesSetID = 10
+				int LiveryID = 1248
+				string WheelBundleName = "Wheel1A_3D"
+	int lockPaintsToIndex = 0
