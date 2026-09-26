@@ -140,6 +140,7 @@ BMW_LBM4CoupeCrewRecycled_2014
 BMW_LBM4CoupeCrew_2014
 BMW_LBi8RewardRecycled_2017
 BMW_LBi8Reward_2017
+BMW_M1_1985
 BMW_M235iCoupe_2014
 BMW_M2CSG87RewardRecycled_2025
 BMW_M2CSG87Reward_2025
@@ -147,8 +148,10 @@ BMW_M2Competition_2018
 BMW_M2CoupeG87RewardRecycled_2023
 BMW_M2CoupeG87Reward_2023
 BMW_M2G87MPerformance_2023
+BMW_M2G87TNR_2023
 BMW_M3CSTouringRewardRecycled_2025
 BMW_M3CSTouringReward_2025
+BMW_M3E46GTR_2005
 BMW_M3E92CoupeGTSElite_2011
 BMW_M3E92CoupeGTSRewardRecycled_2011
 BMW_M3E92CoupeGTSReward_2011
@@ -190,6 +193,7 @@ BMW_i8RewardSilver_2017
 BMW_i8Reward_2017
 BTTF_TimeMachine1_1985
 BTTF_TimeMachine2_2015
+BTTF_TimeMachine3_1885
 Bentley_BaturConvertibleRewardRecycled_2025
 Bentley_BaturConvertibleReward_2025
 Bentley_BentaygaRewardRecycled_2018
@@ -362,6 +366,8 @@ Czinger_21CGold_2021
 Czinger_21CVMax_2023
 Czinger_21C_2021
 Dallara_EXP_2021
+Dallara_StradaleRewardRecycled_2019
+Dallara_StradaleReward_2019
 Dallara_Stradale_2019
 Datsun_240ZLPClassic_1972
 DeTomaso_P900_2022
@@ -403,6 +409,7 @@ Dodge_RingbrosChargerCAPTIV_1969
 Dodge_RingbrothersChargerTUSK_1969
 Dodge_SRTDemon170RewardRecycled_2023
 Dodge_SRTDemon170Reward_2023
+Dodge_SpeedShopCharger_1968
 Dodge_ViperACRCrew_2016
 Dodge_ViperACRExtremeAeroPackage_2016
 Dodge_ViperACRRewardRecycled_2016
@@ -428,6 +435,8 @@ Ferrari_296GTB_2022
 Ferrari_296GTSRewardRecycled_2023
 Ferrari_296GTSReward_2023
 Ferrari_296SpecialeA_2026
+Ferrari_296SpecialeRewardRecycled_2026
+Ferrari_296SpecialeReward_2026
 Ferrari_458Speciale_2014
 Ferrari_488GTB70thAnniversary_2015
 Ferrari_488GTModificata_2021
@@ -627,6 +636,8 @@ Honda_VeilsideNSXReward_1995
 Hyperion_XP1_2023
 Hyundai_ElantraNRewardRecycled_2022
 Hyundai_ElantraNReward_2022
+Hyundai_IONIQ5NNPX1RewardRecycled_2024
+Hyundai_IONIQ5NNPX1Reward_2024
 Hyundai_IONIQ6NRewardRecycled_2025
 Hyundai_IONIQ6NReward_2025
 Hyundai_Ioniq5NRewardRecycled_2023
@@ -656,6 +667,7 @@ Jaguar_XESVProject8F9_2018
 Jaguar_XESVProject8RewardRecycled_2018
 Jaguar_XESVProject8Reward_2018
 Jaguar_XJ220Classic_1993
+Jaguar_XJR15_1991
 Jaguar_XKRSGT_2014
 Jeep_GladiatorF9_2019
 Jeep_GladiatorRewardRecycled_2019
@@ -758,6 +770,7 @@ Lamborghini_RevueltoRewardRecycled_2024
 Lamborghini_RevueltoReward_2024
 Lamborghini_RevueltoSS1_2024
 Lamborghini_RevueltoSS2_2024
+Lamborghini_RevueltoSV_2027
 Lamborghini_SC18Alston_2019
 Lamborghini_SC20_2020
 Lamborghini_SC63LMDH_2024
@@ -780,6 +793,8 @@ Lamborghini_Veneno_2013
 Lancia_DeltaHFIntegraleEvo2_1994
 Landrover_RangeRoverEvoqueCoupeCrewRecycled_2016
 Landrover_RangeRoverEvoqueCoupeCrew_2016
+Lexus_LC500ConvertibleRewardRecycled_2017
+Lexus_LC500ConvertibleReward_2017
 Lexus_LC500TNR_2018
 Lexus_LFAGold_2011
 Lexus_LFANurburgringPackage_2011
@@ -944,6 +959,7 @@ Nissan_350ZF3_2003
 Nissan_350ZRocketBunnyV2Easter_2003
 Nissan_350ZRocketBunnyV2_2003
 Nissan_350ZRocketBunny_2003
+Nissan_ActiveSkylineGTRR33_1995
 Nissan_GTR50RewardRecycled_2020
 Nissan_GTR50Reward_2020
 Nissan_GTR50_2021
@@ -970,6 +986,7 @@ Nissan_LBSuperSilhouetteSilviaS15_1999
 Nissan_PandeMGTRR33RewardRecycled_1995
 Nissan_PandeMGTRR33Reward_1995
 Nissan_ProtoZ_2020
+Nissan_R390GT1_1997
 Nissan_SilviaS14F1_1997
 Nissan_SilviaS15CrewRecycled_1999
 Nissan_SilviaS15Crew_1999
@@ -1039,6 +1056,7 @@ Plymouth_RidesByKamBarracuda_1970
 Plymouth_RingbrothersCuda_1970
 Plymouth_RoadRunnerGTXF8_1971
 Plymouth_RuffianCoupe_1935
+Plymouth_SuperbirdLPClassic_1970
 Plymouth_WeaverCustomsCudaTorcReward4thJuly_2016
 Plymouth_WeaverCustomsCudaTorcRewardRecycled_2016
 Plymouth_WeaverCustomsCudaTorcReward_2016
@@ -1056,6 +1074,7 @@ Porsche_718SpyderRSRewardRecycled_2024
 Porsche_718SpyderRSReward_2024
 Porsche_911Carrera4SCabrioletRewardRecycled_2020
 Porsche_911Carrera4SCabrioletReward_2020
+Porsche_911CarreraRS27LPClassic_1973
 Porsche_911DakarRewardRecycled_2023
 Porsche_911DakarReward_2023
 Porsche_911GT1StraBenversion_1996
@@ -1144,10 +1163,12 @@ Porsche_TaycanTurboSReward_2021
 Porsche_VorsteinerGT4VCS_2016
 RAESR_TachyonSpeed_2024
 RAM_1500TRX_2021
+RUF_CTR3EVO_2023
 Radford_Type62GOSH_2021
 Radford_Type62PikesPeak_2023
 Radford_Type62RewardRecycled_2021
 Radford_Type62Reward_2021
+Renault_ClioV6Phase2_2005
 Rimac_NeveraR_2025
 Rimac_NeveraReward_2022
 Rimac_NeveraRewardrecycled_2022

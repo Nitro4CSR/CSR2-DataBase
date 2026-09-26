@@ -71,7 +71,9 @@ id_porsche
 id_radford
 id_raesr
 id_ram
+id_renault
 id_rimac
+id_ruf
 id_saleen
 id_scg
 id_shelby
