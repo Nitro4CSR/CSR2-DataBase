@@ -1,0 +1,136 @@
+{
+      "unid": 2490,
+      "crdb": "FnF_FlipCar_2013",
+      "grsp": [
+        3.08,
+        2.18,
+        1.63,
+        1.29,
+        1.03,
+        0.84,
+        0.69
+      ],
+      "fidr": 3.57,
+      "apiid": 953,
+      "oriid": 953,
+      "apcn": [
+        "FnF_FlipCar_2013_Wheel1A_3D"
+      ],
+      "opcn": "FnF_FlipCar_2013_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 602,
+      "ttqm": 10.175,
+      "tthm": 16.081,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      }
+    }

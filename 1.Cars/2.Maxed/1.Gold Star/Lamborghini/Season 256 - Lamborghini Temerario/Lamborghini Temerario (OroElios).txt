@@ -1,5 +1,5 @@
 {
-      "unid": 7549,
+      "unid": 3648,
       "crdb": "Lamborghini_TemerarioRewardRecycled_2025",
       "grsp": [
         3.9,
@@ -11,7 +11,9 @@
         0.83,
         0.7
       ],
-      "fidr": 3.7,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 10,
       "orpi": 10,
       "apiid": 240,
@@ -24,6 +26,8 @@
         "Lamborghini_TemerarioRewardRecycled_2025_Wheel1B_3D"
       ],
       "opcn": "Lamborghini_TemerarioRewardRecycled_2025_Wheel1B_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -510,9 +514,10 @@
         }
       ],
       "fpin": 2,
-      "cppi": 603,
-      "ttqm": 10.086,
-      "tthm": 16.057,
+      "cppi": 713,
+      "cepi": 2380,
+      "ttqm": 4.756,
+      "tthm": 7.147,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
@@ -523,8 +528,5 @@
       "caid": 271,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1B_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1B_3D"
     }

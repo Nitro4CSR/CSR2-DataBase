@@ -1,0 +1,139 @@
+{
+      "unid": 1275,
+      "crdb": "BMW_M5CSReward_2022",
+      "grsp": [
+        5.0,
+        2.601,
+        2.143,
+        1.72,
+        1.313,
+        1.0,
+        0.823,
+        0.64
+      ],
+      "fidr": 3.15,
+      "apiid": 1419,
+      "oriid": 1419,
+      "apcid": 3,
+      "orcid": 3,
+      "apcn": [
+        "BMW_M5CSReward_2022_Wheel1A_3D"
+      ],
+      "opcn": "BMW_M5CSReward_2022_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 503,
+      "ttqm": 11.601,
+      "tthm": 18.176,
+      "ctie": "TIER_4",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      }
+    }

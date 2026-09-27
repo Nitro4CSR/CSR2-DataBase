@@ -1,43 +1,46 @@
-,
+{
+  "cues": [
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "ENGINE",
       "esdb": "Buick_RoadstershopGrandNational_1987"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TURBO",
       "esdb": "Buick_RoadstershopGrandNational_1987"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "INTAKE",
       "esdb": "Buick_RoadstershopGrandNational_1987"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "NITROUS",
       "esdb": "Buick_RoadstershopGrandNational_1987"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "BODY",
       "esdb": "Buick_RoadstershopGrandNational_1987"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TYRES",
       "esdb": "Buick_RoadstershopGrandNational_1987"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TRANSMISSION",
       "esdb": "Buick_RoadstershopGrandNational_1987"
     },
-    AMOUNT
+    "AMOUNT"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-      "unid": 7495,
+      "unid": 320,
       "crdb": "AstonMartin_DBXSRewardRecycled_2026",
       "grsp": [
         5.35,
@@ -12,7 +12,9 @@
         0.71,
         0.6
       ],
-      "fidr": 3.55,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1560,
       "oriid": 1560,
       "apcid": 105,
@@ -23,6 +25,8 @@
         "AstonMartin_DBXSRewardRecycled_2026_Wheel1A_3D"
       ],
       "opcn": "AstonMartin_DBXSRewardRecycled_2026_Wheel1A_3D",
+      "msou": 3009000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -32,7 +36,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -42,7 +45,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -62,7 +64,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -101,7 +102,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -111,7 +111,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -170,7 +169,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -180,7 +178,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -249,7 +246,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -308,7 +304,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -318,7 +313,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -328,7 +322,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -377,7 +370,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -387,7 +379,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -446,7 +437,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -456,7 +446,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -466,7 +455,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -509,9 +497,10 @@
         }
       ],
       "fpin": 2,
-      "cppi": 500,
-      "ttqm": 11.412,
-      "tthm": 18.239,
+      "cppi": 673,
+      "cepi": 1993,
+      "ttqm": 6.473,
+      "tthm": 9.721,
       "ctie": "TIER_4",
       "csrc": "Gacha",
       "nupl": {
@@ -522,8 +511,5 @@
       "caid": 105,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 3009000
+      "whbn": "Wheel1A_3D"
     }

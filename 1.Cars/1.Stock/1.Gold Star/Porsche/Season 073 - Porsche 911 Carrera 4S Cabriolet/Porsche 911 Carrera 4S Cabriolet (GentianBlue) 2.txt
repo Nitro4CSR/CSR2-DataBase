@@ -1,0 +1,149 @@
+{
+      "unid": 5977,
+      "crdb": "Porsche_911Carrera4SCabrioletRewardRecycled_2020",
+      "grsp": [
+        4.89,
+        3.17,
+        2.15,
+        1.56,
+        1.18,
+        0.94,
+        0.76,
+        0.61
+      ],
+      "fidr": 3.12,
+      "appi": 1,
+      "orpi": 1,
+      "apiid": 934,
+      "oriid": 934,
+      "apcid": 83,
+      "orcid": 83,
+      "aplzsid": -2147483648,
+      "orlzsid": -2147483648,
+      "apcn": [
+        "Porsche_911Carrera4SCabrioletRewardRecycled_2020_Wheel1D_3D"
+      ],
+      "opcn": "Porsche_911Carrera4SCabrioletRewardRecycled_2020_Wheel1D_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 500,
+      "ttqm": 11.988,
+      "tthm": 18.239,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1221,
+      "inid": 934,
+      "caid": 83,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1D_3D"
+    }

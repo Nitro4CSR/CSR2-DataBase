@@ -1,0 +1,149 @@
+{
+      "unid": 5549,
+      "crdb": "Radford_Type62RewardRecycled_2021",
+      "grsp": [
+        3.538,
+        1.913,
+        1.407,
+        1.091,
+        0.931,
+        0.738
+      ],
+      "fidr": 3.5,
+      "appi": 4,
+      "orpi": 4,
+      "apiid": 1791,
+      "oriid": 1791,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 1276,
+      "orlid": 1276,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Radford_Type62RewardRecycled_2021_Wheel1A_3D"
+      ],
+      "opcn": "Radford_Type62RewardRecycled_2021_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 9.866,
+      "tthm": 16.057,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2322,
+      "inid": 1791,
+      "caid": 3,
+      "lzsid": 9,
+      "livid": 1276,
+      "whbn": "Wheel1A_3D"
+    }

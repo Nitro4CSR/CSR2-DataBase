@@ -1,0 +1,144 @@
+{
+      "unid": 1472,
+      "crdb": "Bugatti_VeyronSuperSportGold_2012",
+      "grsp": [
+        3.18,
+        2.26,
+        1.67,
+        1.29,
+        1.06,
+        0.88,
+        0.8
+      ],
+      "fidr": 2.8,
+      "apiid": 65,
+      "oriid": 65,
+      "apcid": 5,
+      "orcid": 5,
+      "apcn": [
+        "Bugatti_VeyronSuperSportGold_2012_Wheel1A_3D"
+      ],
+      "opcn": "Bugatti_VeyronSuperSportGold_2012_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 608,
+      "ttqm": 10.05,
+      "tthm": 15.877,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 34,
+      "inid": 65,
+      "caid": 5,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

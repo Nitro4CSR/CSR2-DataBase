@@ -1,0 +1,532 @@
+{
+      "unid": 5484,
+      "crdb": "Porsche_RWB964RewardRecycled_1991",
+      "grsp": [
+        3.154,
+        2.153,
+        1.365,
+        0.999,
+        0.765,
+        0.628
+      ],
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
+      "appi": 10,
+      "orpi": 10,
+      "apiid": 626,
+      "oriid": 626,
+      "apcid": 319,
+      "orcid": 319,
+      "aplid": 1288,
+      "orlid": 1288,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Porsche_RWB964RewardRecycled_1991_Wheel1C_3D"
+      ],
+      "opcn": "Porsche_RWB964RewardRecycled_1991_Wheel1C_3D",
+      "msou": 5979000,
+      "nuub": 35,
+      "upst": [
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                2,
+                3,
+                3,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                2,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                3,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                3,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                3,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                2,
+                3,
+                3,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                2,
+                3,
+                3,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                2,
+                3,
+                3,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                2,
+                3,
+                3,
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 713,
+      "cepi": 2238,
+      "ttqm": 4.741,
+      "tthm": 7.414,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2062,
+      "inid": 626,
+      "caid": 319,
+      "lzsid": 9,
+      "livid": 1288,
+      "whbn": "Wheel1C_3D"
+    }

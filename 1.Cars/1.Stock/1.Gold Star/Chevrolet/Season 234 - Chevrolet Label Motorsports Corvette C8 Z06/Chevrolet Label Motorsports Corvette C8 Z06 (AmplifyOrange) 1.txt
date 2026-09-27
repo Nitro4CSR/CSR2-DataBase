@@ -1,0 +1,151 @@
+{
+      "unid": 1736,
+      "crdb": "Chevrolet_LMCorvetteZ06RewardRecycled_2023",
+      "grsp": [
+        2.905,
+        2.35,
+        1.7,
+        1.3,
+        1.0,
+        0.508,
+        0.397,
+        0.329
+      ],
+      "fidr": 5.0,
+      "appi": 8,
+      "orpi": 8,
+      "apiid": 1874,
+      "oriid": 1874,
+      "apcid": 6,
+      "orcid": 6,
+      "aplid": 1312,
+      "orlid": 1312,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Chevrolet_LMCorvetteZ06RewardRecycled_2023_Wheel2D_3D"
+      ],
+      "opcn": "Chevrolet_LMCorvetteZ06RewardRecycled_2023_Wheel2D_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 9.952,
+      "tthm": 16.058,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1956,
+      "inid": 1874,
+      "caid": 6,
+      "lzsid": 9,
+      "livid": 1312,
+      "whbn": "Wheel2D_3D"
+    }

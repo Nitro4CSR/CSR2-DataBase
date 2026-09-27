@@ -1,0 +1,138 @@
+{
+      "unid": 5909,
+      "crdb": "Zenvo_TSRS_2020",
+      "grsp": [
+        3.133,
+        2.106,
+        1.52,
+        1.172,
+        0.941,
+        0.784,
+        0.675
+      ],
+      "fidr": 4.1,
+      "apiid": 1167,
+      "oriid": 1167,
+      "apcid": 3,
+      "orcid": 3,
+      "apcn": [
+        "Zenvo_TSRS_2020_Wheel1A_3D"
+      ],
+      "opcn": "Zenvo_TSRS_2020_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 605,
+      "ttqm": 0.0,
+      "tthm": 0.0,
+      "ctie": "TIER_5",
+      "csrc": "IAPSpecial",
+      "nupl": {
+        "cpf": false
+      }
+    }

@@ -1,0 +1,143 @@
+{
+      "unid": 5719,
+      "crdb": "Toyota_86Boss_2014",
+      "grsp": [
+        3.626,
+        2.188,
+        1.541,
+        1.213,
+        1.0,
+        0.767
+      ],
+      "fidr": 4.1,
+      "apiid": 369,
+      "oriid": 369,
+      "apcid": 3,
+      "orcid": 3,
+      "apcn": [
+        "Toyota_86Boss_2014_Wheel1A_3D"
+      ],
+      "opcn": "Toyota_86Boss_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 311,
+      "ttqm": 13.859,
+      "tthm": 21.833,
+      "ctie": "TIER_2",
+      "csrc": "High_Stakes",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 511,
+      "inid": 369,
+      "caid": 3,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

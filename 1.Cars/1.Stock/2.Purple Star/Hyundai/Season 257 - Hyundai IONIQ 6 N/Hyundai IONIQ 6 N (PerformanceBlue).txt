@@ -1,5 +1,5 @@
 {
-      "unid": 7011,
+      "unid": 2971,
       "crdb": "Hyundai_IONIQ6NReward_2025",
       "grsp": [
         1.0
@@ -17,6 +17,8 @@
       "opcn": "Hyundai_IONIQ6NReward_2025_Wheel1A_3D",
       "upst": [
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -30,6 +32,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -43,6 +47,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -56,6 +62,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -69,6 +77,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -82,6 +92,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -95,6 +107,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true

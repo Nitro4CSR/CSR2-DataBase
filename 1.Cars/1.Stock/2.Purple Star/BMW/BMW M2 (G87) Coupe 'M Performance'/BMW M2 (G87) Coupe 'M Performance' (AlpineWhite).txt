@@ -1,0 +1,149 @@
+{
+      "unid": 1174,
+      "crdb": "BMW_M2G87MPerformance_2023",
+      "grsp": [
+        5.0,
+        3.2,
+        2.143,
+        1.72,
+        1.313,
+        1.0,
+        0.823,
+        0.64
+      ],
+      "fidr": 3.15,
+      "apiid": 1485,
+      "oriid": 1485,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 1193,
+      "orlid": 1193,
+      "aplzsid": 0,
+      "orlzsid": 0,
+      "apcn": [
+        "BMW_M2G87MPerformance_2023_Wheel1A_3D"
+      ],
+      "opcn": "BMW_M2G87MPerformance_2023_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 402,
+      "ttqm": 12.677,
+      "tthm": 19.288,
+      "ctie": "TIER_3",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 6,
+      "inid": 1485,
+      "caid": 3,
+      "lzsid": 0,
+      "livid": 1193,
+      "whbn": "Wheel1A_3D"
+    }

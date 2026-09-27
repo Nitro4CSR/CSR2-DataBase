@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": AMOUNT,
+      "esut": "ENGINE",
+      "esdb": "BMW_RBM3E92RewardRecycled_2011"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TURBO",
+      "esdb": "BMW_RBM3E92RewardRecycled_2011"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "INTAKE",
+      "esdb": "BMW_RBM3E92RewardRecycled_2011"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "NITROUS",
+      "esdb": "BMW_RBM3E92RewardRecycled_2011"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "BODY",
+      "esdb": "BMW_RBM3E92RewardRecycled_2011"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TYRES",
+      "esdb": "BMW_RBM3E92RewardRecycled_2011"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TRANSMISSION",
+      "esdb": "BMW_RBM3E92RewardRecycled_2011"
+    },
+    AMOUNT

@@ -1,0 +1,1 @@
+CSR.put("cars/stock/placeholdermystery",{"Placeholder_CoveredCar_1234":[{"c":"SalzburgRacingDesign","f":"1.Cars/1.Stock/4.Unspecified/Placeholder Mystery/Placeholder Covered Car/Placeholder Covered Car (SalzburgRacingDesign).txt","i":"1.Cars/1.Stock/4.Unspecified/Placeholder Mystery/Placeholder Covered Car/Placeholder Covered Car (SalzburgRacingDesign).jpg"}]});

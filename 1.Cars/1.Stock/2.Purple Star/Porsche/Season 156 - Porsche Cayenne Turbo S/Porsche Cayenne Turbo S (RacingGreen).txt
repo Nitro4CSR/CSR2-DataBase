@@ -1,0 +1,149 @@
+{
+      "unid": 5383,
+      "crdb": "Porsche_CayenneTurboGTReward_2022",
+      "grsp": [
+        4.714,
+        3.143,
+        2.106,
+        1.667,
+        1.285,
+        1.0,
+        0.839,
+        0.667
+      ],
+      "fidr": 2.95,
+      "apiid": 1459,
+      "oriid": 1459,
+      "apcid": 83,
+      "orcid": 83,
+      "aplid": 1176,
+      "orlid": 1176,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Porsche_CayenneTurboGTReward_2022_Wheel1A_3D"
+      ],
+      "opcn": "Porsche_CayenneTurboGTReward_2022_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 502,
+      "ttqm": 11.345,
+      "tthm": 18.203,
+      "ctie": "TIER_4",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1959,
+      "inid": 1459,
+      "caid": 83,
+      "lzsid": 9,
+      "livid": 1176,
+      "whbn": "Wheel1A_3D"
+    }

@@ -1,0 +1,147 @@
+{
+      "unid": 1170,
+      "crdb": "BMW_M2CSG87Reward_2025",
+      "grsp": [
+        5.0,
+        3.2,
+        2.143,
+        1.72,
+        1.313,
+        1.0,
+        0.823,
+        0.64
+      ],
+      "fidr": 3.77,
+      "apiid": 1977,
+      "oriid": 1977,
+      "apcid": 3,
+      "orcid": 3,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "BMW_M2CSG87Reward_2025_Wheel1A_3D"
+      ],
+      "opcn": "BMW_M2CSG87Reward_2025_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 500,
+      "ttqm": 11.522,
+      "tthm": 18.241,
+      "ctie": "TIER_4",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2606,
+      "inid": 1977,
+      "caid": 3,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

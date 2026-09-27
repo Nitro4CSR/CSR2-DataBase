@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": AMOUNT,
+      "esut": "ENGINE",
+      "esdb": "Porsche_Bisimoto935K3V_1984"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TURBO",
+      "esdb": "Porsche_Bisimoto935K3V_1984"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "INTAKE",
+      "esdb": "Porsche_Bisimoto935K3V_1984"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "NITROUS",
+      "esdb": "Porsche_Bisimoto935K3V_1984"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "BODY",
+      "esdb": "Porsche_Bisimoto935K3V_1984"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TYRES",
+      "esdb": "Porsche_Bisimoto935K3V_1984"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_Bisimoto935K3V_1984"
+    },
+    AMOUNT

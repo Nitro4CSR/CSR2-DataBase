@@ -1,5 +1,5 @@
 {
-      "unid": 7527,
+      "unid": 2702,
       "crdb": "Ford_MustangSVTCobraRLPClassic_1993",
       "grsp": [
         3.35,
@@ -21,6 +21,8 @@
       "opcn": "Ford_MustangSVTCobraRLPClassic_1993_Wheel1A_3D",
       "upst": [
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -34,6 +36,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -47,6 +51,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -60,6 +66,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -73,6 +81,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -86,6 +96,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -99,6 +111,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -135,7 +149,7 @@
       "ttqm": 10.851,
       "tthm": 16.061,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "ShopGold",
       "nupl": {
         "cpf": false
       },

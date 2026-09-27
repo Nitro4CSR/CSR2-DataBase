@@ -1,0 +1,140 @@
+{
+      "unid": 3980,
+      "crdb": "McLaren_570S_2016",
+      "grsp": [
+        3.98,
+        2.61,
+        1.9,
+        1.48,
+        1.16,
+        0.91,
+        0.69
+      ],
+      "fidr": 3.31,
+      "appi": 15,
+      "orpi": 15,
+      "apiid": 270,
+      "oriid": 270,
+      "apcid": 4,
+      "orcid": 4,
+      "apcn": [
+        "McLaren_570S_2016_Wheel1A_3D"
+      ],
+      "opcn": "McLaren_570S_2016_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 602,
+      "ttqm": 10.066,
+      "tthm": 16.095,
+      "ctie": "TIER_5",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

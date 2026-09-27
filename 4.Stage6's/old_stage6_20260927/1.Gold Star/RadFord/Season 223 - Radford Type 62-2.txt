@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": AMOUNT,
+      "esut": "ENGINE",
+      "esdb": "Radford_Type62RewardRecycled_2021"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TURBO",
+      "esdb": "Radford_Type62RewardRecycled_2021"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "INTAKE",
+      "esdb": "Radford_Type62RewardRecycled_2021"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "NITROUS",
+      "esdb": "Radford_Type62RewardRecycled_2021"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "BODY",
+      "esdb": "Radford_Type62RewardRecycled_2021"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TYRES",
+      "esdb": "Radford_Type62RewardRecycled_2021"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TRANSMISSION",
+      "esdb": "Radford_Type62RewardRecycled_2021"
+    },
+    AMOUNT

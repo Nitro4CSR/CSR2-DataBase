@@ -1,46 +1,24 @@
 {
-      "unid": 3153,
+      "unid": 2641,
       "crdb": "Ford_MustangMachEGTRewardRecycled_2021",
-      "awar": false,
       "grsp": [
         1.25
       ],
-      "fidr": 3.83,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
-      "appi": 0,
-      "orpi": 0,
+      "fidr": 4.11,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 66,
       "oriid": 66,
       "apcid": 146,
       "orcid": 146,
-      "apcns": 0,
-      "appns": 0,
-      "opcns": 0,
-      "oppns": 0,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
       "aplzsid": -1,
       "orlzsid": -1,
-      "apln": "",
       "apcn": [
         "Ford_MustangMachEGTRewardRecycled_2021_Wheel1A_3D"
       ],
       "opcn": "Ford_MustangMachEGTRewardRecycled_2021_Wheel1A_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
       "msou": 3009000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
@@ -50,7 +28,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -60,7 +37,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -70,7 +46,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -80,7 +55,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -119,7 +93,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -129,17 +102,6 @@
               ]
             },
             {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -149,7 +111,15 @@
               ]
             },
             {
-              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
               "fsg": [
                 1,
                 2,
@@ -188,7 +158,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -198,17 +167,6 @@
               ]
             },
             {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -218,7 +176,15 @@
               ]
             },
             {
-              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
               "fsg": [
                 1,
                 2,
@@ -257,7 +223,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -267,7 +232,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -287,7 +251,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -326,7 +289,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -336,7 +298,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -346,7 +307,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -356,7 +316,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -395,10 +354,18 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "fsg": [
+                1,
+                2,
                 0,
                 0,
                 0
@@ -415,17 +382,6 @@
               ]
             },
             {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -464,7 +420,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -474,7 +429,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -484,7 +438,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -527,67 +480,19 @@
         }
       ],
       "fpin": 2,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 500,
-      "cepi": 0,
-      "tdut": 18.243,
-      "tdtt": 18.243,
-      "ttqm": 12.294,
-      "tthm": 18.243,
-      "tt60": 4.741,
-      "tt1h": 8.294,
-      "spqm": 134.48,
-      "sphm": 162.51,
+      "cppi": 673,
+      "cepi": 1568,
+      "ttqm": 6.396,
+      "tthm": 10.586,
       "ctie": "TIER_4",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
-      "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 2075,
       "inid": 66,
       "caid": 146,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "whbn": "Wheel1A_3D"
     }

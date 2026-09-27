@@ -1,0 +1,145 @@
+{
+      "unid": 706,
+      "crdb": "Audi_RS5CoupeReward_2020",
+      "grsp": [
+        5.0,
+        3.2,
+        2.143,
+        1.72,
+        1.314,
+        1.0,
+        0.822,
+        0.64
+      ],
+      "fidr": 3.2,
+      "apiid": 1403,
+      "oriid": 1403,
+      "apcid": 3,
+      "orcid": 3,
+      "apcn": [
+        "Audi_RS5CoupeReward_2020_Wheel1A_3D"
+      ],
+      "opcn": "Audi_RS5CoupeReward_2020_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 402,
+      "ttqm": 12.674,
+      "tthm": 20.078,
+      "ctie": "TIER_3",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 850,
+      "inid": 1403,
+      "caid": 3,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

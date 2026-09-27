@@ -1,0 +1,136 @@
+{
+      "unid": 429,
+      "crdb": "AstonMartin_ValkyrieSpirit_2020",
+      "grsp": [
+        3.08,
+        2.19,
+        1.63,
+        1.29,
+        1.03,
+        0.84,
+        0.69
+      ],
+      "fidr": 2.91,
+      "apiid": 1432,
+      "oriid": 1432,
+      "apcn": [
+        "AstonMartin_ValkyrieSpirit_2020_Wheel1A_3D"
+      ],
+      "opcn": "AstonMartin_ValkyrieSpirit_2020_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.454,
+      "tthm": 16.044,
+      "ctie": "TIER_5",
+      "csrc": "IAPSpecial",
+      "nupl": {
+        "cpf": false
+      }
+    }

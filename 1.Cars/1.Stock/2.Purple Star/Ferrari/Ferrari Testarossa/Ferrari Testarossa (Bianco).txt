@@ -1,5 +1,5 @@
 {
-      "unid": 7564,
+      "unid": 2387,
       "crdb": "Ferrari_MV512Testarossa_1986",
       "grsp": [
         3.139,
@@ -21,6 +21,8 @@
       "opcn": "Ferrari_MV512Testarossa_1986_Wheel1A_3D",
       "upst": [
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -34,6 +36,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -47,6 +51,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -60,6 +66,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -73,6 +81,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -86,6 +96,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -99,6 +111,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true

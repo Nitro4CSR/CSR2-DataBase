@@ -1,7 +1,6 @@
 {
-      "unid": 28,
+      "unid": 5812,
       "crdb": "Volkswagen_GolfGTICrewRecycled_1982",
-      "awar": false,
       "grsp": [
         3.45,
         1.94,
@@ -9,88 +8,32 @@
         0.97,
         0.76
       ],
-      "fidr": 3.89,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 4.7,
+      "nlpr": 0.9,
+      "ttpp": 0.28,
       "appi": 1,
       "orpi": 1,
       "apiid": 661,
       "oriid": 661,
-      "apcid": 0,
-      "orcid": 0,
-      "apnid": -2147483648,
-      "apnzid": -2147483648,
-      "apncf": -2147483648,
-      "apncb": -2147483648,
-      "apfid": -2147483648,
-      "apcns": 0,
-      "appns": 0,
-      "apnpid": -2147483648,
-      "opnid": -2147483648,
-      "opnzid": -2147483648,
-      "opncf": -2147483648,
-      "opncb": -2147483648,
-      "opfid": -2147483648,
-      "opcns": 0,
-      "oppns": 0,
-      "opnpid": -2147483648,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
-      "apln": "",
       "apcn": [
         "Volkswagen_GolfGTICrewRecycled_1982_Wheel1A_3D"
       ],
       "opcn": "Volkswagen_GolfGTICrewRecycled_1982_Wheel1A_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
-      "msou": 202460,
+      "msou": 186460,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 5,
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -123,14 +66,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -139,34 +75,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -199,14 +114,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -215,34 +123,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -275,14 +162,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -291,34 +171,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -351,14 +210,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -367,34 +219,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -427,14 +258,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -443,34 +267,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -503,14 +306,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -519,34 +315,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -579,81 +354,26 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         }
       ],
       "fpin": 2,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 167,
-      "cepi": 0,
-      "tdut": 15.332,
-      "tdtt": 15.332,
-      "ttqm": 15.332,
-      "tthm": 23.977,
-      "tt60": 6.734,
-      "tt1h": 17.949,
-      "spqm": 95.294,
-      "sphm": 112.484,
+      "cppi": 354,
+      "cepi": 617,
+      "ttqm": 12.268,
+      "tthm": 19.585,
       "ctie": "TIER_1",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
       "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 759,
-      "wpid": 2147483647,
       "inid": 661,
       "caid": 0,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "whbn": "Wheel1A_3D"
     }

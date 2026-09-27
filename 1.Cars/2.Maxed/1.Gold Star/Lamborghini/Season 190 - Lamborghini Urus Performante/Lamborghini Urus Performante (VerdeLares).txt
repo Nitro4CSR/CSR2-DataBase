@@ -1,7 +1,6 @@
 {
-      "unid": 6134,
+      "unid": 3669,
       "crdb": "Lamborghini_UrusPerformanteRewardRecycled_2023",
-      "awar": false,
       "grsp": [
         4.714,
         3.143,
@@ -12,42 +11,23 @@
         0.839,
         0.667
       ],
-      "fidr": 3.54,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 3.33,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 15,
       "orpi": 15,
       "apiid": 785,
       "oriid": 785,
       "apcid": 114,
       "orcid": 114,
-      "apcns": 0,
-      "appns": 0,
-      "opcns": 0,
-      "oppns": 0,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
       "aplzsid": -1,
       "orlzsid": -1,
-      "apln": "",
       "apcn": [
         "Lamborghini_UrusPerformanteRewardRecycled_2023_Wheel3A_3D"
       ],
       "opcn": "Lamborghini_UrusPerformanteRewardRecycled_2023_Wheel3A_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
       "msou": 3009000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
@@ -57,7 +37,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -67,7 +46,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -87,7 +65,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -126,7 +103,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -136,7 +112,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -195,7 +170,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -205,7 +179,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -274,7 +247,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -333,7 +305,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -343,7 +314,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -353,7 +323,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -402,7 +371,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -412,7 +380,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -471,7 +438,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -481,7 +447,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -491,7 +456,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -534,67 +498,19 @@
         }
       ],
       "fpin": 2,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 500,
-      "cepi": 0,
-      "tdut": 18.235,
-      "tdtt": 18.235,
-      "ttqm": 11.496,
-      "tthm": 18.235,
-      "tt60": 3.384,
-      "tt1h": 7.508,
-      "spqm": 121.544,
-      "sphm": 142.423,
+      "cppi": 673,
+      "cepi": 1830,
+      "ttqm": 6.68,
+      "tthm": 10.048,
       "ctie": "TIER_4",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
-      "esup": false,
-      "elcl": 0,
-      "gacp": false,
       "paid": 2130,
       "inid": 785,
       "caid": 114,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel3A_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "whbn": "Wheel3A_3D"
     }

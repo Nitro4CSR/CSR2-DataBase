@@ -1,5 +1,5 @@
 {
-      "unid": 7096,
+      "unid": 1081,
       "crdb": "Bentley_SupersportsRewardRecycled_2026",
       "grsp": [
         5.966,
@@ -11,7 +11,9 @@
         0.678,
         0.534
       ],
-      "fidr": 3.15,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 1,
       "orpi": 1,
       "apiid": 2045,
@@ -24,6 +26,8 @@
         "Bentley_SupersportsRewardRecycled_2026_Wheel1B_3D"
       ],
       "opcn": "Bentley_SupersportsRewardRecycled_2026_Wheel1B_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -510,9 +514,10 @@
         }
       ],
       "fpin": 2,
-      "cppi": 603,
-      "ttqm": 9.988,
-      "tthm": 16.047,
+      "cppi": 713,
+      "cepi": 2161,
+      "ttqm": 5.068,
+      "tthm": 7.6,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
@@ -523,8 +528,5 @@
       "caid": 374,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1B_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1B_3D"
     }

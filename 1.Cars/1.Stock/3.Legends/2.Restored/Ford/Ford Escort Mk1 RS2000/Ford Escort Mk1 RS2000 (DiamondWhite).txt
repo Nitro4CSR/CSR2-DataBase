@@ -1,5 +1,5 @@
 {
-      "unid": 7503,
+      "unid": 2495,
       "crdb": "Ford_EscortMk1RS2000LPClassic_1973",
       "grsp": [
         2.45,
@@ -20,6 +20,8 @@
       "opcn": "Ford_EscortMk1RS2000LPClassic_1973_Wheel1A_3D",
       "upst": [
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -33,6 +35,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -46,6 +50,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -59,6 +65,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -72,6 +80,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -85,6 +95,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -98,6 +110,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -134,7 +148,7 @@
       "ttqm": 10.586,
       "tthm": 16.055,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "ShopGold",
       "nupl": {
         "cpf": false
       },

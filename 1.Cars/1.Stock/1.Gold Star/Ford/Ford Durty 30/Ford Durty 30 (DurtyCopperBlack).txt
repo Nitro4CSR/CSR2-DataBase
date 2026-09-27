@@ -1,0 +1,147 @@
+{
+      "unid": 2492,
+      "crdb": "Ford_Durty30_2016",
+      "grsp": [
+        4.027,
+        2.364,
+        1.532,
+        1.152,
+        0.852,
+        0.667
+      ],
+      "fidr": 4.56,
+      "apiid": 755,
+      "oriid": 755,
+      "apcid": 4,
+      "orcid": 4,
+      "aplid": 306,
+      "orlid": 306,
+      "aplzsid": 16,
+      "orlzsid": 16,
+      "apcn": [
+        "Ford_Durty30_2016_Wheel1A_3D"
+      ],
+      "opcn": "Ford_Durty30_2016_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 10.083,
+      "tthm": 16.045,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 925,
+      "inid": 755,
+      "caid": 4,
+      "lzsid": 16,
+      "livid": 306,
+      "whbn": "Wheel1A_3D"
+    }

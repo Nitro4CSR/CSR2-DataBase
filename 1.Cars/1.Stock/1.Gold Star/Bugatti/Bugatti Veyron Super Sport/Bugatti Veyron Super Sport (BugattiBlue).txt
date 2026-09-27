@@ -1,0 +1,146 @@
+{
+      "unid": 1467,
+      "crdb": "Bugatti_VeyronSuperSport_2012",
+      "grsp": [
+        2.25,
+        1.61,
+        1.19,
+        0.92,
+        0.75,
+        0.62,
+        0.55
+      ],
+      "fidr": 3.64,
+      "appi": 1,
+      "orpi": 1,
+      "apiid": 62,
+      "oriid": 62,
+      "apcid": 5,
+      "orcid": 5,
+      "apcn": [
+        "Bugatti_VeyronSuperSport_2012_Wheel1C_3D"
+      ],
+      "opcn": "Bugatti_VeyronSuperSport_2012_Wheel1C_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 607,
+      "ttqm": 9.942,
+      "tthm": 15.927,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1152,
+      "inid": 62,
+      "caid": 5,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1C_3D"
+    }

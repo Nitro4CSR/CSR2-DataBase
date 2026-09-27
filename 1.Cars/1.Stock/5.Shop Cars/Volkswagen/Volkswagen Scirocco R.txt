@@ -1,0 +1,137 @@
+{
+      "unid": 5831,
+      "crdb": "Volkswagen_SciroccoR_2015",
+      "grsp": [
+        4.373,
+        2.709,
+        1.925,
+        1.502,
+        1.24,
+        1.035
+      ],
+      "fidr": 3.08,
+      "appi": 4,
+      "orpi": 4,
+      "apiid": 287,
+      "oriid": 287,
+      "apcn": [
+        "Volkswagen_SciroccoR_2015_Wheel1A_3D"
+      ],
+      "opcn": "Volkswagen_SciroccoR_2015_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 305,
+      "ttqm": 13.93,
+      "tthm": 22.109,
+      "ctie": "TIER_2",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      }
+    }

@@ -1,0 +1,139 @@
+{
+      "unid": 1525,
+      "crdb": "Chevrolet_CamaroSS_2016",
+      "grsp": [
+        3.01,
+        2.07,
+        1.429,
+        1.002,
+        0.84,
+        0.571
+      ],
+      "fidr": 3.45,
+      "appi": 4,
+      "orpi": 4,
+      "apiid": 395,
+      "oriid": 395,
+      "apcid": 20,
+      "orcid": 20,
+      "apcn": [
+        "Chevrolet_CamaroSS_2016_Wheel1A_3D"
+      ],
+      "opcn": "Chevrolet_CamaroSS_2016_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 406,
+      "ttqm": 12.619,
+      "tthm": 20.182,
+      "ctie": "TIER_3",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      }
+    }

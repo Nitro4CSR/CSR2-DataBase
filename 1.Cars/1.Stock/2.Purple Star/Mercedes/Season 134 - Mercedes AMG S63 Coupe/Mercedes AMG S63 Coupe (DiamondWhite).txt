@@ -1,0 +1,143 @@
+{
+      "unid": 4405,
+      "crdb": "MercedesAMG_S63CoupeReward_2020",
+      "grsp": [
+        4.377,
+        2.859,
+        1.921,
+        1.368,
+        0.82,
+        0.728
+      ],
+      "fidr": 3.06,
+      "apiid": 282,
+      "oriid": 282,
+      "apcid": 3,
+      "orcid": 3,
+      "apcn": [
+        "MercedesAMG_S63CoupeReward_2020_Wheel1A_3D"
+      ],
+      "opcn": "MercedesAMG_S63CoupeReward_2020_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.186,
+      "tthm": 16.058,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 266,
+      "inid": 282,
+      "caid": 3,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

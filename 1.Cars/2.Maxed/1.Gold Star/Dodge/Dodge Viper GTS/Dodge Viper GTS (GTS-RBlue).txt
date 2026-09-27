@@ -1,7 +1,6 @@
 {
-      "unid": 94,
+      "unid": 1955,
       "crdb": "Dodge_ViperGTS_2015",
-      "awar": false,
       "grsp": [
         2.26,
         1.58,
@@ -10,68 +9,32 @@
         0.77,
         0.5
       ],
-      "fidr": 3.81,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 4.65,
+      "nlpr": 0.93,
+      "ttpp": 0.0,
       "appi": 3,
       "orpi": 3,
       "apiid": 261,
       "oriid": 261,
       "apcid": 5,
       "orcid": 5,
-      "apnid": -2147483648,
-      "apnzid": -2147483648,
-      "apncf": -2147483648,
-      "apncb": -2147483648,
-      "apfid": -2147483648,
-      "apcns": 0,
-      "appns": 0,
-      "apnpid": -2147483648,
-      "opnid": -2147483648,
-      "opnzid": -2147483648,
-      "opncf": -2147483648,
-      "opncb": -2147483648,
-      "opfid": -2147483648,
-      "opcns": 0,
-      "oppns": 0,
-      "opnpid": -2147483648,
       "aplid": 167,
       "orlid": 167,
       "aplzsid": 15,
       "orlzsid": 15,
-      "apln": "",
       "apcn": [
         "Dodge_ViperGTS_2015_Wheel3A_3D"
       ],
       "opcn": "Dodge_ViperGTS_2015_Wheel3A_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
-      "msou": 2024600,
+      "msou": 3009000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -107,8 +70,8 @@
               "ulpf": true,
               "fsg": [
                 1,
-                2,
-                2,
+                0,
+                0,
                 0,
                 0
               ]
@@ -117,7 +80,7 @@
               "ulpf": true,
               "fsg": [
                 2,
-                2,
+                0,
                 0,
                 0,
                 0
@@ -140,9 +103,22 @@
           "lvlf": 6,
           "lvls": [
             {
+              "ulpf": true
+            },
+            {
               "ulpf": true,
               "fsg": [
+                1,
                 0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
                 0,
                 0,
                 0,
@@ -165,26 +141,6 @@
                 1,
                 2,
                 0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                2,
                 0,
                 0
               ]
@@ -216,14 +172,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -250,7 +199,7 @@
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
@@ -260,7 +209,7 @@
               "fsg": [
                 1,
                 2,
-                3,
+                0,
                 0,
                 0
               ]
@@ -270,7 +219,7 @@
               "fsg": [
                 2,
                 3,
-                3,
+                0,
                 0,
                 0
               ]
@@ -280,7 +229,7 @@
               "fsg": [
                 2,
                 3,
-                3,
+                0,
                 0,
                 0
               ]
@@ -292,20 +241,13 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
               "fsg": [
                 1,
-                1,
+                0,
                 0,
                 0,
                 0
@@ -345,7 +287,7 @@
               "ulpf": true,
               "fsg": [
                 2,
-                2,
+                0,
                 0,
                 0,
                 0
@@ -368,9 +310,22 @@
           "lvlf": 6,
           "lvls": [
             {
+              "ulpf": true
+            },
+            {
               "ulpf": true,
               "fsg": [
+                1,
                 0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
                 0,
                 0,
                 0,
@@ -391,27 +346,7 @@
               "ulpf": true,
               "fsg": [
                 1,
-                2,
                 0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
                 0,
                 0,
                 0
@@ -444,14 +379,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -498,7 +426,7 @@
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
@@ -510,7 +438,7 @@
                 3,
                 3,
                 3,
-                3
+                0
               ]
             }
           ]
@@ -520,14 +448,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -554,7 +475,7 @@
               "fsg": [
                 1,
                 2,
-                3,
+                0,
                 0,
                 0
               ]
@@ -564,7 +485,7 @@
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
@@ -573,7 +494,7 @@
               "ulpf": true,
               "fsg": [
                 1,
-                2,
+                0,
                 0,
                 0,
                 0
@@ -585,7 +506,7 @@
                 2,
                 3,
                 3,
-                3,
+                0,
                 0
               ]
             }
@@ -593,68 +514,20 @@
         }
       ],
       "fpin": 1,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 2,
-      "rsup": 2,
-      "rpbb": 6,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 500,
-      "cepi": 0,
-      "tdut": 18.246,
-      "tdtt": 18.246,
-      "ttqm": 11.406,
-      "tthm": 18.246,
-      "tt60": 3.223,
-      "tt1h": 7.3,
-      "spqm": 122.264,
-      "sphm": 140.128,
+      "cppi": 672,
+      "cepi": 764,
+      "ttqm": 7.672,
+      "tthm": 12.216,
       "ctie": "TIER_4",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
       "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 348,
-      "wpid": 2147483647,
       "inid": 261,
       "caid": 5,
       "lzsid": 15,
       "livid": 167,
-      "whbn": "Wheel3A_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 50,
-      "isra": false
+      "whbn": "Wheel3A_3D"
     }

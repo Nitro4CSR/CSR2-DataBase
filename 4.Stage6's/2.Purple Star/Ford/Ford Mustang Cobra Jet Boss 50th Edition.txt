@@ -1,43 +1,46 @@
-,
+{
+  "cues": [
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "ENGINE",
       "esdb": "Ford_MustangCobraJetVIP_2019"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TURBO",
       "esdb": "Ford_MustangCobraJetVIP_2019"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "INTAKE",
       "esdb": "Ford_MustangCobraJetVIP_2019"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "NITROUS",
       "esdb": "Ford_MustangCobraJetVIP_2019"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "BODY",
       "esdb": "Ford_MustangCobraJetVIP_2019"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TYRES",
       "esdb": "Ford_MustangCobraJetVIP_2019"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TRANSMISSION",
       "esdb": "Ford_MustangCobraJetVIP_2019"
     },
-    7
+    "AMOUNT"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-      "unid": 7560,
+      "unid": 2022,
       "crdb": "Ferrari_288GTO_1985",
       "grsp": [
         2.77,
@@ -8,7 +8,9 @@
         0.96,
         0.77
       ],
-      "fidr": 2.22,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 328,
       "oriid": 328,
       "apcid": 311,
@@ -19,6 +21,8 @@
         "Ferrari_288GTO_1985_Wheel1A_3D"
       ],
       "opcn": "Ferrari_288GTO_1985_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -505,9 +509,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.402,
-      "tthm": 16.052,
+      "cppi": 713,
+      "cepi": 2574,
+      "ttqm": 4.411,
+      "tthm": 6.787,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -518,8 +523,5 @@
       "caid": 311,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

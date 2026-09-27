@@ -1,43 +1,46 @@
-,
+{
+  "cues": [
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "ENGINE",
       "esdb": "Ultima_EVOCoupeReward_2016"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TURBO",
       "esdb": "Ultima_EVOCoupeReward_2016"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "INTAKE",
       "esdb": "Ultima_EVOCoupeReward_2016"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "NITROUS",
       "esdb": "Ultima_EVOCoupeReward_2016"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "BODY",
       "esdb": "Ultima_EVOCoupeReward_2016"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TYRES",
       "esdb": "Ultima_EVOCoupeReward_2016"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TRANSMISSION",
       "esdb": "Ultima_EVOCoupeReward_2016"
     },
-    AMOUNT
+    "AMOUNT"
+  ]
+}

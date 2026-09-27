@@ -1,0 +1,143 @@
+{
+      "unid": 5706,
+      "crdb": "Subaru_WRXSTITNR_2018",
+      "grsp": [
+        2.857,
+        1.95,
+        1.444,
+        1.096,
+        0.825,
+        0.738
+      ],
+      "fidr": 4.44,
+      "apiid": 1000137,
+      "oriid": 1000137,
+      "apcid": 1000031,
+      "orcid": 1000031,
+      "apcn": [
+        "Subaru_WRXSTITNR_2018_Wheel1A_Alpha"
+      ],
+      "opcn": "Subaru_WRXSTITNR_2018_Wheel1A_Alpha",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 502,
+      "ttqm": 11.76,
+      "tthm": 18.204,
+      "ctie": "TIER_4",
+      "csrc": "GenericRewards",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1000119,
+      "inid": 1000137,
+      "caid": 1000031,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_Alpha"
+    }

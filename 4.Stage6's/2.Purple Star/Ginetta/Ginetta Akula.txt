@@ -1,43 +1,46 @@
-,
+{
+  "cues": [
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "ENGINE",
       "esdb": "Ginetta_Akula_2019"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TURBO",
       "esdb": "Ginetta_Akula_2019"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "INTAKE",
       "esdb": "Ginetta_Akula_2019"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "NITROUS",
       "esdb": "Ginetta_Akula_2019"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "BODY",
       "esdb": "Ginetta_Akula_2019"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TYRES",
       "esdb": "Ginetta_Akula_2019"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TRANSMISSION",
       "esdb": "Ginetta_Akula_2019"
     },
-    AMOUNT
+    "AMOUNT"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-      "unid": 7493,
+      "unid": 318,
       "crdb": "AstonMartin_DBXSRewardRecycled_2026",
       "grsp": [
         5.35,
@@ -27,6 +27,8 @@
       "opcn": "AstonMartin_DBXSRewardRecycled_2026_Wheel1A_3D",
       "upst": [
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -40,6 +42,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -53,6 +57,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -66,6 +72,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -79,6 +87,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -92,6 +102,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -105,6 +117,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true

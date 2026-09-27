@@ -1,43 +1,46 @@
-,
+{
+  "cues": [
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "ENGINE",
       "esdb": "GTA_SpanoCrewRecycled_2015"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TURBO",
       "esdb": "GTA_SpanoCrewRecycled_2015"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "INTAKE",
       "esdb": "GTA_SpanoCrewRecycled_2015"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "NITROUS",
       "esdb": "GTA_SpanoCrewRecycled_2015"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "BODY",
       "esdb": "GTA_SpanoCrewRecycled_2015"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TYRES",
       "esdb": "GTA_SpanoCrewRecycled_2015"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TRANSMISSION",
       "esdb": "GTA_SpanoCrewRecycled_2015"
     },
-    AMOUNT
+    "AMOUNT"
+  ]
+}

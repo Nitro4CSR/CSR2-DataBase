@@ -1,0 +1,140 @@
+{
+      "unid": 2262,
+      "crdb": "Ferrari_F12berlinetta_2014",
+      "grsp": [
+        3.08,
+        2.18,
+        1.63,
+        1.29,
+        1.03,
+        0.84,
+        0.69
+      ],
+      "fidr": 4.38,
+      "appi": 13,
+      "orpi": 13,
+      "apiid": 115,
+      "oriid": 115,
+      "apcid": 10,
+      "orcid": 10,
+      "apcn": [
+        "Ferrari_F12berlinetta_2014_Wheel1A_3D"
+      ],
+      "opcn": "Ferrari_F12berlinetta_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 602,
+      "ttqm": 10.075,
+      "tthm": 16.096,
+      "ctie": "TIER_5",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      }
+    }

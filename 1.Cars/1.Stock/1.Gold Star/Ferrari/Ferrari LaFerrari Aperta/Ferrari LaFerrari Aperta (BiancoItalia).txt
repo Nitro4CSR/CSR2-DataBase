@@ -1,0 +1,148 @@
+{
+      "unid": 2378,
+      "crdb": "Ferrari_LaFerrariAperta_2017",
+      "grsp": [
+        3.08,
+        2.19,
+        1.63,
+        1.29,
+        1.03,
+        0.84,
+        0.69
+      ],
+      "fidr": 4.38,
+      "apiid": 128,
+      "oriid": 128,
+      "apcid": 11,
+      "orcid": 11,
+      "aplid": 133,
+      "orlid": 133,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Ferrari_LaFerrariAperta_2017_Wheel1A_3D"
+      ],
+      "opcn": "Ferrari_LaFerrariAperta_2017_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 606,
+      "ttqm": 10.159,
+      "tthm": 15.957,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1880,
+      "inid": 128,
+      "caid": 11,
+      "lzsid": 15,
+      "livid": 133,
+      "whbn": "Wheel1A_3D"
+    }

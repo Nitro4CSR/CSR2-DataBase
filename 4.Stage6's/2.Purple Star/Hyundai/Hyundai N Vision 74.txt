@@ -1,43 +1,46 @@
-,
+{
+  "cues": [
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "ENGINE",
       "esdb": "Hyundai_NVision74Concept_2023"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TURBO",
       "esdb": "Hyundai_NVision74Concept_2023"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "INTAKE",
       "esdb": "Hyundai_NVision74Concept_2023"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "NITROUS",
       "esdb": "Hyundai_NVision74Concept_2023"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "BODY",
       "esdb": "Hyundai_NVision74Concept_2023"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TYRES",
       "esdb": "Hyundai_NVision74Concept_2023"
     },
-    AMOUNT,
+    "AMOUNT",
     {
-      "esnn": AMOUNT,
+      "esnn": "AMOUNT",
       "esut": "TRANSMISSION",
       "esdb": "Hyundai_NVision74Concept_2023"
     },
-    AMOUNT
+    "AMOUNT"
+  ]
+}

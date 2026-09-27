@@ -1,0 +1,140 @@
+{
+      "unid": 693,
+      "crdb": "Audi_RS5Coupe_2014",
+      "grsp": [
+        3.692,
+        2.238,
+        1.559,
+        1.175,
+        0.915,
+        0.745,
+        0.617
+      ],
+      "fidr": 4.38,
+      "appi": 2,
+      "orpi": 2,
+      "apiid": 72,
+      "oriid": 72,
+      "apcid": 4,
+      "orcid": 4,
+      "apcn": [
+        "Audi_RS5Coupe_2014_Wheel3A_3D"
+      ],
+      "opcn": "Audi_RS5Coupe_2014_Wheel3A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 401,
+      "ttqm": 12.685,
+      "tthm": 20.042,
+      "ctie": "TIER_3",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

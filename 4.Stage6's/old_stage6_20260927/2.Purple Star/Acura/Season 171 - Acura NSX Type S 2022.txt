@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": AMOUNT,
+      "esut": "ENGINE",
+      "esdb": "Acura_NSXTypeSReward_2022"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TURBO",
+      "esdb": "Acura_NSXTypeSReward_2022"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "INTAKE",
+      "esdb": "Acura_NSXTypeSReward_2022"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "NITROUS",
+      "esdb": "Acura_NSXTypeSReward_2022"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "BODY",
+      "esdb": "Acura_NSXTypeSReward_2022"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TYRES",
+      "esdb": "Acura_NSXTypeSReward_2022"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TRANSMISSION",
+      "esdb": "Acura_NSXTypeSReward_2022"
+    },
+    AMOUNT

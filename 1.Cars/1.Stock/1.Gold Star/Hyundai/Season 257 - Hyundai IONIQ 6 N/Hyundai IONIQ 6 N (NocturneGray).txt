@@ -1,12 +1,12 @@
 {
-      "unid": 7009,
+      "unid": 2974,
       "crdb": "Hyundai_IONIQ6NRewardRecycled_2025",
       "grsp": [
         1.0
       ],
       "fidr": 4.96,
-      "appi": 3,
-      "orpi": 3,
+      "appi": 4,
+      "orpi": 4,
       "apiid": 1687,
       "oriid": 1687,
       "apcid": 310,
@@ -19,6 +19,8 @@
       "opcn": "Hyundai_IONIQ6NRewardRecycled_2025_Wheel1A_3D",
       "upst": [
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -32,6 +34,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -45,6 +49,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -58,6 +64,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -71,6 +79,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -84,6 +94,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -97,6 +109,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -119,7 +133,7 @@
       "nupl": {
         "cpf": false
       },
-      "paid": 2680,
+      "paid": 2681,
       "inid": 1687,
       "caid": 310,
       "lzsid": -1,

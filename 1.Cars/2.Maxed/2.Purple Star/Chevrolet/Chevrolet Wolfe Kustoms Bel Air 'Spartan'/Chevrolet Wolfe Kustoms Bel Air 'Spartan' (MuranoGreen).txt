@@ -1,5 +1,5 @@
 {
-      "unid": 7113,
+      "unid": 1773,
       "crdb": "Chevrolet_WolfeKustomsBelAir_1957",
       "grsp": [
         2.97,
@@ -9,7 +9,9 @@
         0.8,
         0.63
       ],
-      "fidr": 3.7,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2069,
       "oriid": 2069,
       "apcid": 5,
@@ -22,6 +24,8 @@
         "Chevrolet_WolfeKustomsBelAir_1957_Wheel1A_3D"
       ],
       "opcn": "Chevrolet_WolfeKustomsBelAir_1957_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -508,21 +512,20 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 9.844,
-      "tthm": 16.068,
+      "cppi": 713,
+      "cepi": 2485,
+      "ttqm": 4.559,
+      "tthm": 6.966,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "paid": 2733,
       "inid": 2069,
       "caid": 5,
       "lzsid": 9,
       "livid": 1411,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

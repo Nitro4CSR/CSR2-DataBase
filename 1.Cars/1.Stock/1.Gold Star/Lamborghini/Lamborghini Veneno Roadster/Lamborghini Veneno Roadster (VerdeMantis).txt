@@ -1,0 +1,148 @@
+{
+      "unid": 3723,
+      "crdb": "Lamborghini_VenenoRoadsterGold_2014",
+      "grsp": [
+        3.909,
+        2.438,
+        1.81,
+        1.458,
+        1.185,
+        0.967,
+        0.844
+      ],
+      "fidr": 3.54,
+      "apiid": 1414,
+      "oriid": 1414,
+      "apcid": 222,
+      "orcid": 222,
+      "aplid": 1122,
+      "orlid": 1122,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Lamborghini_VenenoRoadsterGold_2014_Wheel1A_3D"
+      ],
+      "opcn": "Lamborghini_VenenoRoadsterGold_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 604,
+      "ttqm": 10.143,
+      "tthm": 16.04,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 323,
+      "inid": 1414,
+      "caid": 222,
+      "lzsid": 9,
+      "livid": 1122,
+      "whbn": "Wheel1A_3D"
+    }

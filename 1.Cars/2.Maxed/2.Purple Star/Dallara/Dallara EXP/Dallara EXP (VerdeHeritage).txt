@@ -1,5 +1,5 @@
 {
-      "unid": 7012,
+      "unid": 1778,
       "crdb": "Dallara_EXP_2021",
       "grsp": [
         2.971,
@@ -9,7 +9,9 @@
         0.84,
         0.56
       ],
-      "fidr": 3.2,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1949,
       "oriid": 1949,
       "apcid": 371,
@@ -22,6 +24,8 @@
         "Dallara_EXP_2021_Wheel1A_3D"
       ],
       "opcn": "Dallara_EXP_2021_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -508,9 +512,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.283,
-      "tthm": 16.051,
+      "cppi": 713,
+      "cepi": 2495,
+      "ttqm": 4.812,
+      "tthm": 6.887,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -521,8 +526,5 @@
       "caid": 371,
       "lzsid": 9,
       "livid": 1394,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

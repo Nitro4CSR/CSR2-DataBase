@@ -1,0 +1,141 @@
+{
+      "unid": 2567,
+      "crdb": "Ford_Mustang302_1970",
+      "grsp": [
+        2.78,
+        1.93,
+        1.36,
+        1.0
+      ],
+      "fidr": 3.5,
+      "appi": 2,
+      "orpi": 2,
+      "apiid": 66,
+      "oriid": 66,
+      "apcid": 4,
+      "orcid": 4,
+      "aplid": 422,
+      "orlid": 422,
+      "aplzsid": 0,
+      "orlzsid": 0,
+      "apcn": [
+        "Ford_Mustang302_1970_Wheel1A_3D"
+      ],
+      "opcn": "Ford_Mustang302_1970_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 163,
+      "ttqm": 15.373,
+      "tthm": 23.588,
+      "ctie": "TIER_1",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

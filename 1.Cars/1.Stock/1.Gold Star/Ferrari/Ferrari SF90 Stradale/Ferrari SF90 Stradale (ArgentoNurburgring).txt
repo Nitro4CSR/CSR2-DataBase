@@ -1,0 +1,151 @@
+{
+      "unid": 2461,
+      "crdb": "Ferrari_SF90StradaleGold_2020",
+      "grsp": [
+        3.455,
+        2.263,
+        1.654,
+        1.29,
+        1.029,
+        0.837,
+        0.674,
+        0.481
+      ],
+      "fidr": 4.51,
+      "appi": 11,
+      "orpi": 11,
+      "apiid": 1453,
+      "oriid": 1453,
+      "apcid": 11,
+      "orcid": 11,
+      "aplid": 133,
+      "orlid": 133,
+      "aplzsid": 2,
+      "orlzsid": 2,
+      "apcn": [
+        "Ferrari_SF90StradaleGold_2020_Wheel2B_3D"
+      ],
+      "opcn": "Ferrari_SF90StradaleGold_2020_Wheel2B_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 10.111,
+      "tthm": 16.047,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 196,
+      "inid": 1453,
+      "caid": 11,
+      "lzsid": 2,
+      "livid": 133,
+      "whbn": "Wheel2B_3D"
+    }

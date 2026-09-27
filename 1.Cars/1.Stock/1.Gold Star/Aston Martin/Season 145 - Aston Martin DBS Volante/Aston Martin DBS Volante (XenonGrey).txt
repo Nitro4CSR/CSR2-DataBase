@@ -1,0 +1,149 @@
+{
+      "unid": 259,
+      "crdb": "AstonMartin_DBSVolanteRewardRecycled_2020",
+      "grsp": [
+        4.714,
+        3.143,
+        2.106,
+        1.667,
+        1.285,
+        1.0,
+        0.839,
+        0.667
+      ],
+      "fidr": 2.93,
+      "appi": 29,
+      "orpi": 29,
+      "apiid": 1331,
+      "oriid": 1331,
+      "apcid": 108,
+      "orcid": 108,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "AstonMartin_DBSVolanteRewardRecycled_2020_Wheel1C_3D"
+      ],
+      "opcn": "AstonMartin_DBSVolanteRewardRecycled_2020_Wheel1C_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 10.258,
+      "tthm": 16.043,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1168,
+      "inid": 1331,
+      "caid": 108,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1C_3D"
+    }

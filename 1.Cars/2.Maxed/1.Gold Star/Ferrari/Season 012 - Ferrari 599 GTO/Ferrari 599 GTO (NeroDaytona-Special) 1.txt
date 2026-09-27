@@ -1,7 +1,6 @@
 {
-      "unid": 269,
+      "unid": 2143,
       "crdb": "Ferrari_599GTORewardRecycled_2010",
-      "awar": false,
       "grsp": [
         3.154,
         2.176,
@@ -10,68 +9,32 @@
         0.935,
         0.76
       ],
-      "fidr": 4.1,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 2.96,
+      "nlpr": 1.0,
+      "ttpp": 0.34,
       "appi": 14,
       "orpi": 14,
-      "apiid": 129,
-      "oriid": 129,
-      "apcid": 14,
-      "orcid": 14,
-      "apnid": -2147483648,
-      "apnzid": -2147483648,
-      "apncf": -2147483648,
-      "apncb": -2147483648,
-      "apfid": -2147483648,
-      "apcns": 0,
-      "appns": 0,
-      "apnpid": -2147483648,
-      "opnid": -2147483648,
-      "opnzid": -2147483648,
-      "opncf": -2147483648,
-      "opncb": -2147483648,
-      "opfid": -2147483648,
-      "opcns": 0,
-      "oppns": 0,
-      "opnpid": -2147483648,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
-      "apln": "",
+      "apiid": 128,
+      "oriid": 128,
+      "apcid": 13,
+      "orcid": 13,
+      "aplid": 184,
+      "orlid": 184,
+      "aplzsid": 15,
+      "orlzsid": 15,
       "apcn": [
-        "Ferrari_599GTORewardRecycled_2010_Wheel1A_3D"
+        "Ferrari_599GTORewardRecycled_2010_Wheel1C_3D"
       ],
-      "opcn": "Ferrari_599GTORewardRecycled_2010_Wheel1A_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
+      "opcn": "Ferrari_599GTORewardRecycled_2010_Wheel1C_3D",
       "msou": 5979000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -140,14 +103,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -216,14 +172,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -292,14 +241,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -368,14 +310,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -444,14 +379,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -520,14 +448,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -593,68 +514,20 @@
         }
       ],
       "fpin": 2,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 604,
-      "cepi": 0,
-      "tdut": 16.024,
-      "tdtt": 16.024,
-      "ttqm": 10.106,
-      "tthm": 16.024,
-      "tt60": 2.347,
-      "tt1h": 5.449,
-      "spqm": 137.337,
-      "sphm": 161.154,
+      "cppi": 713,
+      "cepi": 1157,
+      "ttqm": 6.251,
+      "tthm": 9.6,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
       "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 619,
-      "wpid": 2147483647,
-      "inid": 129,
-      "caid": 14,
-      "lzsid": -2147483648,
-      "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "inid": 128,
+      "caid": 13,
+      "lzsid": 15,
+      "livid": 184,
+      "whbn": "Wheel1C_3D"
     }

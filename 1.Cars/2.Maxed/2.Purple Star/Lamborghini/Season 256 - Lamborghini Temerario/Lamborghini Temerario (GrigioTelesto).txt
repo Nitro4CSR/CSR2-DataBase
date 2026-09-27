@@ -1,5 +1,5 @@
 {
-      "unid": 7559,
+      "unid": 3636,
       "crdb": "Lamborghini_TemerarioReward_2025",
       "grsp": [
         3.9,
@@ -11,7 +11,9 @@
         0.83,
         0.7
       ],
-      "fidr": 3.7,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2025,
       "oriid": 2025,
       "apcid": 271,
@@ -24,6 +26,8 @@
         "Lamborghini_TemerarioReward_2025_Wheel1A_3D"
       ],
       "opcn": "Lamborghini_TemerarioReward_2025_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -510,9 +514,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.086,
-      "tthm": 16.057,
+      "cppi": 713,
+      "cepi": 2404,
+      "ttqm": 4.717,
+      "tthm": 7.099,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -523,8 +528,5 @@
       "caid": 271,
       "lzsid": 9,
       "livid": 195,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

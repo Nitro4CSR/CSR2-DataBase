@@ -1,0 +1,139 @@
+{
+      "unid": 3829,
+      "crdb": "Lotus_ExigeS_2014",
+      "grsp": [
+        3.538,
+        1.913,
+        1.407,
+        1.091,
+        0.831,
+        0.738
+      ],
+      "fidr": 3.77,
+      "apiid": 265,
+      "oriid": 265,
+      "aplid": 119,
+      "orlid": 119,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Lotus_ExigeS_2014_Wheel1A_3D"
+      ],
+      "opcn": "Lotus_ExigeS_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 305,
+      "ttqm": 13.938,
+      "tthm": 22.233,
+      "ctie": "TIER_2",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      }
+    }

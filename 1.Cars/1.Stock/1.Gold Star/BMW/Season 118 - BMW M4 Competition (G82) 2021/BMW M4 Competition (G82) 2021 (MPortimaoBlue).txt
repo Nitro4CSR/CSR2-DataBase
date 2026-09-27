@@ -1,0 +1,147 @@
+{
+      "unid": 1252,
+      "crdb": "BMW_M4CoupeRewardRecycled_2021",
+      "grsp": [
+        4.11,
+        2.315,
+        1.542,
+        1.179,
+        1.0,
+        0.846
+      ],
+      "fidr": 3.46,
+      "appi": 3,
+      "orpi": 3,
+      "apiid": 1270,
+      "oriid": 1270,
+      "apcid": 8,
+      "orcid": 8,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "BMW_M4CoupeRewardRecycled_2021_Wheel2A_3D"
+      ],
+      "opcn": "BMW_M4CoupeRewardRecycled_2021_Wheel2A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 402,
+      "ttqm": 12.677,
+      "tthm": 19.974,
+      "ctie": "TIER_3",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1737,
+      "inid": 1270,
+      "caid": 8,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel2A_3D"
+    }

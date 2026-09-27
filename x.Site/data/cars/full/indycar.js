@@ -1,0 +1,1 @@
+CSR.put("cars/full/indycar",{"Indy_Car_2021":[{"c":"RacingBlue","f":"1.Cars/2.Maxed/2.Purple Star/IndyCar/IndyCar/IndyCar (RacingBlue).txt","i":"1.Cars/2.Maxed/2.Purple Star/IndyCar/IndyCar/IndyCar (RacingBlue).jpg"}]});

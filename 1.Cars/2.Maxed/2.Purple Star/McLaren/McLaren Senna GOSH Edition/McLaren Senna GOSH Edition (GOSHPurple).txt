@@ -1,7 +1,6 @@
 {
-      "unid": 489,
+      "unid": 4307,
       "crdb": "McLaren_SennaGOSH_2018",
-      "awar": false,
       "grsp": [
         3.981,
         2.613,
@@ -11,71 +10,30 @@
         0.906,
         0.686
       ],
-      "fidr": 3.31,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
-      "appi": 0,
-      "orpi": 0,
+      "fidr": 2.48,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 555,
       "oriid": 555,
       "apcid": 117,
       "orcid": 117,
-      "apnid": -2147483648,
-      "apnzid": -2147483648,
-      "apncf": -2147483648,
-      "apncb": -2147483648,
-      "apfid": -2147483648,
-      "apcns": 0,
-      "appns": 0,
-      "apnpid": -2147483648,
-      "opnid": -2147483648,
-      "opnzid": -2147483648,
-      "opncf": -2147483648,
-      "opncb": -2147483648,
-      "opfid": -2147483648,
-      "opcns": 0,
-      "oppns": 0,
-      "opnpid": -2147483648,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
       "aplzsid": -1,
       "orlzsid": -1,
-      "apln": "",
       "apcn": [
         "McLaren_SennaGOSH_2018_Wheel1A_3D"
       ],
       "opcn": "McLaren_SennaGOSH_2018_Wheel1A_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
       "msou": 5979000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -85,7 +43,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -95,7 +52,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -105,7 +61,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -115,7 +70,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -125,7 +79,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 3,
                 3,
@@ -141,17 +94,9 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -161,7 +106,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -171,7 +115,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -181,7 +124,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -191,7 +133,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -201,7 +142,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 3,
                 0,
@@ -217,17 +157,9 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -237,7 +169,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -247,7 +178,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -257,7 +187,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -267,7 +196,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -277,7 +205,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -293,17 +220,9 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -313,7 +232,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -323,7 +241,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -333,7 +250,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -343,7 +259,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -353,7 +268,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -369,17 +283,9 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -389,7 +295,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -399,7 +304,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -409,7 +313,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -419,7 +322,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -429,7 +331,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -445,17 +346,9 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -465,7 +358,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -475,7 +367,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -485,7 +376,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -495,7 +385,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -505,7 +394,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -521,17 +409,9 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -541,7 +421,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -551,7 +430,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -561,7 +439,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -571,7 +448,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -581,7 +457,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -594,68 +469,19 @@
         }
       ],
       "fpin": 3,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 603,
-      "cepi": 0,
-      "tdut": 16.054,
-      "tdtt": 16.054,
-      "ttqm": 10.097,
-      "tthm": 16.054,
-      "tt60": 2.525,
-      "tt1h": 5.154,
-      "spqm": 138.209,
-      "sphm": 162.81,
+      "cppi": 714,
+      "cepi": 2318,
+      "ttqm": 4.846,
+      "tthm": 7.216,
       "ctie": "TIER_5",
       "csrc": "IAPSpecial",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
-      "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 1854,
-      "wpid": 2147483647,
       "inid": 555,
       "caid": 117,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "whbn": "Wheel1A_3D"
     }

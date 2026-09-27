@@ -1,0 +1,148 @@
+{
+      "unid": 9,
+      "crdb": "Abarth_500_2014",
+      "grsp": [
+        3.91,
+        2.24,
+        1.52,
+        1.16,
+        0.87
+      ],
+      "fidr": 3.08,
+      "appi": 11,
+      "orpi": 11,
+      "apiid": 204,
+      "oriid": 204,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 125,
+      "orlid": 125,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Abarth_500_2014_Wheel4B_3D"
+      ],
+      "opcn": "Abarth_500_2014_Wheel4B_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 1,
+      "cppi": 163,
+      "ttqm": 15.366,
+      "tthm": 24.55,
+      "ctie": "TIER_1",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 482,
+      "inid": 204,
+      "caid": 3,
+      "lzsid": 15,
+      "livid": 125,
+      "whbn": "Wheel4B_3D"
+    }

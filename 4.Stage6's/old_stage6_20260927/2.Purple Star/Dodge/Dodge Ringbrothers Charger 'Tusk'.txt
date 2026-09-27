@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": AMOUNT,
+      "esut": "ENGINE",
+      "esdb": "Dodge_RingbrothersChargerTUSK_1969"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TURBO",
+      "esdb": "Dodge_RingbrothersChargerTUSK_1969"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "INTAKE",
+      "esdb": "Dodge_RingbrothersChargerTUSK_1969"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "NITROUS",
+      "esdb": "Dodge_RingbrothersChargerTUSK_1969"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "BODY",
+      "esdb": "Dodge_RingbrothersChargerTUSK_1969"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TYRES",
+      "esdb": "Dodge_RingbrothersChargerTUSK_1969"
+    },
+    AMOUNT,
+    {
+      "esnn": AMOUNT,
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_RingbrothersChargerTUSK_1969"
+    },
+    AMOUNT

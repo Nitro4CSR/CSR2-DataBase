@@ -1,5 +1,5 @@
 {
-      "unid": 7125,
+      "unid": 1739,
       "crdb": "Chevrolet_LowerLevelGarageApache_1959",
       "grsp": [
         2.74,
@@ -7,7 +7,9 @@
         1.0,
         0.667
       ],
-      "fidr": 3.33,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2067,
       "oriid": 2067,
       "apcid": 5,
@@ -20,6 +22,8 @@
         "Chevrolet_LowerLevelGarageApache_1959_Wheel1A_3D"
       ],
       "opcn": "Chevrolet_LowerLevelGarageApache_1959_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -506,11 +510,12 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.112,
-      "tthm": 16.046,
+      "cppi": 713,
+      "cepi": 2400,
+      "ttqm": 4.472,
+      "tthm": 7.094,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "Prize",
       "nupl": {
         "cpf": false
       },
@@ -519,8 +524,5 @@
       "caid": 5,
       "lzsid": 9,
       "livid": 1410,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

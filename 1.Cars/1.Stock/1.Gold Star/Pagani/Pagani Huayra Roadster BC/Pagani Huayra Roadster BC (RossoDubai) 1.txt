@@ -1,0 +1,146 @@
+{
+      "unid": 4911,
+      "crdb": "Pagani_HuayraBCRoadster_2019",
+      "grsp": [
+        3.7,
+        2.5,
+        1.6,
+        1.2,
+        0.88,
+        0.72,
+        0.59
+      ],
+      "fidr": 3.2,
+      "apiid": 972,
+      "oriid": 972,
+      "aplid": 1126,
+      "orlid": 1126,
+      "aplzsid": 2,
+      "orlzsid": 2,
+      "apcn": [
+        "Pagani_HuayraBCRoadster_2019_Wheel1C_3D"
+      ],
+      "opcn": "Pagani_HuayraBCRoadster_2019_Wheel1C_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 607,
+      "ttqm": 10.067,
+      "tthm": 15.928,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 827,
+      "inid": 972,
+      "caid": 0,
+      "lzsid": 2,
+      "livid": 1126,
+      "whbn": "Wheel1C_3D"
+    }

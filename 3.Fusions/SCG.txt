@@ -1,9 +1,11 @@
-   {
+{
+  "caup": [
+    {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_eng0",
+        "adid": "SCG_SCG003S_2017_eng0",
         "ulid": "TEXT_UPGRADE_ENGINE01",
         "upty": "ENGINE",
         "uplv": 0,
@@ -13,20 +15,58 @@
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": 0.0,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 950.0,
+            "kfva": 10.913
+          },
+          {
+            "kfti": 1150.0,
+            "kfva": 12.999
+          },
+          {
+            "kfti": 1400.0,
+            "kfva": 15.064
+          },
+          {
+            "kfti": 1650.0,
+            "kfva": 16.243
+          },
+          {
+            "kfti": 2100.0,
+            "kfva": 17.46
+          },
+          {
+            "kfti": 2650.0,
+            "kfva": 18.138
+          },
+          {
+            "kfti": 3250.0,
+            "kfva": 18.383
+          },
+          {
+            "kfti": 5950.0,
+            "kfva": 18.241
+          },
+          {
+            "kfti": 7350.0,
+            "kfva": 17.185
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_tur0",
+        "adid": "SCG_SCG003S_2017_tur0",
         "ulid": "TEXT_UPGRADE_TURBO01",
         "upty": "TURBO",
         "uplv": 0,
@@ -36,26 +76,60 @@
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": -1.0,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 0.559
+          },
+          {
+            "kfti": 2050.0,
+            "kfva": 0.706
+          },
+          {
+            "kfti": 2300.0,
+            "kfva": 6.797
+          },
+          {
+            "kfti": 3150.0,
+            "kfva": 10.077
+          },
+          {
+            "kfti": 4550.0,
+            "kfva": 10.361
+          },
+          {
+            "kfti": 5750.0,
+            "kfva": 10.382
+          },
+          {
+            "kfti": 6550.0,
+            "kfva": 7.931
+          },
+          {
+            "kfti": 7250.0,
+            "kfva": 5.871
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_int0",
+        "adid": "SCG_SCG003S_2017_int0",
         "ulid": "TEXT_UPGRADE_INTAKE01",
         "upty": "INTAKE",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.05,
+        "drcd": -0.02,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
@@ -63,22 +137,48 @@
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1050.0,
+            "kfva": 2.127
+          },
+          {
+            "kfti": 1450.0,
+            "kfva": 3.218
+          },
+          {
+            "kfti": 2150.0,
+            "kfva": 3.7
+          },
+          {
+            "kfti": 2800.0,
+            "kfva": 3.812
+          },
+          {
+            "kfti": 3850.0,
+            "kfva": 3.793
+          },
+          {
+            "kfti": 5750.0,
+            "kfva": 3.675
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_nit0",
+        "adid": "SCG_SCG003S_2017_nit0",
         "ulid": "TEXT_UPGRADE_NITROUS01",
         "upty": "NITROUS",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.03,
+        "drcd": -0.02,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
@@ -89,21 +189,21 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_bod0",
+        "adid": "SCG_SCG003S_2017_bod0",
         "ulid": "TEXT_UPGRADE_BODY01",
         "upty": "BODY",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
         "drcd": 0.0,
-        "wedi": -13.608,
-        "grdi": -15.0,
+        "wedi": -9.072,
+        "grdi": -10.0,
         "gstd": 0.0,
         "trlp": 0.0,
         "niti": 0.0,
@@ -112,19 +212,19 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_tir0",
+        "adid": "SCG_SCG003S_2017_tir0",
         "ulid": "TEXT_UPGRADE_TYRES01",
         "upty": "TYRES",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": -0.03,
+        "drcd": 0.0,
         "wedi": 0.0,
         "grdi": 94.0,
         "gstd": 0.0,
@@ -135,19 +235,19 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_tra0",
+        "adid": "SCG_SCG003S_2017_tra0",
         "ulid": "TEXT_UPGRADE_TRANS01",
         "upty": "TRANSMISSION",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
+        "drcd": 0.02,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": -0.05,
@@ -158,13 +258,13 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_eng1",
+        "adid": "SCG_SCG003S_2017_eng1",
         "ulid": "TEXT_UPGRADE_ENGINE02",
         "upty": "ENGINE",
         "uplv": 1,
@@ -174,22 +274,109 @@
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": -6.5,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1050.0,
+            "kfva": 4.155
+          },
+          {
+            "kfti": 1400.0,
+            "kfva": 5.376
+          },
+          {
+            "kfti": 1750.0,
+            "kfva": 5.987
+          },
+          {
+            "kfti": 2500.0,
+            "kfva": 6.678
+          },
+          {
+            "kfti": 3600.0,
+            "kfva": 6.646
+          },
+          {
+            "kfti": 4600.0,
+            "kfva": 6.494
+          },
+          {
+            "kfti": 5750.0,
+            "kfva": 6.083
+          },
+          {
+            "kfti": 6950.0,
+            "kfva": 5.213
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_tur1",
+        "adid": "SCG_SCG003S_2017_tur1",
         "ulid": "TEXT_UPGRADE_TURBO02",
         "upty": "TURBO",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.01,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": -5.5,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 0.321
+          },
+          {
+            "kfti": 2250.0,
+            "kfva": 0.365
+          },
+          {
+            "kfti": 2252.25,
+            "kfva": 4.621
+          },
+          {
+            "kfti": 2800.0,
+            "kfva": 7.266
+          },
+          {
+            "kfti": 3500.0,
+            "kfva": 9.615
+          },
+          {
+            "kfti": 4300.0,
+            "kfva": 10.262
+          },
+          {
+            "kfti": 5300.0,
+            "kfva": 10.188
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_scg",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "SCG_SCG003S_2017_int1",
+        "ulid": "TEXT_UPGRADE_INTAKE02",
+        "upty": "INTAKE",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
@@ -197,74 +384,81 @@
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": -2.5,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 2.933
+          },
+          {
+            "kfti": 1250.0,
+            "kfva": 3.825
+          },
+          {
+            "kfti": 1450.0,
+            "kfva": 4.311
+          },
+          {
+            "kfti": 1900.0,
+            "kfva": 4.799
+          },
+          {
+            "kfti": 2700.0,
+            "kfva": 4.984
+          },
+          {
+            "kfti": 4100.0,
+            "kfva": 4.942
+          },
+          {
+            "kfti": 6050.0,
+            "kfva": 4.657
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_int1",
-        "ulid": "TEXT_UPGRADE_INTAKE02",
-        "upty": "INTAKE",
-        "uplv": 1,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.015,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 0.0,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_scg",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_nit1",
+        "adid": "SCG_SCG003S_2017_nit1",
         "ulid": "TEXT_UPGRADE_NITROUS02",
         "upty": "NITROUS",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.02,
+        "drcd": 0.0,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": -3.5,
         "niti": 1.0,
         "nhpb": 25.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_bod1",
+        "adid": "SCG_SCG003S_2017_bod1",
         "ulid": "TEXT_UPGRADE_BODY02",
         "upty": "BODY",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.03,
-        "wedi": -13.608,
-        "grdi": -15.0,
+        "drcd": -0.01,
+        "wedi": -22.68,
+        "grdi": -25.0,
         "gstd": 0.0,
         "trlp": 0.0,
         "niti": 0.0,
@@ -273,44 +467,44 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_tir1",
+        "adid": "SCG_SCG003S_2017_tir1",
         "ulid": "TEXT_UPGRADE_TYRES02",
         "upty": "TYRES",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": -0.03,
+        "drcd": 0.02,
         "wedi": 0.0,
-        "grdi": AMOUNT.0,
+        "grdi": 125.0,
         "gstd": 0.0,
-        "trlp": 0.0,
+        "trlp": -2.5,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_tra1",
+        "adid": "SCG_SCG003S_2017_tra1",
         "ulid": "TEXT_UPGRADE_TRANS02",
         "upty": "TRANSMISSION",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
-        "wedi": -13.608,
-        "grdi": 0.0,
+        "drcd": -0.03,
+        "wedi": -9.072,
+        "grdi": -10.0,
         "gstd": 0.0,
         "trlp": 0.0,
         "niti": 0.0,
@@ -319,84 +513,15 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_eng2",
+        "adid": "SCG_SCG003S_2017_eng2",
         "ulid": "TEXT_UPGRADE_ENGINE03",
         "upty": "ENGINE",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.0,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 1.5,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_scg",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_tur2",
-        "ulid": "TEXT_UPGRADE_TURBO03",
-        "upty": "TURBO",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.01,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 1.5,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_scg",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_int2",
-        "ulid": "TEXT_UPGRADE_INTAKE03",
-        "upty": "INTAKE",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.05,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 0.0,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_scg",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_nit2",
-        "ulid": "TEXT_UPGRADE_NITROUS03",
-        "upty": "NITROUS",
         "uplv": 2,
         "tcmu": 0.0,
         "errd": 0.0,
@@ -404,20 +529,175 @@
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 7.475
+          },
+          {
+            "kfti": 1300.0,
+            "kfva": 8.823
+          },
+          {
+            "kfti": 1600.0,
+            "kfva": 9.7
+          },
+          {
+            "kfti": 2000.0,
+            "kfva": 10.216
+          },
+          {
+            "kfti": 2450.0,
+            "kfva": 10.741
+          },
+          {
+            "kfti": 3050.0,
+            "kfva": 11.184
+          },
+          {
+            "kfti": 3900.0,
+            "kfva": 11.551
+          },
+          {
+            "kfti": 5250.0,
+            "kfva": 11.515
+          },
+          {
+            "kfti": 7350.0,
+            "kfva": 10.207
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_scg",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "SCG_SCG003S_2017_tur2",
+        "ulid": "TEXT_UPGRADE_TURBO03",
+        "upty": "TURBO",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 1.977
+          },
+          {
+            "kfti": 1950.0,
+            "kfva": 2.826
+          },
+          {
+            "kfti": 1951.95,
+            "kfva": 9.013
+          },
+          {
+            "kfti": 2450.0,
+            "kfva": 11.128
+          },
+          {
+            "kfti": 3500.0,
+            "kfva": 12.72
+          },
+          {
+            "kfti": 5150.0,
+            "kfva": 12.323
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_scg",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "SCG_SCG003S_2017_int2",
+        "ulid": "TEXT_UPGRADE_INTAKE03",
+        "upty": "INTAKE",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": -1.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1050.0,
+            "kfva": 3.601
+          },
+          {
+            "kfti": 1350.0,
+            "kfva": 4.549
+          },
+          {
+            "kfti": 2750.0,
+            "kfva": 5.895
+          },
+          {
+            "kfti": 4800.0,
+            "kfva": 5.852
+          },
+          {
+            "kfti": 6350.0,
+            "kfva": 5.544
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_scg",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "SCG_SCG003S_2017_nit2",
+        "ulid": "TEXT_UPGRADE_NITROUS03",
+        "upty": "NITROUS",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": -2.0,
         "niti": 0.0,
         "nhpb": 25.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_bod2",
+        "adid": "SCG_SCG003S_2017_bod2",
         "ulid": "TEXT_UPGRADE_BODY03",
         "upty": "BODY",
         "uplv": 2,
@@ -434,42 +714,42 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_tir2",
+        "adid": "SCG_SCG003S_2017_tir2",
         "ulid": "TEXT_UPGRADE_TYRES03",
         "upty": "TYRES",
         "uplv": 2,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
+        "drcd": 0.04,
         "wedi": 0.0,
         "grdi": 125.0,
         "gstd": 0.0,
-        "trlp": -1.0,
+        "trlp": 0.0,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_scg",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "SCG_SCG004CRewardRecycled_2019_tra2",
+        "adid": "SCG_SCG003S_2017_tra2",
         "ulid": "TEXT_UPGRADE_TRANS03",
         "upty": "TRANSMISSION",
         "uplv": 2,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
+        "drcd": 0.06,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": -0.05,
@@ -480,4 +760,6 @@
         "erpm": 0
       }
     },
-    AMOUNT
+    "AMOUNT"
+  ]
+}

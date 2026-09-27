@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_Camaro632_1988"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_Camaro632_1988"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_Camaro632_1988"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_Camaro632_1988"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_Camaro632_1988"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_Camaro632_1988"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_Camaro632_1988"
+    },
+    7

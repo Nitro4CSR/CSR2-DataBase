@@ -1,5 +1,5 @@
 {
-      "unid": 7115,
+      "unid": 1706,
       "crdb": "Chevrolet_GAPCorvette_1972",
       "grsp": [
         2.66,
@@ -9,7 +9,9 @@
         0.8,
         0.63
       ],
-      "fidr": 2.44,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2070,
       "oriid": 2070,
       "apcid": 382,
@@ -18,6 +20,8 @@
         "Chevrolet_GAPCorvette_1972_Wheel1A_3D"
       ],
       "opcn": "Chevrolet_GAPCorvette_1972_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -504,15 +508,13 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.317,
-      "tthm": 16.044,
+      "cppi": 713,
+      "cepi": 2466,
+      "ttqm": 4.76,
+      "tthm": 6.992,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      },
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      }
     }

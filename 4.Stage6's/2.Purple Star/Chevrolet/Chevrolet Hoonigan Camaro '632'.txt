@@ -1,43 +1,46 @@
-,
+{
+  "cues": [
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "ENGINE",
       "esdb": "Chevrolet_Camaro632_1988"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TURBO",
       "esdb": "Chevrolet_Camaro632_1988"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "INTAKE",
       "esdb": "Chevrolet_Camaro632_1988"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "NITROUS",
       "esdb": "Chevrolet_Camaro632_1988"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "BODY",
       "esdb": "Chevrolet_Camaro632_1988"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TYRES",
       "esdb": "Chevrolet_Camaro632_1988"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TRANSMISSION",
       "esdb": "Chevrolet_Camaro632_1988"
     },
-    7
+    "AMOUNT"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+      "unid": 3761,
+      "crdb": "Lexus_LC500ConvertibleRewardRecycled_2017",
+      "grsp": [
+        4.923,
+        3.153,
+        2.349,
+        1.879,
+        1.462,
+        1.193,
+        1.0,
+        0.792,
+        0.64,
+        0.598
+      ],
+      "fidr": 2.94,
+      "appi": 10,
+      "orpi": 10,
+      "apiid": 1919,
+      "oriid": 1919,
+      "apcid": 5,
+      "orcid": 5,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Lexus_LC500ConvertibleRewardRecycled_2017_Wheel2A_3D"
+      ],
+      "opcn": "Lexus_LC500ConvertibleRewardRecycled_2017_Wheel2A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 500,
+      "ttqm": 11.702,
+      "tthm": 18.241,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2494,
+      "inid": 1919,
+      "caid": 5,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel2A_3D"
+    }

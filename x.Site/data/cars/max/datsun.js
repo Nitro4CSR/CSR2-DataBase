@@ -1,0 +1,1 @@
+CSR.put("cars/max/datsun",{"Datsun_240ZLPClassic_1972":[{"c":"Orange","f":"1.Cars/3.Elite Max/3.Legends/Datsun/Datsun 240Z/Datsun 240Z (Orange).txt","i":"1.Cars/3.Elite Max/3.Legends/Datsun/Datsun 240Z/Datsun 240Z (Orange).jpg"}]});

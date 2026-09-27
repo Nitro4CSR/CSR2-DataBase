@@ -1,5 +1,5 @@
 {
-      "unid": 7533,
+      "unid": 3638,
       "crdb": "Lamborghini_TemerarioRewardRecycled_2025",
       "grsp": [
         3.9,
@@ -14,18 +14,20 @@
       "fidr": 3.7,
       "appi": 4,
       "orpi": 4,
-      "apiid": 2024,
-      "oriid": 2024,
-      "apcid": 271,
-      "orcid": 271,
+      "apiid": 1709,
+      "oriid": 1709,
+      "apcid": 367,
+      "orcid": 367,
       "aplzsid": -1,
       "orlzsid": -1,
       "apcn": [
-        "Lamborghini_TemerarioRewardRecycled_2025_Wheel3A_3D"
+        "Lamborghini_TemerarioRewardRecycled_2025_Wheel2C_3D"
       ],
-      "opcn": "Lamborghini_TemerarioRewardRecycled_2025_Wheel3A_3D",
+      "opcn": "Lamborghini_TemerarioRewardRecycled_2025_Wheel2C_3D",
       "upst": [
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -39,6 +41,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -52,6 +56,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -65,6 +71,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -78,6 +86,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -91,6 +101,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -104,6 +116,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -127,9 +141,9 @@
         "cpf": false
       },
       "paid": 314,
-      "inid": 2024,
-      "caid": 271,
+      "inid": 1709,
+      "caid": 367,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel3A_3D"
+      "whbn": "Wheel2C_3D"
     }

@@ -1,122 +1,161 @@
 {
-        "unid": 7501,
-        "crdb": "Dodge_ChallengerRTLPClassic_1970",
-        "grsp": [
-          3.6,
-          2.25,
-          1.41,
-          1.0
-        ],
-        "fidr": 3.11,
-        "apiid": 1198,
-        "oriid": 1198,
-        "aplzsid": 15,
-        "orlzsid": 15,
-        "apcn": [
-          "Dodge_ChallengerRTLPClassic_1970_Wheel1A_3D"
-        ],
-        "opcn": "Dodge_ChallengerRTLPClassic_1970_Wheel1A_3D",
-        "upst": [
-          {
-            "lvls": [
-              {
-                "ulpf": true
-              },
-              {},
-              {},
-              {},
-              {},
-              {},
-              {}
-            ]
-          },
-          {
-            "lvls": [
-              {
-                "ulpf": true
-              },
-              {},
-              {},
-              {},
-              {},
-              {},
-              {}
-            ]
-          },
-          {
-            "lvls": [
-              {
-                "ulpf": true
-              },
-              {},
-              {},
-              {},
-              {},
-              {},
-              {}
-            ]
-          },
-          {
-            "lvls": [
-              {
-                "ulpf": true
-              },
-              {},
-              {},
-              {},
-              {},
-              {},
-              {}
-            ]
-          },
-          {
-            "lvls": [
-              {
-                "ulpf": true
-              },
-              {},
-              {},
-              {},
-              {},
-              {},
-              {}
-            ]
-          },
-          {
-            "lvls": [
-              {
-                "ulpf": true
-              },
-              {},
-              {},
-              {},
-              {},
-              {},
-              {}
-            ]
-          },
-          {
-            "lvls": [
-              {
-                "ulpf": true
-              },
-              {},
-              {},
-              {},
-              {},
-              {},
-              {}
-            ]
-          }
-        ],
-        "fpin": 0,
-        "cppi": 603,
-        "ttqm": 10.082,
-        "tthm": 16.061,
-        "ctie": "TIER_5",
-        "csrc": "Gacha",
-        "nupl": {
-          "cpf": false
+      "unid": 1793,
+      "crdb": "Dodge_ChallengerRTLPClassic_1970",
+      "grsp": [
+        3.6,
+        2.25,
+        1.41,
+        1.0
+      ],
+      "fidr": 3.11,
+      "apiid": 1198,
+      "oriid": 1198,
+      "aplid": 1350,
+      "orlid": 1350,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Dodge_ChallengerRTLPClassic_1970_Wheel2A_3D"
+      ],
+      "opcn": "Dodge_ChallengerRTLPClassic_1970_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
         },
-        "gacp": true
-      }
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "rpst": [
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        },
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        },
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        },
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        }
+      ],
+      "cppi": 603,
+      "ttqm": 10.082,
+      "tthm": 16.061,
+      "ctie": "TIER_5",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2279,
+      "inid": 1198,
+      "caid": 0,
+      "lzsid": 15,
+      "livid": 1350,
+      "whbn": "Wheel2A_3D"
+    }

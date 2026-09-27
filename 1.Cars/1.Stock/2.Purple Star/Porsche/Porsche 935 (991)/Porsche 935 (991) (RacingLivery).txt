@@ -1,0 +1,148 @@
+{
+      "unid": 5368,
+      "crdb": "Porsche_935Gold_2019",
+      "grsp": [
+        3.91,
+        2.29,
+        1.58,
+        1.18,
+        0.94,
+        0.79,
+        0.67
+      ],
+      "fidr": 3.96,
+      "apiid": 803,
+      "oriid": 803,
+      "apcid": 2,
+      "orcid": 2,
+      "aplid": 1345,
+      "orlid": 1345,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Porsche_935Gold_2019_Wheel1A_3D"
+      ],
+      "opcn": "Porsche_935Gold_2019_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 608,
+      "ttqm": 10.452,
+      "tthm": 15.898,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2540,
+      "inid": 803,
+      "caid": 2,
+      "lzsid": 9,
+      "livid": 1345,
+      "whbn": "Wheel1A_3D"
+    }

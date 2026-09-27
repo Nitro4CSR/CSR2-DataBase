@@ -1,0 +1,143 @@
+{
+      "unid": 4478,
+      "crdb": "Mini_CooperS_2014",
+      "grsp": [
+        3.92,
+        2.14,
+        1.39,
+        1.09,
+        0.89,
+        0.76
+      ],
+      "fidr": 3.59,
+      "appi": 8,
+      "orpi": 8,
+      "apiid": 104,
+      "oriid": 104,
+      "apcid": 4,
+      "orcid": 4,
+      "aplid": 130,
+      "orlid": 130,
+      "aplzsid": 2,
+      "orlzsid": 2,
+      "apcn": [
+        "Mini_CooperS_2014_Wheel1A_3D"
+      ],
+      "opcn": "Mini_CooperS_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 164,
+      "ttqm": 15.36,
+      "tthm": 24.072,
+      "ctie": "TIER_1",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

@@ -1,0 +1,139 @@
+{
+      "unid": 1149,
+      "crdb": "BMW_M235iCoupe_2014",
+      "grsp": [
+        4.11,
+        2.32,
+        1.54,
+        1.18,
+        1.0,
+        0.85
+      ],
+      "fidr": 3.08,
+      "appi": 4,
+      "orpi": 4,
+      "apiid": 220,
+      "oriid": 220,
+      "apcid": 29,
+      "orcid": 29,
+      "apcn": [
+        "BMW_M235iCoupe_2014_Wheel1A_3D"
+      ],
+      "opcn": "BMW_M235iCoupe_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 304,
+      "ttqm": 13.949,
+      "tthm": 22.187,
+      "ctie": "TIER_2",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

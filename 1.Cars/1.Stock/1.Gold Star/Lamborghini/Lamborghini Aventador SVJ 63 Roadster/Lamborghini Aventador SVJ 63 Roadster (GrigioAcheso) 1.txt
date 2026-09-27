@@ -1,0 +1,146 @@
+{
+      "unid": 3295,
+      "crdb": "Lamborghini_AventadorSVJRoadster_2020",
+      "grsp": [
+        3.909,
+        2.438,
+        1.81,
+        1.458,
+        1.185,
+        0.967,
+        0.844
+      ],
+      "fidr": 2.87,
+      "apiid": 1138,
+      "oriid": 1138,
+      "aplid": 829,
+      "orlid": 829,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Lamborghini_AventadorSVJRoadster_2020_Wheel1A_3D"
+      ],
+      "opcn": "Lamborghini_AventadorSVJRoadster_2020_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 608,
+      "ttqm": 10.242,
+      "tthm": 15.881,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1614,
+      "inid": 1138,
+      "caid": 0,
+      "lzsid": 9,
+      "livid": 829,
+      "whbn": "Wheel1A_3D"
+    }

@@ -1,61 +1,62 @@
+{
+  "caup": [
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_eng0",
+        "adid": "Honda_Civic15VTECCrew_1994_eng0",
         "ulid": "TEXT_UPGRADE_ENGINE01",
         "upty": "ENGINE",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
+        "drcd": 0.15,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": 0.1,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 8.237
+          },
+          {
+            "kfti": 1550.0,
+            "kfva": 10.634
+          },
+          {
+            "kfti": 2250.0,
+            "kfva": 10.993
+          },
+          {
+            "kfti": 2900.0,
+            "kfva": 10.373
+          },
+          {
+            "kfti": 3850.0,
+            "kfva": 8.198
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_tur0",
+        "adid": "Honda_Civic15VTECCrew_1994_tur0",
         "ulid": "TEXT_UPGRADE_TURBO01",
         "upty": "TURBO",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 1.5,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_honda",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_int0",
-        "ulid": "TEXT_UPGRADE_INTAKE01",
-        "upty": "INTAKE",
-        "uplv": 0,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.05,
+        "drcd": 0.08,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
@@ -63,22 +64,93 @@
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 8.475
+          },
+          {
+            "kfti": 1700.0,
+            "kfva": 8.779
+          },
+          {
+            "kfti": 2400.0,
+            "kfva": 8.882
+          },
+          {
+            "kfti": 3300.0,
+            "kfva": 7.844
+          },
+          {
+            "kfti": 4050.0,
+            "kfva": 6.448
+          },
+          {
+            "kfti": 4800.0,
+            "kfva": 5.504
+          },
+          {
+            "kfti": 5550.0,
+            "kfva": 4.747
+          },
+          {
+            "kfti": 6600.0,
+            "kfva": 4.016
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_nit0",
+        "adid": "Honda_Civic15VTECCrew_1994_int0",
+        "ulid": "TEXT_UPGRADE_INTAKE01",
+        "upty": "INTAKE",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 2.957
+          },
+          {
+            "kfti": 1700.0,
+            "kfva": 3.207
+          },
+          {
+            "kfti": 5100.0,
+            "kfva": 1.07
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_honda",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "Honda_Civic15VTECCrew_1994_nit0",
         "ulid": "TEXT_UPGRADE_NITROUS01",
         "upty": "NITROUS",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.03,
+        "drcd": -0.03,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
@@ -89,21 +161,21 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_bod0",
+        "adid": "Honda_Civic15VTECCrew_1994_bod0",
         "ulid": "TEXT_UPGRADE_BODY01",
         "upty": "BODY",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
-        "wedi": -13.608,
-        "grdi": -15.0,
+        "drcd": -0.04,
+        "wedi": -4.536,
+        "grdi": -5.0,
         "gstd": 0.0,
         "trlp": 0.0,
         "niti": 0.0,
@@ -112,19 +184,19 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_tir0",
+        "adid": "Honda_Civic15VTECCrew_1994_tir0",
         "ulid": "TEXT_UPGRADE_TYRES01",
         "upty": "TYRES",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": -0.03,
+        "drcd": -0.05,
         "wedi": 0.0,
         "grdi": 94.0,
         "gstd": 0.0,
@@ -135,13 +207,13 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_tra0",
+        "adid": "Honda_Civic15VTECCrew_1994_tra0",
         "ulid": "TEXT_UPGRADE_TRANS01",
         "upty": "TRANSMISSION",
         "uplv": 0,
@@ -158,65 +230,19 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_eng1",
+        "adid": "Honda_Civic15VTECCrew_1994_eng1",
         "ulid": "TEXT_UPGRADE_ENGINE02",
         "upty": "ENGINE",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 1.5,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_honda",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_tur1",
-        "ulid": "TEXT_UPGRADE_TURBO02",
-        "upty": "TURBO",
-        "uplv": 1,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.0,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 1.5,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_honda",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_int1",
-        "ulid": "TEXT_UPGRADE_INTAKE02",
-        "upty": "INTAKE",
-        "uplv": 1,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.015,
+        "drcd": 0.03,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
@@ -224,45 +250,181 @@
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 3.34
+          },
+          {
+            "kfti": 1600.0,
+            "kfva": 3.908
+          },
+          {
+            "kfti": 2150.0,
+            "kfva": 4.022
+          },
+          {
+            "kfti": 2950.0,
+            "kfva": 4.087
+          },
+          {
+            "kfti": 3800.0,
+            "kfva": 4.1
+          },
+          {
+            "kfti": 5100.0,
+            "kfva": 3.128
+          },
+          {
+            "kfti": 5900.0,
+            "kfva": 2.703
+          },
+          {
+            "kfti": 7000.0,
+            "kfva": 2.283
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_nit1",
+        "adid": "Honda_Civic15VTECCrew_1994_tur1",
+        "ulid": "TEXT_UPGRADE_TURBO02",
+        "upty": "TURBO",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.05,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 3.436
+          },
+          {
+            "kfti": 2500.0,
+            "kfva": 3.496
+          },
+          {
+            "kfti": 2800.0,
+            "kfva": 6.607
+          },
+          {
+            "kfti": 3500.0,
+            "kfva": 6.867
+          },
+          {
+            "kfti": 4350.0,
+            "kfva": 5.998
+          },
+          {
+            "kfti": 5400.0,
+            "kfva": 4.837
+          },
+          {
+            "kfti": 6050.0,
+            "kfva": 4.332
+          },
+          {
+            "kfti": 6900.0,
+            "kfva": 3.8
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_honda",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "Honda_Civic15VTECCrew_1994_int1",
+        "ulid": "TEXT_UPGRADE_INTAKE02",
+        "upty": "INTAKE",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 3.312
+          },
+          {
+            "kfti": 1450.0,
+            "kfva": 3.633
+          },
+          {
+            "kfti": 2150.0,
+            "kfva": 3.749
+          },
+          {
+            "kfti": 3100.0,
+            "kfva": 3.377
+          },
+          {
+            "kfti": 6050.0,
+            "kfva": 1.776
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_honda",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "Honda_Civic15VTECCrew_1994_nit1",
         "ulid": "TEXT_UPGRADE_NITROUS02",
         "upty": "NITROUS",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.02,
+        "drcd": 0.08,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": 0.0,
         "niti": 1.0,
         "nhpb": 25.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_bod1",
+        "adid": "Honda_Civic15VTECCrew_1994_bod1",
         "ulid": "TEXT_UPGRADE_BODY02",
         "upty": "BODY",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.03,
+        "drcd": 0.0,
         "wedi": -13.608,
         "grdi": -15.0,
         "gstd": 0.0,
@@ -273,21 +435,21 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_tir1",
+        "adid": "Honda_Civic15VTECCrew_1994_tir1",
         "ulid": "TEXT_UPGRADE_TYRES02",
         "upty": "TYRES",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": -0.03,
+        "drcd": -0.01,
         "wedi": 0.0,
-        "grdi": AMOUNT.0,
+        "grdi": 100.0,
         "gstd": 0.0,
         "trlp": 0.0,
         "niti": 0.0,
@@ -296,13 +458,13 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_tra1",
+        "adid": "Honda_Civic15VTECCrew_1994_tra1",
         "ulid": "TEXT_UPGRADE_TRANS02",
         "upty": "TRANSMISSION",
         "uplv": 1,
@@ -319,13 +481,13 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_eng2",
+        "adid": "Honda_Civic15VTECCrew_1994_eng2",
         "ulid": "TEXT_UPGRADE_ENGINE03",
         "upty": "ENGINE",
         "uplv": 2,
@@ -335,45 +497,52 @@
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": 0.0,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 4.743
+          },
+          {
+            "kfti": 1750.0,
+            "kfva": 5.584
+          },
+          {
+            "kfti": 2450.0,
+            "kfva": 6.303
+          },
+          {
+            "kfti": 3100.0,
+            "kfva": 5.86
+          },
+          {
+            "kfti": 4350.0,
+            "kfva": 4.863
+          },
+          {
+            "kfti": 5750.0,
+            "kfva": 3.661
+          },
+          {
+            "kfti": 7200.0,
+            "kfva": 2.943
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_tur2",
+        "adid": "Honda_Civic15VTECCrew_1994_tur2",
         "ulid": "TEXT_UPGRADE_TURBO03",
         "upty": "TURBO",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.01,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 1.5,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_honda",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_int2",
-        "ulid": "TEXT_UPGRADE_INTAKE03",
-        "upty": "INTAKE",
         "uplv": 2,
         "tcmu": 0.0,
         "errd": 0.0,
@@ -385,47 +554,134 @@
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1050.0,
+            "kfva": 3.409
+          },
+          {
+            "kfti": 1400.0,
+            "kfva": 5.267
+          },
+          {
+            "kfti": 2100.0,
+            "kfva": 7.247
+          },
+          {
+            "kfti": 2900.0,
+            "kfva": 8.432
+          },
+          {
+            "kfti": 3700.0,
+            "kfva": 7.125
+          },
+          {
+            "kfti": 4400.0,
+            "kfva": 6.024
+          },
+          {
+            "kfti": 4800.0,
+            "kfva": 5.522
+          },
+          {
+            "kfti": 6100.0,
+            "kfva": 4.331
+          },
+          {
+            "kfti": 7000.0,
+            "kfva": 3.784
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_nit2",
+        "adid": "Honda_Civic15VTECCrew_1994_int2",
+        "ulid": "TEXT_UPGRADE_INTAKE03",
+        "upty": "INTAKE",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.6,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 5.602
+          },
+          {
+            "kfti": 1150.0,
+            "kfva": 6.101
+          },
+          {
+            "kfti": 1550.0,
+            "kfva": 6.967
+          },
+          {
+            "kfti": 1800.0,
+            "kfva": 7.214
+          },
+          {
+            "kfti": 2250.0,
+            "kfva": 7.092
+          },
+          {
+            "kfti": 3850.0,
+            "kfva": 4.151
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_honda",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "Honda_Civic15VTECCrew_1994_nit2",
         "ulid": "TEXT_UPGRADE_NITROUS03",
         "upty": "NITROUS",
         "uplv": 2,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": -0.01,
+        "drcd": 0.0,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.0,
+        "trlp": 0.0,
         "niti": 0.0,
         "nhpb": 25.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_bod2",
+        "adid": "Honda_Civic15VTECCrew_1994_bod2",
         "ulid": "TEXT_UPGRADE_BODY03",
         "upty": "BODY",
         "uplv": 2,
         "tcmu": 0.0,
         "errd": 650.0,
         "drcd": 0.0,
-        "wedi": -6.804,
-        "grdi": -7.0,
+        "wedi": -4.536,
+        "grdi": -5.0,
         "gstd": 0.0,
         "trlp": 0.0,
         "niti": 0.0,
@@ -434,36 +690,36 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_tir2",
+        "adid": "Honda_Civic15VTECCrew_1994_tir2",
         "ulid": "TEXT_UPGRADE_TYRES03",
         "upty": "TYRES",
         "uplv": 2,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
+        "drcd": -0.03,
         "wedi": 0.0,
-        "grdi": 125.0,
+        "grdi": 46.0,
         "gstd": 0.0,
-        "trlp": -1.0,
+        "trlp": 0.0,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_honda",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "Honda_AIMGAINGTNSXRewardRecycled_2017_tra2",
+        "adid": "Honda_Civic15VTECCrew_1994_tra2",
         "ulid": "TEXT_UPGRADE_TRANS03",
         "upty": "TRANSMISSION",
         "uplv": 2,
@@ -480,4 +736,6 @@
         "erpm": 0
       }
     },
-    AMOUNT
+    "AMOUNT"
+  ]
+}

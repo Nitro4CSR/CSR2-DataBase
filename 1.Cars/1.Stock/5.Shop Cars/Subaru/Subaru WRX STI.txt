@@ -1,0 +1,139 @@
+{
+      "unid": 5692,
+      "crdb": "Subaru_ImprezaWRXSTI_2014",
+      "grsp": [
+        3.64,
+        2.24,
+        1.52,
+        1.14,
+        0.97,
+        0.76
+      ],
+      "fidr": 3.9,
+      "appi": 1,
+      "orpi": 1,
+      "apiid": 109,
+      "oriid": 109,
+      "apcid": 5,
+      "orcid": 5,
+      "apcn": [
+        "Subaru_ImprezaWRXSTI_2014_Wheel1A_3D"
+      ],
+      "opcn": "Subaru_ImprezaWRXSTI_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 304,
+      "ttqm": 13.947,
+      "tthm": 21.942,
+      "ctie": "TIER_2",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

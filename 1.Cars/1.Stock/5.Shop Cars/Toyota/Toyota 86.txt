@@ -1,0 +1,139 @@
+{
+      "unid": 5707,
+      "crdb": "Toyota_86_2014",
+      "grsp": [
+        3.626,
+        2.188,
+        1.541,
+        1.213,
+        1.0,
+        0.76
+      ],
+      "fidr": 4.1,
+      "appi": 1,
+      "orpi": 1,
+      "apiid": 110,
+      "oriid": 110,
+      "apcid": 4,
+      "orcid": 4,
+      "apcn": [
+        "Toyota_86_2014_Wheel1A_3D"
+      ],
+      "opcn": "Toyota_86_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 161,
+      "ttqm": 15.389,
+      "tthm": 24.412,
+      "ctie": "TIER_1",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

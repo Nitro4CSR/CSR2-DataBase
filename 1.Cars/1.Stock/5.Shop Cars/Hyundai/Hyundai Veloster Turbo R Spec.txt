@@ -1,0 +1,141 @@
+{
+      "unid": 2979,
+      "crdb": "Hyundai_VelosterTurboRSpec_2014",
+      "grsp": [
+        3.315,
+        1.962,
+        1.294,
+        0.976,
+        0.778,
+        0.633
+      ],
+      "fidr": 4.47,
+      "apiid": 389,
+      "oriid": 389,
+      "apcid": 4,
+      "orcid": 4,
+      "aplid": 137,
+      "orlid": 137,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Hyundai_VelosterTurboRSpec_2014_Wheel1A_3D"
+      ],
+      "opcn": "Hyundai_VelosterTurboRSpec_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 164,
+      "ttqm": 15.365,
+      "tthm": 24.585,
+      "ctie": "TIER_1",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      }
+    }

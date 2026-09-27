@@ -1,7 +1,6 @@
 {
-      "unid": 10,
+      "unid": 2510,
       "crdb": "Ford_FiestaST_2016",
-      "awar": false,
       "grsp": [
         3.727,
         2.048,
@@ -10,88 +9,34 @@
         0.821,
         0.69
       ],
-      "fidr": 3.82,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 3.05,
+      "nlpr": 0.79,
+      "ttpp": 0.2,
       "appi": 5,
       "orpi": 5,
       "apiid": 91,
       "oriid": 91,
       "apcid": 3,
       "orcid": 3,
-      "apnid": -2147483648,
-      "apnzid": -2147483648,
-      "apncf": -2147483648,
-      "apncb": -2147483648,
-      "apfid": -2147483648,
-      "apcns": 0,
-      "appns": 0,
-      "apnpid": -2147483648,
-      "opnid": -2147483648,
-      "opnzid": -2147483648,
-      "opncf": -2147483648,
-      "opncb": -2147483648,
-      "opfid": -2147483648,
-      "opcns": 0,
-      "oppns": 0,
-      "opnpid": -2147483648,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
-      "apln": "",
       "apcn": [
         "Ford_FiestaST_2016_Wheel1C_3D"
       ],
       "opcn": "Ford_FiestaST_2016_Wheel1C_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
-      "msou": 202460,
+      "msou": 186460,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 5,
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -124,14 +69,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -140,34 +78,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -200,14 +117,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -216,34 +126,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -276,14 +165,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -292,34 +174,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -352,14 +213,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -368,34 +222,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -428,14 +261,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -444,34 +270,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -504,14 +309,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         },
@@ -520,34 +318,13 @@
           "lvlf": 5,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -580,81 +357,26 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             }
           ]
         }
       ],
       "fpin": 1,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 163,
-      "cepi": 0,
-      "tdut": 15.375,
-      "tdtt": 15.375,
-      "ttqm": 15.375,
-      "tthm": 23.722,
-      "tt60": 7.117,
-      "tt1h": 16.491,
-      "spqm": 96.375,
-      "sphm": 116.078,
+      "cppi": 349,
+      "cepi": 627,
+      "ttqm": 12.319,
+      "tthm": 19.668,
       "ctie": "TIER_1",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
       "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 497,
-      "wpid": 2147483647,
       "inid": 91,
       "caid": 3,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel1C_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "whbn": "Wheel1C_3D"
     }

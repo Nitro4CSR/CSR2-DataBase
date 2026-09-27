@@ -1,0 +1,141 @@
+{
+      "unid": 1886,
+      "crdb": "Dodge_ChargerRTCrew_1969",
+      "grsp": [
+        3.01,
+        2.07,
+        1.429,
+        1.002,
+        0.84,
+        0.571
+      ],
+      "fidr": 3.45,
+      "apiid": 439,
+      "oriid": 439,
+      "apcn": [
+        "Dodge_ChargerRTCrew_1969_Wheel1A_3D"
+      ],
+      "opcn": "Dodge_ChargerRTCrew_1969_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 406,
+      "ttqm": 12.619,
+      "tthm": 20.182,
+      "ctie": "TIER_3",
+      "csrc": "High_Stakes",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 105,
+      "inid": 439,
+      "caid": 0,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

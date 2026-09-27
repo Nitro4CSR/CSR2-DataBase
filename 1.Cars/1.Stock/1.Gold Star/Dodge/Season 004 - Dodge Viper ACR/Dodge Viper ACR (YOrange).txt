@@ -1,0 +1,147 @@
+{
+      "unid": 1933,
+      "crdb": "Dodge_ViperACRRewardRecycled_2016",
+      "grsp": [
+        2.26,
+        1.58,
+        1.19,
+        1.0,
+        0.77,
+        0.5
+      ],
+      "fidr": 3.55,
+      "appi": 2,
+      "orpi": 2,
+      "apiid": 388,
+      "oriid": 388,
+      "aplid": 165,
+      "orlid": 165,
+      "aplzsid": 0,
+      "orlzsid": 0,
+      "apcn": [
+        "Dodge_ViperACRRewardRecycled_2016_Wheel1A_3D"
+      ],
+      "opcn": "Dodge_ViperACRRewardRecycled_2016_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 503,
+      "ttqm": 11.402,
+      "tthm": 18.168,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 346,
+      "inid": 388,
+      "caid": 0,
+      "lzsid": 0,
+      "livid": 165,
+      "whbn": "Wheel1A_3D"
+    }

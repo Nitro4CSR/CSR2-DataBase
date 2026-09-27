@@ -1,0 +1,144 @@
+{
+      "unid": 2960,
+      "crdb": "Hyundai_IONIQ5NNPX1RewardRecycled_2024",
+      "grsp": [
+        1.0
+      ],
+      "fidr": 4.96,
+      "appi": 8,
+      "orpi": 8,
+      "apiid": 1687,
+      "oriid": 1687,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 1332,
+      "orlid": 1332,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Hyundai_IONIQ5NNPX1RewardRecycled_2024_Wheel1A_3D"
+      ],
+      "opcn": "Hyundai_IONIQ5NNPX1RewardRecycled_2024_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 500,
+      "ttqm": 12.457,
+      "tthm": 18.248,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2126,
+      "inid": 1687,
+      "caid": 3,
+      "lzsid": 9,
+      "livid": 1332,
+      "whbn": "Wheel1A_3D"
+    }

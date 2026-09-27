@@ -1,0 +1,709 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CSR2 DataBase</title>
+<style>
+:root{
+  --bg:#0e1014; --bg2:#151820; --card:#1b1f29; --card2:#222735; --line:#2c3243;
+  --text:#e8eaf0; --muted:#9aa3b5; --accent:#ff7a1a; --accent2:#ffb46b;
+  --gold:#f2c230; --purple:#b07cff; --legend:#3fd0c9; --tnr:#ff5470; --shop:#8fa0b8;
+  --ok:#3ecf8e; --warn:#ffcc4d; --radius:12px;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{background:var(--bg);color:var(--text);font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+button,input,select{font:inherit;color:inherit}
+a{color:var(--accent2)}
+header{position:sticky;top:0;z-index:20;display:flex;gap:16px;align-items:center;padding:10px 20px;
+  background:rgba(14,16,20,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.logo{font-weight:800;letter-spacing:.5px;cursor:pointer;white-space:nowrap;font-size:18px}
+.logo span{color:var(--accent)}
+nav{display:flex;gap:4px;flex-wrap:wrap}
+nav a{padding:6px 10px;border-radius:8px;color:var(--muted);text-decoration:none;font-weight:600;font-size:14px}
+nav a.on,nav a:hover{color:var(--text);background:var(--card)}
+.search{position:relative;margin-left:auto;min-width:220px;flex:0 1 340px}
+.search input{width:100%;padding:8px 12px;border-radius:10px;border:1px solid var(--line);background:var(--bg2)}
+.search input:focus{outline:2px solid var(--accent);border-color:transparent}
+.results{position:absolute;top:calc(100% + 6px);right:0;width:max(100%,460px);max-width:94vw;background:var(--card);border:1px solid var(--line);
+  border-radius:10px;max-height:60vh;overflow:auto;display:none;box-shadow:0 12px 40px rgba(0,0,0,.5)}
+.results.show{display:block}
+.res{display:flex;gap:10px;align-items:center;padding:6px 10px;cursor:pointer}
+.res:hover,.res.sel{background:var(--card2)}
+.res img{width:44px;height:44px;object-fit:contain}
+.res small{display:block;color:var(--muted);font-size:12px}
+select.lang{padding:7px 8px;border-radius:10px;border:1px solid var(--line);background:var(--bg2)}
+
+.layout{display:flex;min-height:calc(100vh - 57px)}
+main{flex:1;min-width:0;padding:22px 24px 90px}
+.panel{width:0;flex-shrink:0;overflow:hidden;border-left:1px solid var(--line);background:var(--bg2);transition:width .2s;
+  position:sticky;top:57px;height:calc(100vh - 57px);display:flex;flex-direction:column}
+.panel.open{width:min(46vw,760px)}
+.ph{padding:12px 14px;border-bottom:1px solid var(--line);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.ph .t{font-weight:700;flex:1;min-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ph .sub{width:100%;color:var(--muted);font-size:12.5px}
+.note{margin:10px 14px 0;padding:8px 10px;border-radius:8px;background:rgba(255,204,77,.1);color:var(--warn);font-size:13px;white-space:pre-line}
+pre{margin:0;flex:1;overflow:auto;padding:14px;font:12.5px/1.5 var(--mono);color:#cfd6e6;white-space:pre}
+.btn{padding:8px 14px;border-radius:9px;border:1px solid var(--line);background:var(--card);cursor:pointer;font-weight:600}
+.btn:hover{border-color:var(--accent)}
+.btn.pri{background:var(--accent);border-color:var(--accent);color:#1a0d00}
+.btn.pri:hover{filter:brightness(1.08)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.sm{padding:5px 10px;font-size:13px}
+
+h1{font-size:24px;margin:0 0 4px}
+h2{font-size:15px;text-transform:uppercase;letter-spacing:1px;color:var(--muted);margin:26px 0 12px}
+.lead{color:var(--muted);margin:0 0 18px}
+.crumb{color:var(--muted);font-size:14px;margin-bottom:14px}
+.crumb a{color:var(--muted);text-decoration:none}
+.crumb a:hover{color:var(--text)}
+
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px 18px;cursor:pointer;
+  transition:transform .12s,border-color .12s;position:relative}
+.tile:hover{transform:translateY(-2px);border-color:var(--accent)}
+.tile.on{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+.tile .ic{font-size:30px;margin-bottom:10px}
+.tile b{display:block;font-size:17px}
+.tile small{color:var(--muted)}
+.tile .chk{position:absolute;top:10px;right:12px;color:var(--accent);font-weight:800;display:none}
+.tile.on .chk{display:block}
+
+.seg{display:inline-flex;background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:4px;gap:4px}
+.seg button{border:0;background:transparent;padding:10px 22px;border-radius:9px;cursor:pointer;font-weight:700;color:var(--muted)}
+.seg button.on{background:var(--accent);color:#1a0d00}
+.seg button small{display:block;font-weight:500;font-size:11.5px;opacity:.8}
+
+.brands{display:grid;grid-template-columns:repeat(auto-fill,minmax(128px,1fr));gap:10px}
+.brand{height:86px;display:flex;align-items:center;justify-content:center;background:var(--card);border:1px solid var(--line);
+  border-radius:10px;cursor:pointer;padding:10px;position:relative;transition:border-color .12s,opacity .12s}
+.brand{overflow:hidden}
+.brand img{width:100%;height:100%;object-fit:contain;display:block}
+.brand span{font-weight:700;text-align:center;font-size:13px}
+.brand:hover{border-color:var(--accent)}
+.brand.on{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+.brand.off{opacity:.25;pointer-events:none}
+.brand .cnt{position:absolute;right:6px;bottom:4px;font-size:11px;color:var(--muted)}
+.brands.locked .brand{opacity:.35;pointer-events:none}
+
+.cars{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+.car{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;cursor:pointer;text-align:center;position:relative}
+.car:hover{border-color:var(--accent)}
+.car.on{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+.car img,.car .ph0{width:128px;height:128px;object-fit:contain;display:block;margin:0 auto}
+.ph0{display:flex!important;align-items:center;justify-content:center;color:var(--muted);font-size:28px;font-weight:800;background:var(--bg2);border-radius:10px}
+.car .nm{font-weight:650;font-size:13.5px;margin-top:6px;line-height:1.25}
+.car .meta{display:flex;justify-content:center;gap:6px;margin-top:6px;flex-wrap:wrap}
+.car .rq{font-size:12px;color:var(--accent2);margin-top:4px}
+.car .tick{position:absolute;top:6px;right:8px;color:var(--accent);font-weight:900;display:none}
+.car.on .tick{display:block}
+.bd{font-size:11px;font-weight:700;padding:2px 7px;border-radius:20px;background:var(--bg2);color:var(--muted)}
+.bd.gold{color:var(--gold)} .bd.purple{color:var(--purple)} .bd.legend{color:var(--legend)} .bd.tnr{color:var(--tnr)} .bd.shop{color:var(--shop)}
+
+.hero{display:flex;gap:18px;align-items:center;margin-bottom:8px}
+.hero img{width:128px;height:128px;object-fit:contain}
+.hero .alt{color:var(--muted);font-size:13px}
+.hero code{font-family:var(--mono);font-size:12.5px;color:var(--accent2)}
+.shots{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.shot{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;cursor:pointer}
+.shot:hover{border-color:var(--accent)}
+.shot.on{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+.shot .img{aspect-ratio:16/9;background:var(--bg2);display:flex;align-items:center;justify-content:center;overflow:hidden}
+.shot .img img{width:100%;height:100%;object-fit:cover}
+.shot .img img.v{width:auto;height:80%;object-fit:contain}
+.shot .cap{padding:8px 10px;font-weight:650;font-size:13.5px;display:flex;justify-content:space-between;gap:8px}
+.shot .cap small{color:var(--muted);font-weight:500}
+.shot.fus{cursor:zoom-in}
+
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.qty{display:flex;gap:8px;align-items:center}
+.qty input,.row input[type=date],.row input[type=number]{width:150px;padding:9px 11px;border-radius:9px;border:1px solid var(--line);background:var(--bg2)}
+.qty input:focus,.row input:focus{outline:2px solid var(--accent);border-color:transparent}
+.hint{color:var(--muted);font-size:13px}
+.sub-opts{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
+.sub-opts label{display:flex;gap:6px;align-items:center;background:var(--bg2);border:1px solid var(--line);padding:4px 9px;border-radius:20px;font-size:13px;cursor:pointer}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 14px}
+.chip{padding:5px 12px;border-radius:20px;border:1px solid var(--line);background:var(--card);cursor:pointer;font-size:13px;font-weight:600;color:var(--muted)}
+.chip.on{color:var(--text);border-color:var(--accent)}
+
+.bar{position:fixed;left:0;bottom:0;right:0;z-index:15;display:flex;gap:12px;align-items:center;padding:10px 24px;
+  background:rgba(21,24,32,.96);border-top:1px solid var(--line);backdrop-filter:blur(8px)}
+.bar .sum{color:var(--muted);font-size:14px;flex:1}
+.bar .sum b{color:var(--text)}
+.toast{position:fixed;bottom:70px;left:50%;transform:translateX(-50%);background:var(--ok);color:#04150d;font-weight:700;
+  padding:8px 16px;border-radius:10px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:50}
+.toast.show{opacity:1}
+.lightbox{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:60;cursor:zoom-out}
+.lightbox.show{display:flex}
+.lightbox img{max-width:94vw;max-height:92vh;border-radius:8px}
+.empty{padding:40px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:12px}
+.proto{font-size:11px;font-weight:700;color:#1a0d00;background:var(--warn);padding:2px 8px;border-radius:20px;margin-left:8px}
+
+@media (max-width:900px){
+  header{flex-wrap:wrap;padding:10px 16px;position:static}
+  .search{order:5;flex:1 1 100%}
+  main{padding:16px 16px 90px}
+  .layout{flex-direction:column}
+  .panel{position:fixed;left:0;right:0;bottom:0;top:auto;height:70vh;width:100%!important;border-left:0;border-top:1px solid var(--line);
+    transform:translateY(100%);transition:transform .2s;z-index:30}
+  .panel.open{transform:none}
+  .seg button{padding:9px 14px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="logo" onclick="go('#/')">CSR2 <span>DataBase</span><span class="proto">PROTOTYPE</span></div>
+  <nav id="nav">
+    <a href="#/cars" data-s="cars">Cars</a>
+    <a href="#/fusions" data-s="fusions">Fusions</a>
+    <a href="#/stage6" data-s="stage6">Stage 6</a>
+    <a href="#/gifts" data-s="gifts">Support gift</a>
+    <a href="#/discounts" data-s="discounts">Elite discount</a>
+  </nav>
+  <div class="search">
+    <input id="q" type="search" placeholder="Search a car (any name, any language, crdb)…" autocomplete="off">
+    <div class="results" id="results"></div>
+  </div>
+  <select class="lang" id="lang" title="Language of car names"></select>
+</header>
+<div class="layout">
+  <main id="main"><div class="empty">Loading…</div></main>
+  <aside class="panel" id="panel">
+    <div class="ph">
+      <div class="t" id="pt">—</div>
+      <button class="btn sm" id="pcopy">Copy</button>
+      <button class="btn sm" id="pdl">Download</button>
+      <button class="btn sm" id="pclose" title="Close">✕</button>
+      <div class="sub" id="psub"></div>
+    </div>
+    <div class="note" id="pnote" style="display:none"></div>
+    <pre id="pre"></pre>
+  </aside>
+</div>
+<div class="bar" id="bar" style="display:none"></div>
+<div class="toast" id="toast"></div>
+<div class="lightbox" id="lb" onclick="this.classList.remove('show')"><img id="lbimg" alt=""></div>
+
+<script>
+window.SITE = 'x.Site/';   /* set by build_site.py: '' (preview) or 'x.Site/' (repository) */
+/* ------------------------------------------------------------------ data loading */
+const CSR = {data:{}, wait:{}, put(k,v){this.data[k]=v; (this.wait[k]||[]).forEach(f=>f(v)); delete this.wait[k];}};
+const loaded = {};
+function load(name){
+  if (CSR.data[name]) return Promise.resolve(CSR.data[name]);
+  return new Promise((res,rej)=>{
+    (CSR.wait[name] = CSR.wait[name]||[]).push(res);
+    if (loaded[name]) return;
+    loaded[name] = true;
+    const s = document.createElement('script'); s.src = window.SITE+'data/'+name+'.js';
+    s.onerror = ()=>{ delete loaded[name]; rej(new Error('missing data/'+name+'.js')); };
+    document.head.appendChild(s);
+  });
+}
+const store = {
+  get(k,d){ try{ const v=localStorage.getItem('csr2db.'+k); return v===null?d:v; }catch(e){ return d; } },
+  set(k,v){ try{ localStorage.setItem('csr2db.'+k,v); }catch(e){} }
+};
+let IDX, CARS = {}, BRANDS = {}, LANG = store.get('lang','EN');
+if (!['EN','FR','DE','ES','PT'].includes(LANG)) LANG = 'EN';
+
+
+/* ------------------------------------------------------------------ interface languages */
+const LANGS = ['EN','FR','DE','ES','PT'];
+const I18N = {
+ nav_cars:['Cars','Voitures','Autos','Coches','Carros'],
+ nav_fus:['Fusions','Fusions','Fusionen','Fusiones','Fusões'],
+ nav_s6:['Stage 6','Stage 6','Stage 6','Stage 6','Stage 6'],
+ nav_gift:['Support gift','Cadeau support','Support-Geschenk','Regalo de soporte','Presente de suporte'],
+ nav_disc:['Elite discount','Réduction Elite','Elite-Rabatt','Descuento Elite','Desconto Elite'],
+ search_ph:['Search a car (name or crdb)…','Chercher une voiture (nom ou crdb)…','Auto suchen (Name oder crdb)…','Buscar un coche (nombre o crdb)…','Procurar um carro (nome ou crdb)…'],
+ lang_title:['Language','Langue','Sprache','Idioma','Idioma'],
+ no_car_found:['No car found','Aucune voiture trouvée','Kein Auto gefunden','Ningún coche encontrado','Nenhum carro encontrado'],
+ copy:['Copy','Copier','Kopieren','Copiar','Copiar'],
+ download:['Download','Télécharger','Herunterladen','Descargar','Baixar'],
+ close:['Close','Fermer','Schließen','Cerrar','Fechar'],
+ copied:['Copied','Copié','Kopiert','Copiado','Copiado'],
+ lines:['{0} lines · {1} KB','{0} lignes · {1} Ko','{0} Zeilen · {1} KB','{0} líneas · {1} KB','{0} linhas · {1} KB'],
+ loading:['Loading…','Chargement…','Laden…','Cargando…','Carregando…'],
+ home_lead:['Choose what you need.','Choisis ce dont tu as besoin.','Wähle, was du brauchst.','Elige lo que necesitas.','Escolha o que precisa.'],
+ home_cars:['Stock, Full and Max dictionaries','Dictionnaires Stock, Full et Max','Stock-, Full- und Max-Dateien','Diccionarios Stock, Full y Max','Dicionários Stock, Full e Max'],
+ home_fus:['By brand or all brands','Par marque ou toutes les marques','Pro Marke oder alle Marken','Por marca o todas las marcas','Por marca ou todas as marcas'],
+ home_s6:['By car or all cars','Par voiture ou toutes les voitures','Pro Auto oder alle Autos','Por coche o todos los coches','Por carro ou todos os carros'],
+ home_gift:['Cash, gold, keys, tokens…','Cash, or, clés, jetons…','Cash, Gold, Schlüssel, Token…','Dinero, oro, llaves, fichas…','Dinheiro, ouro, chaves, fichas…'],
+ home_disc:['Discount codes for Elite cars','Codes de réduction pour les voitures Elite','Rabattcodes für Elite-Autos','Códigos de descuento para coches Elite','Códigos de desconto para carros Elite'],
+ cars_lead:['Choose a version, then a brand.','Choisis une version, puis une marque.','Wähle eine Version, dann eine Marke.','Elige una versión y luego una marca.','Escolha uma versão e depois uma marca.'],
+ version:['Version','Version','Version','Versión','Versão'],
+ brand:['Brand','Marque','Marke','Marca','Marca'],
+ car:['Car','Voiture','Auto','Coche','Carro'],
+ reset:['Reset choices','Réinitialiser les choix','Auswahl zurücksetzen','Reiniciar selección','Reiniciar escolhas'],
+ ncars:['{0} car(s)','{0} voiture(s)','{0} Auto(s)','{0} coche(s)','{0} carro(s)'],
+ all:['All','Toutes','Alle','Todos','Todos'],
+ no_car:['No car','Aucune voiture','Kein Auto','Ningún coche','Nenhum carro'],
+ show:['Show {0}','Afficher {0}','{0} anzeigen','Ver {0}','Ver {0}'],
+ choose_colour:['Choose a colour · {0} file(s)','Choisis une couleur · {0} fichier(s)','Farbe wählen · {0} Datei(en)','Elige un color · {0} archivo(s)','Escolha uma cor · {0} arquivo(s)'],
+ no_shot:['no screenshot','pas de capture','kein Screenshot','sin captura','sem captura'],
+ enlarge:['click to enlarge','cliquer pour agrandir','zum Vergrößern klicken','clic para ampliar','clique para ampliar'],
+ no_vignette:['No vignette for this car','Pas de vignette pour cette voiture','Keine Vignette für dieses Auto','Sin viñeta para este coche','Sem vinheta para este carro'],
+ fus_lead:['Fusion parts for one brand or for all brands. AMOUNT is replaced by your quantity.','Pièces de fusion pour une marque ou pour toutes. AMOUNT est remplacé par ta quantité.','Fusionsteile für eine Marke oder alle Marken. AMOUNT wird durch deine Menge ersetzt.','Piezas de fusión para una marca o para todas. AMOUNT se sustituye por tu cantidad.','Peças de fusão para uma marca ou para todas. AMOUNT é substituído pela sua quantidade.'],
+ by_brand:['By brand','Par marque','Pro Marke','Por marca','Por marca'],
+ all_brands:['All brands','Toutes les marques','Alle Marken','Todas las marcas','Todas as marcas'],
+ quantity:['Quantity','Quantité','Menge','Cantidad','Quantidade'],
+ generate:['Generate','Générer','Erzeugen','Generar','Gerar'],
+ eg:['e.g. {0}','ex. {0}','z. B. {0}','p. ej. {0}','ex. {0}'],
+ fus_hint_one:['Select a brand below, then Generate.','Choisis une marque ci-dessous, puis Générer.','Wähle unten eine Marke, dann Erzeugen.','Elige una marca abajo y luego Generar.','Escolha uma marca abaixo e depois Gerar.'],
+ fus_hint_all:['{0} brands in one file.','{0} marques dans un seul fichier.','{0} Marken in einer Datei.','{0} marcas en un solo archivo.','{0} marcas em um só arquivo.'],
+ t_qty:['Enter a quantity first',"Saisis d'abord une quantité",'Zuerst eine Menge eingeben','Introduce primero una cantidad','Informe primeiro uma quantidade'],
+ t_brand:['Select a brand','Choisis une marque','Wähle eine Marke','Elige una marca','Escolha uma marca'],
+ t_car:['Select a car','Choisis une voiture','Wähle ein Auto','Elige un coche','Escolha um carro'],
+ t_cars:['Select at least one car','Choisis au moins une voiture','Mindestens ein Auto wählen','Elige al menos un coche','Escolha pelo menos um carro'],
+ t_gift:['Select at least one gift','Choisis au moins un cadeau','Mindestens ein Geschenk wählen','Elige al menos un regalo','Escolha pelo menos um presente'],
+ t_type:['Tick at least one type','Coche au moins un type','Mindestens einen Typ ankreuzen','Marca al menos un tipo','Marque pelo menos um tipo'],
+ t_invalid:['Invalid quantity','Quantité invalide','Ungültige Menge','Cantidad no válida','Quantidade inválida'],
+ s6_lead:['Stage 6 parts for one car or for all cars. Cars sharing the same Stage 6 parts are counted once.',"Pièces Stage 6 pour une voiture ou pour toutes. Les voitures qui partagent les mêmes pièces ne comptent qu'une fois.",'Stage-6-Teile für ein Auto oder alle Autos. Autos mit denselben Teilen zählen nur einmal.','Piezas Stage 6 para un coche o para todos. Los coches que comparten las mismas piezas cuentan una sola vez.','Peças Stage 6 para um carro ou para todos. Carros que compartilham as mesmas peças contam uma só vez.'],
+ by_car:['By car','Par voiture','Pro Auto','Por coche','Por carro'],
+ all_cars:['All cars','Toutes les voitures','Alle Autos','Todos los coches','Todos os carros'],
+ s6_hint_one:['Select a brand, then a car, then Generate.','Choisis une marque, puis une voiture, puis Générer.','Wähle eine Marke, dann ein Auto, dann Erzeugen.','Elige una marca, luego un coche y luego Generar.','Escolha uma marca, depois um carro e depois Gerar.'],
+ s6_hint_all:['{0} files ({1} duplicates removed thanks to the shared groups).','{0} fichiers ({1} doublons retirés grâce aux groupes partagés).','{0} Dateien ({1} Duplikate dank der gemeinsamen Gruppen entfernt).','{0} archivos ({1} duplicados eliminados gracias a los grupos compartidos).','{0} arquivos ({1} duplicados removidos graças aos grupos compartilhados).'],
+ s6_shared:['Shared Stage 6 (group {0}): also valid for {1}','Stage 6 partagées (groupe {0}) : valables aussi pour {1}','Gemeinsame Stage 6 (Gruppe {0}): auch gültig für {1}','Stage 6 compartidas (grupo {0}): también válidas para {1}','Stage 6 compartilhadas (grupo {0}): também válidas para {1}'],
+ gift_lead:['Select one or several gifts, enter a quantity, then Generate. All selected gifts go into one block.','Choisis un ou plusieurs cadeaux, saisis une quantité, puis Générer. Tous les cadeaux choisis vont dans un seul bloc.','Wähle ein oder mehrere Geschenke, gib eine Menge ein, dann Erzeugen. Alle gewählten Geschenke kommen in einen Block.','Elige uno o varios regalos, introduce una cantidad y luego Generar. Todos los regalos elegidos van en un solo bloque.','Escolha um ou vários presentes, informe uma quantidade e depois Gerar. Todos os presentes escolhidos vão em um só bloco.'],
+ ntypes:['{0} types','{0} types','{0} Typen','{0} tipos','{0} tipos'],
+ ngifts:['{0} gift(s) selected','{0} cadeau(x) choisi(s)','{0} Geschenk(e) gewählt','{0} regalo(s) elegido(s)','{0} presente(s) escolhido(s)'],
+ g_cash:['Cash','Cash','Cash','Dinero','Dinheiro'], g_gold:['Gold','Or','Gold','Oro','Ouro'], g_keys:['Keys','Clés','Schlüssel','Llaves','Chaves'], g_fuel:['Fuel','Carburant','Treibstoff','Combustible','Combustível'],
+ resto:['Restoration parts','Pièces de restauration','Restaurierungsteile','Piezas de restauración','Peças de restauração'],
+ resto_sub:['Legends · by car or all Legends','Legends · par voiture ou toutes','Legends · pro Auto oder alle','Legends · por coche o todas','Legends · por carro ou todas'],
+ resto_lead:['Legends cars. The recommended quantity is shown under each car; leave the quantity empty to use it.',"Voitures Legends. La quantité recommandée est indiquée sous chaque voiture ; laisse la quantité vide pour l'utiliser.",'Legends-Autos. Die empfohlene Menge steht unter jedem Auto; lass die Menge leer, um sie zu verwenden.','Coches Legends. La cantidad recomendada aparece bajo cada coche; deja la cantidad vacía para usarla.','Carros Legends. A quantidade recomendada aparece sob cada carro; deixe a quantidade vazia para usá-la.'],
+ sel_cars:['Selected cars','Voitures choisies','Gewählte Autos','Coches elegidos','Carros escolhidos'],
+ all_legends:['All Legends','Toutes les Legends','Alle Legends','Todas las Legends','Todas as Legends'],
+ recommended:['{0} recommended','{0} recommandées','{0} empfohlen','{0} recomendadas','{0} recomendadas'],
+ rec_ph:['recommended','recommandée','empfohlen','recomendada','recomendada'],
+ cars:['Cars','Voitures','Autos','Coches','Carros'],
+ select_all:['Select all','Tout choisir','Alle wählen','Elegir todos','Escolher todos'],
+ clear:['Clear','Effacer','Leeren','Borrar','Limpar'],
+ nsel:['{0} car(s) selected','{0} voiture(s) choisie(s)','{0} Auto(s) gewählt','{0} coche(s) elegido(s)','{0} carro(s) escolhido(s)'],
+ all_n_legends:['All {0} Legends','Les {0} Legends','Alle {0} Legends','Las {0} Legends','As {0} Legends'],
+ qty_every:['Quantity {0} for every car','Quantité {0} pour chaque voiture','Menge {0} für jedes Auto','Cantidad {0} para cada coche','Quantidade {0} para cada carro'],
+ qty_rec:['Recommended quantity per car','Quantité recommandée par voiture','Empfohlene Menge pro Auto','Cantidad recomendada por coche','Quantidade recomendada por carro'],
+ disc_lead:['Select Elite cars, choose the discount, then Generate. Cars of the same discount group give one entry.',"Choisis des voitures Elite et la réduction, puis Générer. Les voitures d'un même groupe de réduction ne donnent qu'une entrée.",'Wähle Elite-Autos und den Rabatt, dann Erzeugen. Autos derselben Rabattgruppe ergeben einen Eintrag.','Elige coches Elite y el descuento, luego Generar. Los coches del mismo grupo de descuento dan una sola entrada.','Escolha carros Elite e o desconto, depois Gerar. Carros do mesmo grupo de desconto geram uma só entrada.'],
+ disc_warn:['⚠️ The discount is valid for 29 hours only: it expires 29 hours after you click Generate. Generate it right before you use it.',"⚠️ La réduction n'est valable que 29 heures : elle expire 29 heures après le clic sur Générer. Génère-la juste avant de l'utiliser.",'⚠️ Der Rabatt gilt nur 29 Stunden: er läuft 29 Stunden nach dem Klick auf Erzeugen ab. Erzeuge ihn direkt vor der Verwendung.','⚠️ El descuento solo es válido 29 horas: caduca 29 horas después de pulsar Generar. Genéralo justo antes de usarlo.','⚠️ O desconto vale apenas 29 horas: expira 29 horas depois de clicar em Gerar. Gere-o logo antes de usar.'],
+ discount:['Discount','Réduction','Rabatt','Descuento','Desconto'],
+ elite_cars:['Elite cars','Voitures Elite','Elite-Autos','Coches Elite','Carros Elite'],
+ disc_note:['⚠️ Valid for 29 hours only: expires {0} (timestamp {1}).','⚠️ Valable 29 heures seulement : expire le {0} (timestamp {1}).','⚠️ Nur 29 Stunden gültig: läuft ab am {0} (Timestamp {1}).','⚠️ Válido solo 29 horas: caduca el {0} (timestamp {1}).','⚠️ Válido só por 29 horas: expira em {0} (timestamp {1}).'],
+ groups:['groups','groupes','Gruppen','grupos','grupos'],
+ ngroups:['{0} group(s)','{0} groupe(s)','{0} Gruppe(n)','{0} grupo(s)','{0} grupo(s)'],
+};
+const LOCALE = {EN:'en-GB', FR:'fr-FR', DE:'de-DE', ES:'es-ES', PT:'pt-BR'};
+function T(k, ...a){ const v = I18N[k]; let s = v ? (v[LANGS.indexOf(LANG)] ?? v[0]) : k; a.forEach((x,i)=>{ s = s.replace('{'+i+'}', x); }); return s; }
+const num = n => Number(n).toLocaleString(LOCALE[LANG]||'en');
+function applyStatic(){
+  document.documentElement.lang = (LOCALE[LANG]||'en').slice(0,2);
+  const n = {cars:'nav_cars', fusions:'nav_fus', stage6:'nav_s6', gifts:'nav_gift', discounts:'nav_disc'};
+  document.querySelectorAll('#nav a').forEach(a=>a.textContent = T(n[a.dataset.s]));
+  $('#q').placeholder = T('search_ph'); $('#lang').title = T('lang_title');
+  $('#pcopy').textContent = T('copy'); $('#pdl').textContent = T('download'); $('#pclose').title = T('close');
+}
+
+/* ------------------------------------------------------------------ helpers */
+const $ = s => document.querySelector(s);
+const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const u = p => String(p||'').split('/').map(x=>x==='..'||x==='.'?x:encodeURIComponent(x)).join('/');
+const norm = s => String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'');
+function go(h){ if (location.hash===h) route(); else location.hash=h; }
+function namesOf(c){
+  const n = c.n||{};
+  return (LANG==='PT' ? (n['PT-BR']||n.PT) : n[LANG]) || n.EN || {};
+}
+function nameOf(c, kind='M'){
+  const v = namesOf(c)[kind] || ((c.n||{}).EN||{})[kind] || ((c.n||{}).EN||{}).M || c.fd || c.id;
+  return String(v).trim();
+}
+const STAR = {gold:'Gold', purple:'Purple', legend:'Legends', tnr:'TNR', shop:'Shop', other:'Other'};
+const MODE = {stock:'Stock', full:'Full', max:'Max'};
+const MODE_SUB = {stock:'1.Stock', full:'2.Maxed', max:'3.Elite Max'};
+function badges(c){
+  let h = '';
+  if (c.s) h += `<span class="bd ${c.s}">${STAR[c.s]||c.s}</span>`;
+  if (c.t) h += `<span class="bd">${esc(c.t.replace('TIER_','T'))}</span>`;
+  return h;
+}
+function thumb(c, cls=''){
+  if (c && c.th) return `<img class="${cls}" src="${esc(u(window.SITE+c.th))}" alt="" loading="lazy">`;
+  const b = c && BRANDS[c.b];
+  return `<div class="ph0" title="${esc(T('no_vignette'))}">${b&&b.logo?`<img src="${esc(u(window.SITE+b.logo))}" alt="" style="width:70%;height:70%;object-fit:contain;opacity:.35">`:'?'}</div>`;
+}
+function brandTile(b, extra=''){
+  const inner = b.logo ? `<img src="${esc(u(window.SITE+b.logo))}" alt="${esc(b.n)}" loading="lazy">` : `<span>${esc(b.n)}</span>`;
+  return `<div class="brand ${extra}" data-b="${esc(b.k)}" title="${esc(b.n)}">${inner}</div>`;
+}
+function toast(msg){ const t=$('#toast'); t.textContent=msg; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),1400); }
+function qtyValue(id){
+  const v = $(id).value.trim();
+  if (!/^\d+$/.test(v) || +v<1){ $(id).focus(); toast(T('t_qty')); return null; }
+  return +v;
+}
+function sortCars(list){
+  const o = {gold:0,purple:1,legend:2,tnr:3,shop:4,other:5};
+  return list.sort((a,b)=>(o[a.s]??9)-(o[b.s]??9) || nameOf(a).localeCompare(nameOf(b)));
+}
+
+/* ------------------------------------------------------------------ side panel */
+let PANEL = {text:'', file:'output.txt'};
+function showPanel(title, text, file, sub='', note=''){
+  PANEL = {text, file};
+  $('#pt').textContent = title; $('#psub').textContent = sub || T('lines', num(text.split('\n').length), (text.length/1024).toFixed(1));
+  $('#pre').textContent = text;
+  $('#pnote').style.display = note ? '' : 'none'; $('#pnote').textContent = note;
+  $('#panel').classList.add('open'); $('#pre').scrollTop = 0;
+}
+function closePanel(){ $('#panel').classList.remove('open'); }
+$('#pclose').onclick = closePanel;
+$('#pcopy').onclick = async ()=>{
+  try{ await navigator.clipboard.writeText(PANEL.text); }
+  catch(e){ const ta=document.createElement('textarea'); ta.value=PANEL.text; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); ta.remove(); }
+  toast(T('copied'));
+};
+$('#pdl').onclick = ()=>{
+  const a=document.createElement('a'); a.href=URL.createObjectURL(new Blob([PANEL.text],{type:'text/plain'}));
+  a.download=PANEL.file; document.body.appendChild(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(a.href),2000);
+};
+function zoom(src){ $('#lbimg').src=src; $('#lb').classList.add('show'); }
+
+/* ------------------------------------------------------------------ search */
+let SEARCH = [];
+function buildSearch(){
+  SEARCH = IDX.cars.filter(c=>Object.keys(c.m||{}).length).map(c=>{
+    const words = [c.id, c.fd];
+    for (const l in (c.n||{})) for (const k in c.n[l]) words.push(c.n[l][k]);
+    return {c, key: words.map(norm).join('|')};
+  });
+}
+let selRes = -1;
+$('#q').addEventListener('input', e=>{
+  const words = e.target.value.split(/\s+/).map(norm).filter(Boolean); const box = $('#results'); selRes = -1;
+  if (words.join('').length<2){ box.classList.remove('show'); return; }
+  const hits = SEARCH.filter(s=>words.every(w=>s.key.includes(w))).slice(0,14).map(s=>s.c);
+  box.innerHTML = hits.length ? hits.map((c,i)=>`<div class="res" data-i="${esc(c.id)}">${thumb(c)}<div><b>${esc(nameOf(c))}</b>
+     <small>${esc((BRANDS[c.b]||{}).n||'')} · ${esc(c.id)}</small></div><div style="margin-left:auto">${badges(c)}</div></div>`).join('')
+     : `<div class="res"><small>${esc(T('no_car_found'))}</small></div>`;
+  box.classList.add('show');
+});
+$('#q').addEventListener('keydown', e=>{
+  const items=[...document.querySelectorAll('#results .res[data-i]')]; if(!items.length) return;
+  if(e.key==='ArrowDown'){selRes=Math.min(selRes+1,items.length-1);} else if(e.key==='ArrowUp'){selRes=Math.max(selRes-1,0);}
+  else if(e.key==='Enter'){ (items[selRes]||items[0]).click(); return; } else return;
+  e.preventDefault(); items.forEach((x,i)=>x.classList.toggle('sel',i===selRes));
+});
+$('#results').addEventListener('click', e=>{
+  const r = e.target.closest('.res[data-i]'); if(!r) return;
+  const c = CARS[r.dataset.i]; const cur = store.get('mode','stock');
+  const mode = (c.m||{})[cur] ? cur : Object.keys(c.m)[0];
+  $('#results').classList.remove('show'); $('#q').value='';
+  go(`#/cars/${mode}/${c.b}/${c.id}`);
+});
+document.addEventListener('click', e=>{ if(!e.target.closest('.search')) $('#results').classList.remove('show'); });
+
+/* ------------------------------------------------------------------ pages */
+function setNav(s){ document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('on', a.dataset.s===s)); }
+function bar(html){ const b=$('#bar'); if(!html){ b.style.display='none'; return; } b.innerHTML=html; b.style.display='flex'; }
+
+function pageHome(){
+  setNav(''); bar('');
+  $('#main').innerHTML = `<h1>CSR2 DataBase</h1><p class="lead">${T('home_lead')}</p>
+  <div class="tiles">
+    <div class="tile" onclick="go('#/cars')"><div class="ic">🚗</div><b>${T('nav_cars')}</b><small>${T('home_cars')}</small></div>
+    <div class="tile" onclick="go('#/fusions')"><div class="ic">🧩</div><b>${T('nav_fus')}</b><small>${T('home_fus')}</small></div>
+    <div class="tile" onclick="go('#/stage6')"><div class="ic">⚙️</div><b>${T('nav_s6')}</b><small>${T('home_s6')}</small></div>
+    <div class="tile" onclick="go('#/gifts')"><div class="ic">🎁</div><b>${T('nav_gift')}</b><small>${T('home_gift')}</small></div>
+    <div class="tile" onclick="go('#/discounts')"><div class="ic">🏷️</div><b>${T('nav_disc')}</b><small>${T('home_disc')}</small></div>
+  </div>`;
+}
+
+/* ---- Cars */
+function pageCarsHome(){
+  setNav('cars');
+  let mode = store.get('mode',''); if (!MODE[mode]) mode = '';
+  const list = IDX.brands.filter(b=>!mode || b.modes.includes(mode));
+  $('#main').innerHTML = `<h1>${T('nav_cars')}</h1><p class="lead">${T('cars_lead')}</p>
+    <h2>1 · ${T('version')}</h2>
+    <div class="seg" id="seg">${Object.keys(MODE).map(m=>`<button data-m="${m}" class="${m===mode?'on':''}">${MODE[m]}<small>${MODE_SUB[m]}</small></button>`).join('')}</div>
+    <h2>2 · ${T('brand')}</h2>
+    <div class="brands ${mode?'':'locked'}" id="bl">${IDX.brands.map(b=>brandTile(b, mode && !b.modes.includes(mode) ? 'off':'')).join('')}</div>`;
+  $('#seg').onclick = e=>{ const b=e.target.closest('button'); if(!b) return; store.set('mode',b.dataset.m); pageCarsHome(); };
+  $('#bl').onclick = e=>{ const t=e.target.closest('.brand'); if(t) go(`#/cars/${store.get('mode','stock')}/${t.dataset.b}`); };
+  carsBar(mode);
+}
+function carsBar(mode, brand, car){
+  bar(`<div class="sum">${T('version')}: <b>${mode?MODE[mode]:'—'}</b> · ${T('brand')}: <b>${brand?esc(BRANDS[brand].n):'—'}</b>${car?` · ${T('car')}: <b>${esc(nameOf(car))}</b>`:''}</div>
+    <button class="btn" onclick="store.set('mode','');closePanel();go('#/cars')">${T('reset')}</button>`);
+}
+function crumbCars(mode, brand, car){
+  let h = `<div class="crumb"><a href="#/cars">${T('nav_cars')}</a> › <a href="#/cars">${MODE[mode]}</a>`;
+  if (brand) h += ` › <a href="#/cars/${mode}/${brand}">${esc(BRANDS[brand].n)}</a>`;
+  if (car) h += ` › ${esc(nameOf(car))}`;
+  return h + '</div>';
+}
+let starFilter = 'all';
+function pageCarsBrand(mode, brand){
+  setNav('cars'); store.set('mode', mode);
+  const all = sortCars(IDX.cars.filter(c=>c.b===brand && (c.m||{})[mode]));
+  const stars = [...new Set(all.map(c=>c.s))];
+  const render = ()=>{
+    const list = all.filter(c=>starFilter==='all'||c.s===starFilter);
+    $('#grid').innerHTML = list.map(c=>`<div class="car" data-c="${esc(c.id)}">${thumb(c)}<div class="nm">${esc(nameOf(c))}</div><div class="meta">${badges(c)}</div></div>`).join('')
+      || `<div class="empty">${T('no_car')}</div>`;
+  };
+  starFilter = 'all';
+  $('#main').innerHTML = crumbCars(mode, brand) + `<h1>${esc(BRANDS[brand].n)}</h1><p class="lead">${T('ncars', all.length)} · ${MODE[mode]}</p>
+    ${stars.length>1?`<div class="chips" id="chips"><div class="chip on" data-s="all">${T('all')}</div>${stars.map(s=>`<div class="chip" data-s="${s}">${STAR[s]||s}</div>`).join('')}</div>`:''}
+    <div class="cars" id="grid"></div>`;
+  render();
+  if ($('#chips')) $('#chips').onclick = e=>{ const c=e.target.closest('.chip'); if(!c) return; starFilter=c.dataset.s;
+    document.querySelectorAll('#chips .chip').forEach(x=>x.classList.toggle('on',x===c)); render(); };
+  $('#grid').onclick = e=>{ const c=e.target.closest('.car'); if(c) go(`#/cars/${mode}/${brand}/${c.dataset.c}`); };
+  carsBar(mode, brand);
+}
+async function pageCar(mode, brand, crdb){
+  setNav('cars'); store.set('mode', mode);
+  const c = CARS[crdb];
+  $('#main').innerHTML = crumbCars(mode, brand, c) + `<div class="empty">${T('loading')}</div>`;
+  let data;
+  try { data = await load(`cars/${mode}/${brand}`); } catch(e){ $('#main').innerHTML += `<div class="empty">${esc(e.message)}</div>`; return; }
+  const files = data[crdb] || [];
+  const other = Object.keys(c.m).filter(m=>m!==mode);
+  const names = namesOf(c);
+  $('#main').innerHTML = crumbCars(mode, brand, c) + `
+    <div class="hero">${thumb(c)}<div><h1>${esc(nameOf(c))}</h1>
+      <div class="alt">${esc((names.L||'').trim())}${names.S&&names.S!==names.M?' · '+esc(names.S.trim()):''}</div>
+      <div class="row" style="margin-top:6px"><code>${esc(crdb)}</code>${badges(c)}</div>
+      ${other.length?`<div class="row" style="margin-top:8px">${other.map(m=>`<a class="btn sm" href="#/cars/${m}/${brand}/${crdb}">${T('show', MODE[m])}</a>`).join('')}</div>`:''}
+    </div></div>
+    <h2>${T('choose_colour', files.length)}</h2>
+    <div class="shots" id="shots">${files.map((f,i)=>`<div class="shot" data-i="${i}"><div class="img">${f.i?`<img src="${esc(u(f.i))}" alt="" loading="lazy">`:(c.th?`<img class="v" src="${esc(u(window.SITE+c.th))}" alt="">`:'')}</div>
+      <div class="cap">${esc(f.c)}${f.i?'':`<small>${T('no_shot')}</small>`}</div></div>`).join('')}
+      ${c.fu?`<div class="shot fus" data-fu="1"><div class="img"><img src="${esc(u(c.fu))}" alt="" loading="lazy"></div><div class="cap">#fusions<small>${T('enlarge')}</small></div></div>`:''}</div>`;
+  $('#shots').onclick = async e=>{
+    const s = e.target.closest('.shot'); if(!s) return;
+    if (s.dataset.fu){ zoom(u(c.fu)); return; }
+    document.querySelectorAll('#shots .shot').forEach(x=>x.classList.toggle('on',x===s));
+    const f = files[+s.dataset.i];
+    if (f.t === undefined){                    // repository version: the .txt is read from the repository itself
+      try { const r = await fetch(u(f.f)); if(!r.ok) throw new Error(r.status); f.t = await r.text(); }
+      catch(err){ toast('⚠ '+f.f.split('/').pop()); return; }
+    }
+    showPanel(`${nameOf(c)} · ${f.c}`, f.t, f.f.split('/').pop(), f.f);
+  };
+  carsBar(mode, brand, c);
+}
+
+/* ---- Fusions */
+let fusMode = 'one', fusSel = null;
+async function pageFusions(){
+  setNav('fusions'); bar(''); const F = await load('fusions');
+  const keys = Object.keys(F).sort((a,b)=>F[a].n.localeCompare(F[b].n));
+  const tiles = keys.map(k=>brandTile({k, n:F[k].n, logo:(BRANDS[k]||{}).logo||F[k].logo||''}, k===fusSel?'on':'')).join('');
+  $('#main').innerHTML = `<h1>${T('nav_fus')}</h1><p class="lead">${T('fus_lead')}</p>
+    <div class="seg" id="fm"><button data-m="one" class="${fusMode==='one'?'on':''}">${T('by_brand')}</button><button data-m="all" class="${fusMode==='all'?'on':''}">${T('all_brands')}</button></div>
+    <h2>${T('quantity')}</h2><div class="row qty"><input id="fq" type="number" min="1" placeholder="${T('eg',100)}" value="${esc(store.get('fq',''))}">
+      <button class="btn pri" id="fg">${T('generate')}</button><span class="hint">${fusMode==='one'?T('fus_hint_one'):T('fus_hint_all', keys.length)}</span></div>
+    ${fusMode==='one'?`<h2>${T('brand')}</h2><div class="brands" id="fb">${tiles}</div>`:''}`;
+  $('#fm').onclick = e=>{ const b=e.target.closest('button'); if(b){ fusMode=b.dataset.m; pageFusions(); } };
+  const gen = ()=>{
+    const q = qtyValue('#fq'); if(q===null) return; store.set('fq', q);
+    if (fusMode==='one'){
+      if(!fusSel){ toast(T('t_brand')); return; }
+      showPanel(`Fusions · ${F[fusSel].n} · ×${q}`, F[fusSel].t.replace(/"AMOUNT"/g, q), `${F[fusSel].n} fusions x${q}.txt`);
+    } else {
+      const parts = keys.map(k=>inner(F[k].t,'caup').replace(/"AMOUNT"/g, q));
+      showPanel(`${T('nav_fus')} · ${T('all_brands')} · ×${q}`, '{\n  "caup": [\n' + parts.join(',\n') + '\n  ]\n}', `All fusions x${q}.txt`, T('fus_hint_all', keys.length));
+    }
+  };
+  $('#fg').onclick = gen;
+  if ($('#fb')) $('#fb').onclick = e=>{ const t=e.target.closest('.brand'); if(!t) return; fusSel=t.dataset.b;
+    document.querySelectorAll('#fb .brand').forEach(x=>x.classList.toggle('on',x===t));
+    if (/^\d+$/.test($('#fq').value.trim())) gen(); };
+}
+function inner(text, key){
+  const a = text.indexOf('[', text.indexOf('"'+key+'"'))+1, b = text.lastIndexOf(']');
+  return text.slice(a, b).replace(/^\s*\n/,'').replace(/\s+$/,'');
+}
+
+/* ---- Stage 6 */
+let s6Mode='one', s6Brand=null, s6Car=null;
+async function pageStage6(){
+  setNav('stage6'); bar(''); const S = await load('stage6');
+  const fileFor = crdb => {
+    if (S.files[crdb]) return {t:S.files[crdb], from:crdb};
+    const g = S.groups[crdb]; if (!g) return null;
+    const m = Object.keys(S.groups).find(x=>S.groups[x]===g && S.files[x]);
+    return m ? {t:S.files[m], from:m} : null;
+  };
+  const withS6 = IDX.cars.filter(c=>fileFor(c.id) && (c.m && Object.keys(c.m).length));
+  const brandKeys = [...new Set(withS6.map(c=>c.b))];
+  const blist = IDX.brands.filter(b=>brandKeys.includes(b.k));
+  // "all": one file per shared group
+  const seen = new Set(); const allParts = []; let merged = 0;
+  Object.keys(S.files).sort().forEach(k=>{ const key = S.groups[k] ? 'g'+S.groups[k] : k;
+    if (seen.has(key)){ merged++; return; } seen.add(key); allParts.push(k); });
+  $('#main').innerHTML = `<h1>Stage 6</h1><p class="lead">${T('s6_lead')}</p>
+    <div class="seg" id="sm"><button data-m="one" class="${s6Mode==='one'?'on':''}">${T('by_car')}</button><button data-m="all" class="${s6Mode==='all'?'on':''}">${T('all_cars')}</button></div>
+    <h2>${T('quantity')}</h2><div class="row qty"><input id="sq" type="number" min="1" placeholder="${T('eg',5)}" value="${esc(store.get('sq',''))}">
+      <button class="btn pri" id="sg">${T('generate')}</button><span class="hint">${s6Mode==='one'?T('s6_hint_one'):T('s6_hint_all', allParts.length, merged)}</span></div>
+    ${s6Mode==='one'?`<h2>${T('brand')}</h2><div class="brands" id="sb">${blist.map(b=>brandTile(b, b.k===s6Brand?'on':'')).join('')}</div>
+      <div id="scars"></div>`:''}`;
+  $('#sm').onclick = e=>{ const b=e.target.closest('button'); if(b){ s6Mode=b.dataset.m; pageStage6(); } };
+  const renderCars = ()=>{
+    if (!s6Brand){ $('#scars').innerHTML=''; return; }
+    const list = sortCars(withS6.filter(c=>c.b===s6Brand));
+    $('#scars').innerHTML = `<h2>${T('car')} · ${esc(BRANDS[s6Brand].n)}</h2><div class="cars" id="sc">${list.map(c=>`<div class="car ${c.id===s6Car?'on':''}" data-c="${esc(c.id)}">${thumb(c)}<div class="nm">${esc(nameOf(c))}</div><div class="meta">${badges(c)}</div></div>`).join('')}</div>`;
+    $('#sc').onclick = e=>{ const c=e.target.closest('.car'); if(!c) return; s6Car=c.dataset.c;
+      document.querySelectorAll('#sc .car').forEach(x=>x.classList.toggle('on',x===c));
+      if (/^\d+$/.test($('#sq').value.trim())) gen(); };
+  };
+  const gen = ()=>{
+    const q = qtyValue('#sq'); if(q===null) return; store.set('sq', q);
+    if (s6Mode==='one'){
+      if(!s6Car){ toast(T('t_car')); return; }
+      const f = fileFor(s6Car); const g = S.groups[s6Car];
+      const mates = g ? Object.keys(S.groups).filter(x=>S.groups[x]===g && x!==s6Car).map(x=>CARS[x]?`${nameOf(CARS[x])} (${STAR[CARS[x].s]||x})`:x) : [];
+      showPanel(`Stage 6 · ${nameOf(CARS[s6Car])} · ×${q}`, f.t.replace(/"AMOUNT"/g,q), `${s6Car} stage6 x${q}.txt`, '',
+        mates.length?T('s6_shared', g, mates.join(', ')):'');
+    } else {
+      const parts = allParts.map(k=>inner(S.files[k],'cues').replace(/"AMOUNT"/g,q));
+      showPanel(`Stage 6 · ${T('all_cars')} · ×${q}`, '{\n  "cues": [\n'+parts.join(',\n')+'\n  ]\n}', `All stage6 x${q}.txt`, T('s6_hint_all', allParts.length, merged));
+    }
+  };
+  $('#sg').onclick = gen;
+  if ($('#sb')){ $('#sb').onclick = e=>{ const t=e.target.closest('.brand'); if(!t) return; s6Brand=t.dataset.b; s6Car=null;
+    document.querySelectorAll('#sb .brand').forEach(x=>x.classList.toggle('on',x===t)); renderCars();
+    $('#scars').scrollIntoView({behavior:'smooth', block:'start'}); }; renderCars(); }
+}
+
+/* ---- Support gifts */
+let giftSel = new Set(), giftOpt = {}, restoView = false, restoSel = new Set();
+async function pageGifts(){
+  setNav('gifts'); bar(''); const G = (await load('gifts'));
+  if (restoView) return pageResto(G);
+  const icons = {cash:'💵',gold:'🪙',keys:'🔑',ect:'🎟️',fuel:'⛽',wildcard:'🃏',crewrp:'👥',collections:'📚'};
+  $('#main').innerHTML = `<h1>${T('nav_gift')}</h1><p class="lead">${T('gift_lead')}</p>
+    <div class="tiles" id="gt">${Object.entries(G.gifts).map(([k,g])=>`<div class="tile ${giftSel.has(k)?'on':''}" data-k="${k}"><span class="chk">✓</span>
+      <div class="ic">${icons[k]||'🎁'}</div><b>${esc(I18N['g_'+k]?T('g_'+k):g.n)}</b><small>${g.opts.length>1?T('ntypes', g.opts.length):'&nbsp;'}</small>
+      ${g.opts.length>1&&giftSel.has(k)?`<div class="sub-opts">${g.opts.map((o,i)=>`<label onclick="event.stopPropagation()"><input type="checkbox" data-k="${k}" data-i="${i}" ${(giftOpt[k]||[0]).includes(i)?'checked':''}>${esc(o.n)}</label>`).join('')}</div>`:''}
+    </div>`).join('')}
+      <div class="tile" id="rt"><div class="ic">🛠️</div><b>${T('resto')}</b><small>${T('resto_sub')}</small></div></div>
+    <h2>${T('quantity')}</h2><div class="row qty"><input id="gq" type="number" min="1" placeholder="${T('eg',num(1000000))}" value="${esc(store.get('gq',''))}">
+      <button class="btn pri" id="gg">${T('generate')}</button><span class="hint">${T('ngifts', giftSel.size)}</span></div>`;
+  $('#gt').onclick = e=>{
+    if (e.target.closest('#rt')){ restoView=true; pageGifts(); return; }
+    const t=e.target.closest('.tile[data-k]'); if(!t) return; const k=t.dataset.k;
+    giftSel.has(k)?giftSel.delete(k):giftSel.add(k); if(!giftOpt[k]) giftOpt[k]=[0]; pageGifts();
+  };
+  document.querySelectorAll('.sub-opts input').forEach(cb=>cb.onchange=()=>{
+    const k=cb.dataset.k; giftOpt[k]=[...document.querySelectorAll(`.sub-opts input[data-k="${k}"]:checked`)].map(x=>+x.dataset.i);
+  });
+  $('#gg').onclick = ()=>{
+    if(!giftSel.size){ toast(T('t_gift')); return; }
+    const q = qtyValue('#gq'); if(q===null) return; store.set('gq', q);
+    const items = []; const warns = []; const labels = [];
+    for (const k of giftSel){ const g=G.gifts[k]; const idx = g.opts.length>1 ? (giftOpt[k]||[]) : [0];
+      idx.forEach(i=>{ items.push(giftItem(g.opts[i].t).replace(/("amount":\s*)-?\d+/, '$1'+q)); labels.push(g.opts[i].n); });
+      if (g.warn) warns.push(`${g.n}: ${g.warn.replace(/\s*\n\s*/g,' ')}`); }
+    if(!items.length){ toast(T('t_type')); return; }
+    showPanel(`${T('nav_gift')} · ×${q}`, giftBlock(items), `Support gift x${q}.txt`, labels.join(', '), warns.join('\n'));
+  };
+}
+function giftItem(t){ return inner(t,'playinbitms'); }
+function giftBlock(items){
+  // one "eRewards" in "picl" for every dictionary in "playinbitms"
+  const picl = items.map(()=>'    "eRewards"').join(',\n');
+  return '"picl": [\n' + picl + '\n  ],\n  "playinbitms": [\n' + items.join(',\n') + '\n  ],';
+}
+function pageResto(G){
+  const R = G.restoration; const list = R.cars.map(r=>({...(CARS[r.crdb]||{id:r.crdb}), q:r.q}));
+  $('#main').innerHTML = `<div class="crumb"><a href="#/gifts" onclick="restoView=false">${T('nav_gift')}</a> › ${T('resto')}</div>
+    <h1>${T('resto')}</h1><p class="lead">${T('resto_lead')}</p>
+    <div class="row"><div class="seg" id="rm"><button data-m="one" class="${restoMode==='one'?'on':''}">${T('sel_cars')}</button><button data-m="all" class="${restoMode==='all'?'on':''}">${T('all_legends')}</button></div></div>
+    <h2>${T('quantity')}</h2><div class="row qty"><input id="rq" type="number" min="1" placeholder="${T('rec_ph')}" value="">
+      <button class="btn pri" id="rg">${T('generate')}</button><span class="hint" id="rh"></span></div>
+    <h2>${T('cars')}</h2><div class="row" style="margin-bottom:10px"><button class="btn sm" id="rall">${T('select_all')}</button><button class="btn sm" id="rnone">${T('clear')}</button></div>
+    <div class="cars" id="rc">${list.map(c=>`<div class="car ${restoSel.has(c.id)?'on':''}" data-c="${esc(c.id)}"><span class="tick">✓</span>${thumb(c)}<div class="nm">${esc(nameOf(c))}</div><div class="rq">${T('recommended', num(c.q))}</div></div>`).join('')}</div>`;
+  const hint = ()=>{ $('#rh').textContent = restoMode==='all' ? T('all_n_legends', list.length) : T('nsel', restoSel.size); };
+  hint();
+  $('#rm').onclick = e=>{ const b=e.target.closest('button'); if(!b) return; restoMode=b.dataset.m; document.querySelectorAll('#rm button').forEach(x=>x.classList.toggle('on',x===b)); hint(); };
+  $('#rc').onclick = e=>{ const c=e.target.closest('.car'); if(!c) return; const id=c.dataset.c;
+    restoSel.has(id)?restoSel.delete(id):restoSel.add(id); c.classList.toggle('on'); restoMode='one';
+    document.querySelectorAll('#rm button').forEach(x=>x.classList.toggle('on',x.dataset.m==='one')); hint(); };
+  $('#rall').onclick = ()=>{ list.forEach(c=>restoSel.add(c.id)); pageResto(G); };
+  $('#rnone').onclick = ()=>{ restoSel.clear(); pageResto(G); };
+  $('#rg').onclick = ()=>{
+    const v=$('#rq').value.trim(); if (v && (!/^\d+$/.test(v)||+v<1)){ toast(T('t_invalid')); return; }
+    const chosen = restoMode==='all' ? list : list.filter(c=>restoSel.has(c.id));
+    if(!chosen.length){ toast(T('t_cars')); return; }
+    const base = giftItem(R.t);
+    const items = chosen.map(c=>base.replace(/("name":\s*)"[^"]*"/, `$1"${c.id}"`).replace(/("amount":\s*)-?\d+/, '$1'+(v?+v:c.q)));
+    showPanel(`${T('resto')} · ${T('ncars', chosen.length)}`, giftBlock(items), `Restoration parts.txt`,
+      v?T('qty_every', num(v)):T('qty_rec'));
+  };
+}
+let restoMode='one';
+
+/* ---- Elite discounts */
+let discSel = new Set();
+async function pageDiscounts(){
+  setNav('discounts'); bar(''); const D = (await load('gifts')).discounts;
+  const byCar = {}; D.groups.forEach(([g,c])=>{ (byCar[c]=byCar[c]||[]).push(g); });
+  const list = sortCars(Object.keys(byCar).map(id=>CARS[id]||{id, fd:id}));
+  const PCTS = [20,30,40,50,60]; let pct = +store.get('dpct','50'); if(!PCTS.includes(pct)) pct = 50;
+  $('#main').innerHTML = `<h1>${T('nav_disc')}</h1><p class="lead">${T('disc_lead')}</p>
+    <div class="note" style="margin:0 0 16px">${T('disc_warn')}</div>
+    <div class="row"><span class="hint">${T('discount')}</span><div class="seg" id="dpct">${PCTS.map(v=>`<button data-v="${v}" class="${v===pct?'on':''}">${v}%</button>`).join('')}</div>
+      <button class="btn pri" id="dg">${T('generate')}</button><span class="hint" id="dh"></span></div>
+    <h2>${T('elite_cars')} · ${list.length}</h2><div class="row" style="margin-bottom:10px"><button class="btn sm" id="dall">${T('select_all')}</button><button class="btn sm" id="dnone">${T('clear')}</button></div>
+    <div class="cars" id="dc">${list.map(c=>`<div class="car ${discSel.has(c.id)?'on':''}" data-c="${esc(c.id)}"><span class="tick">✓</span>${thumb(c)}<div class="nm">${esc(nameOf(c))}</div><div class="meta">${badges(c)}</div></div>`).join('')}</div>`;
+  const hint=()=>{ $('#dh').textContent = T('nsel', discSel.size); }; hint();
+  $('#dpct').onclick = e=>{ const b=e.target.closest('button'); if(!b) return; pct=+b.dataset.v; store.set('dpct',pct);
+    document.querySelectorAll('#dpct button').forEach(x=>x.classList.toggle('on',x===b)); };
+  $('#dc').onclick = e=>{ const c=e.target.closest('.car'); if(!c) return; const id=c.dataset.c; discSel.has(id)?discSel.delete(id):discSel.add(id); c.classList.toggle('on'); hint(); };
+  $('#dall').onclick = ()=>{ list.forEach(c=>discSel.add(c.id)); pageDiscounts(); };
+  $('#dnone').onclick = ()=>{ discSel.clear(); pageDiscounts(); };
+  $('#dg').onclick = ()=>{
+    if(!discSel.size){ toast(T('t_cars')); return; }
+    const exp = new Date(Date.now() + 29*3600*1000); const ts = Math.floor(exp.getTime()/1000);
+    const groups = [...new Set([...discSel].flatMap(id=>byCar[id]))].sort();
+    const body = groups.map(g=>`    "${g}": [\n      ${pct},\n      ${ts}\n    ]`).join(',\n');
+    showPanel(`${T('nav_disc')} · ${pct}% · ${T('ngroups', groups.length)}`, `  "ecdm": {\n${body}\n  }`, `Elite discount ${pct}.txt`,
+      `${T('ncars', discSel.size)} · ${T('groups')}: ${groups.join(', ')}`,
+      T('disc_note', exp.toLocaleString(LOCALE[LANG]), ts));
+  };
+}
+
+/* ------------------------------------------------------------------ router */
+function route(){
+  const p = location.hash.replace(/^#\/?/,'').split('/').filter(Boolean).map(decodeURIComponent);
+  window.scrollTo(0,0); $('#results').classList.remove('show');
+  if (p[0]!=='cars') closePanel();
+  if (!p.length) return pageHome();
+  if (p[0]==='cars'){
+    if (p.length===1) { closePanel(); return pageCarsHome(); }
+    if (p.length===3 && BRANDS[p[2]]) { closePanel(); return pageCarsBrand(p[1], p[2]); }
+    if (p.length===4 && CARS[p[3]]) return pageCar(p[1], p[2], p[3]);
+    return pageCarsHome();
+  }
+  if (p[0]==='fusions') return pageFusions();
+  if (p[0]==='stage6') return pageStage6();
+  if (p[0]==='gifts'){ if(p.length===1) restoView=false; return pageGifts(); }
+  if (p[0]==='discounts') return pageDiscounts();
+  pageHome();
+}
+window.addEventListener('hashchange', route);
+
+load('index').then(d=>{
+  IDX = d; IDX.cars.forEach(c=>CARS[c.id]=c); IDX.brands.forEach(b=>BRANDS[b.k]=b);
+  const sel = $('#lang'); sel.innerHTML = LANGS.map(l=>`<option ${l===LANG?'selected':''}>${l}</option>`).join('');
+  sel.value = LANG; sel.onchange = ()=>{ LANG=sel.value; store.set('lang',LANG); applyStatic(); buildSearch(); route(); };
+  applyStatic(); buildSearch(); route();
+}).catch(e=>{ $('#main').innerHTML = `<div class="empty">Data not found (${esc(e.message)}). Run build_site.py first.</div>`; });
+</script>
+</body>
+</html>

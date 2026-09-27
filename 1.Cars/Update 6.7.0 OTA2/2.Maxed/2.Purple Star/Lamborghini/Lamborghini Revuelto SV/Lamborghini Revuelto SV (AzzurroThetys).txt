@@ -11,7 +11,9 @@
         0.83,
         0.7
       ],
-      "fidr": 3.7,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2119,
       "oriid": 2119,
       "apcid": 279,
@@ -24,6 +26,8 @@
         "Lamborghini_RevueltoSV_2027_Wheel1A_3D"
       ],
       "opcn": "Lamborghini_RevueltoSV_2027_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -510,15 +514,13 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.095,
-      "tthm": 16.057,
+      "cppi": 713,
+      "cepi": 2481,
+      "ttqm": 4.616,
+      "tthm": 6.917,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      },
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      }
     }

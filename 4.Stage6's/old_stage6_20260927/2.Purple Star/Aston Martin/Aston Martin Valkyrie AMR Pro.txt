@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "AstonMartin_ValkyrieAMRPro_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "AstonMartin_ValkyrieAMRPro_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "AstonMartin_ValkyrieAMRPro_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "AstonMartin_ValkyrieAMRPro_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "AstonMartin_ValkyrieAMRPro_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "AstonMartin_ValkyrieAMRPro_2022"
+    },
+    3,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "AstonMartin_ValkyrieAMRPro_2022"
+    },
+    3

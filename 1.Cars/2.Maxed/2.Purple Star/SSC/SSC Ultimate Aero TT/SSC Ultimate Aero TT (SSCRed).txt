@@ -1,5 +1,5 @@
 {
-      "unid": 7052,
+      "unid": 5678,
       "crdb": "SSC_UltimateAeroTT_2009",
       "grsp": [
         3.133,
@@ -9,13 +9,17 @@
         0.942,
         0.763
       ],
-      "fidr": 2.22,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2036,
       "oriid": 2036,
       "apcn": [
         "SSC_UltimateAeroTT_2009_Wheel1A_3D"
       ],
       "opcn": "SSC_UltimateAeroTT_2009_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -502,9 +506,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.438,
-      "tthm": 16.068,
+      "cppi": 713,
+      "cepi": 2572,
+      "ttqm": 4.504,
+      "tthm": 6.791,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -515,8 +520,5 @@
       "caid": 0,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

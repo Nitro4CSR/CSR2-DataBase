@@ -1,0 +1,150 @@
+{
+      "unid": 5979,
+      "crdb": "Porsche_911SpeedsterRewardRecycled_2020",
+      "grsp": [
+        3.91,
+        2.29,
+        1.58,
+        1.18,
+        0.94,
+        0.79,
+        0.62
+      ],
+      "fidr": 3.44,
+      "appi": 12,
+      "orpi": 12,
+      "apiid": 982,
+      "oriid": 982,
+      "apcid": 83,
+      "orcid": 83,
+      "aplid": 481,
+      "orlid": 481,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Porsche_911SpeedsterRewardRecycled_2020_Wheel1A_3D"
+      ],
+      "opcn": "Porsche_911SpeedsterRewardRecycled_2020_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 602,
+      "ttqm": 10.576,
+      "tthm": 16.084,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 727,
+      "inid": 982,
+      "caid": 83,
+      "lzsid": 15,
+      "livid": 481,
+      "whbn": "Wheel1A_3D"
+    }

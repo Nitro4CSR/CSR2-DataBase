@@ -1,5 +1,5 @@
 {
-      "unid": 7014,
+      "unid": 2305,
       "crdb": "Ferrari_F430Scuderia_2008",
       "grsp": [
         3.29,
@@ -9,7 +9,9 @@
         1.03,
         0.82
       ],
-      "fidr": 2.44,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 88,
       "oriid": 88,
       "apcid": 12,
@@ -22,6 +24,8 @@
         "Ferrari_F430Scuderia_2008_Wheel1A_3D"
       ],
       "opcn": "Ferrari_F430Scuderia_2008_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -508,9 +512,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.355,
-      "tthm": 16.066,
+      "cppi": 713,
+      "cepi": 2516,
+      "ttqm": 4.665,
+      "tthm": 6.892,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -521,8 +526,5 @@
       "caid": 12,
       "lzsid": 9,
       "livid": 1392,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

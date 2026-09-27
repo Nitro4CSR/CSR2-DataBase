@@ -1,7 +1,6 @@
 {
-      "unid": 7155,
+      "unid": 4604,
       "crdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017",
-      "awar": false,
       "grsp": [
         4.056,
         2.301,
@@ -10,42 +9,23 @@
         1.001,
         0.796
       ],
-      "fidr": 3.16,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 2,
       "orpi": 2,
       "apiid": 385,
       "oriid": 385,
       "apcid": 2,
       "orcid": 2,
-      "apcns": 0,
-      "appns": 0,
-      "opcns": 0,
-      "oppns": 0,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
       "aplzsid": -1,
       "orlzsid": -1,
-      "apln": "",
       "apcn": [
         "Nissan_KRCJapanGTRR35RewardRecycled_2017_Wheel1C_3D"
       ],
       "opcn": "Nissan_KRCJapanGTRR35RewardRecycled_2017_Wheel1C_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
       "msou": 5979000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
@@ -55,7 +35,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -65,17 +44,6 @@
               ]
             },
             {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -85,7 +53,15 @@
               ]
             },
             {
-              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
               "fsg": [
                 1,
                 1,
@@ -95,7 +71,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -105,7 +80,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -124,7 +98,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -134,7 +107,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -144,7 +116,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -154,7 +125,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -164,7 +134,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -174,7 +143,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 3,
                 0,
@@ -193,7 +161,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -203,7 +170,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -213,7 +179,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -223,7 +188,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -262,7 +226,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -272,7 +235,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -282,7 +244,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -292,7 +253,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -302,7 +262,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -312,7 +271,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -331,7 +289,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -341,27 +298,6 @@
               ]
             },
             {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -371,7 +307,24 @@
               ]
             },
             {
-              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
               "fsg": [
                 1,
                 1,
@@ -381,7 +334,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -400,7 +352,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -410,37 +361,6 @@
               ]
             },
             {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                3,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                2,
-                3,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -450,7 +370,33 @@
               ]
             },
             {
-              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "fsg": [
+                1,
+                2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
               "fsg": [
                 2,
                 2,
@@ -469,7 +415,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -479,7 +424,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -489,7 +433,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -499,7 +442,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -509,7 +451,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -519,7 +460,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -532,67 +472,19 @@
         }
       ],
       "fpin": 2,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 603,
-      "cepi": 0,
-      "tdut": 0.0,
-      "tdtt": 0.0,
-      "ttqm": 0.0,
-      "tthm": 0.0,
-      "tt60": 0.0,
-      "tt1h": 0.0,
-      "spqm": 0.0,
-      "sphm": 0.0,
+      "cppi": 714,
+      "cepi": 2287,
+      "ttqm": 4.798,
+      "tthm": 7.255,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
-      "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 2084,
       "inid": 385,
       "caid": 2,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1C_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "whbn": "Wheel1C_3D"
     }

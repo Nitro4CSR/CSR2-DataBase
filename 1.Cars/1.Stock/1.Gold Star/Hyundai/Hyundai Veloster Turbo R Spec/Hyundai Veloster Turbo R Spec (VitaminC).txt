@@ -1,0 +1,149 @@
+{
+      "unid": 2986,
+      "crdb": "Hyundai_VelosterTurboRSpec_2014",
+      "grsp": [
+        3.315,
+        1.962,
+        1.294,
+        0.976,
+        0.778,
+        0.633
+      ],
+      "fidr": 4.47,
+      "appi": 4,
+      "orpi": 4,
+      "apiid": 502,
+      "oriid": 502,
+      "apcid": 4,
+      "orcid": 4,
+      "aplid": 138,
+      "orlid": 138,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Hyundai_VelosterTurboRSpec_2014_Wheel1B_3D"
+      ],
+      "opcn": "Hyundai_VelosterTurboRSpec_2014_Wheel1B_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 1,
+      "cppi": 164,
+      "ttqm": 15.365,
+      "tthm": 24.585,
+      "ctie": "TIER_1",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 569,
+      "inid": 502,
+      "caid": 4,
+      "lzsid": 15,
+      "livid": 138,
+      "whbn": "Wheel1B_3D"
+    }

@@ -1,5 +1,5 @@
 {
-      "unid": 7521,
+      "unid": 953,
       "crdb": "Bentley_ContinentalGTEVO_2026",
       "grsp": [
         5.966,
@@ -11,13 +11,17 @@
         0.678,
         0.534
       ],
-      "fidr": 3.15,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1999,
       "oriid": 1999,
       "apcn": [
         "Bentley_ContinentalGTEVO_2026_Wheel1A_3D"
       ],
       "opcn": "Bentley_ContinentalGTEVO_2026_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -504,21 +508,20 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 9.988,
-      "tthm": 16.047,
+      "cppi": 713,
+      "cepi": 2186,
+      "ttqm": 5.043,
+      "tthm": 7.549,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "paid": 2638,
       "inid": 1999,
       "caid": 0,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

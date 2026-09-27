@@ -1,0 +1,139 @@
+{
+      "unid": 5798,
+      "crdb": "Volkswagen_GolfGTI_2014",
+      "grsp": [
+        4.44,
+        2.67,
+        1.97,
+        1.59,
+        1.33,
+        1.08
+      ],
+      "fidr": 2.88,
+      "appi": 2,
+      "orpi": 2,
+      "apiid": 64,
+      "oriid": 64,
+      "apcid": 3,
+      "orcid": 3,
+      "apcn": [
+        "Volkswagen_GolfGTI_2014_Wheel1A_3D"
+      ],
+      "opcn": "Volkswagen_GolfGTI_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 163,
+      "ttqm": 15.373,
+      "tthm": 24.651,
+      "ctie": "TIER_1",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

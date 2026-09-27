@@ -1,5 +1,5 @@
 {
-      "unid": 7501,
+      "unid": 1793,
       "crdb": "Dodge_ChallengerRTLPClassic_1970",
       "grsp": [
         3.6,
@@ -20,6 +20,8 @@
       "opcn": "Dodge_ChallengerRTLPClassic_1970_Wheel1A_3D",
       "upst": [
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -33,6 +35,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -46,6 +50,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -59,6 +65,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -72,6 +80,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -85,6 +95,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -98,6 +110,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -134,7 +148,7 @@
       "ttqm": 10.082,
       "tthm": 16.061,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "ShopGold",
       "nupl": {
         "cpf": false
       },

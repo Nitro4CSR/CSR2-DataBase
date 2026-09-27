@@ -1,5 +1,5 @@
 {
-      "unid": 7533,
+      "unid": 3638,
       "crdb": "Lamborghini_TemerarioRewardRecycled_2025",
       "grsp": [
         3.9,
@@ -11,19 +11,23 @@
         0.83,
         0.7
       ],
-      "fidr": 3.7,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 4,
       "orpi": 4,
-      "apiid": 2024,
-      "oriid": 2024,
-      "apcid": 271,
-      "orcid": 271,
+      "apiid": 1709,
+      "oriid": 1709,
+      "apcid": 367,
+      "orcid": 367,
       "aplzsid": -1,
       "orlzsid": -1,
       "apcn": [
-        "Lamborghini_TemerarioRewardRecycled_2025_Wheel3A_3D"
+        "Lamborghini_TemerarioRewardRecycled_2025_Wheel2C_3D"
       ],
-      "opcn": "Lamborghini_TemerarioRewardRecycled_2025_Wheel3A_3D",
+      "opcn": "Lamborghini_TemerarioRewardRecycled_2025_Wheel2C_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -510,21 +514,19 @@
         }
       ],
       "fpin": 2,
-      "cppi": 603,
-      "ttqm": 10.086,
-      "tthm": 16.057,
+      "cppi": 713,
+      "cepi": 2380,
+      "ttqm": 4.756,
+      "tthm": 7.147,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
         "cpf": false
       },
       "paid": 314,
-      "inid": 2024,
-      "caid": 271,
+      "inid": 1709,
+      "caid": 367,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel3A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel2C_3D"
     }

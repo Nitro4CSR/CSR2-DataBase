@@ -1,0 +1,139 @@
+{
+      "unid": 2619,
+      "crdb": "Ford_MustangGTPremium_2015",
+      "grsp": [
+        3.66,
+        2.43,
+        1.69,
+        1.32,
+        1.0,
+        0.65
+      ],
+      "fidr": 3.73,
+      "appi": 1,
+      "orpi": 1,
+      "apiid": 66,
+      "oriid": 66,
+      "apcid": 9,
+      "orcid": 9,
+      "apcn": [
+        "Ford_MustangGTPremium_2015_Wheel1A_3D"
+      ],
+      "opcn": "Ford_MustangGTPremium_2015_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 402,
+      "ttqm": 12.668,
+      "tthm": 20.373,
+      "ctie": "TIER_3",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

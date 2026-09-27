@@ -1,7 +1,6 @@
 {
-      "unid": 121,
+      "unid": 2905,
       "crdb": "Honda_NSXRewardRecycled_2017",
-      "awar": false,
       "grsp": [
         3.838,
         2.433,
@@ -13,68 +12,28 @@
         0.747,
         0.634
       ],
-      "fidr": 3.58,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 3.08,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 4,
       "orpi": 4,
       "apiid": 649,
       "oriid": 649,
       "apcid": 3,
       "orcid": 3,
-      "apnid": -2147483648,
-      "apnzid": -2147483648,
-      "apncf": -2147483648,
-      "apncb": -2147483648,
-      "apfid": -2147483648,
-      "apcns": 0,
-      "appns": 0,
-      "apnpid": -2147483648,
-      "opnid": -2147483648,
-      "opnzid": -2147483648,
-      "opncf": -2147483648,
-      "opncb": -2147483648,
-      "opfid": -2147483648,
-      "opcns": 0,
-      "oppns": 0,
-      "opnpid": -2147483648,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
-      "apln": "",
       "apcn": [
         "Honda_NSXRewardRecycled_2017_Wheel1A_3D"
       ],
       "opcn": "Honda_NSXRewardRecycled_2017_Wheel1A_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
       "msou": 3009000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -111,7 +70,7 @@
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
@@ -143,14 +102,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -187,7 +139,7 @@
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
@@ -219,14 +171,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -253,7 +198,7 @@
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
@@ -295,14 +240,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -348,7 +286,7 @@
               "ulpf": true,
               "fsg": [
                 2,
-                2,
+                0,
                 0,
                 0,
                 0
@@ -371,14 +309,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -414,7 +345,7 @@
               "ulpf": true,
               "fsg": [
                 1,
-                2,
+                0,
                 0,
                 0,
                 0
@@ -447,14 +378,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -501,7 +425,7 @@
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
@@ -523,14 +447,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -567,7 +484,7 @@
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
@@ -596,68 +513,20 @@
         }
       ],
       "fpin": 2,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 1,
-      "rsup": 1,
-      "rpbb": 3,
-      "rncu": false,
-      "fcu": true,
-      "pncu": true,
-      "cncu": true,
-      "cppi": 506,
-      "cepi": 0,
-      "tdut": 18.117,
-      "tdtt": 18.117,
-      "ttqm": 11.661,
-      "tthm": 18.117,
-      "tt60": 3.456,
-      "tt1h": 7.722,
-      "spqm": 126.589,
-      "sphm": 150.186,
+      "cppi": 674,
+      "cepi": 1298,
+      "ttqm": 7.811,
+      "tthm": 11.091,
       "ctie": "TIER_4",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
       "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 741,
-      "wpid": 2147483647,
       "inid": 649,
       "caid": 3,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 50,
-      "isra": false
+      "whbn": "Wheel1A_3D"
     }

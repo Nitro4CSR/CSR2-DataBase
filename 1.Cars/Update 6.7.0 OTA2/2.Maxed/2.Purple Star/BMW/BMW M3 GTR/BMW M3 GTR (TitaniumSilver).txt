@@ -9,7 +9,9 @@
         1.03,
         0.82
       ],
-      "fidr": 2.44,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1471,
       "oriid": 1471,
       "apcid": 4,
@@ -18,6 +20,8 @@
         "BMW_M3E46GTR_2005_Wheel1A_3D"
       ],
       "opcn": "BMW_M3E46GTR_2005_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -504,15 +508,13 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.355,
-      "tthm": 16.066,
+      "cppi": 713,
+      "cepi": 2642,
+      "ttqm": 4.47,
+      "tthm": 6.639,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      },
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      }
     }

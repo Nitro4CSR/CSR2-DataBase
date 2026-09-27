@@ -1,0 +1,46 @@
+{
+  "cues": [
+    {
+      "esnn": "AMOUNT",
+      "esut": "ENGINE",
+      "esdb": "Nissan_GTRNISMOGT3_2015"
+    },
+    "AMOUNT",
+    {
+      "esnn": "AMOUNT",
+      "esut": "TURBO",
+      "esdb": "Nissan_GTRNISMOGT3_2015"
+    },
+    "AMOUNT",
+    {
+      "esnn": "AMOUNT",
+      "esut": "INTAKE",
+      "esdb": "Nissan_GTRNISMOGT3_2015"
+    },
+    "AMOUNT",
+    {
+      "esnn": "AMOUNT",
+      "esut": "NITROUS",
+      "esdb": "Nissan_GTRNISMOGT3_2015"
+    },
+    "AMOUNT",
+    {
+      "esnn": "AMOUNT",
+      "esut": "BODY",
+      "esdb": "Nissan_GTRNISMOGT3_2015"
+    },
+    "AMOUNT",
+    {
+      "esnn": "AMOUNT",
+      "esut": "TYRES",
+      "esdb": "Nissan_GTRNISMOGT3_2015"
+    },
+    "AMOUNT",
+    {
+      "esnn": "AMOUNT",
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_GTRNISMOGT3_2015"
+    },
+    "AMOUNT"
+  ]
+}

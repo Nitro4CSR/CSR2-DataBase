@@ -1,0 +1,149 @@
+{
+      "unid": 5456,
+      "crdb": "Porsche_PanameraSportTurismoRewardRecycled_2021",
+      "grsp": [
+        5.97,
+        3.24,
+        2.08,
+        1.42,
+        1.05,
+        0.84,
+        0.68,
+        0.53
+      ],
+      "fidr": 3.15,
+      "appi": 9,
+      "orpi": 9,
+      "apiid": 1359,
+      "oriid": 1359,
+      "apcid": 83,
+      "orcid": 83,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Porsche_PanameraSportTurismoRewardRecycled_2021_Wheel7E_3D"
+      ],
+      "opcn": "Porsche_PanameraSportTurismoRewardRecycled_2021_Wheel7E_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 500,
+      "ttqm": 11.471,
+      "tthm": 18.232,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1220,
+      "inid": 1359,
+      "caid": 83,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel7E_3D"
+    }

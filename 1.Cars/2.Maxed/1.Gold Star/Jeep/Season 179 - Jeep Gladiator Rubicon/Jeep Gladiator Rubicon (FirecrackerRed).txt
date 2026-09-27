@@ -1,7 +1,6 @@
 {
-      "unid": 3227,
+      "unid": 3092,
       "crdb": "Jeep_GladiatorRewardRecycled_2019",
-      "awar": false,
       "grsp": [
         5.13,
         2.63,
@@ -10,42 +9,25 @@
         0.81,
         0.72
       ],
-      "fidr": 4.1,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 3.49,
+      "nlpr": 0.94,
+      "ttpp": 0.0,
       "appi": 4,
       "orpi": 4,
       "apiid": 1543,
       "oriid": 1543,
       "apcid": 252,
       "orcid": 252,
-      "apcns": 0,
-      "appns": 0,
-      "opcns": 0,
-      "oppns": 0,
       "aplid": 1202,
       "orlid": 1202,
       "aplzsid": 9,
       "orlzsid": 9,
-      "apln": "",
       "apcn": [
         "Jeep_GladiatorRewardRecycled_2019_Wheel1B_3D"
       ],
       "opcn": "Jeep_GladiatorRewardRecycled_2019_Wheel1B_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
       "msou": 3009000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
@@ -55,7 +37,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -65,7 +46,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -75,7 +55,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -85,7 +64,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -124,7 +102,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -134,17 +111,6 @@
               ]
             },
             {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -154,7 +120,15 @@
               ]
             },
             {
-              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
               "fsg": [
                 1,
                 2,
@@ -193,7 +167,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -203,17 +176,6 @@
               ]
             },
             {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -223,7 +185,15 @@
               ]
             },
             {
-              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                0,
+                0,
+                0
+              ]
+            },
+            {
               "fsg": [
                 1,
                 2,
@@ -262,7 +232,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -272,7 +241,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -292,7 +260,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -331,7 +298,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -341,7 +307,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -351,7 +316,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -361,7 +325,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -400,10 +363,18 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "fsg": [
+                1,
+                2,
                 0,
                 0,
                 0
@@ -420,17 +391,6 @@
               ]
             },
             {
-              "ulpf": true,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -469,7 +429,6 @@
               "ulpf": true
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -479,7 +438,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -489,7 +447,6 @@
               ]
             },
             {
-              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -532,67 +489,19 @@
         }
       ],
       "fpin": 2,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 503,
-      "cepi": 0,
-      "tdut": 18.172,
-      "tdtt": 18.172,
-      "ttqm": 11.557,
-      "tthm": 18.172,
-      "tt60": 3.535,
-      "tt1h": 7.131,
-      "spqm": 122.771,
-      "sphm": 146.079,
+      "cppi": 673,
+      "cepi": 1701,
+      "ttqm": 6.721,
+      "tthm": 10.308,
       "ctie": "TIER_4",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
-      "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 2071,
       "inid": 1543,
       "caid": 252,
       "lzsid": 9,
       "livid": 1202,
-      "whbn": "Wheel1B_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "whbn": "Wheel1B_3D"
     }

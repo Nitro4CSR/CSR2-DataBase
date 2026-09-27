@@ -1,0 +1,140 @@
+{
+      "unid": 3394,
+      "crdb": "Lamborghini_HuracanLP6104_2014",
+      "grsp": [
+        3.133,
+        2.083,
+        1.575,
+        1.244,
+        0.979,
+        0.788,
+        0.677
+      ],
+      "fidr": 4.89,
+      "appi": 16,
+      "orpi": 16,
+      "apiid": 240,
+      "oriid": 240,
+      "apcid": 4,
+      "orcid": 4,
+      "apcn": [
+        "Lamborghini_HuracanLP6104_2014_Wheel2A_3D"
+      ],
+      "opcn": "Lamborghini_HuracanLP6104_2014_Wheel2A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 602,
+      "ttqm": 9.984,
+      "tthm": 16.099,
+      "ctie": "TIER_5",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

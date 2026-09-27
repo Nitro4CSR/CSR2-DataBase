@@ -1,5 +1,5 @@
 {
-      "unid": 7101,
+      "unid": 1064,
       "crdb": "Bentley_SupersportsReward_2026",
       "grsp": [
         5.966,
@@ -11,7 +11,9 @@
         0.678,
         0.534
       ],
-      "fidr": 3.15,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2041,
       "oriid": 2041,
       "apcid": 374,
@@ -24,6 +26,8 @@
         "Bentley_SupersportsReward_2026_Wheel1A_3D"
       ],
       "opcn": "Bentley_SupersportsReward_2026_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -510,9 +514,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 9.988,
-      "tthm": 16.047,
+      "cppi": 713,
+      "cepi": 2186,
+      "ttqm": 5.043,
+      "tthm": 7.549,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -523,8 +528,5 @@
       "caid": 374,
       "lzsid": 9,
       "livid": 1400,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

@@ -1,5 +1,5 @@
 {
-      "unid": 7512,
+      "unid": 5330,
       "crdb": "Porsche_911TurboSRewardRecycled_2026",
       "grsp": [
         4.89,
@@ -11,7 +11,9 @@
         0.76,
         0.61
       ],
-      "fidr": 3.99,
+      "fidr": 2.42,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 1,
       "orpi": 1,
       "apiid": 2011,
@@ -26,6 +28,8 @@
         "Porsche_911TurboSRewardRecycled_2026_Wheel1A_3D"
       ],
       "opcn": "Porsche_911TurboSRewardRecycled_2026_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -512,9 +516,10 @@
         }
       ],
       "fpin": 2,
-      "cppi": 603,
-      "ttqm": 10.651,
-      "tthm": 16.071,
+      "cppi": 713,
+      "cepi": 2103,
+      "ttqm": 5.412,
+      "tthm": 7.728,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
@@ -525,8 +530,5 @@
       "caid": 253,
       "lzsid": 9,
       "livid": 1388,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

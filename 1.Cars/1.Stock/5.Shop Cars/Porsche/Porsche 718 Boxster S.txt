@@ -1,0 +1,144 @@
+{
+      "unid": 4998,
+      "crdb": "Porsche_718BoxsterS_2017",
+      "grsp": [
+        3.31,
+        1.95,
+        1.41,
+        1.13,
+        0.95,
+        0.81,
+        0.62
+      ],
+      "fidr": 3.62,
+      "appi": 3,
+      "orpi": 3,
+      "apiid": 626,
+      "oriid": 626,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 241,
+      "orlid": 241,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Porsche_718BoxsterS_2017_Wheel1A_3D"
+      ],
+      "opcn": "Porsche_718BoxsterS_2017_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 305,
+      "ttqm": 13.935,
+      "tthm": 22.162,
+      "ctie": "TIER_2",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      }
+    }
