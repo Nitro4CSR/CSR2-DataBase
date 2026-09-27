@@ -1,0 +1,137 @@
+{
+      "unid": 4553,
+      "crdb": "Nissan_GTRPremium_2015",
+      "grsp": [
+        4.06,
+        2.3,
+        1.6,
+        1.25,
+        1.0,
+        0.8
+      ],
+      "fidr": 3.7,
+      "apiid": 106,
+      "oriid": 106,
+      "apcid": 18,
+      "orcid": 18,
+      "apcn": [
+        "Nissan_GTRPremium_2015_Wheel1A_3D"
+      ],
+      "opcn": "Nissan_GTRPremium_2015_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 499,
+      "ttqm": 11.384,
+      "tthm": 18.256,
+      "ctie": "TIER_4",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

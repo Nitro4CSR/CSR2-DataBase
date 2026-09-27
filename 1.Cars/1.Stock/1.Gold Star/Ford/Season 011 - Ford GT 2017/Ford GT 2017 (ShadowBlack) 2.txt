@@ -1,0 +1,150 @@
+{
+      "unid": 2561,
+      "crdb": "Ford_GTRewardRecycled_2017",
+      "grsp": [
+        3.4,
+        2.19,
+        1.63,
+        1.29,
+        1.03,
+        0.84,
+        0.72
+      ],
+      "fidr": 3.67,
+      "appi": 5,
+      "orpi": 5,
+      "apiid": 441,
+      "oriid": 441,
+      "apcid": 4,
+      "orcid": 4,
+      "aplid": 344,
+      "orlid": 344,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Ford_GTRewardRecycled_2017_Wheel1D_3D"
+      ],
+      "opcn": "Ford_GTRewardRecycled_2017_Wheel1D_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 604,
+      "ttqm": 9.994,
+      "tthm": 16.015,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 495,
+      "inid": 441,
+      "caid": 4,
+      "lzsid": 15,
+      "livid": 344,
+      "whbn": "Wheel1D_3D"
+    }

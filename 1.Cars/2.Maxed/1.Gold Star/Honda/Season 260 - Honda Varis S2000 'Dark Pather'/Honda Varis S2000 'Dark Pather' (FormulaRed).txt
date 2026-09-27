@@ -1,5 +1,5 @@
 {
-      "unid": 7042,
+      "unid": 2917,
       "crdb": "Honda_VarisS2000RewardRecycled_2005",
       "grsp": [
         3.133,
@@ -9,19 +9,23 @@
         0.942,
         0.763
       ],
-      "fidr": 2.55,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 4,
       "orpi": 4,
-      "apiid": 2040,
-      "oriid": 2040,
+      "apiid": 649,
+      "oriid": 649,
       "apcid": 3,
       "orcid": 3,
       "aplzsid": -1,
       "orlzsid": -1,
       "apcn": [
-        "Honda_VarisS2000RewardRecycled_2005_Wheel1D_3D"
+        "Honda_VarisS2000RewardRecycled_2005_Wheel2A_3D"
       ],
-      "opcn": "Honda_VarisS2000RewardRecycled_2005_Wheel1D_3D",
+      "opcn": "Honda_VarisS2000RewardRecycled_2005_Wheel2A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -508,21 +512,20 @@
         }
       ],
       "fpin": 2,
-      "cppi": 603,
-      "ttqm": 10.464,
-      "tthm": 16.048,
+      "cppi": 713,
+      "cepi": 2040,
+      "ttqm": 5.501,
+      "tthm": 7.855,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "paid": 1544,
-      "inid": 2040,
+      "inid": 649,
       "caid": 3,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1D_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel2A_3D"
     }

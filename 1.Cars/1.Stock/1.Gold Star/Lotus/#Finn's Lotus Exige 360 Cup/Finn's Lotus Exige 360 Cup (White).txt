@@ -1,0 +1,147 @@
+{
+      "unid": 3824,
+      "crdb": "Lotus_Exige360CupCrew_2016",
+      "grsp": [
+        3.538,
+        1.913,
+        1.407,
+        1.091,
+        0.831,
+        0.738
+      ],
+      "fidr": 3.78,
+      "apiid": 659,
+      "oriid": 659,
+      "apcid": 5,
+      "orcid": 5,
+      "aplid": 245,
+      "orlid": 245,
+      "aplzsid": 1,
+      "orlzsid": 1,
+      "apcn": [
+        "Lotus_Exige360CupCrew_2016_Wheel1A_3D"
+      ],
+      "opcn": "Lotus_Exige360CupCrew_2016_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 308,
+      "ttqm": 13.892,
+      "tthm": 22.228,
+      "ctie": "TIER_2",
+      "csrc": "High_Stakes",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 364,
+      "inid": 659,
+      "caid": 5,
+      "lzsid": 1,
+      "livid": 245,
+      "whbn": "Wheel1A_3D"
+    }

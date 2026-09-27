@@ -1,5 +1,5 @@
 {
-      "unid": 8002,
+      "unid": 490,
       "crdb": "AstonMartin_VantageGT12_2016",
       "grsp": [
         3.29,
@@ -10,7 +10,9 @@
         0.85,
         0.71
       ],
-      "fidr": 2.66,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2039,
       "oriid": 2039,
       "apcid": 373,
@@ -23,6 +25,8 @@
         "AstonMartin_VantageGT12_2016_Wheel1A_3D"
       ],
       "opcn": "AstonMartin_VantageGT12_2016_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -509,9 +513,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.528,
-      "tthm": 16.067,
+      "cppi": 713,
+      "cepi": 2472,
+      "ttqm": 4.786,
+      "tthm": 6.992,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -522,8 +527,5 @@
       "caid": 373,
       "lzsid": 9,
       "livid": 1397,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

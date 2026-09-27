@@ -1,43 +1,46 @@
-,
+{
+  "cues": [
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "ENGINE",
       "esdb": "Honda_IndyTruck_2017"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TURBO",
       "esdb": "Honda_IndyTruck_2017"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "INTAKE",
       "esdb": "Honda_IndyTruck_2017"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "NITROUS",
       "esdb": "Honda_IndyTruck_2017"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "BODY",
       "esdb": "Honda_IndyTruck_2017"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TYRES",
       "esdb": "Honda_IndyTruck_2017"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TRANSMISSION",
       "esdb": "Honda_IndyTruck_2017"
     },
-    7
+    "AMOUNT"
+  ]
+}

@@ -1,7 +1,6 @@
 {
-      "unid": 7048,
+      "unid": 4197,
       "crdb": "McLaren_ElvaWindscreenReward_2021",
-      "awar": false,
       "grsp": [
         3.981,
         2.613,
@@ -11,42 +10,23 @@
         0.906,
         0.686
       ],
-      "fidr": 3.08,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
-      "appi": 0,
-      "orpi": 0,
+      "fidr": 2.54,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1730,
       "oriid": 1730,
       "apcid": 84,
       "orcid": 84,
-      "apcns": 0,
-      "appns": 0,
-      "opcns": 0,
-      "oppns": 0,
       "aplid": 1260,
       "orlid": 1260,
       "aplzsid": 9,
       "orlzsid": 9,
-      "apln": "",
       "apcn": [
         "McLaren_ElvaWindscreenReward_2021_Wheel1A_3D"
       ],
       "opcn": "McLaren_ElvaWindscreenReward_2021_Wheel1A_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
       "msou": 5979000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
@@ -533,62 +513,14 @@
         }
       ],
       "fpin": 3,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 604,
-      "cepi": 0,
-      "tdut": 0.0,
-      "tdtt": 0.0,
-      "ttqm": 0.0,
-      "tthm": 0.0,
-      "tt60": 0.0,
-      "tt1h": 0.0,
-      "spqm": 0.0,
-      "sphm": 0.0,
+      "cppi": 715,
+      "cepi": 2317,
+      "ttqm": 4.714,
+      "tthm": 7.097,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
-      "esup": true,
-      "elcl": 0,
-      "gacp": false,
-      "whbn": "",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "esup": true
     }

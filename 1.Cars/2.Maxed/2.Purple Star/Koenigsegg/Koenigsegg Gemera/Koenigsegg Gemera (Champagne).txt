@@ -1,5 +1,5 @@
 {
-      "unid": 7524,
+      "unid": 3150,
       "crdb": "Koenigsegg_Gemera_2025",
       "grsp": [
         4.72,
@@ -12,7 +12,9 @@
         0.83,
         0.65
       ],
-      "fidr": 2.55,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 159,
       "oriid": 159,
       "apcid": 75,
@@ -23,6 +25,8 @@
         "Koenigsegg_Gemera_2025_Wheel1A_3D"
       ],
       "opcn": "Koenigsegg_Gemera_2025_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -509,9 +513,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.549,
-      "tthm": 16.053,
+      "cppi": 713,
+      "cepi": 2512,
+      "ttqm": 4.628,
+      "tthm": 6.892,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -522,8 +527,5 @@
       "caid": 75,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

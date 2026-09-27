@@ -1,5 +1,5 @@
 {
-      "unid": 7020,
+      "unid": 5422,
       "crdb": "Porsche_Manthey911GT3RSRewardRecycled_2024",
       "grsp": [
         3.75,
@@ -10,7 +10,9 @@
         0.96,
         0.84
       ],
-      "fidr": 3.76,
+      "fidr": 2.0,
+      "nlpr": 0.0,
+      "ttpp": 0.53,
       "appi": 3,
       "orpi": 3,
       "apiid": 2038,
@@ -25,6 +27,8 @@
         "Porsche_Manthey911GT3RSRewardRecycled_2024_Wheel1B_3D"
       ],
       "opcn": "Porsche_Manthey911GT3RSRewardRecycled_2024_Wheel1B_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -511,9 +515,10 @@
         }
       ],
       "fpin": 2,
-      "cppi": 602,
-      "ttqm": 10.31,
-      "tthm": 16.098,
+      "cppi": 712,
+      "cepi": 2390,
+      "ttqm": 4.939,
+      "tthm": 7.171,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
@@ -524,8 +529,5 @@
       "caid": 5,
       "lzsid": 9,
       "livid": 1398,
-      "whbn": "Wheel1B_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1B_3D"
     }

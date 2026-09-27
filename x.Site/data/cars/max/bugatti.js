@@ -1,0 +1,1 @@
+CSR.put("cars/max/bugatti",{"Bugatti_EB110SSClassic_1992":[{"c":"BugattiBlue","f":"1.Cars/3.Elite Max/3.Legends/Bugatti/Bugatti EB110 Super Sport/Bugatti EB110 Super Sport (BugattiBlue).txt","i":"1.Cars/3.Elite Max/3.Legends/Bugatti/Bugatti EB110 Super Sport/Bugatti EB110 Super Sport (BugattiBlue).jpg"}]});

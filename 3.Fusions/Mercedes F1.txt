@@ -1,32 +1,88 @@
+{
+  "caup": [
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_eng0",
+        "adid": "MercedesAMGF1_W11VB_2020_eng0",
         "ulid": "TEXT_UPGRADE_ENGINE01",
         "upty": "ENGINE",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
+        "drcd": 0.05,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": 1.25,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 15.967
+          },
+          {
+            "kfti": 1448.55,
+            "kfva": 18.67
+          },
+          {
+            "kfti": 1698.3,
+            "kfva": 19.563
+          },
+          {
+            "kfti": 2100.0,
+            "kfva": 20.973
+          },
+          {
+            "kfti": 2600.0,
+            "kfva": 22.238
+          },
+          {
+            "kfti": 3200.0,
+            "kfva": 23.587
+          },
+          {
+            "kfti": 3800.0,
+            "kfva": 24.488
+          },
+          {
+            "kfti": 4500.0,
+            "kfva": 25.689
+          },
+          {
+            "kfti": 5200.0,
+            "kfva": 26.731
+          },
+          {
+            "kfti": 6050.0,
+            "kfva": 27.399
+          },
+          {
+            "kfti": 7800.0,
+            "kfva": 28.336
+          },
+          {
+            "kfti": 8800.0,
+            "kfva": 28.71
+          },
+          {
+            "kfti": 12000.0,
+            "kfva": 29.29
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_tur0",
+        "adid": "MercedesAMGF1_W11VB_2020_tur0",
         "ulid": "TEXT_UPGRADE_TURBO01",
         "upty": "TURBO",
         "uplv": 0,
@@ -36,26 +92,60 @@
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": 0.0,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 0.559
+          },
+          {
+            "kfti": 2249.998,
+            "kfva": 0.581
+          },
+          {
+            "kfti": 2252.248,
+            "kfva": 7.288
+          },
+          {
+            "kfti": 3100.0,
+            "kfva": 9.842
+          },
+          {
+            "kfti": 4600.0,
+            "kfva": 11.069
+          },
+          {
+            "kfti": 5800.0,
+            "kfva": 11.51
+          },
+          {
+            "kfti": 6750.0,
+            "kfva": 11.895
+          },
+          {
+            "kfti": 12000.0,
+            "kfva": 11.174
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_int0",
+        "adid": "MercedesAMGF1_W11VB_2020_int0",
         "ulid": "TEXT_UPGRADE_INTAKE01",
         "upty": "INTAKE",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.05,
+        "drcd": 0.0,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
@@ -63,22 +153,60 @@
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 2.504
+          },
+          {
+            "kfti": 1500.0,
+            "kfva": 3.63
+          },
+          {
+            "kfti": 2100.0,
+            "kfva": 4.234
+          },
+          {
+            "kfti": 2900.0,
+            "kfva": 4.752
+          },
+          {
+            "kfti": 4200.0,
+            "kfva": 5.262
+          },
+          {
+            "kfti": 5900.0,
+            "kfva": 6.06
+          },
+          {
+            "kfti": 7250.0,
+            "kfva": 6.547
+          },
+          {
+            "kfti": 8600.0,
+            "kfva": 7.036
+          },
+          {
+            "kfti": 12000.0,
+            "kfva": 7.096
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_nit0",
+        "adid": "MercedesAMGF1_W11VB_2020_nit0",
         "ulid": "TEXT_UPGRADE_NITROUS01",
         "upty": "NITROUS",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.03,
+        "drcd": -0.02,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
@@ -89,42 +217,42 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_bod0",
+        "adid": "MercedesAMGF1_W11VB_2020_bod0",
         "ulid": "TEXT_UPGRADE_BODY01",
         "upty": "BODY",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
         "drcd": 0.0,
-        "wedi": -13.608,
-        "grdi": -15.0,
+        "wedi": -9.072,
+        "grdi": -10.0,
         "gstd": 0.0,
-        "trlp": 0.0,
+        "trlp": -0.25,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_tir0",
+        "adid": "MercedesAMGF1_W11VB_2020_tir0",
         "ulid": "TEXT_UPGRADE_TYRES01",
         "upty": "TYRES",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": -0.03,
+        "drcd": -0.02,
         "wedi": 0.0,
         "grdi": 94.0,
         "gstd": 0.0,
@@ -135,19 +263,19 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_tra0",
+        "adid": "MercedesAMGF1_W11VB_2020_tra0",
         "ulid": "TEXT_UPGRADE_TRANS01",
         "upty": "TRANSMISSION",
         "uplv": 0,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
+        "drcd": 0.02,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": -0.05,
@@ -158,36 +286,90 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_eng1",
+        "adid": "MercedesAMGF1_W11VB_2020_eng1",
         "ulid": "TEXT_UPGRADE_ENGINE02",
         "upty": "ENGINE",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
+        "drcd": 0.05,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": 3.95,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 15.967
+          },
+          {
+            "kfti": 1448.55,
+            "kfva": 18.67
+          },
+          {
+            "kfti": 1698.3,
+            "kfva": 19.563
+          },
+          {
+            "kfti": 2100.0,
+            "kfva": 20.973
+          },
+          {
+            "kfti": 2600.0,
+            "kfva": 22.238
+          },
+          {
+            "kfti": 3250.0,
+            "kfva": 26.14
+          },
+          {
+            "kfti": 3950.0,
+            "kfva": 27.528
+          },
+          {
+            "kfti": 4650.0,
+            "kfva": 28.899
+          },
+          {
+            "kfti": 5600.0,
+            "kfva": 30.112
+          },
+          {
+            "kfti": 6650.0,
+            "kfva": 30.901
+          },
+          {
+            "kfti": 8000.0,
+            "kfva": 31.741
+          },
+          {
+            "kfti": 9250.0,
+            "kfva": 32.334
+          },
+          {
+            "kfti": 12000.0,
+            "kfva": 30.214
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_tur1",
+        "adid": "MercedesAMGF1_W11VB_2020_tur1",
         "ulid": "TEXT_UPGRADE_TURBO02",
         "upty": "TURBO",
         "uplv": 1,
@@ -197,258 +379,157 @@
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
+        "trlp": -0.75,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 0.321
+          },
+          {
+            "kfti": 2250.0,
+            "kfva": 0.365
+          },
+          {
+            "kfti": 2252.25,
+            "kfva": 3.693
+          },
+          {
+            "kfti": 2900.0,
+            "kfva": 6.537
+          },
+          {
+            "kfti": 3600.0,
+            "kfva": 8.849
+          },
+          {
+            "kfti": 4400.0,
+            "kfva": 9.359
+          },
+          {
+            "kfti": 5350.0,
+            "kfva": 9.731
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_int1",
+        "adid": "MercedesAMGF1_W11VB_2020_int1",
         "ulid": "TEXT_UPGRADE_INTAKE02",
         "upty": "INTAKE",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.015,
+        "drcd": 0.0,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 0.0,
+        "trlp": -0.25,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
-        "erpm": 0
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 2.823
+          },
+          {
+            "kfti": 1250.0,
+            "kfva": 3.726
+          },
+          {
+            "kfti": 1450.0,
+            "kfva": 4.238
+          },
+          {
+            "kfti": 1900.0,
+            "kfva": 4.678
+          },
+          {
+            "kfti": 2700.0,
+            "kfva": 4.907
+          },
+          {
+            "kfti": 4100.0,
+            "kfva": 4.803
+          },
+          {
+            "kfti": 6050.0,
+            "kfva": 4.62
+          }
+        ]
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_nit1",
+        "adid": "MercedesAMGF1_W11VB_2020_nit1",
         "ulid": "TEXT_UPGRADE_NITROUS02",
         "upty": "NITROUS",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.02,
+        "drcd": 0.0,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": 0.0,
-        "trlp": 1.5,
-        "niti": 1.0,
+        "trlp": -0.25,
+        "niti": 2.0,
         "nhpb": 25.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_bod1",
+        "adid": "MercedesAMGF1_W11VB_2020_bod1",
         "ulid": "TEXT_UPGRADE_BODY02",
         "upty": "BODY",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.03,
-        "wedi": -13.608,
-        "grdi": -15.0,
+        "drcd": 0.0,
+        "wedi": -18.144,
+        "grdi": -20.0,
         "gstd": 0.0,
-        "trlp": 0.0,
+        "trlp": -0.5,
         "niti": 0.0,
         "nhpb": 0.0,
         "isnc": false,
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_tir1",
+        "adid": "MercedesAMGF1_W11VB_2020_tir1",
         "ulid": "TEXT_UPGRADE_TYRES02",
         "upty": "TYRES",
         "uplv": 1,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": -0.03,
-        "wedi": 0.0,
-        "grdi": AMOUNT.0,
-        "gstd": 0.0,
-        "trlp": 0.0,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_tra1",
-        "ulid": "TEXT_UPGRADE_TRANS02",
-        "upty": "TRANSMISSION",
-        "uplv": 1,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.0,
-        "wedi": -13.608,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 0.0,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_eng2",
-        "ulid": "TEXT_UPGRADE_ENGINE03",
-        "upty": "ENGINE",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 0.0,
         "drcd": 0.0,
         "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 1.5,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_tur2",
-        "ulid": "TEXT_UPGRADE_TURBO03",
-        "upty": "TURBO",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.01,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 1.5,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_int2",
-        "ulid": "TEXT_UPGRADE_INTAKE03",
-        "upty": "INTAKE",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.05,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 0.0,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_nit2",
-        "ulid": "TEXT_UPGRADE_NITROUS03",
-        "upty": "NITROUS",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": -0.01,
-        "wedi": 0.0,
-        "grdi": 0.0,
-        "gstd": 0.0,
-        "trlp": 1.0,
-        "niti": 0.0,
-        "nhpb": 25.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_bod2",
-        "ulid": "TEXT_UPGRADE_BODY03",
-        "upty": "BODY",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 650.0,
-        "drcd": 0.0,
-        "wedi": -6.804,
-        "grdi": -7.0,
-        "gstd": 0.0,
-        "trlp": 0.0,
-        "niti": 0.0,
-        "nhpb": 0.0,
-        "isnc": false,
-        "erpm": 0
-      }
-    },
-    AMOUNT,
-    {
-      "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
-      "upfb": true,
-      "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_tir2",
-        "ulid": "TEXT_UPGRADE_TYRES03",
-        "upty": "TYRES",
-        "uplv": 2,
-        "tcmu": 0.0,
-        "errd": 0.0,
-        "drcd": 0.0,
-        "wedi": 0.0,
-        "grdi": 125.0,
+        "grdi": 100.0,
         "gstd": 0.0,
         "trlp": -1.0,
         "niti": 0.0,
@@ -457,19 +538,262 @@
         "erpm": 0
       }
     },
-    AMOUNT,
+    "AMOUNT",
     {
       "upma": "id_mercedesamgpetronas",
-      "upnn": AMOUNT,
+      "upnn": "AMOUNT",
       "upfb": true,
       "upcu": {
-        "adid": "MercedesAMGF1_W11_2020_tra2",
+        "adid": "MercedesAMGF1_W11VB_2020_tra1",
+        "ulid": "TEXT_UPGRADE_TRANS02",
+        "upty": "TRANSMISSION",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.02,
+        "wedi": -36.287,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_mercedesamgpetronas",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "MercedesAMGF1_W11VB_2020_eng2",
+        "ulid": "TEXT_UPGRADE_ENGINE03",
+        "upty": "ENGINE",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.02,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 7.205
+          },
+          {
+            "kfti": 1300.0,
+            "kfva": 8.316
+          },
+          {
+            "kfti": 1600.0,
+            "kfva": 9.172
+          },
+          {
+            "kfti": 2000.0,
+            "kfva": 9.824
+          },
+          {
+            "kfti": 2450.0,
+            "kfva": 10.478
+          },
+          {
+            "kfti": 3050.0,
+            "kfva": 10.952
+          },
+          {
+            "kfti": 3900.0,
+            "kfva": 11.409
+          },
+          {
+            "kfti": 5250.0,
+            "kfva": 11.616
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_mercedesamgpetronas",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "MercedesAMGF1_W11VB_2020_tur2",
+        "ulid": "TEXT_UPGRADE_TURBO03",
+        "upty": "TURBO",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 1.977
+          },
+          {
+            "kfti": 2000.0,
+            "kfva": 1.981
+          },
+          {
+            "kfti": 2002.0,
+            "kfva": 7.772
+          },
+          {
+            "kfti": 2500.0,
+            "kfva": 10.494
+          },
+          {
+            "kfti": 3500.0,
+            "kfva": 12.06
+          },
+          {
+            "kfti": 5150.0,
+            "kfva": 12.086
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_mercedesamgpetronas",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "MercedesAMGF1_W11VB_2020_int2",
+        "ulid": "TEXT_UPGRADE_INTAKE03",
+        "upty": "INTAKE",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.01,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 3.426
+          },
+          {
+            "kfti": 1350.0,
+            "kfva": 4.498
+          },
+          {
+            "kfti": 2750.0,
+            "kfva": 5.775
+          },
+          {
+            "kfti": 4800.0,
+            "kfva": 5.705
+          },
+          {
+            "kfti": 6400.0,
+            "kfva": 5.44
+          }
+        ]
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_mercedesamgpetronas",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "MercedesAMGF1_W11VB_2020_nit2",
+        "ulid": "TEXT_UPGRADE_NITROUS03",
+        "upty": "NITROUS",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.01,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 25.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_mercedesamgpetronas",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "MercedesAMGF1_W11VB_2020_bod2",
+        "ulid": "TEXT_UPGRADE_BODY03",
+        "upty": "BODY",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 650.0,
+        "drcd": 0.0,
+        "wedi": -11.34,
+        "grdi": -12.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_mercedesamgpetronas",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "MercedesAMGF1_W11VB_2020_tir2",
+        "ulid": "TEXT_UPGRADE_TYRES03",
+        "upty": "TYRES",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.01,
+        "wedi": 0.0,
+        "grdi": 125.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    "AMOUNT",
+    {
+      "upma": "id_mercedesamgpetronas",
+      "upnn": "AMOUNT",
+      "upfb": true,
+      "upcu": {
+        "adid": "MercedesAMGF1_W11VB_2020_tra2",
         "ulid": "TEXT_UPGRADE_TRANS03",
         "upty": "TRANSMISSION",
         "uplv": 2,
         "tcmu": 0.0,
         "errd": 0.0,
-        "drcd": 0.0,
+        "drcd": -0.01,
         "wedi": 0.0,
         "grdi": 0.0,
         "gstd": -0.05,
@@ -480,4 +804,6 @@
         "erpm": 0
       }
     },
-    AMOUNT
+    "AMOUNT"
+  ]
+}

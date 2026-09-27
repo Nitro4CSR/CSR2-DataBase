@@ -1,5 +1,5 @@
 {
-      "unid": 7103,
+      "unid": 1716,
       "crdb": "Chevrolet_LBCamaroIROCZRewardRecycled_1987",
       "grsp": [
         2.48,
@@ -7,7 +7,9 @@
         1.0,
         0.75
       ],
-      "fidr": 3.5,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 1,
       "orpi": 1,
       "apiid": 252,
@@ -22,6 +24,8 @@
         "Chevrolet_LBCamaroIROCZRewardRecycled_1987_Wheel1D_3D"
       ],
       "opcn": "Chevrolet_LBCamaroIROCZRewardRecycled_1987_Wheel1D_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -508,9 +512,10 @@
         }
       ],
       "fpin": 2,
-      "cppi": 603,
-      "ttqm": 10.205,
-      "tthm": 16.066,
+      "cppi": 713,
+      "cepi": 2321,
+      "ttqm": 4.969,
+      "tthm": 7.289,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
@@ -521,8 +526,5 @@
       "caid": 233,
       "lzsid": 0,
       "livid": 1414,
-      "whbn": "Wheel1D_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1D_3D"
     }

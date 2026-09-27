@@ -10,7 +10,9 @@
         0.79,
         0.62
       ],
-      "fidr": 2.44,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2116,
       "oriid": 2116,
       "apcid": 7,
@@ -19,6 +21,8 @@
         "RUF_CTR3EVO_2023_Wheel1A_3D"
       ],
       "opcn": "RUF_CTR3EVO_2023_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -505,15 +509,13 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.421,
-      "tthm": 16.072,
+      "cppi": 713,
+      "cepi": 2567,
+      "ttqm": 4.672,
+      "tthm": 6.791,
       "ctie": "TIER_5",
       "csrc": "IAPSpecial",
       "nupl": {
         "cpf": false
-      },
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      }
     }

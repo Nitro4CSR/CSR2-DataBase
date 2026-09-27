@@ -1,0 +1,1 @@
+CSR.put("cars/max/lexus",{"Lexus_LC500TNR_2018":[{"c":"Infrared","f":"1.Cars/3.Elite Max/4.TNR/Lexus/Lexus LC500 (TNR)/Lexus LC500 (TNR) (Infrared).txt","i":"1.Cars/3.Elite Max/4.TNR/Lexus/Lexus LC500 (TNR)/Lexus LC500 (TNR) (Infrared).jpg"}]});

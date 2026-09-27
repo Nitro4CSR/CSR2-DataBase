@@ -1,0 +1,147 @@
+{
+      "unid": 2489,
+      "crdb": "Ferrari_SF90XXStradale_2024",
+      "grsp": [
+        3.455,
+        2.263,
+        1.654,
+        1.29,
+        1.029,
+        0.837,
+        0.674,
+        0.481
+      ],
+      "fidr": 3.7,
+      "apiid": 1647,
+      "oriid": 1647,
+      "aplid": 1232,
+      "orlid": 1232,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Ferrari_SF90XXStradale_2024_Wheel1A_3D"
+      ],
+      "opcn": "Ferrari_SF90XXStradale_2024_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 9.872,
+      "tthm": 16.057,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2207,
+      "inid": 1647,
+      "caid": 0,
+      "lzsid": 9,
+      "livid": 1232,
+      "whbn": "Wheel1A_3D"
+    }

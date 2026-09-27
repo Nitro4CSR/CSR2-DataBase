@@ -1,0 +1,149 @@
+{
+      "unid": 4485,
+      "crdb": "Mini_CooperS_2014",
+      "grsp": [
+        3.92,
+        2.14,
+        1.39,
+        1.09,
+        0.89,
+        0.76
+      ],
+      "fidr": 3.59,
+      "appi": 12,
+      "orpi": 12,
+      "apiid": 496,
+      "oriid": 496,
+      "apcid": 4,
+      "orcid": 4,
+      "aplid": 130,
+      "orlid": 130,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Mini_CooperS_2014_Wheel4B_3D"
+      ],
+      "opcn": "Mini_CooperS_2014_Wheel4B_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 1,
+      "cppi": 164,
+      "ttqm": 15.36,
+      "tthm": 24.072,
+      "ctie": "TIER_1",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 443,
+      "inid": 496,
+      "caid": 4,
+      "lzsid": 15,
+      "livid": 130,
+      "whbn": "Wheel4B_3D"
+    }

@@ -1,0 +1,145 @@
+{
+      "unid": 2491,
+      "crdb": "FnF_SupraMKIVF2_1994",
+      "grsp": [
+        3.83,
+        2.36,
+        1.69,
+        1.31,
+        1.0,
+        0.79
+      ],
+      "fidr": 3.47,
+      "apiid": 1854,
+      "oriid": 1854,
+      "aplid": 1299,
+      "orlid": 1299,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "FnF_SupraMKIVF2_1994_Wheel1A_3D"
+      ],
+      "opcn": "FnF_SupraMKIVF2_1994_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.339,
+      "tthm": 16.061,
+      "ctie": "TIER_5",
+      "csrc": "IAPSpecial",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2353,
+      "inid": 1854,
+      "caid": 0,
+      "lzsid": 9,
+      "livid": 1299,
+      "whbn": "Wheel1A_3D"
+    }

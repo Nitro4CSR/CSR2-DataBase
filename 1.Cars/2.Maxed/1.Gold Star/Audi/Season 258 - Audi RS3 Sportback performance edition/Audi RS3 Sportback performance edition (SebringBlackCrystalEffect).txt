@@ -1,5 +1,5 @@
 {
-      "unid": 7004,
+      "unid": 692,
       "crdb": "Audi_RS3SportbackRewardRecycled_2023",
       "grsp": [
         3.563,
@@ -10,7 +10,9 @@
         0.647,
         0.54
       ],
-      "fidr": 4.06,
+      "fidr": 2.54,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 3,
       "orpi": 3,
       "apiid": 1639,
@@ -23,6 +25,8 @@
         "Audi_RS3SportbackRewardRecycled_2023_Wheel1A_3D"
       ],
       "opcn": "Audi_RS3SportbackRewardRecycled_2023_Wheel1A_3D",
+      "msou": 1496200,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -509,9 +513,10 @@
         }
       ],
       "fpin": 2,
-      "cppi": 402,
-      "ttqm": 12.674,
-      "tthm": 20.013,
+      "cppi": 581,
+      "cepi": 1158,
+      "ttqm": 7.456,
+      "tthm": 11.586,
       "ctie": "TIER_3",
       "csrc": "Gacha",
       "nupl": {
@@ -522,8 +527,5 @@
       "caid": 191,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

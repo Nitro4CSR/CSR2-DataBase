@@ -1,0 +1,142 @@
+{
+      "unid": 4404,
+      "crdb": "MercedesAMG_GTSF8_2015",
+      "grsp": [
+        3.4,
+        2.19,
+        1.63,
+        1.29,
+        1.03,
+        0.84,
+        0.63
+      ],
+      "fidr": 2.79,
+      "apiid": 199,
+      "oriid": 199,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 254,
+      "orlid": 254,
+      "aplzsid": 0,
+      "orlzsid": 0,
+      "apcn": [
+        "MercedesAMG_GTSF8_2015_Wheel1A_3D"
+      ],
+      "opcn": "MercedesAMG_GTSF8_2015_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 504,
+      "ttqm": 11.595,
+      "tthm": 18.15,
+      "ctie": "TIER_4",
+      "csrc": "IAPSpecial",
+      "nupl": {
+        "cpf": false
+      }
+    }

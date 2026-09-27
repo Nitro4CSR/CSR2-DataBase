@@ -1,0 +1,146 @@
+{
+      "unid": 4494,
+      "crdb": "Mitsubishi_LancerEVOXTNR_2015",
+      "grsp": [
+        2.857,
+        1.95,
+        1.444,
+        1.096,
+        0.761
+      ],
+      "fidr": 4.69,
+      "apiid": 1000138,
+      "oriid": 1000138,
+      "apcid": 1000031,
+      "orcid": 1000031,
+      "aplid": 1000039,
+      "orlid": 1000039,
+      "aplzsid": 13,
+      "orlzsid": 13,
+      "apcn": [
+        "Mitsubishi_LancerEVOXTNR_2015_Wheel1A_Alpha"
+      ],
+      "opcn": "Mitsubishi_LancerEVOXTNR_2015_Wheel1A_Alpha",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 500,
+      "ttqm": 11.376,
+      "tthm": 18.246,
+      "ctie": "TIER_4",
+      "csrc": "GenericRewards",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1000120,
+      "inid": 1000138,
+      "caid": 1000031,
+      "lzsid": 13,
+      "livid": 1000039,
+      "whbn": "Wheel1A_Alpha"
+    }

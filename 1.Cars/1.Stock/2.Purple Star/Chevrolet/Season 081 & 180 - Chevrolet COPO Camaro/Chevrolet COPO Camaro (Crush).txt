@@ -1,0 +1,142 @@
+{
+      "unid": 1585,
+      "crdb": "Chevrolet_COPOCamaroReward_2019",
+      "grsp": [
+        2.48,
+        1.48,
+        1.0
+      ],
+      "fidr": 4.57,
+      "apiid": 252,
+      "oriid": 252,
+      "aplid": 474,
+      "orlid": 474,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Chevrolet_COPOCamaroReward_2019_Wheel1A_3D"
+      ],
+      "opcn": "Chevrolet_COPOCamaroReward_2019_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 602,
+      "ttqm": 9.995,
+      "tthm": 16.088,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1288,
+      "inid": 252,
+      "caid": 0,
+      "lzsid": 9,
+      "livid": 474,
+      "whbn": "Wheel1A_3D"
+    }

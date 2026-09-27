@@ -1,43 +1,46 @@
-,
+{
+  "cues": [
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "ENGINE",
       "esdb": "Porsche_RWB911Turbo_1991"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TURBO",
       "esdb": "Porsche_RWB911Turbo_1991"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "INTAKE",
       "esdb": "Porsche_RWB911Turbo_1991"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "NITROUS",
       "esdb": "Porsche_RWB911Turbo_1991"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "BODY",
       "esdb": "Porsche_RWB911Turbo_1991"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TYRES",
       "esdb": "Porsche_RWB911Turbo_1991"
     },
-    7,
+    "AMOUNT",
     {
-      "esnn": 0,
+      "esnn": "AMOUNT",
       "esut": "TRANSMISSION",
       "esdb": "Porsche_RWB911Turbo_1991"
     },
-    7
+    "AMOUNT"
+  ]
+}

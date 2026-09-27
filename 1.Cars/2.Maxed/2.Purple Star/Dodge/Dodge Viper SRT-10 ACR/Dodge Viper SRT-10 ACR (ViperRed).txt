@@ -1,5 +1,5 @@
 {
-      "unid": 7053,
+      "unid": 1927,
       "crdb": "Dodge_ViperACR_2009",
       "grsp": [
         2.66,
@@ -9,7 +9,9 @@
         0.74,
         0.5
       ],
-      "fidr": 2.99,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 388,
       "oriid": 388,
       "apcid": 3,
@@ -18,6 +20,8 @@
         "Dodge_ViperACR_2009_Wheel1A_3D"
       ],
       "opcn": "Dodge_ViperACR_2009_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -504,15 +508,13 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.551,
-      "tthm": 16.051,
+      "cppi": 713,
+      "cepi": 2409,
+      "ttqm": 5.023,
+      "tthm": 7.115,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      },
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      }
     }

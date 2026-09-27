@@ -1,5 +1,5 @@
 {
-      "unid": 7522,
+      "unid": 1452,
       "crdb": "Bugatti_LaVoitureNoire_2022",
       "grsp": [
         3.176,
@@ -10,7 +10,9 @@
         0.878,
         0.784
       ],
-      "fidr": 2.4,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1978,
       "oriid": 1978,
       "apcid": 57,
@@ -21,6 +23,8 @@
         "Bugatti_LaVoitureNoire_2022_Wheel1A_3D"
       ],
       "opcn": "Bugatti_LaVoitureNoire_2022_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -507,9 +511,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 609,
-      "ttqm": 10.095,
-      "tthm": 15.872,
+      "cppi": 715,
+      "cepi": 2468,
+      "ttqm": 4.347,
+      "tthm": 6.854,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -520,8 +525,5 @@
       "caid": 57,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

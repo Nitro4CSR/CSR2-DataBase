@@ -1,5 +1,5 @@
 {
-      "unid": 7030,
+      "unid": 2065,
       "crdb": "Ferrari_296SpecialeA_2026",
       "grsp": [
         5.074,
@@ -11,7 +11,9 @@
         0.991,
         0.706
       ],
-      "fidr": 4.51,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 88,
       "oriid": 88,
       "apcid": 11,
@@ -20,6 +22,8 @@
         "Ferrari_296SpecialeA_2026_Wheel1A_3D"
       ],
       "opcn": "Ferrari_296SpecialeA_2026_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -506,9 +510,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.315,
-      "tthm": 16.058,
+      "cppi": 713,
+      "cepi": 2395,
+      "ttqm": 4.883,
+      "tthm": 7.098,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -519,8 +524,5 @@
       "caid": 11,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

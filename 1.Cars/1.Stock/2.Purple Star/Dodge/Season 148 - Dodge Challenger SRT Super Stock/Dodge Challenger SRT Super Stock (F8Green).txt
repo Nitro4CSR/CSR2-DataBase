@@ -1,0 +1,149 @@
+{
+      "unid": 1839,
+      "crdb": "Dodge_ChallengerSRTSuperStockReward_2021",
+      "grsp": [
+        4.71,
+        3.14,
+        2.1,
+        1.67,
+        1.29,
+        1.0,
+        0.84,
+        0.67
+      ],
+      "fidr": 3.09,
+      "apiid": 255,
+      "oriid": 255,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 1130,
+      "orlid": 1130,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Dodge_ChallengerSRTSuperStockReward_2021_Wheel1A_3D"
+      ],
+      "opcn": "Dodge_ChallengerSRTSuperStockReward_2021_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 608,
+      "ttqm": 10.421,
+      "tthm": 15.889,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1652,
+      "inid": 255,
+      "caid": 3,
+      "lzsid": 9,
+      "livid": 1130,
+      "whbn": "Wheel1A_3D"
+    }

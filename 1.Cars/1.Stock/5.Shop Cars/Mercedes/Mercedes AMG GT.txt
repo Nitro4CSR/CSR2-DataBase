@@ -1,0 +1,140 @@
+{
+      "unid": 4366,
+      "crdb": "MercedesAMG_GT_2015",
+      "grsp": [
+        3.4,
+        2.19,
+        1.63,
+        1.29,
+        1.03,
+        0.84,
+        0.63
+      ],
+      "fidr": 2.79,
+      "appi": 6,
+      "orpi": 6,
+      "apiid": 199,
+      "oriid": 199,
+      "apcid": 28,
+      "orcid": 28,
+      "apcn": [
+        "MercedesAMG_GT_2015_Wheel1A_3D"
+      ],
+      "opcn": "MercedesAMG_GT_2015_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 511,
+      "ttqm": 11.406,
+      "tthm": 18.008,
+      "ctie": "TIER_4",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      }
+    }

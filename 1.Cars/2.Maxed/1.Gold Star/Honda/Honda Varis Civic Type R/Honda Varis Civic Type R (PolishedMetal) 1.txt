@@ -1,7 +1,6 @@
 {
-      "unid": 59,
+      "unid": 2851,
       "crdb": "Honda_CivicTypeRVaris_2017",
-      "awar": false,
       "grsp": [
         3.625,
         2.115,
@@ -10,72 +9,36 @@
         0.911,
         0.735
       ],
-      "fidr": 4.11,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 3.15,
+      "nlpr": 1.0,
+      "ttpp": 0.07,
       "appi": 2,
       "orpi": 2,
       "apiid": 758,
       "oriid": 758,
       "apcid": 3,
       "orcid": 3,
-      "apnid": -2147483648,
-      "apnzid": -2147483648,
-      "apncf": -2147483648,
-      "apncb": -2147483648,
-      "apfid": -2147483648,
-      "apcns": 0,
-      "appns": 0,
-      "apnpid": -2147483648,
-      "opnid": -2147483648,
-      "opnzid": -2147483648,
-      "opncf": -2147483648,
-      "opncb": -2147483648,
-      "opfid": -2147483648,
-      "opcns": 0,
-      "oppns": 0,
-      "opnpid": -2147483648,
       "aplid": 626,
       "orlid": 626,
       "aplzsid": 0,
       "orlzsid": 0,
-      "apln": "",
       "apcn": [
-        "Honda_CivicTypeRVaris_2017_Wheel1B_3D"
+        "Honda_CivicTypeRVaris_2017_Wheel1C_3D"
       ],
-      "opcn": "Honda_CivicTypeRVaris_2017_Wheel1B_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
+      "opcn": "Honda_CivicTypeRVaris_2017_Wheel1C_3D",
       "msou": 1496200,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
           "lvlf": 6,
           "lvls": [
             {
+              "ulpf": true
+            },
+            {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
-              "fsg": [
                 1,
                 1,
                 0,
@@ -84,7 +47,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -94,7 +57,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -104,17 +67,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -124,7 +77,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -140,9 +103,12 @@
           "lvlf": 6,
           "lvls": [
             {
+              "ulpf": true
+            },
+            {
               "ulpf": true,
               "fsg": [
-                0,
+                1,
                 0,
                 0,
                 0,
@@ -150,7 +116,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -160,17 +126,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -180,17 +136,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
-                2,
+                0,
                 0,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -200,7 +156,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -216,9 +172,12 @@
           "lvlf": 6,
           "lvls": [
             {
+              "ulpf": true
+            },
+            {
               "ulpf": true,
               "fsg": [
-                0,
+                1,
                 0,
                 0,
                 0,
@@ -226,7 +185,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -236,17 +195,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -256,7 +205,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -266,17 +215,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -292,18 +241,11 @@
           "lvlf": 6,
           "lvls": [
             {
+              "ulpf": true
+            },
+            {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
-              "fsg": [
                 1,
                 1,
                 0,
@@ -312,7 +254,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -322,7 +264,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -332,7 +274,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -342,17 +284,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
-                2,
+                0,
                 0,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -368,9 +310,12 @@
           "lvlf": 6,
           "lvls": [
             {
+              "ulpf": true
+            },
+            {
               "ulpf": true,
               "fsg": [
-                0,
+                1,
                 0,
                 0,
                 0,
@@ -378,7 +323,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -388,7 +333,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -398,7 +343,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -408,17 +353,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -428,7 +363,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -444,9 +379,12 @@
           "lvlf": 6,
           "lvls": [
             {
+              "ulpf": true
+            },
+            {
               "ulpf": true,
               "fsg": [
-                0,
+                1,
                 0,
                 0,
                 0,
@@ -454,7 +392,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -464,17 +402,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -484,7 +412,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -494,17 +422,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
-                2,
+                0,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -520,9 +448,12 @@
           "lvlf": 6,
           "lvls": [
             {
+              "ulpf": true
+            },
+            {
               "ulpf": true,
               "fsg": [
-                0,
+                1,
                 0,
                 0,
                 0,
@@ -530,7 +461,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -540,17 +471,7 @@
               ]
             },
             {
-              "ulpf": false,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -560,7 +481,7 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -570,17 +491,17 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 1,
-                2,
+                0,
                 0,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -593,68 +514,20 @@
         }
       ],
       "fpin": 2,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 1,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": true,
-      "pncu": true,
-      "cncu": true,
-      "cppi": 402,
-      "cepi": 0,
-      "tdut": 12.673,
-      "tdtt": 12.673,
-      "ttqm": 12.673,
-      "tthm": 20.179,
-      "tt60": 3.85,
-      "tt1h": 10.418,
-      "spqm": 111.537,
-      "sphm": 130.007,
+      "cppi": 581,
+      "cepi": 1008,
+      "ttqm": 7.827,
+      "tthm": 12.189,
       "ctie": "TIER_3",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
       "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 716,
-      "wpid": 2147483647,
       "inid": 758,
       "caid": 3,
       "lzsid": 0,
       "livid": 626,
-      "whbn": "Wheel1B_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 50,
-      "isra": false
+      "whbn": "Wheel1C_3D"
     }

@@ -1,10 +1,12 @@
 {
-      "unid": 7171,
+      "unid": 105,
       "crdb": "Aspark_OwlSP600_2024",
       "grsp": [
         1.0
       ],
-      "fidr": 4.96,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1731,
       "oriid": 1731,
       "apcid": 5,
@@ -17,6 +19,8 @@
         "Aspark_OwlSP600_2024_Wheel1A_3D"
       ],
       "opcn": "Aspark_OwlSP600_2024_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -503,15 +507,13 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.78,
-      "tthm": 16.075,
+      "cppi": 713,
+      "cepi": 2609,
+      "ttqm": 4.28,
+      "tthm": 6.684,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      },
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      }
     }

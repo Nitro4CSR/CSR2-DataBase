@@ -33,8 +33,8 @@ id_ginetta
 id_gtamotor
 id_hennessey
 id_honda
-id_hyundai
 id_hyperion
+id_hyundai
 id_indycar
 id_infiniti
 id_italdesign
@@ -64,7 +64,6 @@ id_nissan
 id_noble
 id_pagani
 id_pininfarina
-id_placeholder
 id_plymouth
 id_pontiac
 id_porsche

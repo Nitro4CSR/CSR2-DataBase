@@ -1,0 +1,139 @@
+{
+      "unid": 1952,
+      "crdb": "Dodge_ViperGTS_2015",
+      "grsp": [
+        2.26,
+        1.58,
+        1.19,
+        1.0,
+        0.77,
+        0.5
+      ],
+      "fidr": 3.81,
+      "appi": 6,
+      "orpi": 6,
+      "apiid": 261,
+      "oriid": 261,
+      "apcid": 3,
+      "orcid": 3,
+      "apcn": [
+        "Dodge_ViperGTS_2015_Wheel1A_3D"
+      ],
+      "opcn": "Dodge_ViperGTS_2015_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 500,
+      "ttqm": 11.406,
+      "tthm": 18.246,
+      "ctie": "TIER_4",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      }
+    }

@@ -1,0 +1,149 @@
+{
+      "unid": 4127,
+      "crdb": "McLaren_ArturaRewardRecycled_2022",
+      "grsp": [
+        4.2,
+        2.9,
+        2.103,
+        1.61,
+        1.32,
+        1.1,
+        1.05,
+        0.99
+      ],
+      "fidr": 3.3,
+      "appi": 4,
+      "orpi": 4,
+      "apiid": 1373,
+      "oriid": 1373,
+      "apcid": 66,
+      "orcid": 66,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "McLaren_ArturaRewardRecycled_2022_Wheel2C_3D"
+      ],
+      "opcn": "McLaren_ArturaRewardRecycled_2022_Wheel2C_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 10.093,
+      "tthm": 16.07,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 283,
+      "inid": 1373,
+      "caid": 66,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel2C_3D"
+    }

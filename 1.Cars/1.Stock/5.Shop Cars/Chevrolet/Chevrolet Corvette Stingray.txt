@@ -1,0 +1,138 @@
+{
+      "unid": 1643,
+      "crdb": "Chevrolet_CorvetteStingray_2015",
+      "grsp": [
+        2.97,
+        2.07,
+        1.43,
+        1.0,
+        0.71,
+        0.57,
+        0.48
+      ],
+      "fidr": 3.42,
+      "appi": 6,
+      "orpi": 6,
+      "apiid": 222,
+      "oriid": 222,
+      "apcn": [
+        "Chevrolet_CorvetteStingray_2015_Wheel1A_3D"
+      ],
+      "opcn": "Chevrolet_CorvetteStingray_2015_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 403,
+      "ttqm": 12.66,
+      "tthm": 20.035,
+      "ctie": "TIER_3",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      }
+    }

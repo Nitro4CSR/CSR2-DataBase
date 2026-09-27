@@ -1,5 +1,5 @@
 {
-      "unid": 8001,
+      "unid": 94,
       "crdb": "Apollo_S_2008",
       "grsp": [
         2.87,
@@ -9,13 +9,17 @@
         0.83,
         0.71
       ],
-      "fidr": 2.88,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1840,
       "oriid": 1840,
       "apcn": [
         "Apollo_S_2008_Wheel1A_3D"
       ],
       "opcn": "Apollo_S_2008_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -502,21 +506,13 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.335,
-      "tthm": 16.048,
+      "cppi": 713,
+      "cepi": 2677,
+      "ttqm": 4.223,
+      "tthm": 6.583,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      },
-      "paid": 2685,
-      "inid": 1840,
-      "caid": 0,
-      "lzsid": -2147483648,
-      "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      }
     }

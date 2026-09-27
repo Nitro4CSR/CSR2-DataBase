@@ -1,5 +1,5 @@
 {
-      "unid": 7032,
+      "unid": 4344,
       "crdb": "MercedesAMG_CLE53CoupeReward_2024",
       "grsp": [
         5.35,
@@ -12,7 +12,9 @@
         0.71,
         0.58
       ],
-      "fidr": 3.58,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 1,
       "orpi": 1,
       "apiid": 2027,
@@ -23,6 +25,8 @@
         "MercedesAMG_CLE53CoupeReward_2024_Wheel1A_3D"
       ],
       "opcn": "MercedesAMG_CLE53CoupeReward_2024_Wheel1A_3D",
+      "msou": 3009000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -509,9 +513,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 500,
-      "ttqm": 11.431,
-      "tthm": 18.245,
+      "cppi": 673,
+      "cepi": 1704,
+      "ttqm": 6.672,
+      "tthm": 10.296,
       "ctie": "TIER_4",
       "csrc": "Prize",
       "nupl": {
@@ -522,8 +527,5 @@
       "caid": 3,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 3009000
+      "whbn": "Wheel1A_3D"
     }

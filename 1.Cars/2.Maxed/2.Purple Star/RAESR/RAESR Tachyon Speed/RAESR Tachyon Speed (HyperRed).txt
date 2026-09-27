@@ -1,10 +1,12 @@
 {
-      "unid": 7029,
+      "unid": 5555,
       "crdb": "RAESR_TachyonSpeed_2024",
       "grsp": [
         1.0
       ],
-      "fidr": 4.11,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1956,
       "oriid": 1956,
       "apcid": 3,
@@ -15,6 +17,8 @@
         "RAESR_TachyonSpeed_2024_Wheel1A_3D"
       ],
       "opcn": "RAESR_TachyonSpeed_2024_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -501,9 +505,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.962,
-      "tthm": 16.048,
+      "cppi": 713,
+      "cepi": 2601,
+      "ttqm": 4.089,
+      "tthm": 6.733,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -514,8 +519,5 @@
       "caid": 3,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

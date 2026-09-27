@@ -1,5 +1,5 @@
 {
-      "unid": 7126,
+      "unid": 1770,
       "crdb": "Chevrolet_TimmBuiltElCamino_1978",
       "grsp": [
         2.66,
@@ -9,7 +9,9 @@
         0.74,
         0.5
       ],
-      "fidr": 2.88,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2073,
       "oriid": 2073,
       "aplzsid": -1,
@@ -18,6 +20,8 @@
         "Chevrolet_TimmBuiltElCamino_1978_Wheel1A_3D"
       ],
       "opcn": "Chevrolet_TimmBuiltElCamino_1978_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -504,11 +508,12 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.307,
-      "tthm": 16.059,
+      "cppi": 713,
+      "cepi": 2607,
+      "ttqm": 4.548,
+      "tthm": 6.723,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "Prize",
       "nupl": {
         "cpf": false
       },
@@ -517,8 +522,5 @@
       "caid": 0,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

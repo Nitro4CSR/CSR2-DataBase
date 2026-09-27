@@ -1,0 +1,43 @@
+,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_NapalmNova_1972"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_NapalmNova_1972"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_NapalmNova_1972"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_NapalmNova_1972"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_NapalmNova_1972"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_NapalmNova_1972"
+    },
+    7,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_NapalmNova_1972"
+    },
+    7

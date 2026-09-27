@@ -1,7 +1,6 @@
 {
-      "unid": 7025,
+      "unid": 4153,
       "crdb": "McLaren_ArturaSpiderRewardRecycled_2024",
-      "awar": false,
       "grsp": [
         4.2,
         2.9,
@@ -12,42 +11,23 @@
         1.05,
         0.99
       ],
-      "fidr": 3.3,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 16,
       "orpi": 16,
       "apiid": 1409,
       "oriid": 1409,
       "apcid": 85,
       "orcid": 85,
-      "apcns": 0,
-      "appns": 0,
-      "opcns": 0,
-      "oppns": 0,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
       "aplzsid": -1,
       "orlzsid": -1,
-      "apln": "",
       "apcn": [
         "McLaren_ArturaSpiderRewardRecycled_2024_Wheel1C_3D"
       ],
       "opcn": "McLaren_ArturaSpiderRewardRecycled_2024_Wheel1C_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
       "msou": 5979000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
@@ -534,67 +514,20 @@
         }
       ],
       "fpin": 2,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 603,
-      "cepi": 0,
-      "tdut": 16.07,
-      "tdtt": 16.07,
-      "ttqm": 10.093,
-      "tthm": 16.07,
-      "tt60": 2.495,
-      "tt1h": 4.982,
-      "spqm": 138.754,
-      "sphm": 159.208,
+      "cppi": 713,
+      "cepi": 1944,
+      "ttqm": 5.495,
+      "tthm": 8.045,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
       "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 755,
       "inid": 1409,
       "caid": 85,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1C_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "whbn": "Wheel1C_3D"
     }

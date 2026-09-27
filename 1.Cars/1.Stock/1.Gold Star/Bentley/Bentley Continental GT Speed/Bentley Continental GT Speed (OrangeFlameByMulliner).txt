@@ -1,0 +1,151 @@
+{
+      "unid": 1022,
+      "crdb": "Bentley_ContinentalGTSpeed_2016",
+      "grsp": [
+        4.714,
+        3.143,
+        2.106,
+        1.667,
+        1.285,
+        1.0,
+        0.839,
+        0.67
+      ],
+      "fidr": 3.5,
+      "appi": 4,
+      "orpi": 4,
+      "apiid": 613,
+      "oriid": 613,
+      "apcid": 5,
+      "orcid": 5,
+      "aplid": 217,
+      "orlid": 217,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Bentley_ContinentalGTSpeed_2016_Wheel1A_3D"
+      ],
+      "opcn": "Bentley_ContinentalGTSpeed_2016_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 1,
+      "cppi": 605,
+      "ttqm": 9.992,
+      "tthm": 15.976,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 526,
+      "inid": 613,
+      "caid": 5,
+      "lzsid": 9,
+      "livid": 217,
+      "whbn": "Wheel1A_3D"
+    }

@@ -1,5 +1,5 @@
 {
-      "unid": 7123,
+      "unid": 2157,
       "crdb": "Ferrari_599XXRewardRecycled_2010",
       "grsp": [
         3.154,
@@ -9,7 +9,9 @@
         0.935,
         0.76
       ],
-      "fidr": 4.18,
+      "fidr": 2.33,
+      "nlpr": 1.0,
+      "ttpp": 0.53,
       "appi": 6,
       "orpi": 6,
       "apiid": 128,
@@ -22,6 +24,8 @@
         "Ferrari_599XXRewardRecycled_2010_Wheel1A_3D"
       ],
       "opcn": "Ferrari_599XXRewardRecycled_2010_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -508,9 +512,10 @@
         }
       ],
       "fpin": 2,
-      "cppi": 603,
-      "ttqm": 10.47,
-      "tthm": 16.057,
+      "cppi": 713,
+      "cepi": 2107,
+      "ttqm": 5.261,
+      "tthm": 7.67,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
@@ -521,8 +526,5 @@
       "caid": 10,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

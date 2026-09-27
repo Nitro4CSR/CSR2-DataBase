@@ -1,0 +1,146 @@
+{
+      "unid": 4416,
+      "crdb": "MercedesAMGF1_W11_2020",
+      "grsp": [
+        6.5,
+        5.0,
+        3.6,
+        2.956,
+        2.522,
+        2.25,
+        1.94
+      ],
+      "fidr": 3.0,
+      "apiid": 1370,
+      "oriid": 1370,
+      "aplid": 1110,
+      "orlid": 1110,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "MercedesAMGF1_W11_2020_Wheel1A_3D"
+      ],
+      "opcn": "MercedesAMGF1_W11_2020_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.053,
+      "tthm": 16.064,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1848,
+      "inid": 1370,
+      "caid": 0,
+      "lzsid": 9,
+      "livid": 1110,
+      "whbn": "Wheel1A_3D"
+    }

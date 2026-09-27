@@ -1,5 +1,5 @@
 {
-      "unid": 7523,
+      "unid": 1783,
       "crdb": "DeTomaso_P900_2022",
       "grsp": [
         3.167,
@@ -9,7 +9,9 @@
         1.261,
         1.13
       ],
-      "fidr": 2.88,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 2016,
       "oriid": 2016,
       "apcid": 5,
@@ -22,6 +24,8 @@
         "DeTomaso_P900_2022_Wheel1A_3D"
       ],
       "opcn": "DeTomaso_P900_2022_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -508,9 +512,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.299,
-      "tthm": 16.072,
+      "cppi": 713,
+      "cepi": 2622,
+      "ttqm": 3.903,
+      "tthm": 6.644,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -521,8 +526,5 @@
       "caid": 5,
       "lzsid": 9,
       "livid": 1390,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

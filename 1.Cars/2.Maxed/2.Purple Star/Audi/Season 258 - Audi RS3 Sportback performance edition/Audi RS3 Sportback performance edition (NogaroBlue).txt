@@ -1,5 +1,5 @@
 {
-      "unid": 7005,
+      "unid": 688,
       "crdb": "Audi_RS3SportbackReward_2023",
       "grsp": [
         3.563,
@@ -10,7 +10,9 @@
         0.647,
         0.54
       ],
-      "fidr": 4.06,
+      "fidr": 2.62,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1639,
       "oriid": 1639,
       "apcid": 294,
@@ -19,6 +21,8 @@
         "Audi_RS3SportbackReward_2023_Wheel1A_3D"
       ],
       "opcn": "Audi_RS3SportbackReward_2023_Wheel1A_3D",
+      "msou": 1496200,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -78,6 +82,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -146,6 +151,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -214,6 +220,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -282,6 +289,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -350,6 +358,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 2,
                 2,
@@ -418,6 +427,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -486,6 +496,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 2,
                 3,
@@ -498,9 +509,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 402,
-      "ttqm": 12.674,
-      "tthm": 20.013,
+      "cppi": 581,
+      "cepi": 1178,
+      "ttqm": 7.404,
+      "tthm": 11.517,
       "ctie": "TIER_3",
       "csrc": "Prize",
       "nupl": {
@@ -511,8 +523,5 @@
       "caid": 294,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

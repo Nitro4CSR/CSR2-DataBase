@@ -1,0 +1,149 @@
+{
+      "unid": 5722,
+      "crdb": "Toyota_GRSupra_2020",
+      "grsp": [
+        5.25,
+        3.36,
+        2.172,
+        1.72,
+        1.316,
+        1.0,
+        0.822,
+        0.64
+      ],
+      "fidr": 3.15,
+      "apiid": 970,
+      "oriid": 970,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 135,
+      "orlid": 135,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Toyota_GRSupra_2020_Wheel1A_3D"
+      ],
+      "opcn": "Toyota_GRSupra_2020_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 401,
+      "ttqm": 12.681,
+      "tthm": 19.762,
+      "ctie": "TIER_3",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1303,
+      "inid": 970,
+      "caid": 3,
+      "lzsid": 9,
+      "livid": 135,
+      "whbn": "Wheel1A_3D"
+    }

@@ -1,7 +1,6 @@
 {
-      "unid": 6288,
+      "unid": 1056,
       "crdb": "Bentley_MullinerBaturReward_2023",
-      "awar": false,
       "grsp": [
         5.966,
         3.235,
@@ -12,42 +11,21 @@
         0.678,
         0.534
       ],
-      "fidr": 3.15,
-      "nlpr": 0.5,
-      "tafr": 0.5,
-      "titp": 0.5,
-      "trld": 0.0,
-      "tssp": 0.5,
-      "tssr": 0.5,
-      "ttup": 0.5,
-      "ttpp": 0.5,
-      "appi": 0,
-      "orpi": 0,
+      "fidr": 2.24,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1661,
       "oriid": 1661,
-      "apcid": 0,
-      "orcid": 0,
-      "apcns": 0,
-      "appns": 0,
-      "opcns": 0,
-      "oppns": 0,
       "aplid": 1234,
       "orlid": 1234,
       "aplzsid": 6,
       "orlzsid": 6,
-      "apln": "",
       "apcn": [
         "Bentley_MullinerBaturReward_2023_Wheel1A_3D"
       ],
       "opcn": "Bentley_MullinerBaturReward_2023_Wheel1A_3D",
-      "bqmt": 0.0,
-      "bhmt": 0.0,
-      "ditr": 0.0,
-      "rcat": 0,
-      "rwon": 0,
       "msou": 5979000,
       "nuub": 35,
-      "ccna": 0,
       "upst": [
         {
           "lvlo": 6,
@@ -534,67 +512,20 @@
         }
       ],
       "fpin": 3,
-      "rpst": [
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        },
-        {
-          "rvlo": 0,
-          "rvlf": 0
-        }
-      ],
-      "tscs": {
-        "BODYKIT": 0,
-        "WHEELS": 0,
-        "WING": 0,
-        "BOOST_COLOR": 0,
-        "HOOD": 0,
-        "RIMS": 0,
-        "TIRE": 0
-      },
-      "fpul": 0,
-      "rsup": 0,
-      "rpbb": 0,
-      "rncu": false,
-      "fcu": false,
-      "pncu": false,
-      "cncu": false,
-      "cppi": 603,
-      "cepi": 0,
-      "tdut": 16.07,
-      "tdtt": 16.07,
-      "ttqm": 10.028,
-      "tthm": 16.07,
-      "tt60": 2.439,
-      "tt1h": 5.098,
-      "spqm": 136.862,
-      "sphm": 157.861,
+      "cppi": 713,
+      "cepi": 2152,
+      "ttqm": 4.934,
+      "tthm": 7.619,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
-        "txt": "",
         "cpf": false
       },
       "esup": true,
-      "elcl": 0,
-      "gacp": false,
       "paid": 2215,
       "inid": 1661,
       "caid": 0,
       "lzsid": 6,
       "livid": 1234,
-      "whbn": "Wheel1A_3D",
-      "tlad": 0.0,
-      "need": false,
-      "cmlv": 0,
-      "isra": false
+      "whbn": "Wheel1A_3D"
     }

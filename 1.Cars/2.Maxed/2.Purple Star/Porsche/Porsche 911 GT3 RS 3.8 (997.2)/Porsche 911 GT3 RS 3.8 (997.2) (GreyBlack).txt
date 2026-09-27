@@ -1,5 +1,5 @@
 {
-      "unid": 8003,
+      "unid": 5182,
       "crdb": "Porsche_911GT3RS997_2012",
       "grsp": [
         3.82,
@@ -9,7 +9,9 @@
         1.06,
         0.92
       ],
-      "fidr": 2.33,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 940,
       "oriid": 940,
       "apcid": 3,
@@ -18,6 +20,8 @@
         "Porsche_911GT3RS997_2012_Wheel1A_3D"
       ],
       "opcn": "Porsche_911GT3RS997_2012_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -504,9 +508,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 603,
-      "ttqm": 10.491,
-      "tthm": 16.055,
+      "cppi": 713,
+      "cepi": 2419,
+      "ttqm": 4.675,
+      "tthm": 7.082,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -517,8 +522,5 @@
       "caid": 3,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

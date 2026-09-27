@@ -1,5 +1,5 @@
 {
-      "unid": 7031,
+      "unid": 4345,
       "crdb": "MercedesAMG_CLE53CoupeRewardRecycled_2024",
       "grsp": [
         5.35,
@@ -12,7 +12,9 @@
         0.71,
         0.58
       ],
-      "fidr": 3.58,
+      "fidr": 2.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "appi": 8,
       "orpi": 8,
       "apiid": 2028,
@@ -25,6 +27,8 @@
         "MercedesAMG_CLE53CoupeRewardRecycled_2024_Wheel1A_3D"
       ],
       "opcn": "MercedesAMG_CLE53CoupeRewardRecycled_2024_Wheel1A_3D",
+      "msou": 3009000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -511,9 +515,10 @@
         }
       ],
       "fpin": 2,
-      "cppi": 500,
-      "ttqm": 11.431,
-      "tthm": 18.245,
+      "cppi": 673,
+      "cepi": 1679,
+      "ttqm": 6.695,
+      "tthm": 10.346,
       "ctie": "TIER_4",
       "csrc": "Gacha",
       "nupl": {
@@ -524,8 +529,5 @@
       "caid": 4,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 3009000
+      "whbn": "Wheel1A_3D"
     }

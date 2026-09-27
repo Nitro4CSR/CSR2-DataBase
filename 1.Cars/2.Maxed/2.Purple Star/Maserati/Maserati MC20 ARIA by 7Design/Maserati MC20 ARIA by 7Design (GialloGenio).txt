@@ -1,5 +1,5 @@
 {
-      "unid": 7015,
+      "unid": 3859,
       "crdb": "Maserati_7DesignMC20VIP_2021",
       "grsp": [
         2.905,
@@ -11,7 +11,9 @@
         0.397,
         0.329
       ],
-      "fidr": 4.8,
+      "fidr": 5.0,
+      "nlpr": 1.0,
+      "ttpp": 0.0,
       "apiid": 1922,
       "oriid": 1922,
       "apcid": 150,
@@ -22,6 +24,8 @@
         "Maserati_7DesignMC20VIP_2021_Wheel1A_3D"
       ],
       "opcn": "Maserati_7DesignMC20VIP_2021_Wheel1A_3D",
+      "msou": 5979000,
+      "nuub": 35,
       "upst": [
         {
           "lvlo": 6,
@@ -508,9 +512,10 @@
         }
       ],
       "fpin": 3,
-      "cppi": 604,
-      "ttqm": 10.631,
-      "tthm": 16.041,
+      "cppi": 713,
+      "cepi": 2283,
+      "ttqm": 5.049,
+      "tthm": 7.347,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -521,8 +526,5 @@
       "caid": 150,
       "lzsid": -1,
       "livid": -2147483648,
-      "whbn": "Wheel1A_3D",
-      "esup": true,
-      "nuub": 35,
-      "msou": 5979000
+      "whbn": "Wheel1A_3D"
     }

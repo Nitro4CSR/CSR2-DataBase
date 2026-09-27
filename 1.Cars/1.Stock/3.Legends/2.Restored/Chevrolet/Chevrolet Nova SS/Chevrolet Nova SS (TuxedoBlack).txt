@@ -1,5 +1,5 @@
 {
-      "unid": 7502,
+      "unid": 1745,
       "crdb": "Chevrolet_NovaSSLPClassic_1970",
       "grsp": [
         2.44,
@@ -22,6 +22,8 @@
       "opcn": "Chevrolet_NovaSSLPClassic_1970_Wheel1A_3D",
       "upst": [
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -35,6 +37,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -48,6 +52,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -61,6 +67,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -74,6 +82,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -87,6 +97,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -100,6 +112,8 @@
           ]
         },
         {
+          "lvlo": 0,
+          "lvlf": 0,
           "lvls": [
             {
               "ulpf": true
@@ -136,7 +150,7 @@
       "ttqm": 10.613,
       "tthm": 16.052,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "ShopCash",
       "nupl": {
         "cpf": false
       },

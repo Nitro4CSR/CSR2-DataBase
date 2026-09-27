@@ -1,0 +1,145 @@
+{
+      "unid": 1092,
+      "crdb": "BMW_ACSchnitzerM2Coupe_2016",
+      "grsp": [
+        4.11,
+        2.32,
+        1.54,
+        1.18,
+        1.029,
+        0.85
+      ],
+      "fidr": 3.46,
+      "appi": 1,
+      "orpi": 1,
+      "apiid": 220,
+      "oriid": 220,
+      "apcid": 29,
+      "orcid": 29,
+      "apcn": [
+        "BMW_ACSchnitzerM2Coupe_2016_Wheel1B_3D"
+      ],
+      "opcn": "BMW_ACSchnitzerM2Coupe_2016_Wheel1B_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 403,
+      "ttqm": 12.662,
+      "tthm": 19.671,
+      "ctie": "TIER_3",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 10,
+      "inid": 220,
+      "caid": 29,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1B_3D"
+    }

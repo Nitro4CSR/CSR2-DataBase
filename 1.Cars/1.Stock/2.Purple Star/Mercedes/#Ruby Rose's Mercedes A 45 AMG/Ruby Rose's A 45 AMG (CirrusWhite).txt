@@ -1,0 +1,150 @@
+{
+      "unid": 4421,
+      "crdb": "MercedesBenz_A45AMGElite_2014",
+      "grsp": [
+        3.86,
+        2.43,
+        1.54,
+        1.05,
+        0.78,
+        0.61,
+        0.48
+      ],
+      "fidr": 4.13,
+      "appi": 1,
+      "orpi": 1,
+      "apiid": 254,
+      "oriid": 254,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 248,
+      "orlid": 248,
+      "aplzsid": 2,
+      "orlzsid": 2,
+      "apcn": [
+        "MercedesBenz_A45AMGElite_2014_Wheel1A_3D"
+      ],
+      "opcn": "MercedesBenz_A45AMGElite_2014_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 307,
+      "ttqm": 13.903,
+      "tthm": 21.877,
+      "ctie": "TIER_2",
+      "csrc": "High_Stakes",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 139,
+      "inid": 254,
+      "caid": 3,
+      "lzsid": 2,
+      "livid": 248,
+      "whbn": "Wheel1A_3D"
+    }

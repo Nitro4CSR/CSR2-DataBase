@@ -1,0 +1,147 @@
+{
+      "unid": 4955,
+      "crdb": "Pagani_ZondaCinqueRoadsterReward_2010",
+      "grsp": [
+        2.88,
+        1.77,
+        1.27,
+        1.0,
+        0.83,
+        0.71
+      ],
+      "fidr": 3.77,
+      "apiid": 1454,
+      "oriid": 1454,
+      "apcid": 232,
+      "orcid": 232,
+      "aplid": 1168,
+      "orlid": 1168,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Pagani_ZondaCinqueRoadsterReward_2010_Wheel1A_3D"
+      ],
+      "opcn": "Pagani_ZondaCinqueRoadsterReward_2010_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.246,
+      "tthm": 16.058,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1970,
+      "inid": 1454,
+      "caid": 232,
+      "lzsid": 9,
+      "livid": 1168,
+      "whbn": "Wheel1A_3D"
+    }
