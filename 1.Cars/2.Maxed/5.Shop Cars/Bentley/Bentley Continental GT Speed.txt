@@ -520,6 +520,5 @@
       "csrc": "ShopGold",
       "nupl": {
         "cpf": false
-      },
-      "esup": true
+      }
     }

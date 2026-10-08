@@ -16,8 +16,8 @@
       "orcid": 9,
       "aplid": 1308,
       "orlid": 1308,
-      "aplzsid": 7,
-      "orlzsid": 7,
+      "aplzsid": 15,
+      "orlzsid": 15,
       "apcn": [
         "Shelby_CobraDaytonaLP_1964_Wheel1A_3D"
       ],
@@ -519,6 +519,7 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "paid": 2399,
       "inid": 954,
       "caid": 9,

@@ -183,6 +183,7 @@ BMW_M2G87MPerformance_2023;6;CarVisualsData
 BMW_M2G87TNR_2023;1000135;CarVisualsData
 BMW_M3CSTouringReward_2025;2554;CarVisualsData
 BMW_M3CSTouringRewardRecycled_2025;2555;CarVisualsData
+BMW_M3E46GTR_2005;2769;CarVisualsData
 BMW_M3E92CoupeGTSElite_2011;855;CarVisualsData
 BMW_M3E92CoupeGTSReward_2011;609;CarVisualsData
 BMW_M3E92CoupeGTSRewardRecycled_2011;669;CarVisualsData
@@ -366,6 +367,8 @@ Czinger_21CGold_2021;2344;CarVisualsData
 Czinger_21CVMax_2023;2170;CarVisualsData
 Dallara_EXP_2021;2677;CarVisualsData
 Dallara_Stradale_2019;2551;CarVisualsData
+Dallara_StradaleReward_2019;2764;CarVisualsData
+Dallara_StradaleRewardRecycled_2019;2751;CarVisualsData
 Datsun_240ZLPClassic_1972;2525;CarVisualsData
 DeTomaso_P900_2022;2653;CarVisualsData
 DeTomaso_PanteraGT5S_1984;2449;CarVisualsData
@@ -431,6 +434,8 @@ Ferrari_296GTBAssettoFiorano_2022;198;CarVisualsData
 Ferrari_296GTSReward_2023;202;CarVisualsData
 Ferrari_296GTSRewardRecycled_2023;2063;CarVisualsData
 Ferrari_296SpecialeA_2026;183;CarVisualsData
+Ferrari_296SpecialeReward_2026;2701;CarVisualsData
+Ferrari_296SpecialeRewardRecycled_2026;1118;CarVisualsData
 Ferrari_458Speciale_2014;182;CarVisualsData
 Ferrari_488GTB70thAnniversary_2015;184;CarVisualsData
 Ferrari_488GTModificata_2021;1902;CarVisualsData
@@ -663,6 +668,7 @@ Jaguar_XESVProject8F9_2018;1094;CarVisualsData
 Jaguar_XESVProject8Reward_2018;307;CarVisualsData
 Jaguar_XESVProject8RewardRecycled_2018;1094;CarVisualsData
 Jaguar_XJ220Classic_1993;1151;CarVisualsData
+Jaguar_XJR15_1991;1382;CarVisualsData
 Jaguar_XKRSGT_2014;301;CarVisualsData
 Jeep_GladiatorF9_2019;1935;CarVisualsData
 Jeep_GladiatorReward_2019;2073;CarVisualsData
@@ -765,6 +771,7 @@ Lamborghini_RevueltoReward_2024;2141;CarVisualsData
 Lamborghini_RevueltoRewardRecycled_2024;2142;CarVisualsData
 Lamborghini_RevueltoSS1_2024;1490;CarVisualsData
 Lamborghini_RevueltoSS2_2024;2766;CarVisualsData
+Lamborghini_RevueltoSV_2027;1235;CarVisualsData
 Lamborghini_SC18Alston_2019;1245;CarVisualsData
 Lamborghini_SC20_2020;1852;CarVisualsData
 Lamborghini_SC63LMDH_2024;2231;CarVisualsData
@@ -975,6 +982,7 @@ Nissan_LBSuperSilhouetteSilviaS15_1999;1404;CarVisualsData
 Nissan_PandeMGTRR33Reward_1995;2040;CarVisualsData
 Nissan_PandeMGTRR33RewardRecycled_1995;2057;CarVisualsData
 Nissan_ProtoZ_2020;1793;CarVisualsData
+Nissan_R390GT1_1997;2777;CarVisualsData
 Nissan_SilviaS14F1_1997;1903;CarVisualsData
 Nissan_SilviaS15Crew_1999;740;CarVisualsData
 Nissan_SilviaS15CrewRecycled_1999;767;CarVisualsData
@@ -1155,10 +1163,12 @@ Radford_Type62Reward_2021;2323;CarVisualsData
 Radford_Type62RewardRecycled_2021;2326;CarVisualsData
 RAESR_TachyonSpeed_2024;2562;CarVisualsData
 RAM_1500TRX_2021;1894;CarVisualsData
+Renault_ClioV6Phase2_2005;2778;CarVisualsData
 Rimac_Nevera_2021;2029;CarVisualsData
 Rimac_NeveraR_2025;2563;CarVisualsData
 Rimac_NeveraReward_2022;2192;CarVisualsData
 Rimac_NeveraRewardrecycled_2022;2194;CarVisualsData
+RUF_CTR3EVO_2023;2780;CarVisualsData
 Saleen_S1Reward_2018;1106;CarVisualsData
 Saleen_S1RewardRecycled_2018;1107;CarVisualsData
 Saleen_S7Classic_2004;1148;CarVisualsData

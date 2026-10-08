@@ -1,0 +1,1346 @@
+Tier;Index;crdb;Man;Name;Coll;Spec;El.;Rarity;Power;Perf;Nitrous;Box;Tyres;Dyno;World Record;Diff
+TIER_1;1;Abarth_500_2014;Abarth;Fiat Abarth 500;;;;1G;350;550;193/4.3;3.25;36/64;12.431;11.984;-0.447
+TIER_1;2;Ford_F150SVTRaptorElite_2014;Ford;Altay's F-150 SVT Raptor;;;;3P;355;473;218/3.9;4.79;42/58;12.491;12.491;-0.000
+TIER_1;3;Ford_FiestaST_2016;Ford;Fiesta ST;;;;1G;349;627;204/3.9;3.05;20/80;12.319;11.800;-0.519
+TIER_1;4;Ford_FocusSTCrew_2014;Ford;Sneak's Focus TrackSTer;;;;3P;354;945;176/4.2;2.87;52/48;11.722;11.592;-0.130
+TIER_1;5;Ford_FocusSTCrewRecycled_2014;Ford;Focus TrackSTer;;;;2G;354;821;169/4.5;2.84;52/48;11.928;11.818;-0.110
+TIER_1;6;Ford_Mustang302_1970;Ford;Mustang Boss 302;;;Elite full;3G;349;895;220/3.5;4.02;0/100;11.868;11.551;-0.317
+TIER_1;7;Ford_Mustang302_1970;Ford;Mustang Boss 302;;;Elite 0;0G;349;513;182/4.1;4.38;0/100;12.504;12.409;-0.095
+TIER_1;8;Honda_Civic15VTECCrew_1994;Honda;Angel's Civic 1.5 VTEC;;;;3P;354;660;235/3.3;3.77;55/45;12.197;11.809;-0.388
+TIER_1;9;Honda_Civic15VTECCrewRecycled_1994;Honda;Civic 1.5 VTEC;;;;2G;354;711;205/4.3;4.80;55/45;12.113;11.776;-0.337
+TIER_1;10;Hyundai_VelosterTurboRSpec_2014;Hyundai;Veloster Turbo R Spec;;;;1G;352;600;210/3.7;4.13;26/74;12.319;11.912;-0.407
+TIER_1;11;Hyundai_VelosterTurboRSpecCrew_2014;Hyundai;Ark Performance Veloster;;;;3P;355;823;240/3.1;5.00;56/44;11.913;11.744;-0.169
+TIER_1;12;Mazda_MX5_2016;Mazda;MX-5 'Miata';;;;2P;350;715;212/4.1;2.02;0/100;12.162;12.050;-0.112
+TIER_1;13;Mini_CooperS_2014;Mini;Cooper S;;Engine 0;;1G;360;375;209/3.7;4.65;55/45;12.601;12.018;-0.583
+TIER_1;14;Mini_CooperSElite_2014;Mini;Rico's Cooper S;;;;3P;352;376;139/6.4;3.58;47/53;12.701;12.701;-0.000
+TIER_1;15;Placeholder_CoveredCar_1234;Placeholder;PlaceHolder;;;;0G;0;0;0;0;0;0;0;-0.000
+TIER_1;16;Toyota_86_2014;Toyota;86;;;;1G;351;500;205/3.9;4.10;50/50;12.498;12.441;-0.057
+TIER_1;17;Volkswagen_GolfGTI_2014;Wolkswagen;Golf GTI;;;;1G;349;725;205/3.9;3.15;21/79;12.151;11.792;-0.359
+TIER_1;18;Volkswagen_GolfGTICrew_1982;Volkswagen;Ruby Rose's Gold GTi;;;;3P;349;749;218/3.9;4.42;55/45;12.111;12.111;-0.000
+TIER_1;19;Volkswagen_GolfGTICrewRecycled_1982;Wolkswagen;Golf GTI MK1;;;;2G;354;612;228/3.5;4.72;25/75;12.277;12.200;-0.077
+TIER_1;20;Volkswagen_GolfGTIElite_2014;Wolkswagen;Konduit's Golf GTI Mk1;;;;3P;354;820;245/3.0;5.00;24/76;11.930;11.831;-0.099
+TIER_2;1;AlfaRomeo_4CCoupeCrew_2013;Alf romeo;Summer's 4C 'Launch Edition';;Transmission 5;;3P;478;996;371/5.7;2.01;0/100;9.700;9.602;-0.098
+TIER_2;2;AlfaRomeo_4CCoupeCrewRecycled_2013;Alf romeo;4C;;Transmission 5;;2G;478;886;353/5.5;2.10;0/100;9.919;9.804;-0.115
+TIER_2;3;AlfaRomeo_4CSpider_2016;Alf romeo;4C Spider;;;;1G;483;818;303/6.7;2.16;54/46;9.981;9.213;-0.768
+TIER_2;4;Alpine_A110_2018;Alpine;A110;;;;3G;483;1274;363/4.0;3.02;0/100;9.069;8.518;-0.551
+TIER_2;5;AstonMartin_DB5Classic_1964;Aston Martin;DB5;;;Elite full;3G;481;1469;347/5.1;3.87;0/100;8.709;8.670;-0.039
+TIER_2;6;AstonMartin_DB5Classic_1964;Aston Martin;DB5;;;Elite 0;0G;481;1049;283/6.4;4.54;0/100;9.548;9.541;-0.007
+TIER_2;7;Audi_TTRSPlusCoupe_2014;Audi;TT RS;;;;1G;483;699;321/5.9;4.83;0/100;10.224;10.021;-0.203
+TIER_2;8;BMW_M235iCoupe_2014;Bmw;2014 M235i Coupé;;Nitrous / Transmission / Tires 5;Elite full;3G;470;1480;190/5.0;5.00;0/100;8.824;8.792;-0.032
+TIER_2;9;BMW_M235iCoupe_2014;Bmw;2014 M235i Coupé;;;Elite 0;1G;484;687;276/6.4;3.08;10/90;10.237;9.976;-0.261
+TIER_2;10;BMW_Z4MCoupeCrew_2006;BMW;2006 Z4 M;;;;3P;483;860;374.5.6;3.66;45/55;9.897;9.897;-0.000
+TIER_2;11;Ferrari_250GTOClassic_1962;Ferrari;250 GTO;;;Elite full;3G;481;1523;242/4.0;4.47;0/100;8.601;8.315;-0.286
+TIER_2;12;Ferrari_250GTOClassic_1962;Ferrari;250 GTO;;;Elite 0;0G;481;1404;230/4.0;4.72;0/100;8.839;8.570;-0.269
+TIER_2;13;Ford_F150SVTRaptor_2014;Ford;F-150 SVT Raptor;;;Elite full;3G;481;1362;353/5.5;4.71;0/100;8.925;8.839;-0.086
+TIER_2;14;Ford_F150SVTRaptor_2014;Ford;F-150 SVT Raptor;;;Elite 0;0G;481;773;332/6.4;5.00;8/92;10.104;9.921;-0.183
+TIER_2;15;Ford_FocusRS_2017;Ford;Focus RS;;;;1G;483;732;337/5.2;3.16;56/44;10.157;9.965;-0.192
+TIER_2;16;Ford_FocusRSElite_2017;Ford;Altay's Focus RS;;;;3P;483;809;371/5.7;4.41;35/65;10.002;10.002;-0.000
+TIER_2;17;Honda_CivicTypeR_2017;Honda;2017 Civic Type R;;;;3G;483;694;341/6.0;2.60;1/99;10.232;9.004;-1.228
+TIER_2;18;Honda_CivicTypeRElite_2017;Honda;Rico's 2017 Civic Type R;;;;3P;483;777;361/6.1;4.23;45/55;10.066;10.066;-0.000
+TIER_2;19;Hyundai_VelosterTurboRSpecARK_2014;Hyundai;Ark Performance Veloster;;;;2G;484;969;344/5.9;4.70;0/100;9.676;9.155;-0.521
+TIER_2;20;Landrover_RangeRoverEvoqueCoupeCrew_2016;Land Rover;Shana's Range Rover Evoque;;;;3P;485;900;358/6.2;2.27;0/100;9.791;9.513;-0.278
+TIER_2;21;Landrover_RangeRoverEvoqueCoupeCrewRecycled_2016;Land Rover;Range Rover Evoque;;;;2G;485;815;339/6.1;2.27;0/100;9.961;9.708;-0.253
+TIER_2;22;Lotus_Exige360CupCrew_2016;Lotus;Finn's Exige 360 Cup;;;;3P;485;1114;364/6.0;5.00;0/100;9.363;8.951;-0.412
+TIER_2;23;Lotus_Exige360CupCrewRecycled_2016;Lotus;Exige 360 Cup;;;;2G;485;797;334/6.3;4.68;0/100;9.998;9.573;-0.425
+TIER_2;24;Lotus_ExigeLF1_2014;Lotus;Exige LF1;;;;2G;484;1138;336/6.2;5.00;0/100;9.329;9.015;-0.314
+TIER_2;25;Lotus_ExigeS_2014;Lotus;Exige Sport 350 Roadster;;;;1G;483;631;321/5.9;3.40;53/47;10.354;10.051;-0.303
+TIER_2;26;Mazda_PandeMMX5_2016;Mazda;Rocket Bunny MX-5 Miata;;;;3G;484;1497;185/4.6;2.40;0/100;8.613;8.438;-0.175
+TIER_2;27;MercedesBenz_300SLClassic_1954;Mercedes Benz;300 SL Coupé;;;Elite full;3G;481;1467;335/5.5;2.00;0/100;8.710;8.275;-0.435
+TIER_2;28;MercedesBenz_300SLClassic_1954;Mercedes Benz;300 SL Coupé;;;Elite 0;0G;481;1270;279/5.3;2.00;0/100;9.102;8.582;-0.520
+TIER_2;29;MercedesBenz_A45AMG_2014;Mercedes Benz;A 45 AMG;;;;2G;485;876;336/6.2;4.58;0/100;9.848;9.475;-0.373
+TIER_2;30;MercedesBenz_A45AMGElite_2014;Mercedes Benz;Ruby Rose's A 45 AMG;;;;3P;485;855;376/5.5;4.35;19/81;9.891;9.891;-0.000
+TIER_2;31;Mini_CooperJCWGP_2020;Mini;John Cooper Works GP;;;;3G;483;1488;333/5.1;3.87;52/48;8.650;8.409;0.241
+TIER_2;32;Porsche_718BoxsterS_2017;Porsche;718 Boxster S;;Engine 0 / Transmission 5;;1G;459;1619;266/6.2;5.00;52/48;8.691;8.501;-0.190
+TIER_2;33;Subaru_ImprezaWRXSTI_2014;Subaru;WRX STI;;;;1G;481;706;317/6.1;5.00;0/100;10.236;10.171;-0.065
+TIER_2;34;Toyota_86Boss_2014;Toyota;KJ's TOYOTA 86 Rocket Bunny;;;;3P;348;700;238/4.2;3.95;56/44;11.976;11.279;-0.697
+TIER_2;35;Volkswagen_RocketBunnyGolfGTI_2014;Wolkswagen;Gold GTI Rocket Bunny;;;;3G;482;795;332/6.4;2.28;0/100;10.050;8.869;-1.181
+TIER_2;36;Volkswagen_SciroccoR_2015;Wolkswagen;Scirocco R;;;;1G;483;758;324/5.8;4.01;19/81;10.101;9.616;-0.485
+TIER_3;1;AlfaRomeo_GiuliaQuadrifoglio_2017;Alf romeo;Giulia Quadrifoglio;;;;3G;581;698;303/4.2;3.94;0/100;8.597;8.468;-0.129
+TIER_3;2;Audi_LBRS5Coupe_2014;Audi;LB RS 5 Coupé;;;;3G;582;656;411/5.6;3.36;0/100;8.697;8.280;-0.417
+TIER_3;3;Audi_LBRS5CoupeElite_2014;Audi;Ruby Rose's LB RS 5 Coupé;;;;4P;581;711;426/5.6;5.00;10/90;8.575;8.575;-0.000
+TIER_3;4;Audi_RS3SedanReward_2023;Audi;RS 3 Performance Edition;;;;4P;581;1153;188/4.0;2.00;0/100;7.467;7.077;-0.390
+TIER_3;5;Audi_RS3SedanRewardRecycled_2023;Audi;RS 3 Performance Edition;;;;4G;581;1131;188/4.0;2.00;0/100;7.523;7.250;-0.086
+TIER_3;6;Audi_RS3SportbackReward_2023;Audi;RS 3 Sportback performance edition;;;;4P;581;1177;188/4.0;2.55;0/100;7.407;7.310;-0.097
+TIER_3;7;Audi_RS5Coupe_2014;Audi;RS 5 Coupé;;;Elite full;4G;581;844;419/5.6;2.91;100/0;8.241;8.223;-0.018
+TIER_3;8;Audi_RS5Coupe_2014;Audi;RS 5 Coupé;;;Elite 0;2G;581;621;371/5.3;3.45;100/0;8.799;8.693;-0.106
+TIER_3;9;Audi_RS5CoupeReward_2020;Audi;RS 5 Coupé;;Nitous 5;;4P;576;1061;50/6.0;2.00;53/47;7.763;7.650;-0.113
+TIER_3;10;Audi_RS5CoupeRewardRecycled_2020;Audi;RS 5 Coupé;;Nitous 5;;4G;576;1045;50/6.0;2.00;53/47;7.803;7.692;-0.111
+TIER_3;11;BMW_ACSchnitzerM2Coupe_2016;Bmw;M2 by AC Schnitzer;;;;4G;583;803;423/5.9;3.57;0/100;8.317;8.181;-0.136
+TIER_3;12;BMW_ACSchnitzerZ4_2019;Bmw;ACS4;;;;3G;585;997;185/4.9;2.82;0/100;7.802;7.726;-0.076
+TIER_3;13;BMW_LBM4CoupeCrew_2014;Bmw;2014 LB M4 Coupé;;;;3G;585;697;404/5.6;3.29;1/99;8.553;8.307;-0.246
+TIER_3;14;BMW_LBM4CoupeCrewRecycled_2014;Bmw;2014 LB M4 Coupé;;;;4P;585;716;417/5.9;3.31;0/100;8.506;8.243;-0.263
+TIER_3;15;BMW_M2Competition_2018;Bmw;2018 M2 Competition;;;;3G;580;909;366/5.6;3.82;0/100;8.085;7.955;-0.130
+TIER_3;16;BMW_M2CoupeG87Reward_2023;Bmw;2023 M2 Coupé;;Nitrous  1 to 4 : only GREEN fusions;;4P;581;1093;210/5.0;2.00;0/100;7.614;7.319;-0.295
+TIER_3;17;BMW_M2CoupeG87RewardRecycled_2023;Bmw;2023 M2 Coupé;;Nitrous 5 & 6 : 0 fusion;;4G;581;1060;225/5.3;2.00;0/100;7.697;7.391;-0.306
+TIER_3;18;BMW_M2G87MPerformance_2023;Bmw;2023 M2 Coupé 'M Performance';;;;4P;581;1104;150/4.0;2.00;0/100;7.586;7.234;-0.352
+TIER_3;19;BMW_M3E92CoupeGTSElite_2011;BMW;2011 LB M3 GTS;;;;4P;583;658;426/5.6;3.93;15/85;8.667;8.667;-0.000
+TIER_3;20;BMW_M3E92CoupeGTSReward_2011;Bmw;2011 LB M3 GTS;;;;4P;584;653;417/5.9;3.55;12/88;8.679;8.351;-0.328
+TIER_3;21;BMW_M3E92CoupeGTSRewardRecycled_2011;Bmw;2011 LB M3 GTS;;;;4G;584;628;395/5.9;3.57;11/89;8.742;8.413;-0.329
+TIER_3;22;BMW_M3TouringReward_2022;Bmw;2022 M3 Touring Competition;;;;4P;581;1038;354/5.9;2.54;0/100;7.749;7.682;-0.067
+TIER_3;23;BMW_M3TouringRewardRecycled_2022;Bmw;2022 M3 Touring Competition;;;;4G;581;1007;338/5.9;2.54;0/100;7.826;7.750;-0.076
+TIER_3;24;BMW_M4Coupe_2014;Bmw;2014 M4 Coupé;;;;2G;580;698;371/5.3;4.99;0/100;8.614;8.429;-0.185
+TIER_3;25;BMW_M4CoupeMPerformance_2021;Bmw;2021 M4 Coupé 'M Performance';; (Check INFO folder);;4P;581;1059;186/4.1;2.00;0/100;7.703;7.666;-0.037
+TIER_3;26;BMW_M4CoupeReward_2021;Bmw;2021 M4 Competition;;;;4P;581;1038;354/5.9;2.54;0/100;7.749;7.684;-0.065
+TIER_3;27;BMW_M4CoupeRewardRecycled_2021;Bmw;2021 M4 Competition;;;;4G;581;1007;338/5.9;2.54;0/100;7.826;7.744;-0.082
+TIER_3;28;BMW_RBM3E92Reward_2011;Bmw;2011 Rocket Bunny M3 GTS;;;;5P;581;1143;188/4.0;3.78;0/100;7.493;7.449;-0.044
+TIER_3;29;BMW_RBM3E92RewardRecycled_2011;Bmw;2011 Rocket Bunny M3 GTS;;;;5G;581;1121;188/4.0;3.81;0/100;7.548;7.501;-0.047
+TIER_3;30;BMW_Z4_2019;Bmw;2019 Z4 M40i;;;;3G;585;845;404/5.6;4.68;0/100;8.180;7.841;-0.339
+TIER_3;31;Chevrolet_AlphaSixCamaroSSCrew_2016;Chevrolet;Petah's Label Motorsports Camaro;;;;4P;584;725;426/5.6;5.00;53/47;8.496;8.405;-0.091
+TIER_3;32;Chevrolet_AlphaSixCamaroSSCrewRecycled_2016;Chevrolet;Label Motorsports Camaro;;;;3G;584;646;411/5.6;5.00;53/47;8.694;8.595;-0.099
+TIER_3;33;Chevrolet_CamaroSS_2016;Chevrolet;Camaro SS;;;Elite full;4G;584;737;413/5.7;3.23;13/87;8.473;7.750;-0.723
+TIER_3;34;Chevrolet_CamaroSS_2016;Chevrolet;Camaro SS;;;Elite 0;2G;584;656;371/5.3;3.40;35/65;8.673;8.483;-0.190
+TIER_3;35;Chevrolet_CorvetteGrandSport_2017;Chevrolet;Corvette Grand Sport Convertible;;;;4P;583;876;384/5.6;4.73;0/100;8.129;8.015;-0.114
+TIER_3;36;Chevrolet_CorvetteStingray_2015;Chevrolet;Corvette Stingray;;;;2G;583;508;361/5.7;3.71;4/96;9.050;8.903;-0.147
+TIER_3;37;Chevrolet_CorvetteZR1Classic_1970;Chevrolet;Corvette (C3) ZR1;;;Elite full;4G;581;783;305/4.0;2.30;0/100;8.384;7.292;-1.092
+TIER_3;38;Chevrolet_CorvetteZR1Classic_1970;Chevrolet;Corvette (C3) ZR1;;;Elite 0;0G;581;520;279/4.0;2.59;0/100;9.043;7.901;-1.142
+TIER_3;39;Dodge_ChallengerSRTHellcat_2015;Dodge;SRT Hellcat;;;Elite full;4G;584;684;408/5.9;2.00;23/77;8.147;7.896;-0.251
+TIER_3;40;Dodge_ChallengerSRTHellcat_2015;Dodge;SRT Hellcat;;;Elite 0;2G;584;590;371/5.3;2.13;45/55;8.831;8.653;-0.178
+TIER_3;41;Dodge_ChallengerSRTHellcatReward_2015;Dodge;LB SRT Hellcat;;;;4P;585;599;426/5.6;2.03;65/35;8.794;8.682;-0.112
+TIER_3;42;Dodge_ChallengerSRTHellcatRewardRecycled_2015;Dodge;LB SRT Hellcat;;;;4G;585;579;404/5.6;2.03;56/44;8.844;8.727;-0.117
+TIER_3;43;Dodge_ChargerRTCrew_1969;Dodge;Charger R/T;;;;4P;584;632;426/5.6;3.90;38/&62;8.733;8.733;-0.000
+TIER_3;44;Ferrari_California30Reward_2012;Ferrari;California;;;;4P;585;751;426/5.6;5.00;100/0;8.418;8.234;-0.184
+TIER_3;45;Ferrari_California30RewardRecycled_2012;Ferrari;California;;;;4G;585;735;404/5.6;5.00;100/0;8.459;8.276;-0.183
+TIER_3;46;Ford_MustangGT_2024;Ford;2024 Mustang GT;;;;5G;581;1092;188/4.0;4.75;53/47;7.618;7.388;-0.230
+TIER_3;47;Ford_MustangGTPremium_2015;Ford;2015 Mustang GT Premium;;;Elite full;4G;581;930;386/5.5;2.42;21/79;8.021;8.021;-0.001
+TIER_3;48;Ford_MustangGTPremium_2015;Ford;2015 Mustang GT Premium;;;Elite 0;2G;581;686;368/5.4;2.39;67/33;8.630;8.627;-0.003
+TIER_3;49;Ford_MustangMach1_2021;Ford;Mustang Mach 1;;;;4G;585;1000;218/4.5;2.00;0/100;7.796;7.758;-0.038
+TIER_3;50;Honda_CivicTypeRReward_2023;Honda;2023 Civic Type R;;;;4P;581;1165;188/4.0;2.08;52/48;7.437;7.218;-0.219
+TIER_3;51;Honda_CivicTypeRRewardRecycled_2023;Honda;2023 Civic Type R;;;;4G;581;1147;188/4.0;2.08;52/48;7.483;7.268;-0.215
+TIER_3;52;Honda_CivicTypeRVaris_2017;Honda;2017 Varis Civic Type R;;;Elite full;4G;581;1031;329/5.6;3.12;0/100;7.769;7.368;-0.401
+TIER_3;53;Honda_CivicTypeRVaris_2017;Honda;2017 Varis Civic Type R;;;Elite 0;4G;581;1008;329/5.6;3.15;7/93;7.827;7.669;-0.158
+TIER_3;54;Hyundai_ElantraNReward_2022;Hyundai;Elantra N;;;;3P;581;976;188/4.0;2.00;0/100;7.910;7.664;-0.246
+TIER_3;55;Hyundai_ElantraNRewardRecycled_2022;Hyundai;Elantra N;;;;3G;581;954;188/4.0;2.00;0/100;7.967;7.715;-0.252
+TIER_3;56;Kia_StingerGTS_2020;Kia;KIA Stinger GT;;;;4G;582;789;379/4.7;5.00;0/100;8.361;8.217;-0.144
+TIER_3;57;LocalMotor_RallyFighter_2013;Local Motors;Rally Fighter;;;Elite full;3G;576;917;404/5.9;3.02;0/100;8.126;8.039;-0.087
+TIER_3;58;LocalMotor_RallyFighter_2013;Local Motors;Rally Fighter;;;Elite 0;3G;576;810;404/5.6;3.37;0/100;8.393;8.314;-0.079
+TIER_3;59;LocalMotor_RallyFighterF8_2013;Local Motors;Letty's Rally Fighter;fnf;;;4P;585;753;426/5.6;3.02;0/100;8.407;8.403;-0.004
+TIER_3;60;MercedesAMG_CLAEVReward_2025;Mercedes Benz;CLA 350 4MATIC with EQ technology AMG Line Plus;;Engine 4;;4P;580;1096;225/2.3;2.00;0/100;7.615;7.537;-0.078
+TIER_3;61;MercedesAMG_CLAEVRewardRecycled_2025;Mercedes Benz;CLA 350 4MATIC with EQ technology AMG Line;;Engine 4;;4G;580;1077;225/2.3;2.00;0/100;7.660;7.582;-0.078
+TIER_3;62;MercedesBenz_C63AMGEdition507_2014;Mercedes Benz;C 63 AMG Coupé Edition 507;;;Elite full;3G;587;804;404/5.6;4.08;6/94;8.258;8.194;-0.064
+TIER_3;63;MercedesBenz_C63AMGEdition507_2014;Mercedes Benz;C 63 AMG Coupé Edition 507;;;Elite 0;3G;587;652;404/5.6;4.32;60/40;8.639;8.611;-0.028
+TIER_3;64;MercedesBenz_CLA45AMGShootingBrakeBoss_2015;Mercedes Benz;Ashleigh's CLA 45 AMG;Boss;;;3P;448;627;294/4.1;3.10;56/44;10.509;10.273;-0.0236
+TIER_3;65;Nissan_ProtoZ_2020;Nissan;Z Proto;;;;5G;581;939;188/4.0;3.30;53/47;8.005;7.551;-0.454
+TIER_3;66;Nissan_SilviaS15Crew_1999;Nissan;Kiyiya's Silvia (S15);;;;4P;585;541;426/5.6;3.64;52/48;8.938;8.660;-0.278
+TIER_3;67;Nissan_SilviaS15CrewRecycled_1999;Nissan;Silvia (S15);;;;3G;585;519;404/5.6;3.65;52/48;8.995;8.714;-0.281
+TIER_3;68;Pontiac_GTOTheJudgeClassic_1969;Pontiac;GTO 'The Judge';;;Elite full;4G;582;685;209/4.2;2.10;0/100;8.629;7.170;-1.459
+TIER_3;69;Pontiac_GTOTheJudgeClassic_1969;Pontiac;GTO 'The Judge';;;Elite 0;0G;582;497;203/4.5;2.41;0/100;9.098;7.727;-1.371
+TIER_3;70;Porsche_718BoxsterSpyder_2020;Porsche;718 Boxster Spyder;;;;4G;581;843;404/5.6;4.34;0/100;8.246;8.149;-0.097
+TIER_3;71;Porsche_718CaymanGT4_2020;Porsche;718 Cayman GT4;;;;4G;581;882;235/3.0;4.75;0/100;8.143;7.570;-0.573
+TIER_3;72;Porsche_CaymanGT4_2016;Porsche;Cayman GT4;;;;3G;580;856;411/5.6;3.29;0/100;8.223;8.048;-0.175
+TIER_3;73;Porsche_CaymanGT4Salzburg_2016;Porsche;Cayman GT4 'Salzburg';;;;4P;580;904;188/4.0;2.25;11/89;8.099;8.006;-0.093
+TIER_3;74;Porsche_VorsteinerGT4VCS_2016;Porsche;Vorsteiner Cayman GT4 V-CS;;;;3G;580;893;254/5.6;3.04;0/100;8.129;7.932;-0.197
+TIER_3;75;Shelby_Cobra427SCClassic_1965;Shelby;Cobra 427 S/C;;(Remove 3 epic NOS fusions);Elite full;4G;581;299;378/5.9;3.13;0/100;9.599;7.908;-1.691
+TIER_3;76;Shelby_Cobra427SCClassic_1965;Shelby;Cobra 427 S/C;;(Remove 2 epic NOS fusions);Elite 0;0G;581;66;299/6.4;3.56;8/92;10.182;8.598;-1.584
+TIER_3;77;Subaru_BRZF8_2013;Subaru;Little Nobody's SUBARU BRZ;;;;4P;580;779;417/5.9;2.56;0/100;8.409;8.337;-0.072
+TIER_3;78;Subaru_BRZRocketBunny_2013;Subaru;SUBARU BRZ Rocket Bunny;;;;3G;580;664;401/5.7;2.60;0/100;8.695;8.575;-0.120
+TIER_3;79;Subaru_BRZRocketBunnyVIP_2013;Subaru;SUBARU BRZ Rocket Bunny;;(VIP)(Blue white pink livery);;3G;580;677;401/5.7;2.61;0/100;8.662;8.575;-0.120
+TIER_3;80;Subaru_BRZtSReward_2024;Subaru;2024 Subaru BRZ tS;;;;4P;581;917;188/4.0;2.00;0/100;8.047;7.502;-0.545
+TIER_3;81;Subaru_BRZtSRewardRecycled_2024;Subaru;2024 Subaru BRZ tS;;;;4G;581;899;188/4.0;2.00;0/100;8.093;7.541;-0.552
+TIER_3;82;Toyota_GRSupra_2020;Toyota;GR Supra;;;;4G;581;888;404/5.6;4.59;0/100;8.122;7.958;-0.164
+TIER_3;83;Toyota_GRYarisReward_2021;Toyota;GR Yaris;;;;4P;581;1184;188/4.0;2.00;0/100;7.394;7.111;-0.283
+TIER_3;84;Toyota_GRYarisRewardRecycled_2021;Toyota;GR Yaris;;;;5G;581;1168;188/4.0;2.00;0/100;7.434;7.148;-0.286
+TIER_4;1;Acura_NSXF9_2018;Acura;Tej's NSX;fnf;Fnf;;5P;674;1381;188/4.0;2.91;0/100;10.925;10.774;-0.151
+TIER_4;2;AlfaRomeo_8CCompetizione_2007;Alf romeo;8C Competizione;;;;5P;673;1663;221/5.6;2.76;50/50;10.387;10.386;-0.001
+TIER_4;3;AlfaRomeo_8CSpiderReward_2009;Alf romeo;8C Spider;;;;5P;673;1598;188/4.0;2.84;0/100;10.514;10.233;-0.281
+TIER_4;4;AlfaRomeo_8CSpiderRewardRecycled_2009;Alf romeo;8C Spider;;;;5G;673;1567;188/4.0;2.85;0/100;10.576;10.293;-0.283
+TIER_4;5;AlfaRomeo_GiuliaGTAmReward_2021;Alf romeo;Giulia GTAm;;;;5P;673;1578;188/4.0;2.00;0/100;10.545;10.132;-0.413
+TIER_4;6;AlfaRomeo_GiuliaGTAmRewardRecycled_2021;Alf romeo;Giulia GTAm;;;;5G;673;1555;188/4.0;2.00;0/100;10.592;10.173;-0.419
+TIER_4;7;AstonMartin_DBX707Reward_2023;Aston Martin;DBX 707;;;;5P;673;1813;188/4.0;2.00;59/41;10.093;9.680;-0.413
+TIER_4;8;AstonMartin_DBX707RewardRecycled_2023;Aston Martin;DBX 707;;;;5G;673;1789;188/4.0;2.00;59/41;10.141;9.719;-0.422
+TIER_4;9;AstonMartin_DBXReward_2019;Aston Martin;DBX;;;;5P;672;1058;221/5.2;3.08;0/100;11.620;11.569;-0.051
+TIER_4;10;AstonMartin_DBXRewardRecycled_2019;Aston Martin;DBX;;;;5G;672;1028;212/5.0;3.10;0/100;11.680;11.628;-0.052
+TIER_4;11;AstonMartin_DBXSReward_2019;Aston Martin;DBX S;;;;5P;673;2026;188/4.0;2.00;0/100;9.655;;
+TIER_4;12;AstonMartin_DBXSReward_2026;AstonMartin;DBX S;;;;5P;673;2020;188/4.0;2.88;0/100;9.668;9.538;-0.130
+TIER_4;13;AstonMartin_DBXSRewardRecycled_2019;Aston Martin;DBX S;;;;5G;672;1993;188/4.0;2.00;0/100;9.721;;
+TIER_4;14;AstonMartin_DBXSRewardRecycled_2026;AstonMartin;DBX S;;;;5G;673;1993;188/4.0;2.88;0/100;9.721;9.569;-0.152
+TIER_4;15;AstonMartin_Vanquish_2014;Aston Martin;Vanquish;;;;3G;672;715;213/5.5;4.27;13/87;12.296;12.217;-0.079
+TIER_4;16;AstonMartin_VantageRoadsterReward_2021;Aston Martin;2021 Vantage Roadster;;;;5P;674;1382;321/5.0;2.00;21/79;10.903;10.606;-0.297
+TIER_4;17;AstonMartin_VantageRoadsterRewardRecycled_2021;Aston Martin;2021 Vantage Roadster;;;;5G;674;1348;294/4.8;2.00;22/78;10.971;10.657;-0.314
+TIER_4;18;AstonMartin_VantageV8Reward_2018;Aston Martin;2018 Vantage;;;;4P;674;1502;209/4.7;2.00;11/89;10.664;10.643;-0.021
+TIER_4;19;AstonMartin_VantageV8RewardRecycled_2018;Aston Martin;2018 Vantage;;;Elite full;5G;674;1568;221/4.2;2.00;9/91;10.533;10.304;-0.229
+TIER_4;20;AstonMartin_VantageV8RewardRecycled_2018;Aston Martin;2018 Vantage;;;Elite 0;4G;674;1521;211/4.6;2.01;10/90;10.627;10.616;-0.011
+TIER_4;21;Audi_ABTRS6RReward_2020;Audi;ABT RS6-R;;;;5P;673;1744;188/4.0;2.70;0/100;10.210;9.870;-0.340
+TIER_4;22;Audi_ABTRS6RRewardRecycled_2020;Audi;ABT RS6-R;;;;5G;673;1709;188/4.0;2.69;0/100;10.281;9.934;-0.347
+TIER_4;23;Audi_ABTRS7RReward_2020;Audi;ABT RS7-R 'Daniel Abt Edition';;;;5P;673;1744;188/4.0;2.69;0/100;10.211;9.873;-0.338
+TIER_4;24;Audi_ABTRS7RRewardRecycled_2020;Audi;ABT RS7-R;;;;5G;673;1709;188/4.0;2.69;0/100;10.281;9.936;-0.345
+TIER_4;25;Audi_LBR8V10PlusCoupeElite_2014;Audi;Ruby Rose's LB R8 V10 plus Coupé;;;;5P;673;548;261/4.2;4.41;7/93;12.622;12.622;-0.000
+TIER_4;26;Audi_LBR8V10PlusCoupeReward_2014;Audi;2014 LB R8 V10 plus Coupé;;;;5P;674;1486;222/4.0;4.37;6/94;10.710;10.694;-0.016
+TIER_4;27;Audi_LBR8V10PlusCoupeRewardRecycled_2014;Audi;2014 LB R8 V10 plus Coupé;;;;5G;674;1473;222/4.0;4.38;11/89;10.736;10.722;-0.014
+TIER_4;28;Audi_R8V10PlusCoupe_2014;Audi;2014 R8 V10 plus Coupé;;;;3G;673;591;226/4.8;4.21;18/82;12.563;12.436;-0.127
+TIER_4;29;Audi_RS3SportbackRewardRecycled_2023;Audi;RS 3 Sportback performance edition;Hoonigan;;;4G;581;1158;188/4.0;2.54;0/100;7.456;7.332;-0.124
+TIER_4;30;Audi_RS6AvantGTReward_2024;Audi;RS 6 Avant GT;;;;5P;673;1880;188/4.0;2.62;0/100;9.959;9.497;-0.462
+TIER_4;31;Audi_RS6AvantGTRewardRecycled_2024;Audi;RS 6 Avant GT;;;;5G;673;1852;188/4.0;2.61;0/100;10.016;9.548;-0.468
+TIER_4;32;Audi_RS6AvantReward_2020;Audi;RS6 Avant;;;;5P;673;1598;188/4.0;2.72;0/100;10.503;10.130;-0.373
+TIER_4;33;Audi_RS6AvantRewardRecycled_2020;Audi;RS6 Avant;;;;5G;673;1572;188/4.0;2.73;0/100;10.555;10.175;-0.380
+TIER_4;34;Audi_RS7SportbackReward_2020;Audi;RS 7 Sportback;;;;5P;673;1598;188/4.0;2.68;0/100;10.502;10.125;-0.377
+TIER_4;35;Audi_RS7SportbackRewardRecycled_2020;Audi;RS 7 Sportback;;;;5G;673;1572;188/4.0;2.67;0/100;10.554;10.172;-0.382
+TIER_4;36;Audi_TTRSCoupeIEReward_2023;Audi;TT RS Coupé iconic edition;;;;4P;673;1809;188/4.0;5.00;0/100;10.096;9.563;-0.533
+TIER_4;37;Audi_TTRSCoupeIERewardRecycled_2023;Audi;TT RS Coupé iconic edition;;;;4G;673;1790;188/4.0;5.00;0/100;10.132;9.593;-0.539
+TIER_4;38;Bentley_BentaygaReward_2018;Bentley;Bentayga Pikes Peak;;;;4P;674;723;218/5.3;2.17;21/79;12.225;12.210;-0.015
+TIER_4;39;Bentley_BentaygaRewardRecycled_2018;Bentley;Bentayga;;;;4G;674;699;214/5.3;2.18;21/79;12.273;12.257;-0.016
+TIER_4;40;Bentley_ContinentalGTV8SF8_2014;Bentley;Roman's BR9;fnf;Fnf;;5P;675;1769;432/5.9;2.95;0/100;10.113;10.070;-0.043
+TIER_4;41;BMW_i8Elite_2017;BMW;2014 i8;;;;5P;673;747;244/5.1;3.62;5/95;12.211;12.211;-0.000
+TIER_4;42;BMW_i8Reward_2017;Bmw;ACS8;;;;5P;673;1126;328/6.2;3.37;10/90;11.440;11.433;-0.007
+TIER_4;43;BMW_i8RewardHoliday_2017;Bmw;ACS8;;(Prismatic);;5P;673;1100;352/5.5;3.56;4/96;11.493;11.474;-0.019
+TIER_4;44;BMW_i8RewardRecycled_2017;Bmw;ACS8;;;;5G;673;1152;315/5.5;2.55;4/96;11.401;11.324;-0.077
+TIER_4;45;BMW_i8RewardSilver_2017;Bmw;ACS8;;(Silver);;5G;673;1083;320/5.1;3.59;2/98;11.527;11.517;-0.010
+TIER_4;46;BMW_LBi8Reward_2017;Bmw;2017 LB i8;;;;5P;673;1126;232/4.9;3.84;28/72;11.463;11.426;-0.037
+TIER_4;47;BMW_LBi8RewardRecycled_2017;Bmw;2017 LB i8;;;;5G;673;1103;225/4.9;3.84;28/72;11.509;11.483;-0.026
+TIER_4;48;BMW_M2CSG87Reward_2025;Bmw;2025 M2 CS;;;;5P;673;1608;188/4.0;2.92;0/100;7.105;7.045;-0.060
+TIER_4;49;BMW_M2CSG87RewardRecycled_2025;Bmw;2025 M2 CS;;;;5G;673;1579;188/4.0;2.91;0/100;10.553;10.353;-0.200
+TIER_4;50;BMW_M3CSTouringReward_2025;Bmw;M3 CS Touring;;;;5P;673;1556;188/4.0;3.15;55/45;10.639;10.436;-0.203
+TIER_4;51;BMW_M3CSTouringRewardRecycled_2025;Bmw;M3 CS Touring;;;;5G;673;1523;188/4.0;3.15;100/0;10.648;10.447;-0.201
+TIER_4;52;BMW_M3SportEvoE30_1990;Bmw;1990 M3 Sport Evolution;;;;5P;673;1740;188/4.0;2.00;0/100;10.243;10.079;-0.164
+TIER_4;53;BMW_M4CSLReward_2022;Bmw;2023 M4 CSL;;;;5P;673;1713;188/4.0;3.15;100/0;10.278;10.013;-0.265
+TIER_4;54;BMW_M4CSLRewardRecycled_2022;Bmw;2023 M4 CSL;;;;5G;673;1681;188/4.0;3.15;100/0;10.333;10.063;-0.270
+TIER_4;55;BMW_M4GTS_2016;Bmw;2016 M4 GTS;;;;5G;673;992;237/4.9;4.18;0/100;11.716;11.676;-0.040
+TIER_4;56;BMW_M5CompetitionReward_2019;Bmw;2019 M5 Competition;;;;5P;674;1555;222/4.0;3.50;0/100;10.547;10.471;-0.076
+TIER_4;57;BMW_M5CompetitionRewardRecycled_2019;Bmw;2019 M5 Competition;;;;5G;674;1558;222/4.0;3.53;0/100;10.553;10.502;-0.051
+TIER_4;58;BMW_M5CSReward_2022;Bmw;2021 M5 CS;;;;5P;674;1694;188/4.0;3.18;0/100;10.269;10.110;-0.159
+TIER_4;59;BMW_M5CSRewardRecycled_2022;Bmw;2021 M5 CS;;;;5G;674;1666;252/4.2;3.37;0/100;10.326;10.159;-0.167
+TIER_4;60;BMW_VarisM4GTSReward_2016;Bmw;2016 VARIS M4 GTS;;;;5P;674;979;188/4.0;4.16;0/100;11.716;11.663;-0.053
+TIER_4;61;BMW_VarisM4GTSRewardRecycled_2016;Bmw;2016 VARIS M4 GTS;;;Elite full;5G;674;1632;179/4.6;3.50;0/100;10.410;10.341;-0.069
+TIER_4;62;BMW_VarisM4GTSRewardRecycled_2016;Bmw;2016 VARIS M4 GTS;;;;5G;674;945;188/4.0;4.17;2/98;11.785;11.725;-0.060
+TIER_4;63;Cadillac_CT5VBlackwingReward_2022;Cadillac;CT5-V Blackwing;;;;5P;673;1685;188/4.0;2.99;53/47;10.352;9.996;-0.356
+TIER_4;64;Cadillac_CT5VBlackwingRewardRecycled_2022;Cadillac;CT5-V Blackwing;;;;5G;673;1658;188/4.0;2.99;53/47;10.404;10.044;-0.360
+TIER_4;65;Cadillac_CTSVReward_2017;Cadillac;CTS-V 'Pedestal Edition';;;;5P;673;1084;254/4.5;3.49;23/77;11.530;11.330;-0.200
+TIER_4;66;Cadillac_CTSVRewardRecycled_2017;Cadillac;CTS-V;;;Elite full;5G;673;1604;252/4.2;3.20;0/100;10.491;10.345;-0.146
+TIER_4;67;Cadillac_CTSVRewardRecycled_2017;Cadillac;CTS-V;;;Elite 0;5G;673;1053;245/4.5;3.52;23/77;11.593;11.394;-0.199
+TIER_4;68;Chevrolet_CamaroZ28_2015;Chevrolet;Camaro Z28;;;;5G;674;738;245/4.5;3.48;27/73;12.213;12.187;-0.026
+TIER_4;69;Chevrolet_CamaroZ28ASC_2015;Chevrolet;ASC Camaro Z28;;;;5G;675;632;252/4.2;4.65;11/89;12.381;11.937;-0.444
+TIER_4;70;Chevrolet_CamaroZL1Crew_2017;Chevrolet;Ashleigh's Camaro ZL1;;;;5P;676;653;260/4.3;3.96;18/82;12.311;12.251;-0.060
+TIER_4;71;Chevrolet_CamaroZL1CrewRecycled_2017;Chevrolet;Camaro ZL1;;;;4G;676;641;252/4.2;3.91;20/80;12.334;12.271;-0.063
+TIER_4;72;Chevrolet_CorvetteC7REditionReward_2015;Chevrolet;Corvette C7.R;;;;4P;673;745;261/4.2;3.49;0/100;12.215;11.967;-1.362
+TIER_4;73;Chevrolet_CorvetteC7REditionRewardRecycled_2015;Chevrolet;Corvette Stingray Z06;;;;4G;673;171;252/4.2;3.49;0/100;13.361;12.005;-1.356
+TIER_4;74;Chevrolet_CorvetteC8Convertible_2020;Chevrolet;2020 Corvette Stingray Convertible;;;;5P;674;1751;188/4.1;5.00;0/100;10.174;9.888;-0.286
+TIER_4;75;Chevrolet_CorvetteC8Reward_2020;Chevrolet;2020 Corvette Stingray;;;;4P;674;1589;222/4.0;5.00;6/94;10.511;10.192;-0.319
+TIER_4;76;Chevrolet_CorvetteC8RewardRecycled_2020;Chevrolet;2020 Corvette Stingray;;;Elite full;5G;674;1745;222/4.0;5.00;0/100;10.200;9.905;-0.295
+TIER_4;77;Chevrolet_CorvetteC8RewardRecycled_2020;Chevrolet;2020 Corvette Stingray;;;Elite 0;4G;674;1567;222/4.0;5.00;8/92;10.554;10.241;-0.313
+TIER_4;78;Chevrolet_CorvetteStingRayC2F8_1966;Chevrolet;Letty's Sting Ray;fnf;Fnf;;5P;672;1228;290/5.0;2.53;30/70;11.300;11.210;-0.090
+TIER_4;79;Chevrolet_RBCorvetteC8StingrayReward_2020;Chevrolet;Rocket Bunny Corvette Stingray;;;;5P;674;1589;222/4.0;5.00;6/94;10.511;10.191;-0.320
+TIER_4;80;Chevrolet_RBCorvetteC8StingrayRewardRecycled_2020;Chevrolet;Rocket Bunny Corvette Stingray;;;;5G;674;1567;222/4.0;5.00;8/92;10.554;10.238;-0.316
+TIER_4;81;Dodge_ChallengerRTShakerF7_2015;Dodge;Letty's 2015 Challenger R/T Shaker;fnf;Fnf;;5P;673;1850;188/4.1;3.27;0/100;10.012;9.827;-0.185
+TIER_4;82;Dodge_ChargerHellcat_2020;Dodge;Charger SRT Hellcat;;;;5G;673;1608;442/4.8;3.44;0/100;10.503;10.462;-0.041
+TIER_4;83;Dodge_ChargerHellcatDaytona50th_2020;Dodge;Charger SRT Hellcat '50th Anniversary Edition';;;;5P;673;1637;442/4.8;3.43;0/100;10.446;10.403;-0.043
+TIER_4;84;Dodge_ViperACRCrew_2016;Dodge;Viper ACR;;;;5P;640;275;261/4.2;3.42;55/45;13.633;13.633;-0.000
+TIER_4;85;Dodge_ViperACRReward_2016;Dodge;Viper ACR;;;;5P;673;60;261/4.2;2.84;0/100;13.583;11.740;-1.843
+TIER_4;86;Dodge_ViperACRRewardRecycled_2016;Dodge;Viper ACR;;;;5G;673;44;252/4.2;2.85;0/100;13.615;11.776;-1.839
+TIER_4;87;Dodge_ViperGTS_2015;Dodge;Viper GTS;;;Elite full;5G;672;1497;249/4.3;3.83;0/100;10.749;10.692;-0.057
+TIER_4;88;Dodge_ViperGTS_2015;Dodge;Viper GTS;;;Elite 0;3G;672;764;228/4.8;4.65;0/100;12.216;12.213;-0.003
+TIER_4;89;Dodge_ViperSnakeskinEditionGTC_2017;Dodge;Viper Snakeskin Edition GTC;;;;5P;671;865;258/4.4;2.37;23/77;12.038;11.987;-0.051
+TIER_4;90;Ferrari_CaliforniaT70thAnniversary_2015;Ferrari;California T '70th Anniversary';;;;5P;666;538;248/4.9;3.32;19/81;12.897;12.117;-0.780
+TIER_4;91;Ferrari_F40Reward_1987;Ferrari;F40;;;;5P;673;1505;253/4.6;2.00;0/100;10.709;10.590;-0.119
+TIER_4;92;Ferrari_F40RewardRecycled_1987;Ferrari;F40;;remove 1 rare engine fusion;;5G;673;1500;244/4.6;2.00;1/99;10.719;10.560;-0.159
+TIER_4;93;Ferrari_F50Crew_1995;Ferrari;Donna's F50;;;;5P;676;1425;261/4.2;2.46;52/48;10.767;10.429;-0.338
+TIER_4;94;Ferrari_F50CrewRecycled_1995;Ferrari;F50;;;;4G;676;1393;252/4.2;2.47;52/48;10.831;10.492;-0.339
+TIER_4;95;Ferrari_PurosangueReward_2023;Ferrari;Purosangue;;;;5P;673;1845;188/4.0;2.49;0/100;10.028;9.947;-0.081
+TIER_4;96;Ferrari_PurosangueRewardRecycled_2023;Ferrari;Purosangue;;;;5G;673;1820;188/4.0;2.42;0/100;10.078;9.998;-0.080
+TIER_4;97;Ford_EscortMKIF6_1970;Ford;Brian's Escort Mk1 RS1600;;Fnf;;5P;669;1854;188/4.1;2.40;54/46;10.125;9.749;-0.376
+TIER_4;98;Ford_GT40MkII1_1966;Ford;1966 GT40 Mk2 #1;;;;5P;675;1825;261/4.1;2.00;0/100;10.006;9.835;-0.171
+TIER_4;99;Ford_GT40MkII_1966;Ford;1966 GT40 Mk2;;;Elite full;5G;675;1593;181/4.4;2.00;0/100;10.468;10.359;-0.109
+TIER_4;100;Ford_GT40MkII_1966;Ford;1966 GT40 Mk2;;;Elite 0;0G;675;852;186/4.1;2.01;52/48;11.951;11.769;-0.182
+TIER_4;101;Ford_GT_2005;Ford;2005 GT;;;;5G;675;1600;188/7.2;2.76;52/48;10.431;9.782;-0.649
+TIER_4;102;Ford_GTHeritageEdition_2005;Ford;2005 GT 'Heritage Edition';;;;5P;675;1640;188/5.8;2.71;52/48;10.351;9.720;-0.631
+TIER_4;103;Ford_MustangDarkHorse_2024;Ford;Mustang Dark Horse;;Transmission 5;;5P;669;2211;188/4.0;2.01;0/100;9.435;9.352;-0.083
+TIER_4;104;Ford_MustangGTHPE750Silver_2015;Ford;Mustang HPE750;;;;4G;673;1498;219/5.3;3.73;20/80;10.699;10.599;-0.100
+TIER_4;105;Ford_MustangGTPremiumBoss_2015;Ford;Kurts's Mustang HPE750;;;;4P;546;583;210/5.3;3.73;56/44;16.128;16.012;-0.116
+TIER_4;106;Ford_MustangGTPremiumElite_2015;Ford;Altay's Mustang Shelby GT350R;;;;5P;673;378;239/5.3;3.73;3/97;12.959;12.959;-0.000
+TIER_4;107;Ford_MustangMachEGTReward_2021;Ford;Mustang Mach-E GT Performance Edition;;;;5P;673;1620;188/4.0;3.80;0/100;10.482;10.329;-0.153
+TIER_4;108;Ford_MustangMachEGTRewardRecycled_2021;Ford;Mustang Mach-E GT Performance Edition;;;;5G;673;1507;188/4.0;4.12;0/100;10.710;10.492;-0.218
+TIER_4;109;Ford_RoushStage3Mustang_1996;Ford;Jack Roush Edition Mustang;;;;5P;673;1689;188/4.0;2.36;0/100;10.336;9.718;-0.618
+TIER_4;110;Ford_ShelbyGT350R_2016;Ford;Mustang Shelby GT350R;;;;5G;673;776;230/5.3;3.73;3/97;12.164;12.073;-0.091
+TIER_4;111;Ford_ShelbyGT350RElite_2016;Fod;Altay's Mustang Shelby GT350R;;;;5P;673;378;239/5.3;3.73;3/97;12.959;12.959;-0.000
+TIER_4;112;Honda_AIMGAINGTNSXEvo_2017;Honda;AIMGAIN GT NSX;;(Black)(Evo);;5P;674;1689;210/4.4;2.84;0/100;10.290;10.117;-0.173
+TIER_4;113;Honda_AIMGAINGTNSXReward_2017;Honda;AIMGAIN GT NSX;;(Dark Grey)(Season Prize);;5P;674;1554;183/4.3;3.09;0/100;10.560;10.375;-0.185
+TIER_4;114;Honda_AIMGAINGTNSXRewardRecycled_2017;Honda;AIMGAIN GT NSX;;;;5G;674;1516;185/4.2;3.11;0/100;10.636;10.437;-0.199
+TIER_4;115;Honda_LBNSXReward_2017;Honda;LB NSX;;;;5P;675;1467;230/4.2;3.02;0/100;10.703;10.431;-0.272
+TIER_4;116;Honda_LBNSXRewardRecycled_2017;Honda;LB NSX;;;Elite full;5G;675;1783;229/4.2;2.73;0/100;10.070;9.794;-0.276
+TIER_4;117;Honda_LBNSXRewardRecycled_2017;Honda;LB NSX;;;Elite 0;5G;675;1444;229/4.2;2.92;0/100;10.749;10.472;-0.277
+TIER_4;118;Honda_NSXLBWorksReward_1992;Honda;LB Works NSX-R;;;;5P;673;1852;188/4.3;2.69;0/100;10.005;9.710;-0.295
+TIER_4;119;Honda_NSXLBWorksRewardRecycled_1992;Honda;LB Works NSX-R;;;;5G;673;1827;188/4.3;2.70;0/100;10.055;9.758;-0.297
+TIER_4;120;Honda_NSXRClassic_1992;Honda;NSX-R;;;Elite full;5G;673;2053;188/4.3;2.22;0/100;9.614;9.466;-0.148
+TIER_4;121;Honda_NSXRClassic_1992;Honda;NSX-R;;;Elite 0;0G;673;1811;188/4.3;2.54;0/100;10.097;9.853;-0.244
+TIER_4;122;Honda_NSXReward_2017;Honda;NSX;;(Remove 1 epic engine fusion);;4P;674;1309;517/5.7;3.08;0/100;11.069;10.871;-0.198
+TIER_4;123;Honda_NSXRewardRecycled_2017;Honda;NSX;;Don't add 3 epic Engine fusions);Elite full;5G;674;1623;494/5.7;2.95;0/100;10.440;10.190;-0.250
+TIER_4;124;Honda_NSXRewardRecycled_2017;Honda;NSX;;;Elite 0;4G;674;1298;494/5.7;3.08;0/100;11.091;10.882;-0.209
+TIER_4;125;Honda_NSXRocketBunny_1992;Honda;Rocket Bunny NSX (Easter III);;;;5P;673;1852;188/4.3;2.71;0/100;10.004;9.711;-0.293
+TIER_4;126;Honda_VeilsideNSXReward_1995;Honda;Veilside Fortune NSX;;;;5P;673;1761;188/4.0;2.80;0/100;10.186;9.885;-0.301
+TIER_4;127;Honda_VeilsideNSXRewardRecycled_1995;Honda;Veilside Fortune NSX;;;;5G;673;1742;188/4.0;2.81;0/100;10.225;10.017;-0.208
+TIER_4;128;Hyundai_IONIQ5NNPX1Reward_2024;Hyundai;IONIQ 5 NPX1;;;;5P;673;1956;225/4.0;2.30;0/100;9.792;9.594;-0.198
+TIER_4;129;Hyundai_IONIQ5NNPX1RewardRecycled_2024;Hyundai;IONIQ 5 NPX1;;;;5G;673;1930;225/4.0;2.30;0/100;9.844;9.638;-0.206
+TIER_4;130;Hyundai_Ioniq5NReward_2023;Hyundai;IONIQ 5 N;;;;5P;673;2006;225/4.0;2.26;0/100;9.690;9.490;-0.200
+TIER_4;131;Hyundai_Ioniq5NRewardRecycled_2023;Hyundai;IONIQ 5 N;;;;5G;673;1982;225/4.0;2.28;0/100;9.740;9.541;-0.199
+TIER_4;132;Hyundai_IONIQ6NReward_2025;Hyundai;IONIQ 6 N;;;;5P;673;2015;225/4.0;2.00;0/100;9.674;9.558;-0.116
+TIER_4;133;Hyundai_IONIQ6NRewardRecycled_2025;Hyundai;IONIQ 6 N;;;;5G;673;1986;225/4.0;0/100;0/100;9.730;9.583;-0.147
+TIER_4;134;Infiniti_Q60ProjectBlackSReward_2018;Infiniti;Project Black S;;;;5P;673;1680;220/5.2;2.37;11/89;10.343;10.307;-0.036
+TIER_4;135;Infiniti_Q60ProjectBlackSRewardRecycled_2018;Infiniti;Project Black S;;;;5G;673;1655;214/5.3;2.37;8/92;10.393;10.359;-0.034
+TIER_4;136;Jaguar_FTypeRCoupe_2016;Jaguar;F-TYPE R AWD Coupé;;;;3G;673;667;224/4.9;3.40;0/100;12.374;12.293;-0.081
+TIER_4;137;Jaguar_FTypeRCoupeF8_2016;Jaguar;Deckard Shaw's F-TYPE;fnf;Fnf;;5P;674;1536;248/5.0;2.35;53/47;10.592;10.564;-0.028
+TIER_4;138;Jaguar_XESVProject8F9_2018;Jaguar;Otto's XE SV Project 8;fnf;Fnf;;5P;675;1571;261/4.2;3.61;0/100;10.495;10.475;-0.020
+TIER_4;139;Jaguar_XESVProject8Reward_2018;Jaguar;XE SV Project 8;;;;5P;675;1571;261/4.2;3.61;0/100;10.495;10.475;-0.020
+TIER_4;140;Jaguar_XESVProject8RewardRecycled_2018;Jaguar;XE SV Project 8;;;;5G;675;1549;252/4.2;3.61;0/100;10.539;10.523;-0.016
+TIER_4;141;Jeep_GladiatorF9_2019;Jeep;Tej's Gladiator;fnf;Fnf;;5P;673;1725;188/4.0;3.45;0/100;10.261;10.176;-0.085
+TIER_4;142;Jeep_GladiatorReward_2019;Jeep;Gladiator 'Rubicon';;;;5P;673;1725;188/4.0;3.45;0/100;10.261;10.176;-0.085
+TIER_4;143;Jeep_GladiatorRewardRecycled_2019;Jeep;Gladiator 'Rubicon';;;;5G;673;1701;184/4.2;3.47;0/100;10.309;10.246;-0.063
+TIER_4;144;Jeep_GrandCherokeeTrackhawk_2018;Jeep;Grand Cherokee Trackhawk;;;Elite full;4G;673;1093;222/4.0;3.70;0/100;11.517;11.454;-0.063
+TIER_4;145;Jeep_GrandCherokeeTrackhawk_2018;Jeep;Grand Cherokee Trackhawk;;;Elite 0;4G;673;844;204/5.0;4.00;9/91;12.015;11.978;-0.038
+TIER_4;146;Jeep_GrandCherokeeTrackhawkF9_2018;Jeep;Tej's Grand Cherokee Trackhawk;fnf;Fnf;;4P;673;1095;188/4.0;3.70;0/100;11.514;11.475;-0.039
+TIER_4;147;Lamborghini_CountachClassic_1988;Lamborghini;Countach LP 5000 QV;;;Elite full;5G;675;1729;63/12.5;2.41;0/100;10.198;9.851;-0.347
+TIER_4;148;Lamborghini_CountachClassic_1988;Lamborghini;Countach LP 5000 QV;;;Elite 0;0G;675;1578;63/12.5;2.47;0/100;10.501;10.154;-0.347
+TIER_4;149;Lamborghini_LBCountachLPReward_1988;Lamborghini;LB Works Countach;;;;5P;673;1893;188/4.0;2.37;0/100;9.911;9.594;-0.533
+TIER_4;150;Lamborghini_LBCountachLPRewardRecycled_1988;Lamborghini;LB Works Countach;;;;5G;673;1873;188/4.0;2.38;0/100;9.953;9.634;-0.382
+TIER_4;151;Lamborghini_UrusPerformanteReward_2023;Lamborghini;Urus Performante;;;;5P;673;1876;188/4.0;3.24;0/100;9.946;9.799;-0.147
+TIER_4;152;Lamborghini_UrusPerformanteRewardRecycled_2023;Lamborghini;Urus Performante;;;;5G;673;1830;188/4.0;3.33;0/100;10.048;9.897;-0.151
+TIER_4;153;Lamborghini_UrusPHEVReward_2024;Lamborghini;Urus SE;;;;4P;673;1759;252/4.2;3.76;0/100;10.198;10.136;-0.062
+TIER_4;154;Lamborghini_UrusPHEVRewardRecycled_2024;Lamborghini;Urus SE;;;;4G;673;1732;250/4.2;3.78;0/100;10.252;10.167;-0.085
+TIER_4;155;Lamborghini_UrusReward_2018;Lamborghini;Urus;;;;4P;673;1060;247/4.5;4.41;14/86;11.596;11.524;-0.072
+TIER_4;156;Lamborghini_UrusRewardRecycled_2018;Lamborghini;Urus;;;;4G;673;1026;238/4.6;4.42;16/84;11.664;11.590;-0.074
+TIER_4;157;Lexus_LC500ConvertibleReward_2017;Lexus;Lexus LC 500 Convertible;;;;5P;673;1852;188/4.0;2.89;0/100;9.991;9.609;-0.382
+TIER_4;158;Lexus_LC500ConvertibleRewardRecycled_2017;Lexus;Lexus LC 500 Convertible;;;;5G;673;1826;188/4.0;2.90;0/100;10.043;9.658;-0.385
+TIER_4;159;Lexus_LC500TNR_2018;Lexus;LC 500;;;Elite full;5P;673;1991;188/4.0;2.82;0/100;9.737;9.482;-0.255
+TIER_4;160;Lexus_LC500TNR_2018;Lexus;LC 500;;;Elite 0;0G;673;1190;188/4.0;3.62;0/100;11.340;10.946;-0.394
+TIER_4;161;Lotus_EvoraGT430Reward_2018;Lotus;Evora GT430;;;;5P;673;1598;234/4.5;2.80;0/100;10.523;10.339;-0.184
+TIER_4;162;Lotus_EvoraGT430RewardRecycled_2018;Lotus;Evora GT430;;;;5G;673;1564;226/4.6;2.80;0/100;10.590;10.405;-0.185
+TIER_4;163;Lotus_Type131Reward_2022;Lotus;Emira First Edition;;;;5P;673;1611;188/4.0;2.22;53/47;10.499;10.277;-0.222
+TIER_4;164;Lotus_Type131RewardRecycled_2022;Lotus;Emira;;;;5G;673;1583;188/4.0;2.24;53/47;10.555;10.328;-0.227
+TIER_4;165;Lotus_VorsteinerEmiraReward_2022;Lotus;Emira Vorsteiner 'LR-52 Carbon Fibre Aero Program';;;;5P;673;1737;188/4.0;2.18;53/47;10.249;10.048;-0.200
+TIER_4;166;Lotus_VorsteinerEmiraRewardRecycled_2022;Lotus;Emira Vorsteiner 'LR-52 Carbon Fibre Aero Program';;;;5G;673;1709;188/4.0;2.18;53/47;10.303;10.098;-0.205
+TIER_4;167;Maserati_GhibliSQ4_2014;Maserati;Ghibli S Q4;;;;4G;672;781;251/5.5;2.00;47/53;12.193;12.171;-0.022
+TIER_4;168;Maserati_GranTurismoMCReward_2018;Maserati;GranTurismo MC;;;;4P;672;942;183/4.3;3.47;0/100;11.851;11.762;-0.089
+TIER_4;169;Maserati_GranTurismoMCRewardRecycled_2018;Maserati;GranTurismo MC;;;;4G;672;897;180/4.5;3.48;0/100;11.942;11.857;-0.085
+TIER_4;170;Maserati_LBGranTurismoS_2018;Maserati;LB GranTurismo MC;;;;5G;674;915;221/4.2;3.35;0/100;11.858;11.745;-0.113
+TIER_4;171;Mazda_KRCJapanRX8Reward_2004;Mazda;KRC Modified 'SE3P Wide Body' RX-8;;;;5P;673;1793;188/4.0;2.51;53/47;10.105;9.769;-0.336
+TIER_4;172;Mazda_KRCJapanRX8RewardRecycled_2004;Mazda;KRC Modified 'SE3P Wide Body' RX-8;;;;5G;673;1766;185/4.2;2.51;53/47;10.160;9.816;-0.344
+TIER_4;173;Mazda_RBRX8_2004;Mazda;Rocket Bunny RX-8;;(Easter IV);;5P;673;1792;188/4.0;2.50;53/47;10.108;9.769;-0.339
+TIER_4;174;Mazda_RX7F1_1993;Mazda;Dom Toretto's Veilside RX-7;fnf;Fnf;;5P;669;1658;222/4.0;2.39;53/47;10.540;10.276;-0.264
+TIER_4;175;Mazda_RX7Reward_1993;Mazda;RX-7 Rocket Bunny;;(Lime)(Season Prize);;5P;669;1230;365/5.1;2.00;0/100;11.383;10.571;-0.812
+TIER_4;176;Mazda_RX7RewardEaster_1993;Mazda;RX-7 Rocket Bunny;;(Green) (Easter I);;5P;669;1520;363/5.2;3.66;6/94;10.803;10.596;-0.207
+TIER_4;177;Mazda_RX7RewardRecycled_1993;Mazda;RX-7 Rocket Bunny;;;Elite full;5G;669;1789;367/4.7;2.00;0/100;10.264;9.659;-0.607
+TIER_4;178;Mazda_RX7RewardRecycled_1993;Mazda;RX-7 Rocket Bunny;;;Elite 0;5G;669;1281;355/5.1;2.00;0/100;11.282;10.482;-0.800
+TIER_4;179;Mazda_RX8F3_2004;Mazda;Neela's Veilside 'VSD1-GT' RX-8;fnf;Fnf;;5P;673;1792;188/4.0;2.50;53/47;10.108;9.769;-0.339
+TIER_4;180;MercedesAMG_CLE53CoupeReward_2024;Mercedes-AMG;CLE 53 Coupe;;;;5P;673;1704;188/4.0;2.00;0/100;10.296;10.208;-0.088
+TIER_4;181;MercedesAMG_CLE53CoupeRewardRecycled_2024;Mercedes-AMG;CLE 53 Coupe;;;;5G;673;1679;188/4.0;2.00;0/100;10.346;10.282;-0.064
+TIER_4;182;MercedesAMG_G63SUVReward_2020;Mercedes AMG;Mercedes-AMG G 63;;;;5P;674;1434;188/4.0;2.01;0/100;10.813;10.662;-0.151
+TIER_4;183;MercedesAMG_G63SUVRewardRecycled_2020;Mercedes AMG;Mercedes-AMG G 63;;;;5G;674;1408;188/4.0;2.01;0/100;10.865;10.696;-0.169
+TIER_4;184;MercedesAMG_GT_2015;Mercedes AMG;GT;;;;3G;673;628;226/4.8;2.64;11/89;12.458;12.447;-0.011
+TIER_4;185;MercedesAMG_GTSF8_2015;Mercedes AMG;Tej's AMG GT S;fnf;Fnf;;5P;674;563;232/5.6;4.31;31/69;12.554;12.393;-0.161
+TIER_4;186;MercedesBenz_C63AMGCoupeBlackSeries_2014;Mercedes Benz;C 63 AMG Black Series;;;;4G;674;663;221/5.3;3.49;16/84;12.348;12.340;-0.008
+TIER_4;187;MercedesBenz_LBC63AMGCoupeBlackSeries_2014;Mercedes Benz;LB C 63 AMG Black Series;;;;5G;673;753;198/5.8;2.00;15/85;12.212;12.169;-0.043
+TIER_4;188;MercedesBenz_SLSAMGBlackSeries_2013;Mercedes Benz;SLS AMG Black Series;;;;4G;673;711;230/5.3;4.48;52/48;12.279;12.238;-0.041
+TIER_4;189;Mitsubishi_EclipseF1_1995;Mitsubishi;Brian's Eclipse;fnf;Fnf;;5P;673;1588;261/4.2;2.17;19/81;10.530;10.352;-0.178
+TIER_4;190;Mitsubishi_LancerEvolutionIXF3_2006;Mitsubishi;Sean's APR Lancer Evolution IX;fnf;Transmission 5;;5P;667;1913;206/4.0;2.67;0/100;10.089;9.919;-0.170
+TIER_4;191;Mitsubishi_LancerEvolutionVIIF2_2002;Mitsubishi;Brian's DAMD ver. Lancer Evolution VII;fnf;Fnf;;5P;673;1807;248/4.9;3.08;0/100;10.103;9.990;-0.113
+TIER_4;192;Mitsubishi_LancerEVOXTNR_2015;Mitsubishi;Lancer Evolution Final Edition;;;Elite full;5P;673;1868;188/4.0;2.82;0/100;9.979;9.883;-0.096
+TIER_4;193;Mitsubishi_LancerEVOXTNR_2015;Mitsubishi;Lancer Evolution Final Edition;;;Elite 0;0G;673;1111;188/4.0;3.86;0/100;11.492;11.406;-0.086
+TIER_4;194;Mitsubishi_VoltexEvoIXReward_2005;Mitsubishi;Voltex Lancer Evolution IX;;Transmission 5;;5P;667;1914;206/4.0;2.67;0/100;10.086;9.918;-0.168
+TIER_4;195;Mitsubishi_VoltexEvoIXRewardRecycled_2005;Mitsubishi;Voltex Lancer Evolution IX;;;;5G;673;1785;210/4.0;2.82;0/100;10.143;9.980;-0.163
+TIER_4;196;Nissan_350ZF3_2003;Nissan;Takashi's Veilside Fairlady Z (Z33);fnf;Fnf;;5P;673;1816;248/4.9;2.46;13/87;10.086;9.962;-0.124
+TIER_4;197;Nissan_350ZRocketBunny_2003;Nissan;Rocket bunny V1 Fairlady Z (Z33);;;;5P;673;1787;178/4.6;2.37;0/100;10.128;10.020;-0.108
+TIER_4;198;Nissan_350ZRocketBunnyV2_2003;Nissan;Rocket bunny V2 Fairlady Z (Z33);;;;5P;673;1802;179/4.6;2.38;0/100;10.098;10.029;-0.069
+TIER_4;199;Nissan_350ZRocketBunnyV2Easter_2003;Nissan;Rocket bunny V2 Fairlady Z (Z33);;(Easter);;5P;673;1718;184/4.2;2.37;0/100;10.265;10.150;-0.115
+TIER_4;200;Nissan_GTR_2017;Nissan;2017 GT-R (R35);;;;4G;673;790;264/4.0;3.01;53/47;12.117;11.804;-0.313
+TIER_4;201;Nissan_GTRNismoCrew_2017;Nissan;Kj's GT-R NISMO (R35);;;;5P;676;679;248/4.9;3.40;18/82;12.261;12.222;-0.039
+TIER_4;202;Nissan_GTRNismoCrewRecycled_2017;Nissan;GT-R NISMO (R35);;;;4G;676;666;230/5.3;3.41;18/82;12.286;12.257;-0.029
+TIER_4;203;Nissan_GTRNismoNReward_2017;Nissan;GT-R NISMO (R35) N Attack Pkg;;;;5P;674;1592;239/4.2;3.02;16/84;10.483;10.382;-0.101
+TIER_4;204;Nissan_GTRNismoNRewardRecycled_2017;Nissan;GT-R NISMO (R35) N Attack Pkg;;;;5G;674;1570;222/4.2;3.03;18/82;10.528;10.428;-0.100
+TIER_4;205;Nissan_GTRPremium_2015;Nissan;2015 GT-R (R35) Premium;;;;3G;672;606;239/4.2;3.91;2/98;12.525;12.353;-0.172
+TIER_4;206;Nissan_GTRReward_2015;Nissan;LB GT-R (R35) Premium;;;;4P;669;545;246/5.0;2.15;30/70;12.758;12.141;-0.617
+TIER_4;207;Nissan_GTRRewardRecycled_2015;Nissan;LB GT-R (R35) Premium;;;;4G;669;525;237/4.9;2.15;30/70;12.799;12.184;-0.615
+TIER_4;208;Nissan_JukeR20ConceptReward_2015;Nissan;Juke-R 2.0;;;;5P;671;1608;225/5.0;3.21;0/100;10.569;10.512;-0.057
+TIER_4;209;Nissan_JukeR20ConceptRewardRecycled_2015;Nissan;Juke-R 2.0;;;;5G;671;1579;220/4.9;3.24;0/100;10.627;10.565;-0.062
+TIER_4;210;Nissan_LBGTRType2_2017;Nissan;LB Type 2 GT-R (R35);;;;5P;673;1485;188/4.0;2.47;0/100;10.728;10.429;-0.299
+TIER_4;211;Nissan_PandeMGTRR33Reward_1995;Nissan;Pandem Skyline GT-R (BCNR33);;;;5P;673;1846;183/4.7;2.13;0/100;10.013;9.841;-0.172
+TIER_4;212;Nissan_PandeMGTRR33RewardRecycled_1995;Nissan;Pandem Skyline GT-R (BCNR33);;;;5G;673;1817;185/4.6;2.15;0/100;10.072;9.902;-0.170
+TIER_4;213;Nissan_SilviaS15RocketBunny_1999;Nissan;Silvia (S15) Rocket Bunny;;;Elite full;5G;673;1663;235/5.0;2.42;23/77;10.382;10.375;-0.007
+TIER_4;214;Nissan_SilviaS15RocketBunny_1999;Nissan;Silvia (S15) Rocket Bunny;;;Elite 0;5G;673;1354;230/5.3;2.56;22/78;11.001;10.987;-0.014
+TIER_4;215;Nissan_SkylineGTRR33F1_1995;Nissan;Leon's Skyline GT-R (R33);fnf;;;5P;673;1844;185/4.6;2.15;0/100;10.018;9.842;-0.176
+TIER_4;216;Nissan_SkylineR33NismoSTune_1995;Nissan;Skyline GT-R (BCNR33 NISMO S-Tune ver.);;;;5G;673;1551;231/4.2;3.68;0/100;10.620;10.538;-0.082
+TIER_4;217;Nissan_StillenMaximaF1_1999;Nissan;Vince's STILLEN Maxima (A32);fnf;;;5P;673;1782;188/4.0;2.20;53/47;10.150;9.925;-0.225
+TIER_4;218;Nissan_TopSecret350ZF3_2003;Nissan;Morimoto's Top Secret Fairlady Z (Z33);fnf;;;5P;673;1816;248/4.9;2.46;13/87;10.086;9.963;-0.123
+TIER_4;219;Nissan_VeilsideZReward_2023;Nissan;Veilside Z (RZ34) FFZ400;;;;4P;673;1796;188/4.0;2.77;0/100;10.117;9.915;-0.202
+TIER_4;220;Nissan_VeilsideZRewardRecycled_2023;Nissan;Veilside Z (RZ34) FFZ400;;;;4G;673;1773;188/4.0;2.77;0/100;10.165;9.959;-0.206
+TIER_4;221;Nissan_ZNISMOReward_2024;Nissan;Z NISMO (RZ34);;;;5P;673;1714;188/4.0;2.85;0/100;10.279;10.056;-0.223
+TIER_4;222;Nissan_ZNISMORewardRecycled_2024;Nissan;Z NISMO (RZ34);;;;5G;673;1690;188/4.0;2.86;0/100;10.327;10.098;-0.229
+TIER_4;223;Plymouth_HemiCudaClassic_1971;Plymouth;HEMI® Cuda;;;Elite full;5G;672;1533;188/4.0;2.00;0/100;10.689;9.934;-0.755
+TIER_4;224;Plymouth_HemiCudaClassic_1971;Plymouth;HEMI® Cuda;;;Elite 0;0G;672;1074;188/4.0;2.28;17/83;11.605;10.973;-0.632
+TIER_4;225;Porsche_911Carrera4SCabrioletReward_2020;Porsche;911 Carrera 4S Cabriolet;;;;5P;673;1590;222/4.2;3.46;0/100;10.541;10.186;-0.355
+TIER_4;226;Porsche_911Carrera4SCabrioletRewardRecycled_2020;Porsche;911 Carrera 4S Cabriolet;;;;5G;673;1567;222/4.2;3.51;0/100;10.585;10.228;-0.357
+TIER_4;227;Porsche_911RWBReward_1972;Porsche;RWB 911 (F-Series) NARRO STYLE;;;;5P;674;1706;260/4.3;2.57;0/100;10.247;9.931;-0.316
+TIER_4;228;Porsche_911RWBRewardRecycled_1972;Porsche;RWB 911 (F-Series) NARRO STYLE;;;;5G;674;1811;252/4.2;2.59;1/99;10.038;9.985;-0.053
+TIER_4;229;Porsche_911STRII_1972;Porsche;911 '277' Urban Outlaw;;;;5P;674;1830;256/4.5;3.14;0/100;10.014;9.927;-0.087
+TIER_4;230;Porsche_911Targa4SReward_2021;Porsche;911 Traga 4S Heritage Design Edition (992);;;;5P;673;1589;222/4.2;3.45;0/100;10.542;10.184;-0.358
+TIER_4;231;Porsche_911Targa4SRewardRecycled_2021;Porsche;911 Traga 4S Heritage Design Edition (992);;;;5G;673;1567;222/4.2;3.51;0/100;10.585;10.228;-0.357
+TIER_4;232;Porsche_959_1988;Porsche;959 SC;;;;5G;673;1420;188/4.4;2.63;0/100;10.882;10.389;-0.493
+TIER_4;233;Porsche_CayenneTurboGTReward_2022;Porsche;Cayenne Turbo GT;;;;5P;672;1652;178/4.6;2.33;0/100;10.436;10.362;-0.074
+TIER_4;234;Porsche_CayenneTurboGTRewardRecycled_2022;Porsche;Cayenne Turbo GT;;;;5G;673;1636;176/4.7;2.34;0/100;10.448;10.377;-0.071
+TIER_4;235;Porsche_PanameraSportTurismoReward_2021;Porsche;Panamera Turbo S Sport Turismo;;;;5P;673;1787;188/4.0;2.04;0/100;10.140;10.030;-0.110
+TIER_4;236;Porsche_PanameraSportTurismoRewardRecycled_2021;Porsche;Panamera Turbo S Sport Turismo;;;;5G;673;1760;188/4.0;2.07;0/100;10.194;10.093;-0.101
+TIER_4;237;RAM_1500TRX_2021;RAM;1500 TRX;;;;4G;673;1658;518/5.7;2.35;0/100;10.375;10.185;-0.190
+TIER_4;238;Subaru_ImprezaWRXF4_2009;Subaru;Brian's Veilside IMPREZA WRX STI;fnf;Fnf;;5P;674;1767;188/4.0;2.36;0/100;10.154;10.016;-0.138
+TIER_4;239;Subaru_VarisImprezaWRXSTI_2014;Subaru;VARIS WRX STI;;;;5P;673;1875;63/15.4;2.25;0/100;9.956;9.816;-0.140
+TIER_4;240;Subaru_VarisWRXSTICALM_2018;Subaru;VARIS SUBARU WRX STI CALM EDITION;;;;5P;673;1812;188/4.0;2.59;0/100;10.095;9.853;-0.242
+TIER_4;241;Subaru_WRXSTITNR_2018;Subaru;SUBARU WRX STI;;;Elite full;5P;673;1786;188/4.0;2.67;0/100;10.140;9.865;-0.275
+TIER_4;242;Subaru_WRXSTITNR_2018;Subaru;SUBARU WRX STI;;;Elite 0;0G;673;1074;188/4.0;3.31;0/100;11.566;11.235;-0.331
+TIER_4;243;TVR_GriffithReward_2019;TVR;Griffith;;;;5P;674;1744;188/4.0;3.22;0/100;10.170;9.920;-0.250
+TIER_4;244;TVR_GriffithRewardRecycled_2019;TVR;Griffith;;;;5G;674;1723;188/4.0;3.30;0/100;10.211;9.999;-0.212
+TIER_4;245;TVR_Sagaris_2006;TVR;Sagaris;;(Red Cameleon)(Event);;5P;673;1709;239/4.2;2.55;0/100;10.283;10.105;-0.178
+TIER_4;246;TVR_SagarisReward_2006;TVR;Sagaris;;(Red)(Season Prize);;5P;673;1710;239/4.2;2.56;0/100;10.281;10.104;-0.177
+TIER_4;247;TVR_SagarisRewardRecycled_2006;TVR;Sagaris;;;;5G;673;1705;211/4.8;2.10;0/100;10.290;10.143;-0.147
+TIER_4;248;Volkswagen_JettaF1_1995;Wolkswagen;Jesse's Jetta;fnf;Fnf;;5P;673;1581;210/4.0;2.00;0/100;10.552;10.491;-0.061
+TIER_5;1;Acura_IntegraGSRF1_1998;Acura;Edwin's Integra GS-R;fnf;;;5P;713;2521;188/4.0;2.00;0/100;6.895;6.865;-0.030
+TIER_5;2;Acura_IntegraTypeRDB8F1_1995;Acura;Mia's Integra LS Sedan;fnf;;;5P;713;2475;188/4.0;2.00;0/100;6.983;6.963;-0.020
+TIER_5;3;Acura_NSXTypeSReward_2022;Acura;2022 NSX Type S;;;;5G;713;2061;188/4.0;2.11;0/100;7.775;7.702;-0.073
+TIER_5;4;Acura_NSXTypeSRewardRecycled_2022;Acura;2022 NSX Type S;;;;5P;713;2086;188/4.0;2.09;0/100;7.724;7.655;-0.069
+TIER_5;5;AMC_RingbrothersJavelinDefiant_1972;AMC;AMC Javelin AMX 'Defiant!';;;;5P;713;2241;347/4.0;2.00;6/94;7.454;7.096;-0.358
+TIER_5;6;Apollo_IntensaEmozione_2019;Apollo;Intensa Emozione;;(Black);;5P;715;2247;278/4.4;2.24;0/100;7.293;7.243;-0.050
+TIER_5;7;Apollo_IntensaEmozioneCarbon_2019;Apollo;Intensa Emozione;;(Purple);;5P;714;2243;347/4.0;2.87;6/94;7.369;7.344;-0.025
+TIER_5;8;Apollo_IntensaEmozioneOrangeDragon_2019;Apollo;Intensa Emozione 'Orange Dragon';;;;5P;714;2243;347/4.0;2.86;10/90;7.370;7.343;-0.027
+TIER_5;9;Apollo_ProjectEvo_2022;Apollo;Project Evo;;;;5P;713;2577;188/4.0;2.00;0/100;6.778;6.678;-0.100
+TIER_5;10;Apollo_S_2008;Apollo;S;;;;5P;713;2677;188/4.0;2.00;0/100;6.583;6.553;-0.030
+TIER_5;11;Arrinera_HussaryaReward_2020;Arrinera;Hussarya;;;;5P;713;2042;188/4.0;2.00;53/47;7.827;7.619;-0.208
+TIER_5;12;Arrinera_HussaryaRewardRecycled_2020;Arrinera;Hussarya;;;;5G;713;2010;185/4.2;2.00;53/47;7.891;7.679;-0.212
+TIER_5;13;Aspark_Owl_2021;Aspark;Owl;;;;5P;713;2531;225/4.0;2.00;0/100;6.842;6.787;-0.055
+TIER_5;14;Aspark_OwlSP600_2024;Aspark;Owl SP600;;;;5P;713;2609;225/4.0;2.00;0/100;6.684;6.684;0.000
+TIER_5;15;AstonMartin_DB11Reward_2017;Aston Martin;DB11;;;;4P;713;1594;540/5.8;2.84;0/100;8.690;8.635;-0.055
+TIER_5;16;AstonMartin_DB11RewardRecycled_2017;Aston Martin;DB11;;;;4G;713;1566;522/5.8;2.88;0/100;8.747;8.694;-0.053
+TIER_5;17;AstonMartin_DB12_2023;Aston Martin;DB12;;;;5P;713;2469;188/4.0;2.00;0/100;6.995;6.955;-0.040
+TIER_5;18;AstonMartin_DB12VolanteReward_2024;Aston Martin;DB12 Volante;;;;5P;713;2274;188/4.0;2.00;0/100;7.386;7.352;-0.034
+TIER_5;19;AstonMartin_DB12VolanteRewardRecycled_2024;Aston Martin;DB12 Volante;;;;5G;713;2245;188/4.0;2.00;0/100;7.443;7.404;-0.039
+TIER_5;20;AstonMartin_DBR22_2023;Aston Martin;Aston Martin DBR22;;;;5G;713;2514;188/4.0;2.00;0/100;6.897;6.770;-0.127
+TIER_5;21;AstonMartin_DBS770UltimateReward_2023;Aston Martin;DBS 770 Ultimate;;;;5P;713;2140;188/4.0;2.00;0/100;7.592;7.427;-0.165
+TIER_5;22;AstonMartin_DBS770UltimateRewardRecycled_2023;Aston Martin;DBS 770 Ultimate;;;;5G;713;2115;188/4.0;2.03;0/100;7.643;7.472;-0.171
+TIER_5;23;AstonMartin_DBSGTZagato_2020;Aston Martin;DBS GT Zagato;;;;5P;713;2229;188/4.0;2.07;0/100;7.417;7.324;-0.093
+TIER_5;24;AstonMartin_DBSSuperleggeraReward_2019;Aston Martin;DBS Superleggera;;;;4P;714;2079;473/4.0;2.69;0/100;7.702;7.669;-0.033
+TIER_5;25;AstonMartin_DBSSuperleggeraRewardRecycled_2019;Aston Martin;DBS Superleggera;;;;4G;714;2051;395/4.0;2.70;0/100;7.756;7.718;-0.038
+TIER_5;26;AstonMartin_DBSVolanteReward_2020;Aston Martin;DBS Superleggera Volante;;;;5P;714;2078;473/4.0;2.67;0/100;7.703;7.659;-0.044
+TIER_5;27;AstonMartin_DBSVolanteRewardRecycled_2020;Aston Martin;DBS Superleggera Volante;;;;5G;714;2050;395/4.0;2.70;0/100;7.758;7.718;-0.040
+TIER_5;28;AstonMartin_One77Reward_2010;Aston Martin;One-77;;;;5P;713;1547;683/7.1;2.08;0/100;8.828;8.069;-0.759
+TIER_5;29;AstonMartin_One77RewardRecycled_2010;Aston Martin;One-77;;;;5G;713;1519;654/7.0;2.10;0/100;8.883;8.140;-0.743
+TIER_5;30;AstonMartin_V12Speedster_2021;Aston Martin;V12 Speedster;;;;5G;713;2291;188/4.5;2.00;0/100;7.347;7.215;-0.132
+TIER_5;31;AstonMartin_V12SpeedsterDBR1_2021;Aston Martin;V12 Speedster 'DBR1';;;;5P;713;2343;188/4.0;2.00;0/100;7.242;7.174;-0.068
+TIER_5;32;AstonMartin_V12Vantage_2023;Aston Martin;V12 Vantage;;;;5P;713;2292;188/4.0;2.00;0/100;7.306;7.231;-0.075
+TIER_5;33;AstonMartin_V12VantageRReward_2023;Aston Martin;V12 Vantage Roadster;;;;5P;713;2292;188/4.0;2.00;0/100;7.306;7.231;-0.075
+TIER_5;34;AstonMartin_V12VantageRRewardRecycled_2023;Aston Martin;V12 Vantage Roadster;;;;5G;713;2264;188/4.0;2.00;0/100;7.362;7.285;-0.077
+TIER_5;35;AstonMartin_Valhalla_2020;Aston Martin;Valhalla Concept;;;;5P;714;2418;251/4.0;2.00;0/100;7.020;7.009;-0.011
+TIER_5;36;AstonMartin_Valhalla_2025;Aston Martin;Valhalla;;;;5P;714;2458;188/4.0;2.00;0/100;6.985;6.909;-0.076
+TIER_5;37;AstonMartin_ValhallaGold_2020;Aston Martin;Valhalla Concept;;;;5G;714;2327;188/4.0;2.00;0/100;7.153;7.067;-0.086
+TIER_5;38;AstonMartin_Valiant_2025;Aston Martin;Valiant;;;;5P;713;2528;188/4.0;2.00;0/100;6.836;6.672;-0.164
+TIER_5;39;AstonMartin_Valkyrie_2020;Aston Martin;Valkyrie;;;;5G;713;2356;63/12.0;2.67;0/100;7.130;6.930;-0.200
+TIER_5;40;AstonMartin_ValkyrieAMRPro_2022;Aston Martin;Valkyrie AMR Pro;;;;5P;713;2503;188/4.0;2.75;0/100;6.923;6.750;-0.173
+TIER_5;41;AstonMartin_ValkyrieAMRProConcept_2020;Aston Martin;Valkyrie AMR Pro Concept;;;;5P;713;2452;63/12.0;2.00;0/100;7.025;6.809;-0.216
+TIER_5;42;AstonMartin_ValkyrieSpider_2022;Aston Martin;Valkyrie Spider;;(matches Valkyrie Spirit);;5P;713;2409;63/12.0;2.65;0/100;7.111;6.913;-0.198
+TIER_5;43;AstonMartin_ValkyrieSpirit_2020;Aston Martin;Valkyrie 'Spirit - Designer Spec';;;;5P;713;2409;63/12.0;2.65;0/100;7.111;6.913;-0.198
+TIER_5;44;AstonMartin_ValkyrieTrackPack_2020;Aston Martin;Valkyrie 'Track Pack';;(Lime);;5P;713;2442;63/12.0;2.67;0/100;7.044;6.850;-0.194
+TIER_5;45;AstonMartin_ValkyrieTrackPackAMR_2020;Aston Martin;Valkyrie 'Track Pack AMR';;(Green);;5P;713;2442;63/12.0;2.67;0/100;7.044;6.850;-0.194
+TIER_5;46;AstonMartin_Valour_2024;Aston Martin;Valour;;(Lime);;5P;713;2528;188/4.0;2.00;0/100;6.836;6.672;-0.164
+TIER_5;47;AstonMartin_ValourReward_2024;Aston Martin;Valour;;(Green);;5P;713;2528;188/4.0;2.00;0/100;6.836;6.672;-0.164
+TIER_5;48;AstonMartin_ValourRewardRecycled_2024;Aston Martin;Valour;;;;5G;713;2502;188/4.0;2.00;0/100;6.888;6.720;-0.168
+TIER_5;49;AstonMartin_Vanquish_2025;Aston Martin;2025 Vanquish;;;;5P;713;2392;188/4.0;2.00;0/100;7.089;6.996;-0.390
+TIER_5;50;AstonMartin_VanquishVReward_2025;Aston Martin;2025 Vanquish Volante;;;;5P;713;2469;188/4.0;2.00;0/100;6.936;6.851;-0.085
+TIER_5;51;AstonMartin_VanquishVRewardRecycled_2025;Aston Martin;2025 Vanquish Volante;;;;5G;713;2444;188/4.0;2.00;0/100;6.985;6.898;-0.087
+TIER_5;52;AstonMartin_VanquishZagatoReward_2017;Aston Martin;Vanquish Zagato Coupé;;;;5P;714;1901;395/5.6;2.00;0/100;8.047;7.993;-0.054
+TIER_5;53;AstonMartin_VanquishZagatoRewardRecycled_2017;Aston Martin;Vanquish Zagato Coupé;;;;5G;714;1862;377/5.6;2.05;0/100;8.124;8.077;-0.047
+TIER_5;54;AstonMartin_VanquishZagatoSB_2017;Aston Martin;Vanquish Zagato Shooting Brake;;;;5P;714;2067;188/4.0;2.00;0/100;7.713;7.642;-0.071
+TIER_5;55;AstonMartin_Vantage_2024;Aston Martin;2024 Vantage;;;;4G;713;2447;188/4.0;2.08;0/100;7.039;7.000;-0.039
+TIER_5;56;AstonMartin_VantageGT12_2016;Aston Martin;Vantage GT12;;;;5P;713;2472;188/4.0;2.00;0/100;6.992;6.952;-0.040
+TIER_5;57;AstonMartin_VantageGTE_2020;Aston Martin;Vantage GTE;;;;5P;713;2450;188/4.0;2.38;0/100;6.990;6.947;-0.043
+TIER_5;58;AstonMartin_VantageRReward_2025;Aston Martin;2025 Vantage Roadster;;;;4P;713;2435;178/4.6;2.10;0/100;7.047;7.033;-0.014
+TIER_5;59;AstonMartin_VantageRRewardRecycled_2025;Aston Martin;2025 Vantage Roadster;;;;4G;713;2414;178/4.6;2.10;0/100;7.089;7.076;-0.013
+TIER_5;60;AstonMartin_Victor_2020;Aston Martin;Victor;;;;5G;713;2488;188/4.0;2.00;53/47;6.959;6.875;-0.084
+TIER_5;61;AstonMartin_VulcanReward_2016;Aston Martin;Vulcan AMR Pro;;(Lime);;5P;714;2125;785/8.0;2.00;52/48;7.608;7.497;-0.111
+TIER_5;62;AstonMartin_VulcanRewardGold_2016;Aston Martin;Vulcan AMR Pro;;(Evo);;5P;714;2127;785/8.0;2.19;0/100;7.614;7.518;-0.096
+TIER_5;63;AstonMartin_VulcanRewardRecycled_2016;Aston Martin;Vulcan;;;;5G;714;2104;755/7.8;2.00;52/48;7.649;7.547;-0.102
+TIER_5;64;ATSAutomobili_GTReward_2018;ATS Automobili;GT;;Transmission 5;;5P;711;2091;473/5.6;2.40;0/100;7.861;7.700;-0.161
+TIER_5;65;ATSAutomobili_GTRewardRecycled_2018;ATS Automobili;GT;;Trans: 5;;5G;711;2107;448/5.5;2.39;0/100;7.830;7.814;-0.016
+TIER_5;66;ATSAutomobili_RRTurbo_2020;ATS Automobili;RR Turbo;;;;5P;713;2264;188/4.0;2.00;0/100;7.406;7.308;-0.098
+TIER_5;67;Audi_NEWINGR8RSRReward_2016;Audi;NEWING Alpil R8 RSR;;;;5P;713;1931;314/6.5;2.65;53/47;8.074;7.883;-0.191
+TIER_5;68;Audi_NEWINGR8RSRRewardRecycled_2016;Audi;NEWING Alpil R8 RSR;;;;5G;713;1897;298/6.3;2.64;53/47;8.143;7.948;-0.195
+TIER_5;69;Audi_R18_2014;Audi;R18 e-tron quattro;;;;5P;713;2519;188/4.0;2.00;0/100;6.880;6.854;-0.026
+TIER_5;70;Audi_R8LMSGT3_2019;Audi;R8 LMS;;;;5P;713;2417;188/4.0;2.00;67/33;7.097;6.924;-0.173
+TIER_5;71;Audi_R8SpyderReward_2020;Audi;R8 Spyder V10;;;;5P;713;1908;473/5.6;3.08;0/100;8.117;8.096;-0.021
+TIER_5;72;Audi_R8SpyderRewardRecycled_2020;Audi;R8 Spyder V10;;;;5G;713;1782;448/5.5;2.64;0/100;8.369;8.318;-0.051
+TIER_5;73;Audi_R8V10Decennium_2019;Audi;R8 V10 Decennium;;;;5P;713;1783;473/5.6;2.91;0/100;8.364;8.197;-0.167
+TIER_5;74;Audi_R8V10GreenHell_2020;Audi;Audi R8 green hell;;;;5P;713;1783;473/5.6;2.91;0/100;8.364;8.197;-0.167
+TIER_5;75;Audi_R8V10GTReward_2023;Audi;R8 Coupe V10 GT RWD;;;;5P;713;2127;188/4.0;2.55;0/100;7.678;7.517;-0.161
+TIER_5;76;Audi_R8V10GTRewardRecycled_2023;Audi;R8 Coupe V10 GT RWD;;;;5G;713;2100;188/4.0;2.55;0/100;7.732;7.567;-0.165
+TIER_5;77;Audi_R8V10PlusCoupe_2016;Audi;2016 R8 V10 plus Coupé;;;;4G;713;1714;448/5.5;3.19;0/100;8.506;8.283;-0.223
+TIER_5;78;Audi_R8V10PlusCoupeReward_2016;Audi;Vorsteiner R8 VRS;;;;5P;713;1908;473/5.6;3.08;0/100;8.117;8.097;-0.020
+TIER_5;79;Audi_R8V10PlusCoupeRewardRecycled_2016;Audi;Vorsteiner R8 VRS;;;;5G;713;1782;448/5.5;2.64;0/100;8.369;8.319;-0.050
+TIER_5;80;Audi_RSetronGTReward_2022;Audi;RS e-tron GT;;;;5P;713;2164;188/4.9;2.00;0/100;7.597;7.545;-0.052
+TIER_5;81;Audi_RSetronGTRewardRecycled_2022;Audi;RS e-tron GT;;;;5G;713;2139;188/4.9;2.00;0/100;7.648;7.593;-0.055
+TIER_5;82;Audi_S1ETronQuattroHoonitron_2022;Audi;Audi S1 'Hoonitron';Hoonigan ;;;5P;713;2578;188/4.9;2.37;0/100;6.741;6.709;-0.032
+TIER_5;83;BAC_MonoReward_2017;BAC;Mono;;;;5P;714;1730;505/4.1;2.08;0/100;8.407;8.292;-0.115
+TIER_5;84;BAC_MonoRewardRecycled_2017;BAC;Mono;;;;5G;714;1698;486/4.0;2.10;0/100;8.472;8.354;-0.118
+TIER_5;85;Bentley_BaturConvertibleReward_2025;Bentley;Batur Convertible by Mulliner;;;;5P;713;2262;182/4.2;2.73;0/100;7.399;7.369;-0.030
+TIER_5;86;Bentley_BaturConvertibleRewardRecycled_2025;Bentley;Batur Convertible by Mulliner;;;;5G;713;2034;181/4.2;2.75;0/100;7.456;7.426;-0.030
+TIER_5;87;Bentley_ContinentalGT3PikesPeak_2021;Bentley;Continental GT3 Pikes Peak Race Car;;;;5P;713;2430;188/4.0;2.00;0/100;7.071;6.971;-0.100
+TIER_5;88;Bentley_ContinentalGT3RaceCar_2020;Bentley;Continental GT3;;;;5P;713;2430;188/4.0;2.00;0/100;7.071;6.972;-0.099
+TIER_5;89;Bentley_ContinentalGT3RReward_2015;Bentley;Continental GT3-R;;;;4P;713;1616;470/5.6;2.21;17/83;8.640;8.629;-0.011
+TIER_5;90;Bentley_ContinentalGT3RRewardRecycled_2015;Bentley;Continental GT3-R;;;;4G;713;1567;439/5.7;2.23;17/83;8.739;8.708;-0.031
+TIER_5;91;Bentley_ContinentalGTConvertibleReward_2019;Bentley;Continental GT Convertible Number 1 Edition by Mulliner;;;;5P;713;1678;211/5.1;2.78;0/100;8.514;8.498;-0.016
+TIER_5;92;Bentley_ContinentalGTConvertibleRewardRecycled_2019;Bentley;Continental GT Convertible;;;;5G;713;1656;207/5.0;2.78;0/100;8.558;8.539;-0.019
+TIER_5;93;Bentley_ContinentalGTCSpeedReward_2022;Bentley;Continental GT Speed Convertible;;;;5P;713;1956;175/4.6;2.00;0/100;8.009;7.968;-0.041
+TIER_5;94;Bentley_ContinentalGTCSpeedRewardRecycled_2022;Bentley;Continental GT Speed Convertible;;;;5G;713;1936;173/4.7;2.00;0/100;8.054;8.014;-0.040
+TIER_5;95;Bentley_ContinentalGTEVO_2026;Bentley;Supersports #199;;;;5P;713;2186;188/4.0;2.00;0/100;7.549;7.517;-0.042
+TIER_5;96;Bentley_ContinentalGTReward_2018;Bentley;Continental GT First Edition;;;;4P;713;1699;464/5.8;3.15;0/100;8.523;8.479;-0.044
+TIER_5;97;Bentley_ContinentalGTRewardRecycled_2018;Bentley;Continental GT;;;;4G;713;1671;439/5.7;3.19;1/99;8.580;8.531;-0.049
+TIER_5;98;Bentley_ContinentalGTSpeed_2016;Bentley;Continental GT Speed;;(2016)(no front name plate);;3G;712;1148;403/5.3;3.12;0/100;9.641;9.585;-0.056
+TIER_5;99;Bentley_ContinentalGTSpeedReward_2021;Bentley;Continental GT Speed;;(2021);;5P;713;2005;185/4.0;2.98;0/100;7.860;7.811;-0.049
+TIER_5;100;Bentley_ContinentalGTSpeedReward_2025;Bentley;Continental GT Speed Coupé;;;;5P;713;1973;176/4.6;2.00;0/100;7.969;7.950;-0.019
+TIER_5;101;Bentley_ContinentalGTSpeedRewardRecycled_2021;Bentley;Continental GT Speed;;(2021);;5G;713;1977;185/4.0;2.99;0/100;7.915;7.864;-0.051
+TIER_5;102;Bentley_ContinentalGTSpeedRewardRecycled_2025;Bentley;Continental GT Speed Coupé;;;;5G;713;1961;175/4.6;2.00;0/100;8.003;7.985;-0.018
+TIER_5;103;Bentley_MullinerBacalarReward_2021;Bentley;Bacalar by Mulliner;;;;5P;713;2066;242/5.6;2.87;0/100;7.800;7.779;-0.021
+TIER_5;104;Bentley_MullinerBacalarRewardRecycled_2021;Bentley;Bacalar by Mulliner;;;;5G;713;2034;235/5.5;2.92;0/100;7.865;7.843;-0.022
+TIER_5;105;Bentley_MullinerBaturReward_2023;Bentley;Batur by Mulliner;;;;5P;713;2161;185/4.0;2.86;0/100;7.601;7.580;-0.021
+TIER_5;106;Bentley_MullinerBaturRewardRecycled_2023;Bentley;Batur by Mulliner;;;;5G;713;2138;185/4.0;2.88;0/100;7.651;7.628;-0.023
+TIER_5;107;Bentley_SupersportsReward_2026;Bentley;Supersports;;;;5P;713;2186;188/4.0;2.00;0/100;7.549;7.517;-0.032
+TIER_5;108;Bentley_SupersportsRewardRecycled_2026;Bentley;Supersports;;;;5G;713;2161;188/4.0;2.00;0/100;7.600;7.567;-0.033
+TIER_5;109;BMW_30CSLE9LP_1973;Bmw;BMW 3.0 CSL;;;Elite full;5P;713;2570;188/4.0;2.00;0/100;6.798;6.798;-0.000
+TIER_5;110;BMW_30CSLE9LP_1973;Bmw;BMW 3.0 CSL;;;Elite 0;5P;713;2570;188/4.0;2.00;0/100;6.798;6.798;-0.000
+TIER_5;111;BMW_M1_1985;Bmw;M1;;;;5P;713;2487;188/4.0;2.00;0/100;6.899;6.890;-0.009
+TIER_5;112;BMW_M2G87TNR_2023;Bmw;2023 M2 Coupé;;;Elite full;5P;713;2453;188/4.0;2.00;0/100;6.985;6.885;-0.100
+TIER_5;113;BMW_M2G87TNR_2023;Bmw;2023 M2 Coupé;;;Elite 0;0G;713;1787;188/4.0;2.24;0/100;8.317;8.169;-148
+TIER_5;114;BMW_M3E46GTR_2005;BMW;M3 GTR;;;;5P;713;2642;188/4.0;2.00;0/100;6.639;6.583;-0.056
+TIER_5;115;BMW_M4CompetitionG82TNR_2021;Bmw;M4 Competition;;;Elite full;5P;713;2459;188/4.0;2.00;0/100;6.997;6.945;-0.052
+TIER_5;116;BMW_M4CompetitionG82TNR_2021;Bmw;M4 Competition;;;Elite 0;0G;713;2064;188/4.0;2.00;0/100;7.787;7.684;-0.103
+TIER_5;117;BMW_M4GT3_2022;Bmw;2022 M4 GT3;;;;5P;713;2496;188/4.0;2.05;53/47;6.943;6.888;-0.055
+TIER_5;118;BMW_M5G99Touring_2024;Bmw;M5 Touring;;;;5P;713;2074;188/4.0;2.00;0/100;7.784;7.618;-0.166
+TIER_5;119;BMW_M5SedanReward_2024;Bmw;2024 M5 Sedan;;;;5P;713;2074;188/4.0;2.00;0/100;7.784;7.618;-0.166
+TIER_5;120;BMW_M5SedanRewardRecycled_2024;Bmw;2024 M5 Sedan;;;;5G;713;2048;188/4.0;2.00;0/100;7.835;7.667;-0.167
+TIER_5;121;BMW_M8Competition_2020;Bmw;2019 M8 Competition Coupé;;;;5P;714;1909;473/5.6;2.53;0/100;8.045;7.963;-0.082
+TIER_5;122;BMW_M8ConvertiblePride_2021;Bmw;2020 M8 Competition Pride Convertible;;;;5P;714;1909;473/5.6;2.53;0/100;8.045;7.963;-0.082
+TIER_5;123;BMW_M8ConvertibleReward_2021;Bmw;2019 M8 Competition Convertible;;;;5P;714;1910;473/5.6;2.53;0/100;8.042;7.960;-0.082
+TIER_5;124;BMW_M8ConvertibleRewardRecycled_2021;Bmw;2019 M8 Competition Convertible;;;;5G;714;1881;448/5.5;2.54;0/100;8.101;8.014;-0.087
+TIER_5;125;BMW_M8Reward_2020;Bmw;2019 M8 Coupé;;;;5P;714;1883;473/5.6;2.52;0/100;8.096;8.019;-0.077
+TIER_5;126;BMW_M8RewardRecycled_2020;Bmw;2019 M8 Coupé;;;;5G;714;1856;448/5.5;2.65;0/100;8.150;8.077;-0.073
+TIER_5;127;Brabham_BT62_2019;Brabham;BT62;;;;5P;714;2232;188/4.0;2.00;34/66;7.386;6.992;-0.394
+TIER_5;128;Brabham_BT62Evo_2019;Brabham;BT62 'Goodyear Edition';;;;5P;714;2232;188/4.0;2.00;34/66;7.386;6.995;-0.391
+TIER_5;129;Brabham_BT62RReward_2020;Brabham;BT62R;;;;5P;714;2232;188/4.0;2.00;34/66;7.386;6.996;-0.390
+TIER_5;130;Brabham_BT62RRewardRecycled_2020;Brabham;BT62R;;;;5G;714;2288;188/4.0;2.00;2/98;7.274;6.920;-0.354
+TIER_5;131;BTTF_TimeMachine1_1985;BTTF;BTTF 'Time Machine';BTTF;;;5P;713;2637;188/4.0;2.00;0/100;6.658;6.620;-0.038
+TIER_5;132;BTTF_TimeMachine2_2015;BTTF;BTTF Part II 'Time Machine';BTTF;;;5P;713;2661;188/4.0;2.00;0/100;6.610;6.576;-0.034
+TIER_5;133;BTTF_TimeMachine3_1885;BTTF;BTTF Part III 'Time Machine';BTTF;;;5P;713;2699;188/4.0;2.00;0/100;6.534;6.505;-0.029
+TIER_5;134;Bugatti_AtlanticConcept_2015;Bugatti;Atlantic Concept;;(Black)(Event);;5P;713;2352;188/4.0;2.00;2/98;7.089;7.084;-0.005
+TIER_5;135;Bugatti_AtlanticConceptReward_2015;Bugatti;Atlantic Concept;;(Grey)(Season Prize);;5P;715;2352;188/4.0;2.00;2/98;7.087;7.085;-0.002
+TIER_5;136;Bugatti_AtlanticConceptRewardRecycled_2015;Bugatti;Atlantic Concept;;;;5G;715;2323;188/4.0;2.00;0/100;7.145;7.139;-0.006
+TIER_5;137;Bugatti_Chiron42Seconds_2016;Bugatti;Chiron '42 Seconds';;;;5P;715;2139;473/4.0;2.00;0/100;7.512;7.506;-0.006
+TIER_5;138;Bugatti_ChironProfilee_2022;Bugatti;Chiron Pur Sport Profilée;;;;5P;713;2118;473/5.6;2.00;0/100;7.667;7.223;-0.444
+TIER_5;139;Bugatti_ChironProjectHero_2016;Bugatti;Chiron (CSR2)RED Edition;;;;5P;713;2208;473/4.0;2.00;14/86;7.476;7.477;0.001
+TIER_5;140;Bugatti_ChironPurSportEditionGP_2022;Bugatti;Chiron Pur Sport Edition GP;;;;5P;715;2055;473/5.6;2.00;0/100;7.677;7.238;-0.439
+TIER_5;141;Bugatti_ChironReward_2016;Bugatti;Chiron;;;;5P;715;2124;473/5.6;2.00;17/83;7.500;7.498;-0.002
+TIER_5;142;Bugatti_ChironRewardGold_2016;Bugatti;Chiron Sport 'Launch Specification';;;;5P;715;2186;473/5.0;2.00;38/62;7.398;7.397;-0.001
+TIER_5;143;Bugatti_ChironRewardRecycled_2016;Bugatti;Chiron;;;;5G;715;2105;406/5.5;2.00;41/59;7.537;7.536;-0.001
+TIER_5;144;Bugatti_ChironRLB_2020;Bugatti;Chiron Pur Sport;;;;5P;715;2055;473/5.6;2.00;0/100;7.677;7.237;-0.440
+TIER_5;145;Bugatti_ChironRMS_2020;Bugatti;Chiron Pur Sport;;;;5G;715;2046;416/5.5;2.00;0/100;7.695;7.246;-0.449
+TIER_5;146;Bugatti_ChironSport110_2018;Bugatti;Chiron Sport '110 ans Bugatti';;;;5P;715;2188;473/5.6;2.00;0/100;7.898;7.373;-0.525
+TIER_5;147;Bugatti_ChironSport_2016;Bugatti;Chiron Sport;;;;5P;715;1934;188/5.6;2.00;2/98;7.867;7.396;-0.471
+TIER_5;148;Bugatti_ChironSporTIER_110_2018;Bugatti;Chiron Sport '110 ans Bugatti';;;;5P;715;1937;473/5.6;2.00;0/100;7.898;7.369;-0.529
+TIER_5;149;Bugatti_ChironSuperSport_2022;Bugatti;Chiron Super Sport;;;;5P;715;2410;236/4.0;2.00;0/100;6.928;6.935;0.007
+TIER_5;150;Bugatti_ChironSuperSportWRE_2020;Bugatti;Chiron Super Sport 300;;;;5P;715;2459;236/4.0;2.00;0/100;6.830;6.834;0.004
+TIER_5;151;Bugatti_Divo110_2019;Bugatti;Divo 'CSR2 Bugatti 110 ans';;;;5P;715;2198;266/4.0;2.00;21/79;7.376;7.371;-0.005
+TIER_5;152;Bugatti_Divo_2019;Bugatti;Divo;;;;5P;715;2182;266/4.0;2.00;24/76;7.375;7.372;-0.003
+TIER_5;153;Bugatti_DivoGold_2019;Bugatti;Divo;;;;5G;715;2194;188/4.0;2.00;11/89;7.350;7.342;-0.008
+TIER_5;154;Bugatti_EB110HomageLB_2019;Bugatti;Centodieci;;(Blue);;5P;715;2273;473/4.0;2.00;0/100;7.213;7.185;-0.028
+TIER_5;155;Bugatti_EB110HomageMS_2019;Bugatti;Centodieci;;(White);;5P;715;2197;473/4.0;2.00;0/100;7.395;7.069;-0.326
+TIER_5;156;Bugatti_EB110SSClassic_1992;Bugatti;EB110 SS;;;Elite full;5G;713;2054;464/5.5;2.00;0/100;7.817;7.786;-0.031
+TIER_5;157;Bugatti_EB110SSClassic_1992;Bugatti;EB110 SS;;;Elite 0;0G;713;1047;374/5.8;2.17;16/84;9.832;9.823;-0.009
+TIER_5;158;Bugatti_LaVoitureNoire_2019;Bugatti;La Voiture Noire;;;;5P;715;2351;188/4.0;2.00;3/97;7.090;7.082;-0.008
+TIER_5;159;Bugatti_LaVoitureNoire_2022;Bugatti;La Voiture Noire;;;;5P;715;2468;188/4.0;2.00;0/100;6.854;6.853;-0.001
+TIER_5;160;Bugatti_Tourbillon_2026;Bugatti;Tourbillon Show Car 2026;;;;5P;713;2550;188/4.0;2.00;0/100;6.836;6.721;-0.115
+TIER_5;161;Bugatti_VeyronGrandSportVitesse_2012;Bugatti;Veyron Grand Sport Vitesse;;;;5G;714;2140;448/5.5;2.86;0/100;7.551;7.543;-0.008
+TIER_5;162;Bugatti_VeyronGrandSportVitesseAndroid_2012;Bugatti;Veyron 'Ettore Bugatti';;;;5P;714;2116;473/5.6;2.88;0/100;7.594;7.593;-0.001
+TIER_5;163;Bugatti_VeyronGrandSportVitesseiOS_2012;Bugatti;Veyron 'Jean Bugatti';;;;5P;714;2118;473/5.6;2.88;0/100;7.594;7.594;0.000
+TIER_5;164;Bugatti_VeyronGrandSportVitesseWRE_2012;Bugatti;Veyron Grand Sport Vitesse WRC Edition;;;;5P;714;2143;473/5.6;2.88;0/100;7.545;7.544;-0.001
+TIER_5;165;Bugatti_VeyronSuperSport_2012;Bugatti;Veyron Super Sport;;;;5G;714;2110;448/5.5;2.63;55/45;7.579;7.576;-0.003
+TIER_5;166;Bugatti_VeyronSuperSportGold_2012;Bugatti;Veyron Super Sport WRE;;;;5P;715;2102;422/4.0;2.00;16/84;7.546;7.542;-0.004
+TIER_5;167;Bugatti_W16Mistral_2023;Bugatti;W16 Mistral;;(Yellow)(Event);;5P;713;2539;188/4.0;2.00;0/100;6.794;6.747;-0.047
+TIER_5;168;Bugatti_W16MistralReward_2023;Bugatti;W16 Mistral;;(Light Blue)(Season Prize);;5P;713;2539;188/4.0;2.00;0/100;6.794;6.747;-0.047
+TIER_5;169;Bugatti_W16MistralRewardRecycled_2023;Bugatti;W16 Mistral;;;;5G;713;2511;188/4.0;2.00;0/100;6.850;6.796;-0.054
+TIER_5;170;Bugatti_W16MistralWRE_2024;Bugatti;W16 Mistral 'World Record Edition';;;;5P;713;2539;188/4.0;2.00;0/100;6.794;6.748;-0.046
+TIER_5;171;Bugatti_X16_2024;Bugatti;Bolide;;(Blue);;5P;715;2417;242/5.0;2.00;0/100;6.912;6.797;-0.115
+TIER_5;172;Bugatti_X16Gold_2024;Bugatti;Bolide;;(Green);;5P;715;2417;242/5.0;2.00;0/100;6.912;6.797;-0.115
+TIER_5;173;Buick_GNX_1987;Buick;GNX;;;;5P;713;2523;188/4.0;2.00;0/100;6.891;6.881;-0.010
+TIER_5;174;Buick_GrandNationalF4_1987;Buick;Dom Toretto's Grand National;Fast&Furious;;;5P;713;2575;188/4.0;2.00;0/100;6.749;6.72;-0.029
+TIER_5;175;Buick_RingbrothersGNX_1987;Buick;Ringbrothers Grand National 'INVADR';;;;5P;713;2596;188/4.0;2.00;0/100;6.745;6.742;-0.003
+TIER_5;176;Buick_RoadstershopGrandNational_1987;Buick;Roadster Shops Grand National;;;;5P;713;2575;188/4.0;2.00;0/100;6.749;6.694;-0.055
+TIER_5;177;Chevrolet_AmericanLegendsChevelle_1966;Chevrolet;American Legends Chevelle 'Phoenix';;;;5P;713;2565;188/4.0;2.00;0/100;6.784;6.719;-0.065
+TIER_5;178;Chevrolet_BBTImpala_1959;Chevrolet;BBT Fabrications Impala;;;;5P;713;2370;188/4.0;2.00;0/100;7.185;7.083;-0.102
+TIER_5;179;Chevrolet_BlazinRodsChevelle_1970;Chevrolet;Blazin Rodz Chevelle 'Doughboy';;;;5P;713;2565;188/4.0;2.00;0/100;6.745;6.715;-0.030
+TIER_5;180;Chevrolet_C10Elite_2016;Chevrolet;Rico's C10 'Tiffany';;;;5P;714;1653;473/5.6:;2.23;14/86;8.559;8.559;-0.000
+TIER_5;181;Chevrolet_C10Halloween_2016;Chevrolet;C10 'Tiffany';;(Halloween)(Deep  Green);;5P;714;2126;629/8.0;2.13;0/100;7.615;7.558;-0.057
+TIER_5;182;Chevrolet_C10Reward_2016;Chevrolet;C10 'Tiffany';;(Orange)(Season Prize);;5P;714;2129;629/8.0;2.11;0/100;7.607;7.549;-0.058
+TIER_5;183;Chevrolet_C10RewardRecycled_2016;Chevrolet;C10 'Tiffany';;;;5G;714;2114;610/7.8;2.15;0/100;7.639;7.581;-0.058
+TIER_5;184;Chevrolet_C10RewardVIP_2016;Chevrolet;C10 'Tiffany';;(VIP)(Grey);;5P;714;2129;629/8.0;2.11;0/100;7.608;7.544;-0.064
+TIER_5;185;Chevrolet_Camaro632_1988;Chevrolet;Hoonigan Camaro '632';Hoonigan ;;;5P;713;2487;188/4.0;2.00;0/100;6.902;6.859;-0.043
+TIER_5;186;Chevrolet_CamaroSSNASCARXfinity_2021;Chevrolet;ForeverLawn Zero Camaro SS NASCAR® Xfinity;;;;5P;713;2264;63/12.0;2.00;52/48;7.401;7.264;-0.137
+TIER_5;187;Chevrolet_CamaroZL11LEReward_2018;Chevrolet;Camaro ZL1 1LE;;;;4P;713;1360;473/5.6;3.28;0/100;9.218;8.797;-0.421
+TIER_5;188;Chevrolet_CamaroZL11LERewardRecycled_2018;Chevrolet;Camaro ZL1 1LE;;;;4G;713;1343;430/4.5;3.49;2/98;9.251;8.885;-0.366
+TIER_5;189;Chevrolet_CamaroZL1NASCAR_2022;Chevrolet;NASCAR Next Gen Camaro ZL1;;;;5P;713;2479;63/12.0;2.00;53/47;6.950;6.850;-0.100
+TIER_5;190;Chevrolet_CapriceDonk_1971;Chevrolet;Hoonigan Caprice 'DONK';Hoonigan ;;;5P;713;2418;188/4.0;2.00;0/100;7.099;7.082;-0.017
+TIER_5;191;Chevrolet_COPOCamaroReward_2019;Chevrolet;COPO Camaro;;;;5P;713;2330;199/11.0;2.20;0/100;7.266;7.193;-0.073
+TIER_5;192;Chevrolet_COPOCamaroRewardEvo_2019;Chevrolet;COPO Camaro '50th Anniversary Edition';;;;5P;713;2392;473/4.0;2.15;0/100;7.141;6.982;-0.159
+TIER_5;193;Chevrolet_COPOCamaroRewardRecycled_2019;Chevrolet;COPO Camaro;;;;5G;713;2285;448/4.0;2.18;0/100;7.355;7.211;-0.144
+TIER_5;194;Chevrolet_CorvetteC1LPClassic_1958;Chevrolet;Corvette (C1);;;Elite full;5P;713;2288;188/4.0;2.00;100/0;7.321;7.299;-0.022
+TIER_5;195;Chevrolet_CorvetteC1LPClassic_1958;Chevrolet;Corvette (C1);;;Elite 0;0G;713;1800;188/4.0;2.00;100/0;8.298;8.193;-0.105
+TIER_5;196;Chevrolet_CorvetteC4ZR1_1994;Chevrolet;Corvette (C4) ZR-1;;;;5P;713;2020;188/4.0;2.04;0/100;7.892;7.730;-0.162
+TIER_5;197;Chevrolet_CorvetteC6ZR1_2012;Chevrolet;Corvette ZR1 (C6);;;;5P;713;2419;188/4.0;2.00;0/100;7.089;7.011;-0.078
+TIER_5;198;Chevrolet_CorvetteC8RLB_2020;Chevrolet;Corvette C8.R;;(Grey);;5P;714;2385;200/6.5;2.00;0/100;7.045;7.013;-0.032
+TIER_5;199;Chevrolet_CorvetteC8RMS_2020;Chevrolet;Corvette C8.R;;(Yellow);;5P;714;2416;200/6.5;2.00;0/100;6.984;6.954;-0.030
+TIER_5;200;Chevrolet_CorvetteC8ZR1_2024;Chevrolet;Corvette ZR1;;(2024)(Yellow);;5P;713;2470;188/4.0;2.00;0/100;6.980;6.854;-0.126
+TIER_5;201;Chevrolet_CorvetteC8ZR1Reward_2024;Chevrolet;2025 Corvette ZR1;;;;5P;713;2383;188/4.0;2.00;0/100;7.156;7.156;-0.000
+TIER_5;202;Chevrolet_CorvetteC8ZR1RewardRecycled_2024;Chevrolet;2025 Corvette ZR1;;;;5P;713;2355;188/4.0;2.00;0/100;7.211;7.211;-0.000
+TIER_5;203;Chevrolet_CorvetteStingrayTNR_2020;Chevrolet;2020 Corvette Stingray;;;Elite full;5P;713;2451;188/4.0;2.00;0/100;7.018;6.914;-0.104
+TIER_5;204;Chevrolet_CorvetteStingrayTNR_2020;Chevrolet;2020 Corvette Stingray;;;Elite 0;0G;713;1874;188/4.0;2.09;0/100;8.172;8.055;-0.117
+TIER_5;205;Chevrolet_CorvetteZ06C8CReward_2023;Chevrolet;2023 Corvette Z06 Convertible;;;;5P;713;2092;188/4.0;5.00;0/100;7.699;7.569;-0.130
+TIER_5;206;Chevrolet_CorvetteZ06C8CRewardRecycled_2023;Chevrolet;2023 Corvette Z06 Convertible;;;;5G;713;2071;188/4.0;5.00;0/100;7.743;7.611;-0.132
+TIER_5;207;Chevrolet_CorvetteZ06Reward_2023;Chevrolet;2023 Corvette Z06;;;;5P;713;2092;188/4.0;4.99;0/100;7.700;7.571;-0.129
+TIER_5;208;Chevrolet_CorvetteZ06RewardRecycled_2023;Chevrolet;2023 Corvette Z06;;;;5G;713;2067;188/4.0;5.00;0/100;7.750;7.621;-0.129
+TIER_5;209;Chevrolet_CorvetteZ06Z07Package_2023;Chevrolet;2023 Corvette Z06 'Z07 Package';;;;5P;713;2221;188/4.0;5.00;0/100;7.442;7.329;-0.113
+TIER_5;210;Chevrolet_CorvetteZR1Reward_2018;Chevrolet;Corvette ZR1;;(Orange)(Season Prize);;5P;713;2027;419/4.0;2.88;51/49;7.869;7.685;-0.184
+TIER_5;211;Chevrolet_CorvetteZR1RewardRecycled_2018;Chevrolet;Corvette ZR1;;;;5G;713;1990;402/4.0;2.88;51/49;7.943;7.747;-0.196
+TIER_5;212;Chevrolet_CorvetteZR1SH1_2018;Chevrolet;Corvette ZR1;fnf;(Dark Grey);;5P;713;2028;419/4.0;2.88;52/48;7.868;7.680;-0.188
+TIER_5;213;Chevrolet_DuSoldDesignCamaro_1967;Chevrolet;Camaro 'DuSold Designs';;;;5P;713;2603;188/4.0;2.00;0/100;6.699;6.649;-0.050
+TIER_5;214;Chevrolet_DutchboysCamaroLB_1969;Chevrolet;Dutchboys Hotrods Camaro;;(Blue);;5P;715;2197;188/5.0;2.23;0/100;7.340;7.265;-0.075
+TIER_5;215;Chevrolet_DutchboysCamaroMS_1969;Chevrolet;Dutchboys Hotrods Camaro;;(Red);;5P;715;2172;188/5.0;2.23;0/100;7.392;7.312;-0.080
+TIER_5;216;Chevrolet_EddiesCorvetteC2_1963;Chevrolet;Eddie's Rod & Custom Corvette C2 'XP-63';;;;5P;713;2467;188/4.0;2.00;53/47;6.937;6.824;-0.113
+TIER_5;217;Chevrolet_GAPCorvette_1972;Chevrolet;GAP Industries Corvette (C3);;;;5P;713;2466;188/4.0;2.00;0/100;6.992;6.967;-0.025
+TIER_5;218;Chevrolet_GarretCamaro_1972;Chevrolet;Garret's Rod Shop Camaro Z28 'Slammer';;;;5P;713;2441;188/4.0;2.08;0/100;6.990;6.899;-0.091
+TIER_5;219;Chevrolet_GreeningCamaroIROCZ_1985;Chevrolet;Greening Auto Company Camaro IROC Z28;;;;5P;713;2498;188/4.0;2.00;0/100;6.937;6.790;-0.147
+TIER_5;220;Chevrolet_HSCustomsCamaroReward_2016;Chevrolet;HS Customs 'Under Pressure';;;;5P;715;1479;677/7.2;2.00;0/100;8.839;7.573;-1.266
+TIER_5;221;Chevrolet_HSCustomsCamaroRewardRecycled_2016;Chevrolet;HS Customs 'Under Pressure';;;;5G;715;1427;653/7.0;2.00;0/100;8.943;7.630;-1.313
+TIER_5;222;Chevrolet_HSCustomsChevelle_1968;Chevrolet;HS Customs Chevelle 'CHIZZLD';;;;5P;713;2460;183/4.3;2.00;0/100;6.995;6.933;-0.062
+TIER_5;223;Chevrolet_KellySonBelAir_1957;Chevrolet;Kelly & Son Bel Air Sport Coupé 'Executioner';;;;5P;713;2573;188/4.0;2.26;0/100;6.790;6.765;-0.025
+TIER_5;224;Chevrolet_LBCamaroIROCZReward_1987;Chevrolet;LB-Works Camaro IROC Z28;;;;5P;713;2344;188/4.0;2.00;0/100;7.245;7.202;-0.043
+TIER_5;225;Chevrolet_LBCamaroIROCZRewardRecycled_1987;Chevrolet;LB-Works Camaro IROC Z28;;;;5G;713;2321;188/4.0;2.00;0/100;7.289;7.282;-0.007
+TIER_5;226;Chevrolet_LMCorvetteC8_2020;Chevrolet;Label Motorsports Corvette Stingray;;;;5P;713;2393;188/4.0;2.00;0/100;7.150;7.050;-0.100
+TIER_5;227;Chevrolet_LMCorvetteZ06Reward_2023;Chevrolet;Label Motorsports Corvette C8 Z06;;;;5P;713;2092;188/4.0;5.00;0/100;7.699;7.574;-0.129
+TIER_5;228;Chevrolet_LMCorvetteZ06RewardRecycled_2023;Chevrolet;Label Motorsports Corvette C8 Z06;;;;5G;713;2067;188/4.0;5.00;0/100;7.750;7.617;-0.231
+TIER_5;229;Chevrolet_LostAngelsCamaro_1970;Chevrolet;Lost Angels Camaro;;;;5P;713;2571;188/4.0;2.00;0/100;6.794;6.738;-0.056
+TIER_5;230;Chevrolet_LowerLevelGarageApache_1959;Chevrolet;The Lower Level Garage Apache 'Bug Killa';;;;5P;713;2400;188/4.0;2.00;0/100;7.094;7.083;-0.011
+TIER_5;231;Chevrolet_MonteCarloRaceCarF9_1995;Chevrolet;Jack Toretto's Monte Carlo;fnf;;;5P;713;2468;188/4.0;2.00;0/100;7.001;6.877;-0.124
+TIER_5;232;Chevrolet_NapalmNova_1972;Chevrolet;Hoonigan Napalm Nova;Hoonigan ;;;5P;713;2593;188/4.0;2.18;0/100;6.737;6.636;-0.101
+TIER_5;233;Chevrolet_NASCARCamaroZL1_2020;Chevrolet;Camaro ZL1 1LE NASCAR®;;;;5P;714;2441;278/6.5;2.00;0/100;6.959;6.842;-0.117
+TIER_5;234;Chevrolet_NASCARCamaroZL1JE_2020;Chevrolet;ForeverLawn Zero Camaro ZL1 1LE NASCAR®;;;;5P;714;2441;278/6.5;2.00;0/100;6.959;6.842;-0.117
+TIER_5;235;Chevrolet_NovaSSF9_1970;Chevrolet;Letty's Nova SS;fnf;;;5P;726;1939;188/4.0;2.00;53/47;7.138;7.004;-0.134
+TIER_5;236;Chevrolet_NovaSSLPClassic_1970;Chevrolet;Nova SS;;;Elite full;5P;713;2407;188/4.0;2.00;100/0;7.112;;
+TIER_5;237;Chevrolet_NovaSSLPClassic_1970;Chevrolet;Nova SS;;;Elite 0;0G;713;1582;188/4.0;2.00;100/0;8.761;;
+TIER_5;238;Chevrolet_PandeMCamaroZ28_1972;Chevrolet;Rocket Bunny Camaro Z28;;;;5P;713;2300;188/4.0;2.00;0/100;7.337;7.094;-0.243
+TIER_5;239;Chevrolet_PickUpVerminsDiner_1936;Chevrolet;Vermin's Diner 1/2 Ton Pickup 'Iron Maiden' Edition;;;;5P;713;2413;188/4.0;2.00;0/100;7.097;7.056;-0.041
+TIER_5;240;Chevrolet_PickUpVerminsDinerOG_1936;Chevrolet;Justin Woolner's 1/2 Ton Pickup 'Vermin's Diner';;;;5P;713;2469;188/4.0;2.00;0/100;6.985;6.949;-0.036
+TIER_5;241;Chevrolet_QuintinBrotherCamaroReward_1968;Chevrolet;Quintin Brothers Camaro;;;;5P;712;1975;414/4.3;2.08;2/98;8.011;7.547;-0.464
+TIER_5;242;Chevrolet_QuintinBrotherCamaroRewardRecycled_1968;Chevrolet;Quintin Brothers Camaro;;;;5G;712;1960;406/4.0;2.18;0/100;8.041;7.596;-0.445
+TIER_5;243;Chevrolet_RingbrothersCamaro_1969;Chevrolet;Ringbrothers Camaro 'Valkyrja';;;;5P;714;2373;314/5.6;2.00;0/100;7.107;7.011;-0.096
+TIER_5;244;Chevrolet_RingbrothersCamaroUSA_1969;Chevrolet;Ringbrothers Camaro 'Uncle Sam';;;;5P;714;2406;314/5.6;2.00;0/100;7.041;6.955;-0.086
+TIER_5;245;Chevrolet_RingbrothersChevelle_1966;Chevrolet;Ringbrothers Chevelle 'Recoil';;;;5P;713;2548;188/4.0;2.00;52/48;6.800;6.683;-0.117
+TIER_5;246;Chevrolet_RingbrothersPickUp_1948;Chevrolet;Ringbrothers Loadmaster 'ENYO';;;;5P;713;2545;188/4.0;2.00;0/100;6.785;6.579;-0.206
+TIER_5;247;Chevrolet_RoadsterShopCamaro_1970;Chevrolet;Roadster Shop Camaro 'Road Rage';;;;5P;713;2526;188/4.0;2.00;0/100;6.875;6.759;-0.116
+TIER_5;248;Chevrolet_SickSecondsCamaroSS_1969;Chevrolet;'Sick Seconds 1.0' Camaro SS;;;;5P;713;2559;338/4.0;2.00;0/100;6.794;6.680;-0.114
+TIER_5;249;Chevrolet_TimmBuiltElCamino_1978;Chevrolet;Timm Built Customs El Camino;;;;5P;713;2607;188/4.0;2.00;0/100;6.723;6.667;-0.056
+TIER_5;250;Chevrolet_WeaverCamaro_1969;Chevrolet;Weaver Customs Camaro 'Bank Roll';;;;5P;713;2461;188/4.0;2.00;0/100;6.982;6.923;-0.059
+TIER_5;251;Chevrolet_WeaverCustoms3100_1949;Chevrolet;Weaver Customs 3100 'Nauti-D';;;;5P;713;2307;188/4.0;2.00;0/100;7.288;7.088;-0.200
+TIER_5;252;Chevrolet_WolfeKustomsBelAir_1957;Chevrolet;Wolfee Kustoms Bel Air 'Spartan';;;;5P;713;2485;188/4.0;2.00;0/100;6.966;6.933;-0.033
+TIER_5;253;Chevrolet_ZwygartNova_1967;Chevrolet;Zwygart's Hot Rodz Nova 'NovaX';;;;5P;713;2570;188/4.0;2.00;0/100;6.798;6.758;-0.040
+TIER_5;254;Czinger_21C_2021;Czinger;21C;;;;5P;712;2472;188/4.0;2.00;52/48;7.002;6.669;-0.333
+TIER_5;255;Czinger_21CGold_2021;Czinger;21C 'Rattlesnake Green Carbon Fibre' Version;;;;5P;712;2447;188/4.0;2.00;52/48;7.051;6.710;-0.341
+TIER_5;256;Czinger_21CVMax_2023;Czinger;21C V Max;;;;5P;713;2440;188/4.0;2.00;0/100;6.993;6.657;-0.336
+TIER_5;257;Dallara_EXP_2021;Dallara;EXP;;;;5P;713;2495;188/4.0;2.00;0/100;6.887;6.806;-0.081
+TIER_5;258;Dallara_Stradale_2019;Dallara;Stradale;;;;5P;713;2495;188/4.0;2.00;0/100;6.887;6.796;-0.091
+TIER_5;259;Dallara_StradaleReward_2019;Dallara;Stradale;;;;5P;713;2495;188/4.0;2.00;0/100;6.887;6.817;-0.070
+TIER_5;260;Dallara_StradaleRewardRecycled_2019;Dallara;Stradale;;;;5G;713;2472;188/4.0;2.00;0/100;6.933;6.850;-0.083
+TIER_5;261;Datsun_240ZLPClassic_1972;Datsun;240Z;;;Elite full;5P;713;2290;188/4.0;2.00;0/100;7.346;7.332;-0.014
+TIER_5;262;Datsun_240ZLPClassic_1972;Datsun;240Z;;;Elite 0;0G;713;1995;188/4.0;2.00;0/100;7.938;7.891;-0.047
+TIER_5;263;DeTomaso_P900_2022;De Tomaso;P900 Concept;;;;5P;713;2622;188/4.0;2.00;0/100;6.644;6.581;-0.063
+TIER_5;264;DeTomaso_PanteraGT5S_1984;De Tomaso;Pantera GT5-S;;;;5P;713;2416;188/4.0;2.00;0/100;7.092;6.950;-0.142
+TIER_5;265;Devel_Sixteen_2022;Devel;Sixteen;;;;5P;713;2528;188/4.0;3.80;0/100;6.851;6.634;-0.217
+TIER_5;266;Dodge_ChallengerMoparDragPak_2021;Dodge;Challenger MOPAR Drag Pak;;;;5G;713;2352;188/4.0;2.00;0/100;7.219;6.932;-0.287
+TIER_5;267;Dodge_ChallengerMoparDragPakGold_2021;Dodge;Challenger MOPAR Drag Pak;;(Evo);;5P;713;2378;188/4.0;2.00;0/100;7.168;6.889;-0.279
+TIER_5;268;Dodge_ChallengerRTLPClassic_1970;Dodge;Challenger R/T;;;Elite full;5P;713;2412;188/4.0;2.00;0/100;7.111;7.051;-0.060
+TIER_5;269;Dodge_ChallengerRTLPClassic_1970;Dodge;Challenger R/T;;;Elite 0;0G;713;2150;188/4.0;2.00;0/100;7.635;7.635;-0.000
+TIER_5;270;Dodge_ChallengerSRTDemonF8_2018;Dodge;Dom Toretto's Demon;fnf;;;5P;714;1979;467/6.7;2.00;0/100;7.901;7.802;-0.099
+TIER_5;271;Dodge_ChallengerSRTDemonReward_2018;Dodge;Challenger SRT Demon;;;;5G;714;1969;249/4.8;2.00;0/100;7.922;7.912;-0.010
+TIER_5;272;Dodge_ChallengerSRTDemonRewardRecycled_2018;Dodge;Challenger SRT Demon;;;;5G;714;1945;242/4.6;2.00;0/100;7.970;7.958;-0.012
+TIER_5;273;Dodge_ChallengerSRTSuperStockReward_2021;Dodge;Challenger SRT Super Stock;;;;4P;714;1927;188/4.0;2.00;0/100;8.005;7.903;-0.102
+TIER_5;274;Dodge_ChallengerSRTSuperStockRewardRecycled_2021;Dodge;Challenger SRT Super Stock;;;;4G;714;1900;188/4.0;2.00;0/100;8.059;7.955;-0.104
+TIER_5;275;Dodge_ChargerDaytona_1970;Dodge;Charger Daytona 'Demon' 1970;;;;5P;713;2518;225/4.0;2.00;0/100;6.844;6.815;-0.029
+TIER_5;276;Dodge_ChargerDaytonaF6_1970;Dodge;Dom Toretto's Charger Daytona;fnf;;;5P;714;2410;188/4.0;2.00;0/100;7.006;6.969;-0.037
+TIER_5;277;Dodge_ChargerDaytonaScatPack_2025;Dodge;Charger Daytona Scat Pack;;Engine 4;;5G;712;2157;225/4.0;2.00;0/100;7.682;7.654;-0.028
+TIER_5;278;Dodge_ChargerHellcatRedeyeReward_2021;Dodge;Charger SRT Hellcat Redeye;;;;4P;713;1906;188/4.0;2.24;53/47;8.098;7.906;-0.192
+TIER_5;279;Dodge_ChargerHellcatRedeyeRewardRecycled_2021;Dodge;Charger SRT Hellcat Redeye;;;;4G;713;1875;188/4.0;2.23;53/47;8.159;7.962;-0.197
+TIER_5;280;Dodge_ChargerRedeyeSplatter_2023;Dodge;Charger SRT Hellcat Redeye 'Splatter';;;;5P;713;2528;188/4.0;2.00;0/100;6.879;6.796;-0.083
+TIER_5;281;Dodge_ChargerRTF1_1970;Dodge;Dom Toretto's 1970 Charger R/T;fnf;(F&F1);;5P;715;2213;242/5.0;2.00;0/100;7.366;7.344;-0.022
+TIER_5;282;Dodge_ChargerRTF4_1970;Dodge;Dom Toretto's 1970 Charger R/T;fnf;(F&F4);;5P;715;2165;310/6.6;2.01;6/94;7.419;7.387;-0.032
+TIER_5;283;Dodge_ChargerRTF8_1970;Dodge;Dom Toretto's Ice Charger;fnf;;;5P;714;2223;482/6.4;2.20;0/100;7.411;7.370;-0.041
+TIER_5;284;Dodge_ChargerRTF9_1966;Dodge;Dom Toretto's Charger R/T HEMI;fnf;;;5P;713;2051;188/4.0;2.00;53/47;7.835;7.731;-0.104
+TIER_5;285;Dodge_ChargerSixpackReward_2025;Dodge;Charger Scat Pack;;;;5P;713;1856;188/4.0;2.00;0/100;8.164;8.133;-0.031
+TIER_5;286;Dodge_ChargerSixpackRewardRecycled_2025;Dodge;Charger Scat Pack;;;;5G;713;1828;188/4.0;2.00;0/100;8.220;8.212;-0.008
+TIER_5;287;Dodge_ChargerTantrumF9_1970;Dodge;Dom Toretto's Charger R/T 'Tantrum';fnf;;;5P;713;2469;188/4.0;2.59;0/100;6.943;6.879;-0.064
+TIER_5;288;Dodge_DemonChargerF9_2018;Dodge;Dom Toretto's Charger SRT Hellcat Widebody;fnf;;;5P;713;2090;188/4.0;2.00;0/100;7.691;7.553;-0.138
+TIER_5;289;Dodge_HavocChallenger_1970;Dodge;Rides By Kam Challenger 'Havoc';;;;5P;714;2384;185/4.2;2.34;0/100;7.098;6.840;-0.258
+TIER_5;290;Dodge_HPE1200Demon_2018;Dodge;Challenger SRT Demon HPE1200;;;;5G;713;2266;448/5.5;2.01;0/100;7.344;7.282;-0.062
+TIER_5;291;Dodge_HPE1200DemonGold_2018;Dodge;Challenger SRT Demon HPE1200;;(Evo);;5P;713;2292;473/5.6;2.02;0/100;7.292;7.240;-0.052
+TIER_5;292;Dodge_RingbrosChargerCAPTIV_1969;Dodge;Ringbrothers Charger 'CAPTIV';;;;5P;713;2482;188/4.0;2.00;60/40;6.974;6.834;-0.140
+TIER_5;293;Dodge_RingbrothersChargerTUSK_1969;Dodge;Ringbrothers Charger 'Tusk';;;;5P;713;2446;188/4.0;2.00;0/100;6.983;6.875;-0.108
+TIER_5;294;Dodge_SpeedShopCharger_1968;Dodge;Classic Car Studio's Charger R/T 'Double Down';;;;5P;713;2664;150/4.0;2.00;0/100;6.592;6.548;-0.044
+TIER_5;295;Dodge_SRTDemon170Reward_2023;Dodge;Challenger SRT Demon 170;;;;5P;713;2300;188/4.0;2.00;0/100;7.282;7.174;-0.108
+TIER_5;296;Dodge_SRTDemon170RewardRecycled_2023;Dodge;Challenger SRT Demon 170;;;;5G;713;2276;188/4.0;2.00;0/100;7.330;7.219;-0.111
+TIER_5;297;Dodge_ViperACR_2009;Dodge;VViper SRT-10 ACR;;;;5P;713;2409;188/4.0;2.00;0/100;7.115;7.033;-0.082
+TIER_5;298;Dodge_ViperACRExtremeAeroPackage_2016;Dodge;Viper ACR Extreme Aero;;;;4G;713;2081;188/4.0;2.42;0/100;7.728;7.703;-0.025
+TIER_5;299;Dodge_ViperACRVoodooII_2016;Dodge;Viper ACR 'Voodoo II';;;;5P;713;1466;185/4.2;3.50;0/100;8.949;8.764;-0.185
+TIER_5;300;Dodge_ViperGTS_1996;Dodge;Viper GTS (SRII);;;;5P;713;2071;188/4.0;2.20;0/100;7.757;7.628;-0.129
+TIER_5;301;Dodge_ViperSR1LPClassic_1995;Dodge;Viper (SR-1);;;Elite full;5P;713;2437;188/4.0;2.00;0/100;7.059;7.059;-0.000
+TIER_5;302;Dodge_ViperSR1LPClassic_1995;Dodge;Viper (SR-1);;;Elite 0;0G;713;1693;188/4.0;2.00;0/100;8.546;8.546;-0.000
+TIER_5;303;Dodge_WidebodyChargerF9_1968;Dodge;Mid-Engine Charger R/T 'Hellacious';fnf;;;5P;713;2527;188/4.0;2.00;0/100;6.880;6.796;-0.084
+TIER_5;304;Donkervoort_D8GTOReward_2015;Donkervoort;D8 GTO Bare Naked Carbon Edition;;;;5P;714;1314;511/5.6;2.27;20/80;9.210;8.285;-0.925
+TIER_5;305;Donkervoort_D8GTORewardRecycled_2015;Donkervoort;D8 GTO;;;;5G;714;1284;485/5.5;2.29;20/80;9.270;8.330;-0.940
+TIER_5;306;Ferrari_12CilindriReward_2024;Ferrari;12 Cilindri;;;;5P;713;2212;188/4.0;2.00;0/100;7.489;7.253;-0.236
+TIER_5;307;Ferrari_12CilindriRewardRecycled_2024;Ferrari;12 Cilindri;;;;5G;713;2188;188/4.0;2.00;0/100;7.537;7.299;-0.238
+TIER_5;308;Ferrari_12CilindriSpiderReward_2024;Ferrari;12 Cilindri Spider;;;;5P;713;2137;188/4.0;2.00;0/100;7.640;7.397;-0.243
+TIER_5;309;Ferrari_12CilindriSpiderRewardRecycled_2024;Ferrari;12 Cilindri Spider;;;;5G;713;2106;188/4.0;2.00;0/100;7.701;7.452;-0.249
+TIER_5;310;Ferrari_288GTO_1985;Ferrari;GTO;;;;5P;713;2574;188/4.0;2.00;0/100;6.787;6.704;-0.083
+TIER_5;311;Ferrari_296GTB_2022;Ferrari;296 GTB;;;;5G;713;2174;188/4.0;2.00;0/100;7.540;7.441;-0.099
+TIER_5;312;Ferrari_296GTBAssettoFiorano_2022;Ferrari;296 GTB Assetto Fiorano;;;;5P;713;2296;188/4.0;2.00;0/100;7.297;7.209;-0.258
+TIER_5;313;Ferrari_296GTSReward_2023;Ferrari;296 GTS;;;;5P;713;2249;188/4.0;2.00;0/100;7.390;7.294;-0.096
+TIER_5;314;Ferrari_296GTSRewardRecycled_2023;Ferrari;296 GTS;;;;5G;713;2223;188/4.0;2.00;0/100;7.442;7.343;-0.099
+TIER_5;315;Ferrari_296SpecialeA_2026;Ferrari;296 Speciale A;;;;5P;713;2395;188/4.0;2.00;0/100;7.098;7.050;-0.048
+TIER_5;316;Ferrari_296SpecialeReward_2026;Ferrari;296 Speciale;;;;5P;713;2395;188/4.0;2.00;0/100;7.098;7.050;-0.048
+TIER_5;317;Ferrari_296SpecialeRewardRecycled_2026;Ferrari;296 Speciale;;;;5G;713;2373;188/4.0;2.00;0/100;7.142;7.107;-0.035
+TIER_5;318;Ferrari_458Speciale_2014;Ferrari;458 Speciale;;;;4G;716;1282;177/16.5;3.20;46/54;9.124;8.903;-0.221
+TIER_5;319;Ferrari_488GTB70thAnniversary_2015;Ferrari;488 GTB '70th Anniversary';;;;5P;713;1648;532/6.4;3.13;8/92;8.614;8.338;-0.276
+TIER_5;320;Ferrari_488GTModificata_2021;Ferrari;488 GT Modificata;;;;5P;713;2432;188/4.0;2.04;53/47;7.070;6.947;-0.123
+TIER_5;321;Ferrari_488PistaReward_2019;Ferrari;488 Pista;;;;4P;713;2057;332/4.0;2.46;52/48;7.774;7.652;-0.122
+TIER_5;322;Ferrari_488PistaRewardRecycled_2019;Ferrari;488 Pista;;;;4G;713;2120;230/4.0;2.25;52/48;7.646;7.523;-0.123
+TIER_5;323;Ferrari_488PistaSpiderReward_2019;Ferrari;488 Pista Spider;;;;4P;713;1971;368/4.8;2.46;0/100;7.944;7.796;-0.148
+TIER_5;324;Ferrari_488PistaSpiderRewardRecycled_2019;Ferrari;488 Pista Spider;;;Elite full;5G;713;2152;200/4.0;2.19;0/100;7.617;7.459;-0.158
+TIER_5;325;Ferrari_488PistaSpiderRewardRecycled_2019;Ferrari;488 Pista Spider;;;Elite 0;4G;713;1989;198/4.0;2.32;0/100;7.943;7.735;-0.208
+TIER_5;326;Ferrari_488Spider70thAnniversary_2015;Ferrari;488 Spider '70th Anniversary';;;;5P;714;1730;482/6.4;3.19;3/97;8.402;8.392;-0.010
+TIER_5;327;Ferrari_488Spider_2015;Ferrari;488 Spider;;;;3G;713;1124;406/5.3;4.05;4/96;9.640;9.620;-0.020
+TIER_5;328;Ferrari_512TR_1991;Ferrari;512 TR;;;;5P;713;2096;188/4.0;2.00;0/100;7.734;7.591;-0.143
+TIER_5;329;Ferrari_599GTOReward_2010;Ferrari;599 GTO;;;;4P;713;955;473/5.6;2.92;32/68;10.004;9.502;-0.502
+TIER_5;330;Ferrari_599GTORewardRecycled_2010;Ferrari;599 GTO;;;;4G;713;933;448/5.5;2.91;33/67;10.049;9.537;-0.512
+TIER_5;331;Ferrari_599XXEvoluzione_2011;Ferrari;599XX Evo;;;;5G;713;2225;188/4.0;2.41;53/47;7.433;7.232;-0.201
+TIER_5;332;Ferrari_599XXReward_2010;Ferrari;599XX;;;;5P;713;2130;188/4.0;2.30;53/47;7.624;7.450;-0.174
+TIER_5;333;Ferrari_599XXRewardRecycled_2010;Ferrari;599XX;;;;5G;713;2107;188/4.0;2.33;53/47;7.670;7.50;-0.170
+TIER_5;334;Ferrari_812Competizione_2021;Ferrari;812 Competizione;;(Event)(Grey);;5P;713;2406;188/4.0;2.00;52/48;7.109;6.941;-0.168
+TIER_5;335;Ferrari_812CompetizioneReward_2021;Ferrari;812 Competizione;;(Red)(Season Prize);;5P;713;2406;188/4.0;2.00;52/48;7.109;6.941;-0.168
+TIER_5;336;Ferrari_812CompetizioneRewardRecycled_2021;Ferrari;812 Competizione;;;;5G;713;2381;188/4.0;2.00;52/48;7.160;6.990;-0.170
+TIER_5;337;Ferrari_812GTSReward_2020;Ferrari;812 GTS;;;;5P;714;1870;467/6.7;2.48;52/48;8.100;7.956;-0.144
+TIER_5;338;Ferrari_812GTSRewardRecycled_2020;Ferrari;812 GTS;;;;5G;714;1836;447/6.5;2.45;52/48;8.169;8.015;-0.154
+TIER_5;339;Ferrari_812SuperfastReward_2018;Ferrari;812 Superfast;;;;5P;714;1870;467/6.7;2.51;52/48;8.100;7.954;-0.146
+TIER_5;340;Ferrari_812SuperfastRewardRecycled_2018;Ferrari;812 Superfast;;;;5G;714;1835;447/6.5;2.51;52/48;8.170;8.016;-0.154
+TIER_5;341;Ferrari_849Testarossa_2026;Ferrari;849 Testarossa;;;;5P;713;2616;188/4.0;2.00;0/100;6.698;6.633;-0.065
+TIER_5;342;Ferrari_AmalfiReward_2027;Ferrari;Amalfi;;;;5P;713;1967;150/4.00;2.00;53/47;8.002;7.962;-0.040
+TIER_5;343;Ferrari_AmalfiRewardRecycled_2027;Ferrari;Amalfi;;;;5G;713;1939;150/4.00;2.00;53/47;8.057;8.033;-0.024
+TIER_5;344;Ferrari_DaytonaSP3_2022;Ferrari;Daytona SP3;;;;5P;713;2553;188/4.0;2.00;0/100;6.786;6.773;-0.013
+TIER_5;345;Ferrari_Dino246GTS_1973;Ferrari;Dino 246 GTS;;;;5P;713;2331;188/4.0;2.00;0/100;7.260;7.143;-0.117
+TIER_5;346;Ferrari_Enzo_2002;Ferrari;Enzo;;;;5P;713;2247;188/4.0;2.23;53/47;7.434;7.288;-0.146
+TIER_5;347;Ferrari_EnzoGold_2002;Ferrari;Enzo;;;;5G;713;2192;188/4.0;2.12;53/47;7.543;7.357;-0.186
+TIER_5;348;Ferrari_F12berlinetta70thAnniversary_2014;Ferrari;F12berlinetta '70th Anniversary';;;;5P;714;1458;473/5.6;2.37;0/100;8.935;8.099;-0.836
+TIER_5;349;Ferrari_F12berlinetta_2014;Ferrari;F12berlinetta;;;;3G;714;1123;398/5.6;2.51;23/77;9.609;8.789;-0.820
+TIER_5;350;Ferrari_F12tdfReward_2016;Ferrari;F12tdf;;;;5P;715;1598;527/7.1;2.29;0/100;8.649;8.104;-0.545
+TIER_5;351;Ferrari_F12tdfRewardRecycled_2016;Ferrari;F12tdf;;;;5G;715;1768;500/7.0;2.08;0/100;8.246;8.085;-0.161
+TIER_5;352;Ferrari_F355Berlinetta_1994;Ferrari;F355 Berlinetta;;;;5P;713;2218;188/4.0;2.00;0/100;7.482;7.437;-0.045
+TIER_5;353;Ferrari_F40Competizione_1989;Ferrari;F40 Competizione;;;;5P;713;2555;188/4.0;2.00;0/100;6.794;6.724;-0.070
+TIER_5;354;Ferrari_F430Scuderia_2008;Ferrari;F430 Scuderia;;;;5P;713;2516;188/4.0;2.00;0/100;6.892;6.806;-0.086
+TIER_5;355;Ferrari_F50GT_1996;Ferrari;F50 GT;;;;5P;713;2373;188/4.0;2.00;0/100;7.190;6.941;-0.249
+TIER_5;356;Ferrari_F8SpiderReward_2020;Ferrari;F8 Spider;;;;5P;713;2071;188/4.6;2.00;0/100;7.738;7.637;-0.101
+TIER_5;357;Ferrari_F8SpiderRewardRecycled_2020;Ferrari;F8 Spider;;;;5G;713;2047;188/4.5;2.01;0/100;7.788;7.687;-0.101
+TIER_5;358;Ferrari_F8TributoReward_2020;Ferrari;F8 Tributo;;;;5P;714;2026;473/5.6;2.30;0/100;7.748;7.629;-0.119
+TIER_5;359;Ferrari_F8TributoRewardRecycled_2020;Ferrari;F8 Tributo;;;;5G;714;1994;448/5.5;2.30;0/100;7.812;7.683;-0.129
+TIER_5;360;Ferrari_FXXEvoluzione_2008;Ferrari;FXX Evoluzione;;;;5P;713;2379;188/4.0;2.41;53/47;7.179;7.052;-0.127
+TIER_5;361;Ferrari_FXXKEvo_2018;Ferrari;FXX K Evo;;;;5G;715;2154;400/4.2;2.14;12/88;7.475;7.426;-0.049
+TIER_5;362;Ferrari_FXXKReward_2014;Ferrari;FXX K;;;;5P;715;2117;425/5.6;2.00;5/95;7.561;7.513;-0.048
+TIER_5;363;Ferrari_FXXKRewardRecycled_2014;Ferrari;FXX K;;;;5G;715;2083;406/5.5;2.00;15/85;7.628;7.579;-0.049
+TIER_5;364;Ferrari_GTC4Lusso70thAnniversary_2016;Ferrari;GTC4 Lusso '70th Anniversary';;;;5P;711;1767;566/4.0;2.25;53/47;8.508;8.129;-0.379
+TIER_5;365;Ferrari_GTC4LussoReward_2016;Ferrari;GTC4Lusso;;;;4P;711;1822;395/4.0;2.00;2/98;8.404;8.287;-0.117
+TIER_5;366;Ferrari_GTC4LussoRewardRecycled_2016;Ferrari;GTC4Lusso;;;;4G;711;1796;380/4.0;2.03;0/100;8.458;8.349;-0.109
+TIER_5;367;Ferrari_LaFerrari_2014;Ferrari;LaFerrari;;;;5G;714;1926;608/7.8;2.34;2/98;7.974;7.647;-0.327
+TIER_5;368;Ferrari_LaFerrariAperta70thAnniversary_2017;Ferrari;LaFerrari Aperta '70th Anniversary';;;;5P;712;2017;568/4.6;2.51;52/48;8.008;7.538;-0.470
+TIER_5;369;Ferrari_LaFerrariAperta_2017;Ferrari;LaFerrari Aperta;;;;5G;712;2083;561/4.0;2.53;52/48;7.811;7.618;-0.193
+TIER_5;370;Ferrari_MonzaReward_2019;Ferrari;Monza SP1;;;;5P;714;1919;373/4.6;2.70;0/100;7.966;7.756;-0.210
+TIER_5;371;Ferrari_MonzaRewardRecycled_2019;Ferrari;Monza SP2;;;;5G;714;1891;359/4.6;2.73;0/100;8.022;7.813;-0.209
+TIER_5;372;Ferrari_MV512Testarossa_1986;Ferrari;512 Testarossa;;;;5P;713;2468;188/4.0;2.00;0/100;7.001;7.001;-0.000
+TIER_5;373;Ferrari_PortofinoReward_2018;Ferrari;Portofino;;;;4P;714;1597;224/4.0;3.04;53/47;8.654;8.540;-0.114
+TIER_5;374;Ferrari_PortofinoRewardRecycled_2018;Ferrari;Portofino;;;;4G;714;1570;225/4.0;3.06;53/47;8.708;8.592;-0.116
+TIER_5;375;Ferrari_RomaReward_2020;Ferrari;Roma;;;;5P;713;1891;150/4.0;2.00;53/47;8.154;8.021;-0.133
+TIER_5;376;Ferrari_RomaRewardRecycled_2020;Ferrari;Roma;;;;5G;713;1857;150/4.0;2.00;53/47;8.222;8.088;-0.134
+TIER_5;377;Ferrari_SF90SpiderReward_2021;Ferrari;SF90 Spider;;;;5P;713;2425;281/7.0;2.01;0/100;7.047;6.991;-0.056
+TIER_5;378;Ferrari_SF90SpiderRewardRecycled_2021;Ferrari;SF90 Spider;;;;5G;713;2401;278/6.5;2.01;0/100;7.095;7.038;-0.057
+TIER_5;379;Ferrari_SF90Stradale_2020;Ferrari;SF90 Stradale;;;;5P;713;2426;281/7.0;2.00;0/100;7.047;6.992;-0.055
+TIER_5;380;Ferrari_SF90StradaleAssettoFiorano_2021;Ferrari;SF90 Stradale Assetto Fiorano;;(Grey);;5P;713;2447;281/7.0;2.00;0/100;7.016;6.960;-0.056
+TIER_5;381;Ferrari_SF90StradaleAssettoFioranoF175_2021;Ferrari;SF90 Stradale Assetto Fiorano;;(Red);;5P;713;2447;281/7.0;2.00;0/100;7.016;6.961;-0.055
+TIER_5;382;Ferrari_SF90StradaleGold_2020;Ferrari;SF90 Stradale;;;;5G;713;2298;188/4.0;2.00;0/100;7.315;7.260;-0.055
+TIER_5;383;Ferrari_SF90XXSpiderReward_2024;Ferrari;SF90 XX Spider;;;;5P;713;2509;188/4.0;2.00;0/100;6.894;6.864;-0.030
+TIER_5;384;Ferrari_SF90XXSpiderRewardRecycled_2024;Ferrari;SF90 XX Spider;;;;5G;713;2486;188/4.0;2.00;0/100;6.940;6.911;-0.029
+TIER_5;385;Ferrari_SF90XXStradale_2024;Ferrari;SF90 XX Stradale;;;;5P;713;2509;188/4.0;2.00;0/100;6.894;6.864;-0.030
+TIER_5;386;FnF_FlipCar_2013;FnF ;Owen Shaw's Flip Car;fnf;;;5P;714;2316;473/5.6;2.21;0/100;7.187;7.084;-0.103
+TIER_5;387;FnF_SupraMKIVF2_1994;FnF ;Slap Jack's Supra Mk.IV;fnf;;;5P;713;2403;188/4.0;2.00;0/100;7.114;6.971;-0.141
+TIER_5;388;Ford_Durty30_2016;Ford;Durty 30;;;;5G;714;1773;442/5.7;2.60;0/100;8.264;8.254;-0.010
+TIER_5;389;Ford_Durty30Gold_2016;Ford;Durty 30;;;;5P;713;1837;188/4.0;2.31;0/100;8.210;8.185;-0.025
+TIER_5;390;Ford_DutchboysTorino_1969;Ford;Dutchboys Torino 'CobraJET';;;;5P;713;2521;188/4.0;2.00;0/100;6.834;6.817;-0.017
+TIER_5;391;Ford_EscortMk1RS2000LPClassic_1973;Ford;Escort Mk1 RS2000;;;Elite full;5P;713;2397;188/4.0;2.00;0/100;7.107;;
+TIER_5;392;Ford_EscortMk1RS2000LPClassic_1973;Ford;Escort Mk1 RS2000;;;Elite 0;0G;713;1728;188/4.0;2.07;0/100;8.445;;
+TIER_5;393;Ford_EscortRSCosworthCossieV2_1994;Ford;Escort RS Cosworth COSSIE V2;Hoonigan ;;;5P;713;2443;188/4.0;2.00;0/100;7.003;6.827;-0.176
+TIER_5;394;Ford_F150Hoonitruck_1977;Ford;F-150 Hoonitruck;Hoonigan ;;;5P;713;2569;188/4.0;2.11;0/100;6.792;6.781;-0.011
+TIER_5;395;Ford_GTDaytonaHeritageEdition_2021;Ford;2021 GT 'Heritage Edition';;;;5P;714;1089;590/6.1;2.92;0/100;9.659;8.819;-0.840
+TIER_5;396;Ford_GTElite_2017;Ford;Altay's 2017 GT;;;;5P;713;1354;473/5.6;2.01;43/57;9.205;9.205;-0.000
+TIER_5;397;Ford_GTHeritageEdition_2017;Ford;2019 GT 'Heritage Edition';;;;5P;714;1089;590/6.1;2.92;0/100;9.659;8.820;-0.839
+TIER_5;398;Ford_GTLeMansRacecar_2016;Ford;2016 GT LM;;;;5P;713;2412;188/4.0;2.00;52/48;7.066;7.005;-0.061
+TIER_5;399;Ford_GTMk4_2024;Ford;GT MkIV;;;;5P;713;2570;188/4.0;2.00;0/100;6.739;6.644;-0.095
+TIER_5;400;Ford_GTReward_2017;Ford;2017 GT;;;;4P;713;1476;473/5.6;2.54;26/74;8.961;8.959;-0.002
+TIER_5;401;Ford_GTRewardRecycled66_2017;Ford;2017 GT '66 Heritage Edition';;;;4G;713;1296;448/5.5;2.57;11/89;9.314;8.886;-0.428
+TIER_5;402;Ford_GTRewardRecycled_2017;Ford;2017 GT;;;;4G;713;1447;448/5.5;2.59;25/75;9.019;9.016;-0.003
+TIER_5;403;Ford_MustangCobraJet_2019;Ford;Mustang Cobra Jet;;;;5G;713;2399;406/4.0;2.00;0/100;7.115;6.943;-0.172
+TIER_5;404;Ford_MustangCobraJetVIP_2019;Ford;Mustang Cobra Jet 'Boss' 50th Edition';;;;5P;713;2404;188/4.0;2.00;0/100;7.106;6.923;-0.183
+TIER_5;405;Ford_MustangDarkHorseSCReward_2025;Ford;Mustang Dark Horse SC;;;;5P;713;2370;188/4.00;2.00;0/100;7.194;7.163;-0.031
+TIER_5;406;Ford_MustangDarkHorseSCRewardRecycled_2025;Ford;Mustang Dark Horse SC;;;;5G;713;2346;188/4.00;2.00;0/100;7.242;7.217;-0.025
+TIER_5;407;Ford_MustangF3_1967;Ford ;Sean's 1967 Mustang Fastback;fnf;;;5P;713;2091;93/16.8;2.00;0/100;7.712;7.599;-0.113
+TIER_5;408;Ford_MustangFoxbodyF9_1987;Ford;Jakob Toretto's 'Fox Body' Mustang;fnf;;;5P;713;2026;188/4.0;2.33;0/100;7.818;7.730;-0.088
+TIER_5;409;Ford_MustangGT350F9_2016;Ford;Jakob Toretto's Mustang;fnf;;;5P;713;2100;188/4.0;2.25;52/48;7.696;7.591;-0.105
+TIER_5;410;Ford_MustangGTD_2025;Ford;Mustang GTD;;;;5P;713;2494;188/4.0;2.00;0/100;6.946;6.923;-0.023
+TIER_5;411;Ford_MustangGTFastbackTNR_2018;Ford;2018 Mustang GT;;;Elite full;5P;713;2429;286/5.5;2.00;56/44;7.023;6.938;-0.085
+TIER_5;412;Ford_MustangGTFastbackTNR_2018;Ford;2018 Mustang GT;;;Elite 0;0G;713;1641;265/5.2;2.23;56/44;8.599;8.476;-0.123
+TIER_5;413;Ford_MustangGTHoonicornV1_1965;Ford;Mustang RTR Hoonicorn V1;Hoonigan ;;;5P;713;2495;188/4.0;2.00;53/47;6.921;6.789;-0.132
+TIER_5;414;Ford_MustangGTHoonicornV2_1965;Ford;Mustang RTR Hoonicorn V2;Hoonigan ;;;5P;713;2495;188/4.0;2.00;53/47;6.921;6.789;-0.132
+TIER_5;415;Ford_MustangMachE1400_2021;Ford;Mustang Mach-E 1400;;;;5P;713;2536;188/4.9;2.00;0/100;6.844;6.825;-0.019
+TIER_5;416;Ford_MustangNASCAR_2022;Ford;NASCAR® Next Gen Mustang;;;;5P;713;2463;188/4.0;2.14;0/100;6.998;6.840;-0.158
+TIER_5;417;Ford_MustangRTRSpec3_2019;Ford;Mustang RTR Spec 3;;;;4G;714;1575;448/5.5;2.68;0/100;8.650;8.466;-0.184
+TIER_5;418;Ford_MustangRTRSPEC5_2019;Ford;Mustang '10th Anniversary Edition RTR' Spec 5;;;;5P;715;2122;332/5.0;2.00;0/100;7.521;7.402;-0.119
+TIER_5;419;Ford_MustangShelbyGT350LPClassic_1965;Ford;Mustang Shelby GT350;;;Elite full;5P;713;2613;188/4.0;2.00;0/100;6.675;6.528;-0.147
+TIER_5;420;Ford_MustangShelbyGT350LPClassic_1965;Ford;Mustang Shelby GT350;;;Elite 0;0G;713;1908;188/4.0;2.07;0/100;8.086;7.834;-0.252
+TIER_5;421;Ford_MustangShelbyGT500Reward_2019;Ford;Mustang Shelby GT500;;;;5P;714;2144;236/4.0;2.32;0/100;7.568;7.457;-0.111
+TIER_5;422;Ford_MustangShelbyGT500RewardRecycled_2019;Ford;Mustang Shelby GT500;;;;5G;714;2086;230/4.0;2.58;0/100;7.684;7.596;-0.088
+TIER_5;423;Ford_MustangSVTCobraRLPClassic_1993;Ford;Mustang SVT Cobra R;;;Elite full;5P;713;2536;188/4.0;2.00;0/100;6.864;6.864;-0.000
+TIER_5;424;Ford_MustangSVTCobraRLPClassic_1993;Ford;Mustang SVT Cobra R;;;Elite 0;0G;713;1882;188/4.0;2.00;0/100;8.173;8.173;-0.000
+TIER_5;425;Ford_RadRidesTroyRoadster_1936;Ford;Rad Rides by Troy Roadster 'Fenderless';;;;5P;713;2396;188/4.0;2.00;0/100;7.096;7.100;0.004
+TIER_5;426;Ford_RingbrothersMustang_1969;Ford;Ringbrothers Mustang Mach 1 'Kingpin';;;;5P;713;2550;188/4.0;2.00;0/100;6.789;6.717;-0.072
+TIER_5;427;Ford_RingbrothersMustangMach1_1969;Ford;Ringbrothers Mustang Mach 1 'Patriarc';;;;5P;713;2553;188/4.0;2.08;0/100;6.784;6.698;-0.086
+TIER_5;428;Ford_ROUSHStage3Mustang_2019;Ford;ROUSH Stage 3 Mustang;;;;4G;714;1574;448/5.5;2.68;0/100;8.653;8.466;-0.187
+TIER_5;429;Ford_RuffianGalaxie500_1964;Ford;Ruffian Galaxie 500;;;;5P;713;2457;188/4.0;2.00;0/100;6.988;6.855;-0.133
+TIER_5;430;Ford_RuffianGT40_1966;Ford;Ruffian 40;;;;5P;713;2567;188/4.0;2.26;0/100;6.785;6.693;-0.092
+TIER_5;431;Ford_RuffianMustang_1970;Ford;Ruffian Mustang '70';;;;5P;713;2621;188/4.0;2.10;100/0;6.688;6.643;-0.045
+TIER_5;432;Ford_RuffianMustangFIAFastback_1967;Ford;Ruffian Mustang '67';;;;5P;713;2376;188/4.0;2.16;0/100;7.182;7.050;-0.132
+TIER_5;433;Ford_SpeedShopF100_1956;Ford;Classic Car Studio F-100 'Effy';;;;5P;713;2342;188/4.0;2.00;0/100;7.212;7.103;-0.109
+TIER_5;434;Ford_Supervan4_2022;Ford;SuperVan 4;;;;5P;713;2484;225/4.0;2.00;0/100;6.913;6.792;-0.121
+TIER_5;435;Ford_WeaverCustomsModelAElite_1931;Ford;Priest's Weaver Customs 'Twisted Mistress';;;;5P;713;2325;242/8.0;2.00;0/100;7.284;7.284;-0.000
+TIER_5;436;Ford_WeaverCustomsModelALB_1931;Ford;Weaver Customs 'Twisted Mistress';;(Usa);;5P;713;2321;242/8.0;2.00;0/100;7.293;7.249;-0.044
+TIER_5;437;Ford_WeaverCustomsModelAMS_1931;Ford;Weaver Customs 'Twisted Mistress';;(Bronze);;5P;713;2288;242/8.0;2.00;0/100;7.359;7.312;-0.047
+TIER_5;438;Ford_WeaverCustomsMustangFastback_1968;Ford;Weaver Customs Mustang Fastback 'Shotgun';;;;5P;713;2471;188/4.0;2.91;0/100;6.984;6.857;-0.127
+TIER_5;439;FSD_ConceptCar_2027;FSD;FrankNStein;;;;5P;713;2547;188/4.0;2.00;0/100;6.842;6.731;-0.111
+TIER_5;440;Ginetta_Akula_2019;Ginetta;Akula;;;;5P;713;2284;473/5.6;2.00;0/100;7.362;7.266;-0.096
+TIER_5;441;Ginetta_AkulaGold_2019;Ginetta;Akula;;;;5G;713;2236;223/4.3;2.05;52/48;7.454;7.315;-0.139
+TIER_5;442;GTA_SpanoCrew_2015;GTA Motor;Larry's GTA Spano;;;;4G;716;1164;442/5.7;2.79;0/100;9.378;9.289;-0.089
+TIER_5;443;GTA_SpanoCrewRecycled_2015;GTA Motor;GTA Spano;;;;5P;716;942;473/5.6;3.02;0/100;9.822;9.736;-0.086
+TIER_5;444;Hennessey_CamaroExorcistReward_2017;Hennessey;Exorcist;;;;5P;714;1609;236/4.0;2.00;19/81;8.636;7.852;-0.784
+TIER_5;445;Hennessey_CamaroExorcistRewardRecycled_2017;Hennessey;Exorcist;;;;5G;714;1570;230/4.0;2.00;19/81;8.715;7.908;-0.807
+TIER_5;446;Hennessey_CamaroTheResurrection_2017;Hennessey;Resurrection;;;;5P;713;2159;188/4.0;2.19;0/100;7.588;7.039;-0.549
+TIER_5;447;Hennessey_VenomF5_2020;Hennessey;Venom F5 'Concept';;;;5P;715;2365;473/5.6;2.55;0/100;7.007;6.926;-0.081
+TIER_5;448;Hennessey_VenomF5_2021;Hennessey;2022 Venom F5;;;;5P;713;2430;188/4.0;2.00;0/100;7.021;6.792;-0.229
+TIER_5;449;Hennessey_VenomF5Gold_2020;Hennessey;Venom F5 'Concept';;;;5G;715;2336;235/5.0;2.17;0/100;7.066;6.936;-0.130
+TIER_5;450;Hennessey_VenomF5Revolution_2023;;Venom F5 Revolution;;;;;713;2348;188/4.0;2.00;0/100;7.184;6.938;-0.246
+TIER_5;451;Hennessey_VenomF5RoadsterReward_2023;Hennessey;Venom F5 Roadster;;;;5P;713;2430;188/4.0;2.00;0/100;7.021;6.791;-0.230
+TIER_5;452;Hennessey_VenomF5RoadsterRewardRecycled_2023;Hennessey;Venom F5 Roadster;;;;5G;713;2404;188/4.0;2.00;0/100;7.072;6.837;-0.235
+TIER_5;453;Hennessey_VenomGT_2012;Hennessey;Venom GT;;;;4G;714;2143;560/7.8;2.10;28/72;7.522;7.490;-0.032
+TIER_5;454;Hennessey_VenomGTSpyderReward_2016;Hennessey;Venom GT Spyder WFE;;;;5P;715;2165;584/8.0;2.37;1/99;7.446;7.447;0.001
+TIER_5;455;Hennessey_VenomGTSpyderRewardGold_2016;Hennessey;Venom GT Spyder 'Final Edition';;;;5P;715;2128;584/8.0;2.27;10/90;7.475;7.467;-0.008
+TIER_5;456;Hennessey_VenomGTSpyderRewardRecycled_2016;Hennessey;Venom GT Spyder;;;;5G;715;2146;596/7.8;2.38;1/99;7.484;7.485;0.001
+TIER_5;457;Honda_CivicEGTNR_1995;Honda;Civic 1.5 VTEC;;;Elite full;5P;713;2509;188/4.0;2.00;0/100;6.901;6.834;-0.067
+TIER_5;458;Honda_CivicEGTNR_1995;Honda;Civic 1.5 VTEC;;;Elite 0;5P;713;1801;188/4.0;2.00;0/100;8.318;8.152;-0.166
+TIER_5;459;Honda_CivicEJ1F1_1993;Honda;Danny Yamato's Civic EJ1;fnf;;;5P;713;2522;188/4.0;2.00;0/100;6.889;6.871;-6.889
+TIER_5;460;Honda_CivicTypeRTNR_2017;Honda;Civic Type R;;;Elite full;5P;713;2525;188/4.0;2.00;0/100;6.884;6.807;-0.115
+TIER_5;461;Honda_CivicTypeRTNR_2017;Honda;Civic Type R;;;Elite 0;0G;713;1964;188/4.0;2.00;0/100;8.005;7.847;-0.085
+TIER_5;462;Honda_IndyTruck_2017;Honda;Hoonigan Indy Truck;Hoonigan ;;;5P;713;2525;188/4.0;2.00;0/100;6.847;6.511;-0.336
+TIER_5;463;Honda_NSXTNR_1992;Honda;1992 NSX Type R;;;Elite full;5P;713;2397;188/4.0;2.10;0/100;7.075;6.947;-0.128
+TIER_5;464;Honda_NSXTNR_1992;Honda;1992 NSX Type R;;;Elite 0;0G;713;1885;188/4.0;2.21;0/100;8.099;7.920;-0.179
+TIER_5;465;Honda_S2000F1_2001;Honda;Johnny Tran's Veilside S2000;fnf;(Black);;5P;713;2028;314/4.0;2.46;0/100;7.870;7.854;-0.016
+TIER_5;466;Honda_S2000F2_2001;Honda;Suki's Veilside S2000;fnf;(Pink);;5P;712;1978;371/6.1;2.15;52/48;7.982;7.836;-0.146
+TIER_5;467;Honda_S2000TNR_2001;Honda;S2000;;;Elite full;5P;713;2027;188/4.0;2.02;53/47;7.882;7.671;-0.211
+TIER_5;468;Honda_S2000TNR_2001;Honda;S2000;;;Elite 0;0G;713;1201;188/4.0;2.40;53/47;9.535;9.175;-0.360
+TIER_5;469;Honda_VarisS2000Reward_2005;Honda;Varis S2000 'Dark Panther';;;;5P;713;2069;188/4.0;2.00;0/100;7.798;7.651;-0.147
+TIER_5;470;Honda_VarisS2000RewardRecycled_2005;Honda;Varis S2000 'Dark Panther';;;;5G;713;2040;188/4.0;2.00;0/100;7.855;7.701;-0.154
+TIER_5;471;Hyperion_XP1_2023;Hyperion;X-16 Prometheus;;;;5P;713;2521;225/4.0;2.00;0/100;6.891;6.884;-0.007
+TIER_5;472;Hyundai_NVision74Concept_2023;Hyundai;N Vision 74;;;;5P;708;2491;225/4.0;2.00;0/100;6.924;6.870;-0.054
+TIER_5;473;Indy_Car_2021;INDYCAR;INDYCAR;;;;5P;714;2457;188/4.0;2.67;53/47;6.900;6.788;-0.112
+TIER_5;474;Italdesign_ZerounoDuerta_2018;Italdesign;Zerouno Duerta;;;;5P;714;2139;305/4.0;2.00;0/100;7.589;7.471;-0.118
+TIER_5;475;Italdesign_ZerounoReward_2017;Italdesign;Zerouno;;;;5P;714;2139;305/4.0;2.00;0/100;7.589;7.473;-0.116
+TIER_5;476;Italdesign_ZerounoRewardRecycled_2017;Italdesign;Zerouno;;;;5G;714;2108;293/4.0;2.00;0/100;7.651;7.530;-0.121
+TIER_5;477;Jaguar_CX75PrototypeCrew_2013;Jaguar;C-X75;;;;5P;714;1237;473/5.6;2.86;2/98;9.335;9.335;-0.000
+TIER_5;478;Jaguar_CX75PrototypeReward_2013;Jaguar;C-X75;;;;5P;714;1923;521/5.6;2.96;0/100;7.999;7.937;-0.062
+TIER_5;479;Jaguar_CX75PrototypeRewardRecycled_2013;Jaguar;C-X75;;;;5G;714;1896;493/5.5;2.99;0/100;8.052;7.989;-0.063
+TIER_5;480;Jaguar_FTYPERConvertibleReward_2021;Jaguar;F-TYPE R Convertible;;;;4P;714;1813;188/4.0;2.07;0/100;8.200;8.091;-0.109
+TIER_5;481;Jaguar_FTYPERConvertibleRewardRecycled_2021;Jaguar;F-TYPE R Convertible;;;;4G;714;1786;188/4.0;2.09;0/100;8.255;8.143;-0.112
+TIER_5;482;Jaguar_FTypeSVRCoupeReward_2019;Jaguar;F-TYPE SVR Coupé Graphic Pack;;;;4P;714;1600;473/5.6;2.67;0/100;8.627;8.594;-0.033
+TIER_5;483;Jaguar_FTypeSVRCoupeRewardRecycled_2019;Jaguar;F-TYPE SVR Coupé;;;;4G;714;1561;448/5.5;2.71;0/100;8.706;8.677;-0.029
+TIER_5;484;Jaguar_Project7Boss_2016;Jaguar;Victor's Project 7;;;;5P;642;1246;278/2.2;5.00;56/44;12.241;12.094;-0.147
+TIER_5;485;Jaguar_Project7VIP_2016;Jaguar;Project 7;;(VIP/New Year Offer);;5P;714;1600;473/5.6;2.67;0/100;8.627;8.593;-0.034
+TIER_5;486;Jaguar_XJ220Classic_1993;Jaguar;XJ220;;;Elite full;5G;713;2211;305/4.0;2.00;0/100;7.513;7.473;-0.040
+TIER_5;487;Jaguar_XJ220Classic_1993;Jaguar;XJ220;;;Elite 0;0G;713;1993;266/4.0;2.00;0/100;7.948;7.898;-0.050
+TIER_5;488;Jaguar_XJR15_1991;Jaguar;XJR-15;;;;5P;713;2598;188/4.0;2.00;0/100;6.741;6.650;-0.091
+TIER_5;489;Jaguar_XKRSGT_2014;Jaguar;XR-RS GT;;;;5P;713;2317;188/4.0;2.00;0/100;7.282;7.217;-0.065
+TIER_5;490;Kimera_EVO37_2022;Kimera;EVO37;;(Red);;5P;713;2323;188/4.0;2.05;0/100;7.285;7.255;-0.030
+TIER_5;491;Kimera_EVO37Gold_2022;Kimera;EVO37;;(Green);;5P;713;2323;188/4.0;2.05;0/100;7.285;7.255;-0.030
+TIER_5;492;Kimera_EVO37Martini_2024;Kimera;EVO37 'Martini7 Edition';;;;5P;713;2348;188/4.0;2.05;0/100;7.235;7.215;-0.020
+TIER_5;493;Kimera_EVO38_2024;Kimera;EVO38;;;;5P;713;2420;188/4.0;2.00;0/100;7.092;7.092;-0.000
+TIER_5;494;Koenigsegg_AgeraR_2013;Koenigsegg;Shax's Agera R;;;;5P;710;785;387/5.3;3.64;29/71;10.525;10.523;-0.002
+TIER_5;495;Koenigsegg_AgeraRSReward_2017;Koenigsegg;Agera RS;;;;5P;715;2135;537/4.3;2.60;0/100;7.485;7.413;-0.072
+TIER_5;496;Koenigsegg_AgeraRSRewardRecycled_2017;Koenigsegg;Agera RS;;;;5G;715;2112;498/4.7;2.60;0/100;7.532;7.475;-0.057
+TIER_5;497;Koenigsegg_CC850_2023;Koenigsegg;CC850;;;;5P;713;2465;188/4.0;2.00;54/46;6.938;6.747;-0.191
+TIER_5;498;Koenigsegg_Gemera_2021;Koenigsegg;Gemera;;(Blue);;5G;714;2444;78/15.0;2.00;0/100;6.962;6.952;-0.010
+TIER_5;499;Koenigsegg_Gemera_2025;Koenigsegg;Gemera;;(Gold);;5P;714;2512;188/4.0;2.00;0/100;6.892;6.761;-0.131
+TIER_5;500;Koenigsegg_GemeraLE_2021;Koenigsegg;Gemera 'Launch Edition';;;;5P;714;2468;81/14.7;2.00;0/100;6.913;6.904;-0.009
+TIER_5;501;Koenigsegg_Jesko_2020;Koenigsegg;Jesko;;(White);;5P;715;2398;473/5.6;2.14;0/100;6.996;6.949;-0.047
+TIER_5;502;Koenigsegg_JeskoAbsolut_2021;Koenigsegg;Jesko Absolut;;;;5P;715;2458;242/5.0;2.00;0/100;6.882;6.807;-0.075
+TIER_5;503;Koenigsegg_JeskoGold_2020;Koenigsegg;Jesko 'Draco Red';;;;5P;715;2394;200/4.0;3.08;0/100;6.997;6.947;-0.050
+TIER_5;504;Koenigsegg_JeskoRoofless_2020;Koenigsegg;Jesko;;(Orange)(Roofless);;5P;715;2398;473/5.6;2.14;0/100;6.996;6.949;-0.047
+TIER_5;505;Koenigsegg_One1_2014;Koenigsegg;One:1;;;;5G;714;2141;451/5.5;3.13;1/99;7.524;7.525;0.001
+TIER_5;506;Koenigsegg_RegeraHalloween_2016;Koenigsegg;Regera 'CSR Edition' Ghost Package;;(Red)(Halloween);;5P;715;2171;266/4.5;2.17;56/44;7.406;7.181;-0.225
+TIER_5;507;Koenigsegg_RegeraReward_2016;Koenigsegg;Regera 'CSR Edition';;;;5P;715;2161;266/4.5;2.18;70/30;7.425;7.184;-0.241
+TIER_5;508;Koenigsegg_RegeraRewardGold_2016;Koenigsegg;Regera 'CSR Edition' Ghost Package;;(Light Grey);;5P;715;2161;63/13.5;2.11;52/48;7.438;7.305;-0.133
+TIER_5;509;Koenigsegg_RegeraRewardRecycled_2016;Koenigsegg;Regera 'CSR Edition';;;;5G;715;2140;256/4.5;2.34;56/44;7.463;7.205;-0.258
+TIER_5;510;KTM_XBowGTX_2020;KTM;X-BOW GTX;;;;5P;713;2208;188/4.0;2.14;53/47;7.511;7.452;-0.059
+TIER_5;511;KTM_XBowRReward_2011;KTM;X-BOW R;;;;4P;714;1706;350/7.5;2.37;12/88;8.407;8.375;-0.032
+TIER_5;512;KTM_XBowRRewardRecycled_2011;KTM;X-BOW R;;;;4G;714;1668;331/7.6;2.36;14/86;8.483;8.449;-0.034
+TIER_5;513;Lamborghini_Autentica_2023;Lamborghini;Auténtica;;;;5P;713;2441;188/4.0;2.00;0/100;6.996;6.848;-0.148
+TIER_5;514;Lamborghini_AventadorLP7004_2011;Lamborghini;Aventador Coupé;;(LP7004)(2011);;3G;713;1219;403/5.4;2.69;21/79;9.462;9.462;0.000
+TIER_5;515;Lamborghini_AventadorLP7504Superveloce_2015;Lamborghini;Aventador SV Coupé;;(LP7504)(2015);;4G;714;1407;448/5.5;2.90;0/100;9.001;8.968;-0.033
+TIER_5;516;Lamborghini_AventadorSJReward_2021;Lamborghini;Aventador LP 780-4 Ultimae;;;;5P;713;2208;188/4.0;2.15;53/47;7.458;7.253;-0.205
+TIER_5;517;Lamborghini_AventadorSJRewardRecycled_2021;Lamborghini;Aventador LP 780-4 Ultimae;;;;5G;713;2155;188/4.0;2.00;53/47;7.564;7.320;-0.244
+TIER_5;518;Lamborghini_AventadorSVJReward_2019;Lamborghini;Aventador SVJ;;;;5P;715;2043;395/4.0;2.17;0/100;7.651;7.487;-0.164
+TIER_5;519;Lamborghini_AventadorSVJRewardRecycled_2019;Lamborghini;Aventador SVJ;;;;5G;715;2021;380/4.0;2.19;0/100;7.695;7.533;-0.162
+TIER_5;520;Lamborghini_AventadorSVJRoadster_2020;Lamborghini;Aventador SVJ 63 Roadster;;;;5G;715;2038;63/12.0;2.00;52/48;7.690;7.396;-0.294
+TIER_5;521;Lamborghini_AventadorSVJRoadsterReward_2020;Lamborghini;Aventador SVJ Roadster;;;;5P;715;2086;200/6.6;2.00;0/100;7.594;7.403;-0.191
+TIER_5;522;Lamborghini_AventadorSVJRoadsterRewardRecycled_2020;Lamborghini;Aventador SVJ Roadster;;;;5G;715;2054;198/6.5;2.00;0/100;7.657;7.460;-0.197
+TIER_5;523;Lamborghini_AventadorTNR_2021;Lamborghini;Aventador LP 780-4 Ultimae;;;Elite full;5P;713;2433;188/4.0;2.06;0/100;7.008;6.883;-0.125
+TIER_5;524;Lamborghini_AventadorTNR_2021;Lamborghini;Aventador LP 780-4 Ultimae;;;Elite 0;0G;713;1939;188/4.0;2.29;0/100;7.996;7.804;-0.192
+TIER_5;525;Lamborghini_Centenario_2017;Lamborghini;Centenario;;;;5P;714;2071;188/4.0;2.00;0/100;7.694;7.549;-0.145
+TIER_5;526;Lamborghini_CentenarioRoadsterAdPersonam_2017;Lamborghini;Centenario Roadster Ad Personam;;;;5P;714;2078;330/4.6;2.23;0/100;7.703;7.613;-0.090
+TIER_5;527;Lamborghini_CentenarioRoadsterAndroid_2017;Lamborghini;Centenario Roadster;;(Silver)(Android);;5P;714;2083;169/5.2;2.14;0/100;7.702;7.605;-0.097
+TIER_5;528;Lamborghini_CentenarioRoadsteriOS_2017;Lamborghini;Centenario Roadster;;(Yellow)(iOS);;5P;714;2083;169/5.2;2.14;0/100;7.702;7.605;-0.097
+TIER_5;529;Lamborghini_CountachLPI8004_2022;Lamborghini;Countach LPI 800-4;;(White);;5P;715;2348;63/12.0;2.00;0/100;7.042;6.931;-0.111
+TIER_5;530;Lamborghini_CountachLPI8004Reward_2022;Lamborghini;Countach LPI 800-4;;(Green)(Season Prize);;5P;715;2348;63/12.0;2.00;0/100;7.042;6.931;-0.111
+TIER_5;531;Lamborghini_CountachLPI8004RewardRecycled_2022;Lamborghini;Countach LPI 800-4;;;;5G;715;2319;63/12.0;2.00;0/100;7.100;6.986;-0.114
+TIER_5;532;Lamborghini_DiabloGT_2000;Lamborghini;Diablo GT;;;;5P;713;2489;188/4.0;2.00;0/100;6.938;6.889;-0.149
+TIER_5;533;Lamborghini_DiabloSV_1997;Lamborghini;Diablo SV;;;;5P;713;2237;188/4.0;2.00;0/100;7.443;7.373;-0.070
+TIER_5;534;Lamborghini_EssenzaSCV12_2021;Lamborghini;Essenza SCV12;;(Green);;5P;713;2485;188/4.0;2.00;0/100;6.966;6.868;-0.098
+TIER_5;535;Lamborghini_EssenzaSCV12Monterey_2021;Lamborghini;Essenza SCV12 'Bianco Asopo';;;;5P;713;2485;188/4.0;2.00;0/100;6.966;6.868;-0.098
+TIER_5;536;Lamborghini_EssenzaSCV12Nero_2021;Lamborghini;Essenza SCV12;;(Black);;5P;713;2485;188/4.0;2.00;0/100;6.966;6.868;-0.098
+TIER_5;537;Lamborghini_Fenomeno_2026;Lamborghini;Fenomeno;;;;5P;713;2507;188/4.0;2.65;0/100;6.866;6.759;-0.107
+TIER_5;538;Lamborghini_FewOff_2020;Lamborghini;Sián FKP 37;;;;5P;715;2271;158/16.8;2.00;0/100;7.195;7.063;-0.132
+TIER_5;539;Lamborghini_FewOffAdPersonam_2020;Lamborghini;Sián FKP 37 Ad Personam;;;;5P;715;2271;158/16.8;2.00;0/100;7.195;7.065;-0.130
+TIER_5;540;Lamborghini_HuracanEvoReward_2019;Lamborghini;Huracán Evo Coupé;;;;5P;714;1899;236/4.0;2.10;0/100;8.025;7.983;-0.042
+TIER_5;541;Lamborghini_HuracanEvoRewardRecycled_2019;Lamborghini;Huracán Evo Coupé;;;;5G;714;1829;380/4.0;2.10;0/100;8.166;8.073;-0.093
+TIER_5;542;Lamborghini_HuracanEvoSpyderReward_2019;Lamborghini;Huracán Evo Spyder;;;;5P;714;1844;395/4.0;2.10;0/100;8.137;8.041;-0.096
+TIER_5;543;Lamborghini_HuracanEvoSpyderRewardRecycled_2019;Lamborghini;Huracán Evo Spyder;;;;5G;714;1829;380/4.0;2.10;0/100;8.166;8.073;-0.093
+TIER_5;544;Lamborghini_HuracanEVOTNR_2021;Lamborghini;Huracán Evo;;;Elite full;5P;713;2456;188/4.0;2.28;0/100;6.966;6.889;-0.077
+TIER_5;545;Lamborghini_HuracanEVOTNR_2021;Lamborghini;Huracán Evo;;;Elite 0;0G;713;1935;188/4.0;2.51;0/100;8.008;7.856;-0.152
+TIER_5;546;Lamborghini_HuracanGT3Evo2_2024;Lamborghini;Huracan GT3 Evo 2;;;;5P;713;2500;188/4.0;2.04;0/100;6.913;6.815;-0.098
+TIER_5;547;Lamborghini_HuracanGT3EVORacecar_2019;Lamborghini;Huracán GT3 EVO;;;;5P;713;2409;281/4.9;2.00;0/100;7.056;6.972;-0.084
+TIER_5;548;Lamborghini_HuracanLP6104_2014;Lamborghini;Huracán Coupé;;;Elite full;5G;713;1989;545/5.6;3.37;38/62;7.896;7.893;-0.003
+TIER_5;549;Lamborghini_HuracanLP6104_2014;Lamborghini;Huracán Coupé;;;Elite 0;3G;713;1799;479/5.6;3.57;34/66;8.276;8.274;-0.002
+TIER_5;550;Lamborghini_HuracanLP6104Reward_2014;Lamborghini;LB Huracán Coupé;;(LP6104)(2014);;5P;714;1734;579/5.6;3.43;3/97;8.394;8.187;-0.207
+TIER_5;551;Lamborghini_HuracanLP6104RewardRecycled_2014;Lamborghini;LB Huracán Coupé;;(LP6104)(2014);;5G;714;1722;551/5.5;3.46;1/99;8.417;8.227;-0.190
+TIER_5;552;Lamborghini_HuracanPerformanteReward_2018;Lamborghini;Huracán Performante;;;;5P;714;1872;473/5.6;2.69;14/86;8.061;8.057;-0.004
+TIER_5;553;Lamborghini_HuracanPerformanteRewardRecycled_2018;Lamborghini;Huracán Performante;;;;5G;714;1853;448/5.5;2.70;14/86;8.098;8.094;-0.004
+TIER_5;554;Lamborghini_HuracanPerformanteSpyder_2019;Lamborghini;Huracán Performante Spyder;;;;5G;714;1830;448/4.0;2.39;0/100;8.147;7.955;-0.192
+TIER_5;555;Lamborghini_HuracanSterratoHoliday_2021;Lamborghini;Huracán Sterrato 'Avventure Ivernale';;;;5P;714;2104;188/4.0;2.00;0/100;7.617;7.569;-0.048
+TIER_5;556;Lamborghini_HuracanSterratoReward_2021;Lamborghini;Huracán Sterrato;;;;5P;714;2104;188/4.0;2.00;0/100;7.617;7.566;-0.051
+TIER_5;557;Lamborghini_HuracanSterratoRewardRecycled_2021;Lamborghini;Huracán Sterrato;;;;5G;714;2084;188/4.0;2.00;0/100;7.656;7.604;-0.052
+TIER_5;558;Lamborghini_HuracanSTO_2021;Lamborghini;Huracán STO;;;;5G;713;2098;298/5.0;2.00;0/100;7.699;7.471;-0.228
+TIER_5;559;Lamborghini_HuracanSTOEVO_2021;Lamborghini;Huracán STO;;(Evo)(Blue);;5P;713;2150;242/6.5;2.00;0/100;7.594;7.382;-0.212
+TIER_5;560;Lamborghini_HuracanTecnicaReward_2023;Lamborghini;Huracán Tecnica;;;;5P;713;2079;63/12.0;2.25;53/47;7.758;7.414;-0.344
+TIER_5;561;Lamborghini_HuracanTecnicaRewardRecycled_2023;Lamborghini;Huracán Tecnica;;;;5G;713;2055;63/12.0;2.23;53/47;7.806;7.456;-0.350
+TIER_5;562;Lamborghini_Invencible_2023;Lamborghini;Invencible;;;;5P;713;2441;188/4.0;2.00;0/100;6.996;6.849;-0.147
+TIER_5;563;Lamborghini_IVReward_2024;Lamborghini;Lanzador Concept;;;;5G;713;2222;225/4.0;2.00;0/100;7.438;7.417;-0.021
+TIER_5;564;Lamborghini_IVRewardRecycled_2024;Lamborghini;Lanzador Concept;;;;5G;713;2245;225/4.0;2.00;0/100;7.391;7.364;-0.027
+TIER_5;565;Lamborghini_LB634_2024;Lamborghini;Temerario;;(LB634);;5P;713;2214;188/4.0;2.00;0/100;7.454;7.267;-0.236
+TIER_5;566;Lamborghini_LBAventadorLP7004Reward_2011;Lamborghini;LB Aventador Coupé;;(Season Prize)(Purple Candy);;5P;713;1966;467/4.0;2.00;53/47;7.945;7.690;-0.255
+TIER_5;567;Lamborghini_LBAventadorLP7004RewardGold_2011;Lamborghini;LB 'Limited Edition' Aventador Coupé;;;;5P;713;1930;467/4.0;2.00;0/100;8.017;7.735;-0.282
+TIER_5;568;Lamborghini_LBAventadorLP7004RewardRecycled_2011;Lamborghini;LB Aventador Coupé;;;;5G;713;1947;472/4.0;2.00;53/47;7.982;7.722;-0.260
+TIER_5;569;Lamborghini_LBAventadorLP7004RewardVIP_2011;Lamborghini;LB Aventador Coupé;;(VIP)(Red Candy);;5P;713;1966;467/4.0;2.00;53/47;7.945;7.691;-0.254
+TIER_5;570;Lamborghini_LBMurcielagoSVReward_2009;Lamborghini;LB Murciélago LP670-4 SuperVeloce;;;;5P;713;1921;278/8.0;2.00;0/100;8.093;7.971;-0.122
+TIER_5;571;Lamborghini_LBMurcielagoSVRewardRecycled_2009;Lamborghini;LB Murciélago LP670-4 SuperVeloce;;;;5G;713;1898;266/7.5;2.00;0/100;8.140;8.020;-0.120
+TIER_5;572;Lamborghini_LBSilhouetteHuracanReward_2014;Lamborghini;LB Silhouette Huracán Coupé;;;;5P;714;1862;210/4.7;2.62;0/100;8.122;7.923;-0.199
+TIER_5;573;Lamborghini_LBSilhouetteHuracanRewardRecycled_2014;Lamborghini;LB Silhouette Huracán Coupé;;;Elite full;5G;714;2105;207/4.6;2.14;0/100;7.636;7.405;-0.231
+TIER_5;574;Lamborghini_LBSilhouetteHuracanRewardRecycled_2014;Lamborghini;LB Silhouette Huracán Coupé;;;Elite 0;0G;714;1850;196/5.3;2.59;0/100;8.146;7.955;-0.191
+TIER_5;575;Lamborghini_LBWKMurcielagoReward_2009;Lamborghini;Murciélago LB Silhouette Works;;;;5P;713;2169;188/4.0;2.00;0/100;7.597;7.448;-0.149
+TIER_5;576;Lamborghini_LBWKMurcielagoRewardRecycled_2009;Lamborghini;Murciélago LB Silhouette Works;;;;5G;713;2141;188/4.0;2.00;0/100;7.653;7.504;-0.149
+TIER_5;577;Lamborghini_MiuraSVLPClassic_1971;Lamborghini;Miura SV;;;Elite full;5P;713;2595;188/4.0;2.00;0/100;6.743;6.728;-0.015
+TIER_5;578;Lamborghini_MiuraSVLPClassic_1971;Lamborghini;Miura SV;;;Elite 0;0G;713;2232;188/4.0;2.00;0/100;7.469;7.426;-0.043
+TIER_5;579;Lamborghini_MurcielagoLP640F8_2006;Lamborghini;Roman's Murciélago;fnf;;;5P;715;1867;473/6.1;2.31;0/100;8.053;7.666;-0.387
+TIER_5;580;Lamborghini_MurcielagoSVReward_2009;Lamborghini;Murciélago LP670-4 SuperVeloce;;;;4P;713;1537;395/4.0;2.00;52/48;8.847;8.522;-0.325
+TIER_5;581;Lamborghini_MurcielagoSVRewardRecycled_2009;Lamborghini;Murciélago LP670-4 SuperVeloce;;;;4G;713;1504;380/4.0;2.00;52/48;8.915;8.584;-0.331
+TIER_5;582;Lamborghini_Reventon_2008;Lamborghini;Reventón;;;;5P;713;2620;188/4.0;2.00;0/100;6.685;6.651;-0.034
+TIER_5;583;Lamborghini_RevueltoReward_2024;Lamborghini;Revuelto;;;;5P;713;2420;188/4.0;2.26;0/100;7.044;6.829;-0.215
+TIER_5;584;Lamborghini_RevueltoRewardRecycled_2024;Lamborghini;Revuelto;;;;5G;713;2396;188/4.0;2.26;0/100;7.093;6.870;-0.223
+TIER_5;585;Lamborghini_RevueltoSS1_2024;Lamborghini;Revuelto;;(Green);;5P;713;2416;188/4.0;2.00;0/100;7.053;6.983;-0.070
+TIER_5;586;Lamborghini_RevueltoSS2_2024;Lamborghini;Revuelto;;(Blue);;5P;713;2416;188/4.0;2.00;0/100;7.053;6.983;-0.070
+TIER_5;587;Lamborghini_RevueltoSV_2027;Lamborghini;Revuelto SV;;;;5P;713;2481;188/4.0;2.00;0/100;6.917;6.833;-0.084
+TIER_5;588;Lamborghini_SC18Alston_2019;Lamborghini;SC18;;Transmission 5;;5G;713;2183;75/12.0;2.12;0/100;7.557;7.444;-0.113
+TIER_5;589;Lamborghini_SC20_2020;Lamborghini;SC20;;;;5P;715;2365;63/12.0;2.00;0/100;7.005;6.897;-0.108
+TIER_5;590;Lamborghini_SC63LMDH_2024;Lamborghini;SC63 'IMSA Version';;;;5P;713;2611;188/4.0;2.09;0/100;6.696;6.537;-0.159
+TIER_5;591;Lamborghini_SestoElementoCrew_2012;Lamborghini;'Harkness' Sesto Elemento;;;;5P;716;2023;395/4.0;2.00;54/46;7.670;7.379;-0.291
+TIER_5;592;Lamborghini_SestoElementoCrewRecycled_2012;Lamborghini;Sesto Elemento;;;;4G;716;1972;380/4.0;2.00;54/46;7.772;7.461;-0.311
+TIER_5;593;Lamborghini_SianRoadster_2021;Lamborghini;Sián Roadster;;;;5P;715;2275;63/12.0;2.00;0/100;7.184;7.071;-0.113
+TIER_5;594;Lamborghini_TemerarioReward_2025;Lamborghini;Temerario;;;;5P;713;2404;188/4.0;2.00;0/100;7.099;7.099;-0.000
+TIER_5;595;Lamborghini_TemerarioRewardRecycled_2025;Lamborghini;Temerario;;;;5P;713;2380;188/4.0;2.00;0/100;7.147;7.147;-0.000
+TIER_5;596;Lamborghini_TerzoMillennio_2017;Lamborghini;Terzo Millennio;;;;5P;713;2550;188/4.9;2.00;0/100;6.777;6.748;-0.029
+TIER_5;597;Lamborghini_Veneno_2013;Lamborghini;Veneno;;;;5P;714;2218;340/4.2;2.36;0/100;7.416;7.384;-0.032
+TIER_5;598;Lamborghini_VenenoGold_2013;Lamborghini;Veneno;;;;5G;714;2152;338/4.0;2.14;0/100;7.549;7.384;-0.165
+TIER_5;599;Lamborghini_VenenoRoadster_2014;Lamborghini;Veneno Roadster;;;;5P;714;2194;340/4.2;2.00;0/100;7.462;7.354;-0.108
+TIER_5;600;Lamborghini_VenenoRoadsterGold_2014;Lamborghini;Veneno Roadster;;;;5G;714;2151;338/4.0;2.14;0/100;7.549;7.386;-0.163
+TIER_5;601;Lancia_DeltaHFIntegraleEvo2_1994;Lancia;Delta HF Integrale Evo 2;;;;5P;713;2016;188/4.0;2.00;0/100;7.895;7.746;-0.149
+TIER_5;602;Lexus_LFA_2011;Lexus;LFA;;;;5P;713;2193;242/5.0;2.22;0/100;7.512;7.301;-0.211
+TIER_5;603;Lexus_LFAGold_2011;Lexus;LFA;;;;5G;713;2154;235/5.0;2.26;0/100;7.591;7.378;-0.213
+TIER_5;604;Lexus_LFANurburgringPackage_2011;Lexus;LFA Nürburgring Package;;;;5P;713;2193;242/5.0;2.22;0/100;7.512;7.301;-0.211
+TIER_5;605;Lotus_Evija_2020;Lotus;Evija;;(Silver);;5P;713;2476;50/9.8;2.00;0/100;6.924;6.841;-0.083
+TIER_5;606;Lotus_EvijaReward_2020;Lotus;Evija;;(Blue)(Season Prize);;5P;713;2478;150/3.3;2.00;0/100;6.919;6.828;-0.091
+TIER_5;607;Lotus_EvijaRewardRecycled_2020;Lotus;Evija;;;;5G;713;2454;150/3.3;2.00;0/100;6.967;6.874;-0.093
+TIER_5;608;Maserati_7DesignMC20VIP_2021;Maserati;MC20 ARIA by 7Design;;;;5P;713;2283;188/4.0;5.0;0/100;7.347;7.306;-0.041
+TIER_5;609;Maserati_MC12_2004;Maserati;MC12 Stradale (White);;(White);;5P;714;2000;395/4.0;2.43;3/97;7.854;7.738;-0.114
+TIER_5;610;Maserati_MC12BC_2004;Maserati;MC12 Stradale (Black);;(Black);;5P;714;2022;242/6.2;2.20;0/100;7.806;7.752;-0.054
+TIER_5;611;Maserati_MC12CarbonBlue_2004;Maserati;MC12 Stradale 'Carbon Blu';;;;5P;714;2000;395/4.0;2.43;3/97;7.854;7.738;-0.116
+TIER_5;612;Maserati_MC20CieloReward_2023;Maserati;MC20 Cielo;;;;5P;713;2262;188/4.0;5.00;0/100;7.388;7.235;-0.153
+TIER_5;613;Maserati_MC20CieloRewardRecycled_2023;Maserati;MC20 Cielo;;;;5G;713;2235;188/4.0;5.00;0/100;7.442;7.281;-0.161
+TIER_5;614;Maserati_MC20Coupe_2021;Maserati;MC20;;;;5P;713;2262;188/4.0;5.00;0/100;7.388;7.242;-0.146
+TIER_5;615;Mazda_Furai_2008;Mazda;Furai;;;;5P;713;2480;263/4.0;2.00;51/49;6.927;6.853;-0.074
+TIER_5;616;Mazda_LBSuperSilhouetteRX7_1993;Mazda;LB Silhouette RX-7;;;;5P;713;2001;395/4.0;2.00;30/70;7.909;7.621;-0.288
+TIER_5;617;Mazda_LBSuperSilhouetteRX7SE_1993;Mazda;SpecialEffect LB Silhouette RX-7;;;;5P;713;2001;395/4.0;2.00;31/69;7.909;7.622;-0.419
+TIER_5;618;Mazda_RX7F2_1993;Mazda;Orange Julius's RX-7;fnf;;;5P;713;1934;395/4.0;2.00;31/69;8.043;7.735;-0.308
+TIER_5;619;Mazda_RX7F3_1993;Mazda;Han's Veilside Fortune RX-7;fnf;;;5P;713;2001;395/4.0;2.00;31/69;7.909;7.621;-0.288
+TIER_5;620;Mazda_RX7TNR_1993;Mazda;RX-7;;;Elite full;5P;713;1982;188/4.0;2.21;0/100;7.971;7.720;-0.251
+TIER_5;621;Mazda_RX7TNR_1993;Mazda;RX-7;;;Elite 0;0G;713;1200;188/4.0;2.76;0/100;9.535;9.134;-0.401
+TIER_5;622;Mazda_RX8TNR_2008;Mazda;RX-8;;;Elite full;0G;713;2349;188/4.0;2.00;0/100;7.185;7.085;-0.100
+TIER_5;623;Mazda_RX8TNR_2008;Mazda;RX-8;;;Elite 0;0G;713;1728;188/4.0;2.00;0/100;8.426;8.262;-0.164
+TIER_5;624;Mazzanti_EvantraMillecavalli_2019;Mazzanti;Evantra Millecavalli;;;;5P;714;2339;395/5.6;2.00;51/49;7.180;7.014;-0.166
+TIER_5;625;Mazzanti_EvantraMillecavalliGold_2019;Mazzanti;Evantra Millecavalli;;;;5G;713;2348;235/5.0;2.00;0/100;7.202;7.075;-0.127
+TIER_5;626;McLaren_570S_2016;McLaren;570S;;;;3G;713;1249;406/5.3;3.06;0/100;9.402;9.123;-0.279
+TIER_5;627;McLaren_600LTReward_2019;McLaren;600LT;;;;5P;714;2025;425/4.0;2.79;0/100;7.766;7.553;-0.213
+TIER_5;628;McLaren_600LTRewardRecycled_2019;McLaren;600LT;;;;5G;714;1992;406/4.0;2.81;0/100;7.827;7.613;-0.214
+TIER_5;629;McLaren_600LTSpiderReward_2020;McLaren;600LT Spider by MSO;;;;5P;713;2106;305/4.0;2.34;0/100;7.686;7.518;-0.168
+TIER_5;630;McLaren_600LTSpiderRewardRecycled_2020;McLaren;600LT Spider;;;;5G;713;2077;285/4.0;2.35;0/100;7.742;7.572;-0.170
+TIER_5;631;McLaren_650S_2015;McLaren;650S;;;;3G;713;1159;395/5.7;3.63;0/100;9.566;9.538;-0.028
+TIER_5;632;McLaren_675LTSpiderReward_2016;McLaren;675LT Spider;;;;4P;714;1303;473/5.6;3.39;0/100;9.251;9.239;-0.012
+TIER_5;633;McLaren_675LTSpiderRewardRecycled_2016;McLaren;675LT Spider;;;;4G;714;1264;448/5.5;3.43;0/100;9.328;9.315;-0.013
+TIER_5;634;McLaren_720SGT3_2019;McLaren;720S GT3;;;;5P;713;2420;188/4.0;2.00;0/100;7.084;7.000;-0.084
+TIER_5;635;McLaren_720SGT3X_2021;McLaren;720S GT3X;;;;5P;713;2456;188/4.0;2.33;0/100;6.974;6.866;-0.108
+TIER_5;636;McLaren_720SSpiderReward_2019;McLaren;720S Spider;;;;5P;714;2015;440/4.0;2.39;0/100;7.783;7.675;-0.108
+TIER_5;637;McLaren_720SSpiderRewardRecycled_2019;McLaren;720S Spider;;;;5G;714;1978;432/4.0;2.43;0/100;7.856;7.749;-0.107
+TIER_5;638;McLaren_720STNR_2017;McLaren;720S;;;Elite full;5P;713;2502;188/4.0;2.29;0/100;6.880;6.807;-0.073
+TIER_5;639;McLaren_720STNR_2017;McLaren;720S;;;Elite 0;0G;713;1965;188/4.0;2.66;0/100;7.955;7.785;-0.170
+TIER_5;640;McLaren_750SReward_2023;McLaren;750S;;;;5P;714;2015;440/4.0;2.38;0/100;7.787;7.675;-0.112
+TIER_5;641;McLaren_750SRewardRecycled_2023;McLaren;750S;;;;5G;714;1978;432/4.0;2.43;0/100;7.856;7.749;-0.107
+TIER_5;642;McLaren_765LT_2021;McLaren;765LT;;;;5G;715;2232;323/4.8;2.57;0/100;7.288;7.245;-0.043
+TIER_5;643;McLaren_765LTSpiderReward_2021;McLaren;765LT Spider;;;;5P;715;2262;323/4.9;2.55;0/100;7.227;7.193;-0.034
+TIER_5;644;McLaren_765LTSpiderRewardRecycled_2021;McLaren;765LT Spider;;;;5G;715;2232;323/4.8;2.57;0/100;7.288;7.245;-0.043
+TIER_5;645;McLaren_ArturaReward_2022;McLaren;Artura;;;;5P;713;2068;188/4.0;2.00;53/47;7.798;7.688;-0.110
+TIER_5;646;McLaren_ArturaRewardRecycled_2022;McLaren;Artura;;;;5G;713;2042;188/4.0;2.00;53/47;7.848;7.736;-0.112
+TIER_5;647;McLaren_ArturaSpiderReward_2024;McLaren;Artura Spider;;;;5G;713;2068;188/4.0;2.00;53/47;7.798;7.689;-0.109
+TIER_5;648;McLaren_ArturaSpiderRewardRecycled_2024;McLaren;Artura Spider;;;;5G;713;2042;188/4.0;2.00;53/47;7.848;7.736;-0.112
+TIER_5;649;McLaren_Elva_2021;McLaren;2020 Elva;;;;5P;715;2319;323/4.9;2.56;0/100;7.094;7.069;-0.025
+TIER_5;650;McLaren_ElvaGold_2021;McLaren;2020 Elva;;;;5G;715;2289;323/4.8;2.58;0/100;7.153;7.117;-0.036
+TIER_5;651;McLaren_ElvaGOSH_2021;McLaren;2020 Elva GOSH Edition;;;;5P;715;2319;323/4.9;2.56;0/100;7.094;7.069;-0.025
+TIER_5;652;McLaren_ElvaMSO_2021;McLaren;2020 Elva M1A by MSO;;;;5P;715;2319;323/4.9;2.56;0/100;7.094;7.068;-0.026
+TIER_5;653;McLaren_ElvaWindscreenReward_2021;McLaren;2021 Elva;;;;5P;713;2319;323/4.9;2.56;0/100;7.094;7.070;-0.024
+TIER_5;654;McLaren_ElvaWindscreenRewardRecycled_2021;McLaren;2021 Elva;;;;5G;713;2289;323/4.8;2.56;0/100;7.152;7.115;-0.037
+TIER_5;655;McLaren_F1_1993;McLaren;F1;;;Elite full;5P;714;2474;188/4.0;2.00;0/100;6.917;6.904;-0.013
+TIER_5;656;McLaren_F1_1993;McLaren;F1;;;Elite 0;5P;714;2325;188/4.0;2.00;0/100;7.213;7.195;-0.018
+TIER_5;657;McLaren_F1GT_1997;McLaren;F1 GT;;;;5P;713;2569;188/4.0;2.00;0/100;6.791;6.743;-0.048
+TIER_5;658;McLaren_F1LM_1995;McLaren;F1 LM;;;;5P;714;2369;188/4.0;2.00;0/100;7.064;7.018;-0.046
+TIER_5;659;McLaren_GTReward_2020;McLaren;GT;;;;5P;713;2054;242/6.5;2.66;0/100;7.819;7.809;-0.010
+TIER_5;660;McLaren_GTRewardRecycled_2020;McLaren;GT;;;;5G;713;2059;235/6.3;2.61;0/100;7.810;7.798;-0.012
+TIER_5;661;McLaren_LB650SReward_2015;McLaren;Liberty Walk 650S;;(White)(Season Prize);;5P;714;1752;521/6.7;2.97;0/100;8.305;8.276;-0.029
+TIER_5;662;McLaren_LB650SRewardGold_2015;McLaren;Liberty Walk 650S;;(Event)(Red);;5P;713;1786;521/6.7;3.23;20/80;8.306;8.278;-0.028
+TIER_5;663;McLaren_LB650SRewardRecycled_2015;McLaren;Liberty Walk 650S;;;;5G;714;1726;478/6.5;3.03;0/100;8.358;8.328;-0.030
+TIER_5;664;McLaren_P14CoupeReward_2017;McLaren;720S;;;;5P;713;2095;663/6.7;2.63;0/100;7.719;7.670;-0.049
+TIER_5;665;McLaren_P14CoupeRewardRecycled_2017;McLaren;720S;;;;5G;713;2055;635/6.5;2.70;0/100;7.800;7.752;-0.048
+TIER_5;666;McLaren_P14CoupeSH1_2017;McLaren;Deckard Shaw's 720S;fnf;;;5P;713;2090;663/6.7;2.87;0/100;7.730;7.699;-0.031
+TIER_5;667;McLaren_P1_2014;McLaren;McLaren P1™;;;;5G;714;2016;590/26.5;3.19;1/99;7.819;7.824;0.005
+TIER_5;668;McLaren_P1GTREvo_2015;McLaren;McLaren P1™ GTR 'Peable Beach';;;;5P;715;2089;558/5.1;3.28;1/99;7.563;7.564;0.001
+TIER_5;669;McLaren_P1GTRReward_2015;McLaren;McLaren P1™ GTR;;;;5P;715;2097;615/28.0;3.15;0/100;7.579;7.575;-0.004
+TIER_5;670;McLaren_P1GTRRewardRecycled_2015;McLaren;McLaren P1™ GTR;;;;5G;715;2041;483/6.2;3.21;3/97;7.688;7.696;0.008
+TIER_5;671;McLaren_Sabre_2022;McLaren;Sabre by MSO;;;;5P;713;2446;253/4.3;2.42;0/100;6.999;6.959;-0.040
+TIER_5;672;McLaren_Senna_2018;McLaren;Senna;;;;5P;714;2318;253/4.3;2.48;0/100;7.216;7.159;-0.057
+TIER_5;673;McLaren_SennaCarbon_2018;McLaren;Senna Carbon Theme By MSO;;;;5P;715;2294;237/5.3;2.29;0/100;7.198;7.179;-0.019
+TIER_5;674;McLaren_SennaGOSH_2018;McLaren;Senna GOSH Edition;;;;5P;714;2318;253/4.3;2.48;0/100;7.216;7.159;-0.057
+TIER_5;675;McLaren_SennaGTR_2020;McLaren;Senna GTR;;;;5P;713;2445;253/4.3;2.43;0/100;7.000;6.958;-0.042
+TIER_5;676;McLaren_SennaGTRLM_2020;McLaren;Senna GTR LM 'Gulf Livery';;;;5P;713;2445;253/4.3;2.43;0/100;7.000;6.957;-0.043
+TIER_5;677;McLaren_SennaLE_2018;McLaren;Senna 'Launch Edition';;;;5P;714;2318;253/4.3;2.48;0/100;7.216;7.160;-0.056
+TIER_5;678;McLaren_SLR722EditionCrew_2007;McLaren;SLR 722 Edition;;;;0G;714;936;390/5.2;2.87;0/100;9.936;9.936;-0.000
+TIER_5;679;McLaren_SLR722EditionReward_2006;McLaren;SLR 722 Edition;;;;5P;713;2280;63/12.0;2.00;100/0;7.351;7.163;-0.188
+TIER_5;680;McLaren_SLR722EditionRewardRecycled_2006;McLaren;SLR 722 Edition;;;;5G;713;2253;63/12.0;2.00;100/0;7.405;7.211;-0.194
+TIER_5;681;McLaren_SLR722SRoadster_2009;McLaren;SLR 722 S Roadster;;;;5P;713;2280;63/12.0;2.00;100/0;7.351;7.163;-0.188
+TIER_5;682;McLaren_SolusGT_2023;McLaren;Solus GT;;;;5P;713;2578;188/4.0;2.00;0/100;6.738;6.555;-0.183
+TIER_5;683;McLaren_Speedtail_2019;McLaren;Speedtail;;(Silver);;5P;715;2364;424/4.0;2.30;0/100;7.070;6.945;-0.125
+TIER_5;684;McLaren_SpeedtailOrange_2019;McLaren;Speedtail;;(Orange);;5P;715;2365;421/4.1;2.29;0/100;7.068;6.944;-0.124
+TIER_5;685;McLaren_SpeedtailRed_2019;McLaren;Speedtail;;(Red-5-Star);;5P;713;2415;188/4.0;2.19;0/100;7.048;6.903;-0.145
+TIER_5;686;McLaren_SpeedtailRedSEG_2019;McLaren;Speedtail;;(Red 3-Star);;3P;713;1782;188/4.0;2.64;0/100;8.330;8.121;-0.209
+TIER_5;687;McLaren_Vorsteiner570VXReward_2016;McLaren;Vorsteiner 570-VX;;;;4P;714;1827;473/5.6;2.93;0/100;8.237;8.223;-0.014
+TIER_5;688;McLaren_Vorsteiner570VXRewardRecycled_2016;McLaren;Vorsteiner 570-VX;;;;4G;713;1802;448/5.5;2.96;0/100;8.287;8.271;-0.016
+TIER_5;689;McLaren_Vorsteiner720SReward_2018;McLaren;Vorsteiner 720S;;;;5G;714;2042;256/4.0;2.86;0/100;7.742;7.688;-0.054
+TIER_5;690;McLaren_Vorsteiner720SRewardRecycled_2018;McLaren;Vorsteiner 720S;;;;5P;714;2058;266/4.0;2.87;0/100;7.710;7.657;-0.053
+TIER_5;691;McLaren_W1_2025;McLaren;W1;;;;5P;713;2545;188/4.0;2.00;0/100;6.841;6.754;-0.089
+TIER_5;692;McMurtry_Speirling_2022;McMurtry;Spéirling Goodwood Edition;;;;5P;713;2620;225/4.0;2.00;0/100;6.649;6.624;-0.025
+TIER_5;693;MercedesAMG_GT3_2020;Mercedes-AMG;2020 Mercedes-AMG GT3;;;;5P;713;2418;188/4.0;2.00;53/47;7.098;6.984;-0.114
+TIER_5;694;MercedesAMG_GTBlackSeriesReward_2020;Mercedes-AMG;GT Black Series;;;;5P;713;2097;278/8.0;2.00;0/100;7.743;7.722;-0.021
+TIER_5;695;MercedesAMG_GTBlackSeriesRewardRecycled_2020;Mercedes-AMG;GT Black Series;;;;5G;713;2067;266/7.5;2.00;0/100;7.803;7.781;-0.022
+TIER_5;696;MercedesAMG_GTRReward_2017;Mercedes-AMG;AMG GT R;;(Season Prize)(Silver Black Wheels);;4P;713;1461;457/6.2;2.50;0/100;8.956;8.923;-0.033
+TIER_5;697;MercedesAMG_GTRRewardHalloween_2017;Mercedes-AMG;AMG GT R;;(Halloween)(Total Black Wheels);;4P;713;1184;448/5.5;2.28;24/76;9.526;8.850;-0.676
+TIER_5;698;MercedesAMG_GTRRewardRecycled_2017;Mercedes-AMG;AMG GT R;;;;4G;713;1440;436/5.9;2.49;1/99;8.997;8.957;-0.040
+TIER_5;699;MercedesAMG_S63CoupeReward_2020;Mercedes-AMG;AMG S 63 Coupé;;;;5P;713;1929;63/12.0;2.00;0/100;8.047;7.915;-0.132
+TIER_5;700;MercedesAMG_S63CoupeRewardRecycled_2020;Mercedes-AMG;AMG S 63 Coupé;;;;5G;713;1904;63/12.0;2.00;0/100;8.097;7.960;-0.137
+TIER_5;701;MercedesAMGF1_W11_2020;Mercedes-AMG;F1 W11 EQ Performance #44;;;;5P;713;2540;181/5.0;2.00;53/47;6.814;6.768;-0.046
+TIER_5;702;MercedesAMGF1_W11VB_2020;Mercedes-AMG;F1 W11 EQ Performance #77;;;;5P;713;2540;181/5.0;2.00;53/47;6.814;6.769;-0.045
+TIER_5;703;MercedesBenz_CLKGTR_1999;Mercedes-Benz;CLK-GTR;;;;5P;713;2467;188/4.5;2.00;0/100;6.936;6.847;-0.089
+TIER_5;704;MercedesBenz_SL65AMGBlackSeries_2009;Mercedes-Benz;SL 65 AMG Black Series;;;;5G;713;2216;188/4.0;2.00;0/100;7.506;7.492;-0.014
+TIER_5;705;Mitsubishi_EclipseSpyderF2_2003;Mitsubishi;Roman's Eclipse Spyder GTS;fnf;;;5P;713;2444;188/4.0;2.00;0/100;6.981;6.853;-0.128
+TIER_5;706;Nilu27_NILU_2025;NILU27;NILU;;;;5P;713;2448;188/4.0;2.00;0/100;6.994;6.877;-0.117
+TIER_5;707;Nissan_240SXRocketBunnyBossReward_1995;Nissan;Rocket Bunny Boss Aero 240SX (S14);;;;5P;713;2067;63/12.0;2.00;52/48;7.737;7.467;-0.270
+TIER_5;708;Nissan_240SXRocketBunnyBossRewardRecycled_1995;Nissan;Rocket Bunny Boss Aero 240SX (S14);;;;5G;713;2041;63/12.0;2.00;52/48;7.789;7.513;-0.276
+TIER_5;709;Nissan_ActiveSkylineGTRR33_1995;Nissan;SS Active's Skyline FULL DRY CARBON GT-R (BCNR33);;;;5P;713;2367;188/4.0;2.00;0/100;7.138;7.081;-0.057
+TIER_5;710;Nissan_GTR50_2021;Nissan;GT-R50 by Italdesign;;;;5P;713;2142;200/6.5;2.00;0/100;7.589;7.565;-0.024
+TIER_5;711;Nissan_GTR50Reward_2020;Nissan;GT-R50 Prototype by Italdesign;;;;5P;713;2142;200/6.5;2.00;0/100;7.589;7.565;-0.024
+TIER_5;712;Nissan_GTR50RewardRecycled_2020;Nissan;GT-R50 Prototype by Italdesign;;;;5G;713;2117;198/6.3;2.00;0/100;7.640;7.616;-0.024
+TIER_5;713;Nissan_GTRNISMOGT3_2015;Nissan;GT-R NISMO GT3;;;;5P;713;2428;188/4.0;2.00;0/100;7.014;6.853;-0.161
+TIER_5;714;Nissan_GTRNISMOReward_2024;Nissan;2024 GT-R NISMO (R35) Japan Spec;;;;5P;713;2172;188/4.0;2.00;0/100;7.591;7.538;-0.053
+TIER_5;715;Nissan_GTRNISMORewardRecycled_2024;Nissan;2024 GT-R NISMO (R35) Japan Spec;;;;5G;713;2149;188/4.0;2.00;0/100;7.637;7.584;-0.053
+TIER_5;716;Nissan_GTRR35BensopraF6_2012;Nissan;Brian's Ben Sopra GT-R (R35);fnf;;;5P;714;2311;242/5.0;2.00;0/100;7.207;7.159;-0.048
+TIER_5;717;Nissan_GTRTNR_2017;Nissan;2017 GT-R (R35);;;Elite full;5P;713;2352;221/6.2;2.00;0/100;7.225;7.100;-0.125
+TIER_5;718;Nissan_GTRTNR_2017;Nissan;2017 GT-R (R35);;;Elite 0;0G;713;1413;221/5.8;2.47;0/100;9.104;8.874;-0.230
+TIER_5;719;Nissan_KRCJapanGTRR35Reward_2017;Nissan;KRC Japan GT-R (R35);;;;5P;714;2349;158/5.0;2.00;0/100;7.132;7.071;-0.061
+TIER_5;720;Nissan_KRCJapanGTRR35RewardRecycled_2017;Nissan;KRC Japan GT-R (R35);;;;5G;714;2287;161/5.0;2.00;0/100;7.255;7.186;-0.069
+TIER_5;721;Nissan_LBER34Skyline_2002;Nissan;LB Super Silhouette Skyline GT-R (BNR34);;;;5P;713;2036;188/4.0;2.00;0/100;7.796;7.651;-0.145
+TIER_5;722;Nissan_LBSuperSilhouetteSilviaS15_1999;Nissan;LB Super Silhouette Silvia (S15);;;;5P;713;2167;183/4.3;2.00;0/100;7.602;7.498;-0.104
+TIER_5;723;Nissan_R390GT1_1997;Nissan;R390 Gt1 Road Car;;;;5P;713;2603;188/4.0;2.00;0/100;6.692;6.617;-0.075
+TIER_5;724;Nissan_SilviaS14F1_1997;Nissan;Letty's Endless Zeal 240SX (S14);fnf;;;5P;713;2002;188/4.0;2.02;52/48;7.918;7.747;-0.171
+TIER_5;725;Nissan_SilviaS15F3_1999;Nissan;Sean's Silvia Spec S (S15) 'Mona Lisa';fnf;;;5P;713;2013;77/12.0;2.00;0/100;7.908;7.859;-0.049
+TIER_5;726;Nissan_SilviaS15TNR_1999;Nissan;Silvia Spec R (S15);;;Elite full;5P;713;2500;188/4.0;2.00;0/100;6.891;6.801;-0.090
+TIER_5;727;Nissan_SilviaS15TNR_1999;Nissan;Silvia Spec R (S15);;;Elite 0;0G;713;1778;188/4.0;2.31;0/100;8.335;8.197;-0.138
+TIER_5;728;Nissan_SkylineGTRF4_2002;Nissan;Brian's Nissan Skyline GT-R (R34 NISMO S-tune);fnf;;;5P;713;2007;457/6.2;2.36;0/100;7.889;7.846;-0.043
+TIER_5;729;Nissan_SkylineGTRR34F2_1999;Nissan;Brian's C-WEST Skyline GT-R (BNR34);fnf;;;5P;713;2017;384/6.0;2.33;52/48;7.867;7.804;-0.063
+TIER_5;730;Nissan_SkylineGTRR34TNR_2002;Nissan;Skyline GT-R (R34);;;Elite full;5P;713;2096;314/5.4;2.00;0/100;7.687;7.556;-0.131
+TIER_5;731;Nissan_SkylineGTRR34TNR_2002;Nissan;Skyline GT-R (R34);;;Elite 0;0G;713;1332;270/5.2;2.57;0/100;9.215;9.022;-0.193
+TIER_5;732;Nissan_Zero4Skyline2000GT_1971;Nissan;Skyline 2000 GT-Kai Zero-4;;;;5P;713;2474;188/4.0;2.00;0/100;6.987;6.883;-0.104
+TIER_5;733;Nissan_ZTNR_2023;Nissan;Z (RZ34);;;Elite full;5P;712;2385;188/4.0;2.20;0/100;7.187;7.127;-0.060
+TIER_5;734;Nissan_ZTNR_2023;Nissan;Z (RZ34);;;Elite 0;0G;712;1766;188/4.0;2.48;0/100;8.427;8.309;-0.118
+TIER_5;735;Noble_M500_2022;Noble;M500;;;;5P;713;2150;188/4.0;2.00;0/100;7.630;7.445;-0.185
+TIER_5;736;Noble_M600CarbonSport_2017;Noble;M600 Carbon Sport;;;;5P;713;2189;473/5.6;2.00;0/100;7.492;7.438;-0.054
+TIER_5;737;Noble_M600F9_2017;Noble ;Magdalene Shaw's M600;fnf;;;5P;713;2212;188/4.0;2.00;0/100;7.448;7.409;-0.039
+TIER_5;738;Noble_M600Reward_2017;Noble;M600;;;;5P;713;2189;186/4.1;2.00;0/100;7.492;7.438;-0.054
+TIER_5;739;Noble_M600RewardRecycled_2017;Noble;M600;;;;5G;713;2149;188/4.0;2.00;0/100;7.574;7.511;-0.063
+TIER_5;740;Noble_M600SpeedsterReward_2018;Noble;M600 Speedster;;;;5P;713;2183;188/4.0;2.00;0/100;7.506;7.463;-0.043
+TIER_5;741;Noble_M600SpeedsterRewardRecycled_2018;Noble;M600 Speedster;;;;5G;713;2150;188/4.0;2.00;0/100;7.571;7.527;-0.044
+TIER_5;742;Pagani_C10_2023;Pagani;Utopia;;;;5P;713;2544;188/4.0;2.00;0/100;6.808;6.780;-0.028
+TIER_5;743;Pagani_C10Reward_2023;Pagani;Utopia 'Carbon Edition';;;;5P;713;2544;188/4.0;2.00;0/100;6.808;6.779;-0.029
+TIER_5;744;Pagani_C10RewardRecycled_2023;Pagani;Utopia;;;;5G;713;2521;188/4.0;2.00;0/100;6.855;6.825;-0.030
+TIER_5;745;Pagani_Huayra_2014;Pagani;Huayra;;;;4G;714;1373;448/5.5;2.83;0/100;9.052;9.023;-0.029
+TIER_5;746;Pagani_HuayraBCReward_2016;Pagani;Huayra BC;;;;5P;714;2130;521/6.7;2.02;0/100;7.584;7.524;-0.060
+TIER_5;747;Pagani_HuayraBCRewardRecycled_2016;Pagani;Huayra BC;;;;5G;714;2108;493/6.5;2.07;0/100;7.627;7.578;-0.049
+TIER_5;748;Pagani_HuayraBCRoadster_2019;Pagani;Huayra Roadster BC;;;;5G;714;2118;380/5.5;2.34;0/100;7.619;7.592;-0.027
+TIER_5;749;Pagani_HuayraBCRoadsterLS_2019;Pagani;Huayra Roadster BC 'Drago Viola Edition';;;;5P;714;2202;395/5.6;2.00;0/100;7.451;7.419;-0.032
+TIER_5;750;Pagani_HuayraBCRoadsterPB_2019;Pagani;Huayra Roadster BC 'Launch Edition';;;;5P;714;2125;395/5.6;2.37;0/100;7.605;7.600;-0.005
+TIER_5;751;Pagani_HuayraCodalunga_2022;Pagani;Huayra Codalunga;;;;5P;713;2390;188/4.0;2.00;0/100;7.135;7.110;-0.025
+TIER_5;752;Pagani_HuayraCodalungaSpeedster_2025;Pagani;Huayra Codalunga Speedster;;;;5P;713;2458;188/4.0;2.00;0/100;6.998;6.998;-0.000
+TIER_5;753;Pagani_HuayraElite_2014;Pagani;Ruby Rose's Huayra;;;;5P;715;1409;473/5.6;2.78;0/100;8.981;8.981;-0.000
+TIER_5;754;Pagani_HuayraR_2021;Pagani;Huayra R;;;;5P;713;2535;185/4.2;2.00;0/100;6.845;6.833;-0.012
+TIER_5;755;Pagani_HuayraREvo_2024;Pagani;Huayra R Evo Roadster;;;;5P;713;2511;188/4.0;2.00;0/100;6.899;6.765;-0.035
+TIER_5;756;Pagani_HuayraRoadsterReward_2017;Pagani;Huayra Roadster;;;;5P;714;1943;521/6.7;2.41;0/100;7.976;7.943;-0.033
+TIER_5;757;Pagani_HuayraRoadsterRewardRecycled_2017;Pagani;Huayra Roadster;;;;5G;714;1926;493/6.5;2.45;0/100;8.008;7.969;-0.039
+TIER_5;758;Pagani_Imola_2021;Pagani;Imola;;(Blue);;5P;713;2342;63/12.0;2.00;0/100;7.193;7.171;-0.022
+TIER_5;759;Pagani_ImolaGold_2021;Pagani;Imola;;(Carbon Orange);;5P;713;2342;63/12.0;2.00;0/100;7.193;7.171;-0.022
+TIER_5;760;Pagani_ImolaRoadster_2023;Pagani;Imola Roadster;;;;5P;713;2342;63/12.0;2.00;0/100;7.193;7.178;-0.015
+TIER_5;761;Pagani_UtopiaRoadster_2024;Pagani;Utopia Roadster;;;;5P;713;2544;188/4.0;2.00;0/100;6.808;6.779;-0.029
+TIER_5;762;Pagani_ZondaBarchetta_2018;Pagani;Zonda HP Barchetta;;;;5P;713;2219;337/5.8;2.00;12/88;7.465;7.344;-0.121
+TIER_5;763;Pagani_ZondaCinqueCoupe_2009;Pagani;Zonda Cinque;;;;5P;713;2278;188/4.0;2.55;53/47;7.349;7.147;-0.202
+TIER_5;764;Pagani_ZondaCinqueCoupeReward_2009;Pagani;Zonda Cinque Coupé;;;;5P;713;2278;188/4.0;2.55;53/47;7.349;7.147;-0.202
+TIER_5;765;Pagani_ZondaCinqueCoupeRewardRecycled_2009;Pagani;Zonda Cinque Coupé;;;;5G;713;2251;188/4.0;2.54;53/47;7.403;7.193;-0.210
+TIER_5;766;Pagani_ZondaCinqueRoadster_2010;Pagani;Zonda Cinque Roadster;;(White)(Event);;5P;713;2278;188/4.0;2.55;53/47;7.349;7.149;-0.200
+TIER_5;767;Pagani_ZondaCinqueRoadsterReward_2010;Pagani;Zonda Cinque Roadster;;(Yellow)(Season Prize);;5P;713;2278;188/4.0;2.55;53/47;7.349;7.147;-0.202
+TIER_5;768;Pagani_ZondaCinqueRoadsterRewardRecycled_2010;Pagani;Zonda Cinque Roadster;;;;5G;713;2264;188/4.0;2.55;53/47;7.401;7.196;-0.205
+TIER_5;769;Pagani_ZondaREvoBarchetta_2021;Pagani;Zonda Revo Barchetta;;;;5P;714;2312;347/4.0;2.45;0/100;7.230;7.180;-0.050
+TIER_5;770;Pagani_ZondaRevolucion_2013;Pagani;Zonda Revolución;;;;5P;714;2312;347/4.0;2.45;0/100;7.230;7.180;-0.050
+TIER_5;771;Pininfarina_B95_2025;Pininfarina;B95;;;;5P;713;2516;225/4.0;2.00;0/100;6.891;6.845;-0.046
+TIER_5;772;Pininfarina_Battista_2020;Pininfarina;Battista;;;;5P;713;2568;225/4.0;2.00;0/100;6.792;6.790;-0.002
+TIER_5;773;Pininfarina_BattistaNinoFarina_2023;Pininfarina;Battista Edizione Nino Farina;;(matches Battista);;5P;713;2568;225/4.0;2.00;0/100;6.792;6.790;-0.002
+TIER_5;774;Pininfarina_BattistaReward_2022;Pininfarina;Battista Anniversario;;;;5P;713;2568;225/4.0;2.00;0/100;6.792;6.792;0.000
+TIER_5;775;Pininfarina_BattistaRewardRecycled_2022;Pininfarina;Battista;;;;5G;713;2544;225/4.0;2.00;0/100;6.841;6.836;-0.005
+TIER_5;776;Plymouth_FormulaSBarracuda_1968;Plymouth;Garret's Rod Shop Barracuda 'Hemi-S';;;;5G;712;2286;235/5.0;2.18;0/100;7.403;7.335;-0.068
+TIER_5;777;Plymouth_FormulaSBarracudaElite_1968;Plymouth;Lau's Garret's Rod Shop Barracuda 'Hemi-S';;;;5P;712;1815;473/5.6;2.81;0/100;8.345;8.345;-0.000
+TIER_5;778;Plymouth_FuryJimBelvedere_1958;Plymouth;FuryJim Belvedere 'Darlene Demon';;;;5P;713;2340;186/4.1;2.00;0/100;7.190;7.178;-0.012
+TIER_5;779;Plymouth_RidesByKamBarracuda_1970;Plymouth;Rides by Kam Barracuda 'Notorious';;;;5P;713;2250;188/4.0;2.00;0/100;7.385;7.158;-0.227
+TIER_5;780;Plymouth_RingbrothersCuda_1970;Plymouth;Ringbrothers Barracuda 'Infected';;;;5P;713;2605;188/4.0;2.00;0/100;6.700;6.660;-0.040
+TIER_5;781;Plymouth_RoadRunnerGTXF8_1971;Plymouth;Dom Toretto's Road Runner;fnf;;;5P;714;2039;692/12.0;2.00;0/100;7.785;7.183;-0.602
+TIER_5;782;Plymouth_RuffianCoupe_1935;Plymouth;Ruffian Coupe 'GT-1';;;;5P;713;2648;188/4.0;2.00;0/100;6.638;6.560;-0.078
+TIER_5;783;Plymouth_SuperbirdLPClassic_1970;Plymouth;Superbird;;;Elite full;5P;713;2416;188/4.0;2.00;0/100;7.048;6.953;-0.095
+TIER_5;784;Plymouth_SuperbirdLPClassic_1970;Plymouth;Superbird;;;Elite 0;0G;713;2135;188/4.0;2.00;0/100;7.610;7.468;-0.142
+TIER_5;785;Plymouth_WeaverCustomsCudaTorcReward4thJuly_2016;Plymouth;'Cuda 'TorC' Weaver Customs;;(Lime);;5P;714;1959;430/5.0;2.18;29/71;7.920;7.900;-0.020
+TIER_5;786;Plymouth_WeaverCustomsCudaTorcReward_2016;Plymouth;'Cuda 'TorC' Weaver Customs;;(Light Grey);;5P;714;1967;421/5.0;2.17;33/67;7.911;7.856;-0.055
+TIER_5;787;Plymouth_WeaverCustomsCudaTorcRewardRecycled_2016;Plymouth;'Cuda 'TorC' Weaver Customs;;;;5G;714;1946;479/5.0;2.23;40/60;7.936;7.926;-0.010
+TIER_5;788;Pontiac_FieroF9_1986;Pontiac;Roman's Fiero;fnf;;;5P;713;2532;63/12.0;2.00;53/47;6.845;6.738;-0.107
+TIER_5;789;Pontiac_FirebirdTransAm_1977;Pontiac;Firebird Trans Am;;;;5P;713;2568;188/4.0;2.27;52/48;6.791;6.606;-0.185
+TIER_5;790;Pontiac_HorizonMotorsportsTransAm_1973;Pontiac;Horizon Motorsport Trans-Am 'Hammerhead';;;;5P;713;2518;188/4.0;2.00;0/100;6.832;6.703;-0.129
+TIER_5;791;Pontiac_NHRFirebird_1970;Pontiac;Firebird 'Drakon';;;;5P;713;2670;188/4.0;2.00;0/100;6.596;6.551;-0.045
+TIER_5;792;Pontiac_RyansFirebirdTransAm_1978;Pontiac;Ryans Rod & Kustom Firebird Trans Am 'Mullet Missile';;;;5P;713;2542;188/4.0;2.27;52/48;6.843;6.653;-0.190
+TIER_5;793;Porsche_718CaymanGT4RS_2022;Porsche;718 Cayman GT4 RS 'Weissach Package';;;;5G;713;2039;188/4.0;2.23;52/48;7.813;7.441;-0.372
+TIER_5;794;Porsche_718SpyderRSReward_2024;Porsche;718 Spyder RS;;;;5P;713;2100;188/4.0;2.21;0/100;7.735;7.459;-0.276
+TIER_5;795;Porsche_718SpyderRSRewardRecycled_2024;Porsche;718 Spyder RS;;;;5G;713;2076;188/4.0;2.25;0/100;7.782;7.505;-0.277
+TIER_5;796;Porsche_911CarreraRS27LPClassic_1973;Porsche;911 Carrera RS 2.7;;;Elite full;5P;713;2433;188/4.0;2.00;0/100;7.060;6.918;-0.142
+TIER_5;797;Porsche_911CarreraRS27LPClassic_1973;Porsche;911 Carrera RS 2.7;;;Elite 0;0G;713;1561;188/4.0;2.20;0/100;8.805;8.523;-0.282
+TIER_5;798;Porsche_911DakarReward_2023;Porsche;911 Rallye;;;;5P;713;2123;150/4.0;2.00;0/100;7.640;7.452;-0.188
+TIER_5;799;Porsche_911DakarRewardRecycled_2023;Porsche;911 Rallye 'Rallye Design Package';;;;5G;713;2098;150/4.0;2.00;0/100;7.689;7.471;-0.218
+TIER_5;800;Porsche_911GT1StraBenversion_1996;Porsche;911 GT1 Straßenversion;;;;5P;713;2531;263/4.0;2.00;0/100;6.837;6.818;-0.019
+TIER_5;801;Porsche_911GT2_1993;Porsche;911 GT2 (993);;;;5P;713;2310;263/4.0;2.00;0/100;7.251;7.183;-0.068
+TIER_5;802;Porsche_911GT2RS_2017;Porsche;911 GT2 RS 'Weissach Package';;(Red);;5P;713;1970;548/4.0;2.00;52/48;7.974;7.664;-0.310
+TIER_5;803;Porsche_911GT2RSClubSport_2019;Porsche;911 GT2 RS Clubsport;;;;5P;713;2291;263/4.0;2.09;0/100;7.316;7.160;-0.156
+TIER_5;804;Porsche_911GT2RSClubSportSalzburg_2019;Porsche;911 GT2 RS Clubsport (991);;;;5G;713;2131;263/4.0;2.00;0/100;7.636;7.562;-0.074
+TIER_5;805;Porsche_911GT2RSGold_2017;Porsche;911 GT2 RS;;;;5G;713;1940;413/4.0;2.00;52/48;8.033;7.736;-0.297
+TIER_5;806;Porsche_911GT2RSVIP_2017;Porsche;911 GT2 RS 'Weissach Package';;(Dark Grey);;5P;713;1970;548/4.0;2.00;52/48;7.974;7.663;-0.311
+TIER_5;807;Porsche_911GT39922_2025;Porsche;911 GT3 Weissach Package (992.2);;;;5P;713;2304;188/4.0;2.00;0/100;7.281;7.170;-0.111
+TIER_5;808;Porsche_911GT3_2022;Porsche;911 GT3 (992);;;;5P;713;2081;188/4.0;2.00;53/47;7.762;7.642;-0.120
+TIER_5;809;Porsche_911GT3R992_2022;Porsche;911 GT3 R (992);;;;5P;713;2502;188/4.0;2.00;0/100;6.900;6.838;-0.140
+TIER_5;810;Porsche_911GT3Reward_2018;Porsche;911 GT3;;;;4P;714;1405;432/7.1;2.16;47/53;9.044;8.846;-0.198
+TIER_5;811;Porsche_911GT3RewardRecycled_2018;Porsche;911 GT3;;;;4G;714;1389;406/7.0;2.19;47/53;9.077;8.895;-0.182
+TIER_5;812;Porsche_911GT3RRennsport_2023;Porsche;911 GT3 R Rennsport;;;;5P;713;2493;188/4.0;2.00;0/100;6.887;6.773;-0.114
+TIER_5;813;Porsche_911GT3RS992_2023;Porsche;911 GT3 RS (992);;;;5G;713;2347;188/4.0;2.00;0/100;7.239;7.100;-0.139
+TIER_5;814;Porsche_911GT3RS992Tribute_2023;Porsche;911 GT3 RS Carrera RS 2.7 Tribute (992);;;;5P;712;2368;63/12.0;2.00;53/47;7.215;7.111;-0.104
+TIER_5;815;Porsche_911GT3RS997_2012;Porsche;911 GT3 RS 3.8 (997.2);;;;5P;713;2419;188/4.0;2.00;0/100;7.082;7.058;-0.024
+TIER_5;816;Porsche_911GT3RSCrew_2016;Porsche;Dana's 911 GT3 RS;;;;5P;716;1299;445/6.6;2.29;3/97;9.123;8.894;-0.229
+TIER_5;817;Porsche_911GT3RSCrewRecycled_2016;Porsche;911 GT3 RS;;;;4G;716;1276;436/5.9;2.36;10/90;9.169;8.964;-0.205
+TIER_5;818;Porsche_911GT3RSReward_2018;Porsche;911 GT3 RS 'Weissach Package';;;;4P;714;1841;345/5.5;2.00;0/100;8.127;7.960;-0.167
+TIER_5;819;Porsche_911GT3RSRewardRecycled_2018;Porsche;911 GT3 RS 'Weissach Package';;;;4G;714;1832;326/5.7;2.02;0/100;8.144;8.101;-0.043
+TIER_5;820;Porsche_911GT3TouringReward_2022;Porsche;911 GT3 Touring (992);;;;5P;713;2081;188/4.0;2.00;53/47;7.762;7.641;-0.121
+TIER_5;821;Porsche_911GT3TouringRewardRecycled_2022;Porsche;911 GT3 Touring (992);;;;5G;713;2056;188/4.0;2.00;53/47;7.811;7.690;-0.121
+TIER_5;822;Porsche_911RReward_2017;Porsche;911 R;;;;4P;713;1335;473/5.6;2.69;0/100;9.221;9.044;-0.177
+TIER_5;823;Porsche_911RRewardRecycled_2017;Porsche;911 R;;;Elite full;5G;713;1947;298/5.0;2.27;0/100;8.013;7.877;-0.136
+TIER_5;824;Porsche_911RRewardRecycled_2017;Porsche;911 R;;;Elite 0;4G;713;1379;298/5.0;2.75;0/100;9.150;8.983;-0.167
+TIER_5;825;Porsche_911SpeedsterReward_2020;Porsche;911 Speedster 'Heritage Design Package';;;;5P;714;1917;188/4.0;2.28;10/90;8.029;7.928;-0.101
+TIER_5;826;Porsche_911SpeedsterRewardRecycled_2020;Porsche;911 Speedster;;;;5G;714;1875;188/4.0;2.30;13/87;8.111;7.996;-0.115
+TIER_5;827;Porsche_911STReward_2024;Porsche;911 S/T (992);;;;5P;713;2084;168/5.3;2.00;53/47;7.756;7.642;-0.114
+TIER_5;828;Porsche_911STRewardRecycled_2024;Porsche;911 S/T (992);;;;5G;713;2067;63/12.0;2.00;53/47;7.790;7.689;-0.101
+TIER_5;829;Porsche_911Targa4GTSReward_2025;Porsche;911 Targa 4 GTS (992.2);;;;5P;715;1936;204/6.5;2.76;0/100;7.921;7.814;-0.107
+TIER_5;830;Porsche_911Targa4GTSRewardRecycled_2025;Porsche;911 Targa 4 GTS (992.2);;;;5G;715;1918;197/6.3;2.78;0/100;7.957;7.851;-0.106
+TIER_5;831;Porsche_911Turbo930LPClassic_1977;Porsche;911 Turbo Coupé (930);;;Elite full;5G;713;2439;188/4.0;2.00;0/100;7.043;7.043;-0.000
+TIER_5;832;Porsche_911Turbo930LPClassic_1977;Porsche;911 Turbo Coupé (930);;;Elite 0;0G;713;1739;188/4.0;2.00;0/100;8.443;8.443;-0.000
+TIER_5;833;Porsche_911TurboFlachbauC_1987;Porsche;911 Turbo 3.3 Cabriolet 'Flachbau' (930);;;;5P;713;2323;150/4.0;2.00;0/100;7.285;7.159;-0.126
+TIER_5;834;Porsche_911TurboSReward_2016;Porsche;911 Turbo S (991);;;;4P;713;1946;242/6.5;2.13;0/100;8.022;7.977;-0.045
+TIER_5;835;Porsche_911TurboSReward_2021;Porsche;911 Turbo S (992);;;;4P;715;1936;204/6.5;2.76;0/100;7.921;7.814;-0.107
+TIER_5;836;Porsche_911TurboSReward_2026;Porsche;911 Turbo S (992.2);;;;5P;715;2136;150/4.0;2.55;0/100;7.634;7.501;-0.133
+TIER_5;837;Porsche_911TurboSRewardRecycled_2016;Porsche;911 Turbo S (991);;;;4G;713;1835;235/6.3;2.19;0/100;8.244;8.229;-0.015
+TIER_5;838;Porsche_911TurboSRewardRecycled_2021;Porsche;911 Turbo S (992);;;;4G;715;1918;197/6.3;2.78;0/100;7.957;7.851;-0.106
+TIER_5;839;Porsche_911TurboSRewardRecycled_2026;Porsche;911 Turbo S (992.2);;;;5G;715;2103;150/4.0;2.57;0/100;7.699;7.482;-0.217
+TIER_5;840;Porsche_912Hoonipigasus_1966;Porsche;SVRSR 'Hoonipigasus';Hoonigan ;;;5P;713;2607;188/4.0;2.00;0/100;6.693;6.685;-0.008
+TIER_5;841;Porsche_917K_1970;Porsche;917K;;;;5P;713;2467;263/4.0;2.00;0/100;6.995;6.791;-0.204
+TIER_5;842;Porsche_918SpyderGold_2015;Porsche;918 Spyder Weissach Package;;;;5G;715;1969;91/12.0;2.43;0/100;7.814;7.578;-0.236
+TIER_5;843;Porsche_918SpyderMartini_2015;Porsche;918 Spyder MARTINI RACING;;;;5P;715;2016;470/4.0;2.00;53/47;7.733;7.407;-0.326
+TIER_5;844;Porsche_918SpyderReward_2015;Porsche;918 Spyder Weissach Package;;;;5P;715;1923;165/20.1;2.34;52/48;7.886;7.647;-0.239
+TIER_5;845;Porsche_918SpyderRewardRecycled_2015;Porsche;918 Spyder;;;;5G;715;1806;159/19.5;2.42;52/48;8.119;7.882;-0.237
+TIER_5;846;Porsche_919Street_2020;Porsche;919 Street;;;;5P;713;2515;188/4.0;2.00;0/100;6.890;6.883;-0.007
+TIER_5;847;Porsche_935_2019;Porsche;935 MARTINI RACING;;;;5P;714;2346;242/4.0;2.03;0/100;7.111;6.987;-0.124
+TIER_5;848;Porsche_935Gold_2019;Porsche;935 (991);;;;5P;713;2345;242/4.0;2.05;0/100;7.110;7.089;-7.110
+TIER_5;849;Porsche_935Salzburg_2019;Porsche;935 'Salzburg';;;;5P;714;2346;242/4.0;2.05;0/100;7.110;6.985;-0.125
+TIER_5;850;Porsche_962C_1987;Porsche;962 C;;;;5P;713;2517;188/4.0;2.00;0/100;6.846;6.728;-0.118
+TIER_5;851;Porsche_963LMDh_2023;Porsche;963;;;;5P;713;2617;188/4.0;2.00;0/100;6.692;6.624;-0.068
+TIER_5;852;Porsche_Bisimoto935K3V_1984;Porsche;Bisimoto 935 K3V;;;;5P;713;2567;225/4.0;2.00;0/100;6.736;6.710;-0.026
+TIER_5;853;Porsche_Canepa959_1988;Porsche;959 SC;;;;5P;713;1929;473/4.6;2.09;50/50;8.064;7.808;-0.256
+TIER_5;854;Porsche_CarreraGTClassic_2003;Porsche;Carrera GT;;;Elite full;5G;713;2144;222/4.9;2.63;0/100;7.637;7.562;-0.075
+TIER_5;855;Porsche_CarreraGTClassic_2003;Porsche;Carrera GT;;;Elite 0;0G;713;1376;218/4.0;3.40;0/100;9.173;9.049;-0.124
+TIER_5;856;Porsche_DD911GTRSRReward_2017;Porsche;Duke Dynamics 911 GT-RSR;;;;5P;713;1970;548/4.0;2.00;52/48;7.974;7.665;-0.309
+TIER_5;857;Porsche_DD911GTRSRRewardRecycled_2017;Porsche;Duke Dynamics 911 GT-RSR;;;;5G;713;1940;413/4.0;2.00;52/48;8.033;7.736;-0.297
+TIER_5;858;Porsche_Manthey911GT3RSReward_2024;Porsche;Manthey 911 GT3 RS (992.1);;;;5P;712;2419;63/12.0;2.00;53/47;7.112;7.064;-0.048
+TIER_5;859;Porsche_Manthey911GT3RSRewardRecycled_2024;Porsche;Manthey 911 GT3 RS (992.1);;;;5G;712;2390;63/12.0;2.00;53/47;7.171;7.100;-0.071
+TIER_5;860;Porsche_MissionRConcept_2021;Porsche;Mission R Concept;;;;5P;713;2536;225/4.0;2.00;0/100;6.799;6.764;-0.035
+TIER_5;861;Porsche_RWB911Turbo_1991;Porsche;Hoonigan RWB 911 Turbo;Hoonigan ;;;5P;713;2291;188/4.0;2.00;100/0;7.308;7.181;-0.127
+TIER_5;862;Porsche_RWB964Reward_1991;Porsche;RWB 911 (964);;;;5P;713;2291;188/4.0;2.00;100/0;7.308;7.181;-0.127
+TIER_5;863;Porsche_RWB964RewardRecycled_1991;Porsche;RWB 911 (964);;;;5G;713;2266;188/4.0;2.00;100/0;7.358;7.232;-0.126
+TIER_5;864;Porsche_RWB993Evo_1993;Porsche;911 RWB;;(Green);;5P;714;2092;473/5.6;2.00;0/100;7.682;7.620;-0.062
+TIER_5;865;Porsche_RWB993Reward_1993;Porsche;911 RWB;;(Blue)(Season Prize);;5P;714;2081;347/5.6;2.00;0/100;7.706;7.654;-0.052
+TIER_5;866;Porsche_RWB993RewardRecycled_1993;Porsche;911 RWB;;;;5G;714;2066;338/5.5;2.00;0/100;7.735;7.686;-0.049
+TIER_5;867;Porsche_RWB993Rotana_1993;Porsche;RWB 993 'Rotana';;;;5P;714;2072;425/5.6;2.00;15/85;7.698;7.625;-0.073
+TIER_5;868;Porsche_TaycanTurboGTReward_2025;Porsche;Taycan Turbo GT;;;;5P;713;2347;225/4.0;2.00;0/100;7.184;7.108;-0.076
+TIER_5;869;Porsche_TaycanTurboGTRewardRecycled_2025;Porsche;Taycan Turbo GT 'Weissach Package';;;;5G;713;2321;225/4.0;2.00;0/100;7.237;7.159;-0.078
+TIER_5;870;Porsche_TaycanTurboSCrossTurismo_2022;Porsche;Taycan Cross Turismo Turbo S;;;;5P;713;2041;132/3.9;2.00;52/48;7.790;7.566;-0.224
+TIER_5;871;Porsche_TaycanTurboSPride_2021;Porsche;Taycan Turbo S ;;(Grey/White);;5P;713;2072;132/3.9;2.00;0/100;7.791;7.568;-0.223
+TIER_5;872;Porsche_TaycanTurboSReward_2021;Porsche;Taycan Turbo S;;(White)(Season Prize);;5P;713;2041;132/3.9;2.00;52/48;7.790;7.565;-0.225
+TIER_5;873;Porsche_TaycanTurboSRewardRecycled_2021;Porsche;Taycan Turbo S;;;;5G;713;2013;132/3.9;2.00;53/47;7.846;7.615;-0.231
+TIER_5;874;Radford_Type62GOSH_2021;RadFord;Type 62-2 GOSH Edition;;;;5P;713;2343;188/4.0;2.51;0/100;7.201;7.169;-0.032
+TIER_5;875;Radford_Type62PikesPeak_2023;Radford;Type 62-2 Track Edition;;;;5P;713;2556;188/4.0;2.00;0/100;6.792;6.677;-0.115
+TIER_5;876;Radford_Type62Reward_2021;RadFord;Type 62-2;;;;5P;713;2343;188/4.0;2.51;0/100;7.201;7.169;-0.032
+TIER_5;877;Radford_Type62RewardRecycled_2021;RadFord;Type 62-2;;;;5G;713;2320;188/4.0;2.53;0/100;7.247;7.215;-0.032
+TIER_5;878;RAESR_TachyonSpeed_2024;RAESR;Tachyon Speed;;;;5P;713;2601;225/4.0;2.00;0/100;6.733;6.710;-0.023
+TIER_5;879;Renault_ClioV6Phase2_2005;Renault;Clio V6;;;;5P;713;2406;188/4.0;2.00;0/100;7.086;7.009;-0.077
+TIER_5;880;Rimac_Nevera_2021;Rimac;Nevera;;;;5P;713;2635;225/4.0;2.01;0/100;6.666;6.653;-0.013
+TIER_5;881;Rimac_NeveraR_2025;Rimac;Nevera R;;;;5P;713;2664;188/4.0;2.01;0/100;6.607;6.598;-0.009
+TIER_5;882;Rimac_NeveraReward_2022;Rimac;Nevera Time Attack;;;;5P;713;2635;225/4.0;2.01;0/100;6.666;6.653;-0.013
+TIER_5;883;Rimac_NeveraRewardrecycled_2022;Rimac;Nevera;;;;5G;713;2593;225/4.0;2.10;0/100;6.749;6.731;-0.018
+TIER_5;884;RUF_CTR3EVO_2023;RUF;CTR 3 Evo;;;;5P;713;2567;188/4.0;2.00;0/100;6.791;6.683;-0.108
+TIER_5;885;Saleen_S1Reward_2018;Saleen;S1;;;;4P;713;1932;435/6.9;2.01;21/79;8.067;7.828;-0.239
+TIER_5;886;Saleen_S1RewardRecycled_2018;Saleen;S1;;;;4G;713;1907;409/6.9;2.04;20/80;8.117;7.854;-0.263
+TIER_5;887;Saleen_S7Classic_2004;Saleen;S7 Twin Turbo;;;Elite full;5G;713;2419;204/4.0;2.26;0/100;7.087;7.017;-0.070
+TIER_5;888;Saleen_S7Classic_2004;Saleen;S7 Twin Turbo;;;Elite 0;0G;713;2133;195/4.0;2.31;0/100;7.661;7.577;-0.084
+TIER_5;889;SCG_004CS_2020;SCG;004CS;;;;5P;715;2250;467/4.2;2.08;0/100;7.267;7.007;-0.260
+TIER_5;890;SCG_007_2021;SCG;007;;;;5P;713;2481;63/12.0;2.00;53/47;6.949;6.897;-0.052
+TIER_5;891;SCG_SCG003S_2017;SCG;003S;;;;5P;714;2214;395/5.6;2.17;52/48;7.382;7.224;-0.158
+TIER_5;892;SCG_SCG003SCarbon_2017;SCG;003S Carbon Edition;;;;5P;713;2264;188/4.0;2.19;0/100;7.386;7.250;-0.136
+TIER_5;893;SCG_SCG004CReward_2019;SCG;004C;;;;5P;715;2044;116/16.8;2.13;50/50;7.709;7.303;-0.406
+TIER_5;894;SCG_SCG004CRewardRecycled_2019;SCG;004C;;;;5G;715;2003;113/16.5;2.13;50/50;7.792;7.363;-0.429
+TIER_5;895;Shelby_CobraDaytonaLP_1964;Shelby;Cobra Daytona Coupé;;;Elite full;5P;713;2628;188/4.0;2.00;0/100;6.627;6.638;0.011
+TIER_5;896;Shelby_CobraDaytonaLP_1964;Shelby;Cobra Daytona Coupé;;;Elite 0;5P;713;2628;188/4.0;2.00;0/100;6.627;6.638;0.011
+TIER_5;897;Shelby_MustangSuperSnakeR_2025;Shelby;Super Snake R;;;;5P;714;2309;188/4.0;2.00;0/100;7.241;7.187;-0.054
+TIER_5;898;Shelby_SuperSnakeReward_2019;Shelby;Super Snake;;;;5P;714;2061;473/5.6;2.30;0/100;7.738;7.667;-0.071
+TIER_5;899;Shelby_SuperSnakeRewardRecycled_2019;Shelby;Super Snake;;;Elite full;5G;714;2191;449/5.5;2.24;0/100;7.477;7.417;-0.060
+TIER_5;900;Shelby_SuperSnakeRewardRecycled_2019;Shelby;Super Snake;;;Elite 0;5G;714;2038;448/5.5;2.31;0/100;7.783;7.708;-0.075
+TIER_5;901;Shelby_SuperSnakeS650Reward_2024;Shelby;Super Snake 2024;;;;5P;714;2181;188/4.0;2.00;0/100;7.498;7.395;-0.103
+TIER_5;902;Shelby_SuperSnakeS650RewardRecycled_2024;Shelby;Super Snake 2024;;;;5G;714;2156;188/4.0;2.00;0/100;7.546;7.440;-0.106
+TIER_5;903;Spyker_C8PreliatorReward_2017;Spyker;C8 Preliator;;;;5P;714;2071;236/4.0;2.11;3/97;7.710;7.542;-0.168
+TIER_5;904;Spyker_C8PreliatorRewardRecycled_2017;Spyker;C8 Preliator;;;;5G;714;2040;230/4.0;2.13;1/99;7.774;7.601;-0.173
+TIER_5;905;Spyker_C8PreliatorSpyder_2017;Spyker;C8 Preliator Spyder;;;;5P;714;2066;236/4.0;2.10;0/100;7.721;7.542;-0.179
+TIER_5;906;SSC_Tuatara_2019;SSC;Tuatara 'Concept';;(White);;5P;713;2287;263/4.0;2.62;100/0;7.310;6.934;-0.376
+TIER_5;907;SSC_TuataraGold_2019;SSC;Tuatara 'Concept';;(Orange);;5P;713;2283;263/4.0;2.61;100/0;7.318;6.934;-0.384
+TIER_5;908;SSC_TuataraSilver_2019;SSC;Tuatara 'Concept';;;;5G;713;2258;263/4.0;2.55;100/0;7.369;7.025;-0.262
+TIER_5;909;SSC_TuataraStriker_2022;SSC;Tuatara Striker;;;;5P;713;2475;263/4.0;3.16;53/47;6.987;6.674;-0.313
+TIER_5;910;SSC_TuataraWRE_2020;SSC;Tuatara 'World Record Edition';;;;5P;713;2379;263/4.0;2.43;100/0;7.127;6.871;-0.256
+TIER_5;911;SSC_UltimateAeroTT_2009;SSC;Ultimate Aeero TT;;;;5P;713;2572;188/4.0;2.00;0/100;6.791;6.754;-0.037
+TIER_5;912;Subaru_BRZtSTNR_2020;Subaru;2020 SUBARU BRZ tS;;;Elite full;5P;713;1977;183/4.7;2.92;0/100;7.919;7.895;-0.024
+TIER_5;913;Subaru_BRZtSTNR_2020;Subaru;2020 SUBARU BRZ tS;;;Elite 0;0G;713;1162;174/5.1;3.36;0/100;9.549;9.513;-0.036
+TIER_5;914;Subaru_WRXSTIF8_2018;Subaru;Tej's WRX STI;fnf;;;5P;713;1954;557/4.8;2.00;0/100;8.028;7.987;-0.041
+TIER_5;915;Subaru_WRXSTIGobstopperII_2015;Subaru;RCM WRX 'Gobstopper II';;;;5P;713;2557;188/4.0;2.00;0/100;6.785;6.652;-0.133
+TIER_5;916;Toyota_CamryNASCAR_2022;Toyota;NASCAR Next Gen Camry;;;;3P;712;2514;63/12.0;2.00;0/100;6.912;6.859;-0.053
+TIER_5;917;Toyota_GR86TNR_2023;Toyota;Toyota GR 86;;;Elite full;5P;713;2447;188/4.0;2.00;0/100;6.984;6.910;-0.074
+TIER_5;918;Toyota_GR86TNR_2023;Toyota;Toyota GR 86;;;Elite 0;0G;713;2039;188/4.0;2.00;0/100;7.801;7.674;-0.127
+TIER_5;919;Toyota_GRSupraF9_2020;Toyota;Han's Toyota GR Supra;fnf;;;5P;713;2367;188/4.0;2.00;0/100;7.147;7.001;-0.146
+TIER_5;920;Toyota_GRSupraTNR_2020;Toyota;Toyota GR Supra;;;Elite full;5P;713;2396;195/5.3;2.00;0/100;7.088;6.950;-0.138
+TIER_5;921;Toyota_GRSupraTNR_2020;Toyota;Toyota GR Supra;;;Elite 0;0G;713;1615;190/5.2;2.48;0/100;8.648;8.432;-0.216
+TIER_5;922;Toyota_GRSupraV2TNR_2021;;Toyota GR Supra;;;Elite full;5P;713;2344;195/5.3;2.00;0/100;7.190;7.055;-0.135
+TIER_5;923;Toyota_GRSupraV2TNR_2021;;Toyota GR Supra;;;Elite 0;0G;713;1617;195/4.8;2.50;0/100;8.646;8.431;-0.215
+TIER_5;924;Toyota_LBGRSupraReward_2020;Toyota;LB Silhouette Toyota GR Supra;;;;5P;713;2346;200/5.0;2.00;0/100;7.188;7.042;-0.146
+TIER_5;925;Toyota_LBGRSupraRewardRecycled_2020;Toyota;LB Silhouette Toyota GR Supra;;;;5G;713;2303;198/5.0;2.00;0/100;7.272;7.129;-0.143
+TIER_5;926;Toyota_PandeMGRSupraV15_2020;Toyota;PandeM V1.5 GR Supra;;;;5P;713;2346;200/5.0;2.00;0/100;7.188;7.042;-0.146
+TIER_5;927;Toyota_PandeMGRSupraV1_2020;Toyota;PandeM V1 GR Supra;;;;5P;713;2328;200/5.0;2.00;0/100;7.223;7.079;-0.144
+TIER_5;928;Toyota_SprinterTruenoAE86_1980;Toyota;Trueno Sprinter AE86 GT Apex;;;;5P;713;2347;188/4.0;2.00;0/100;7.241;7.113;-0.128
+TIER_5;929;Toyota_SupraMK4TNR_1994;Toyota;Toyota Supra;;;Elite full;5P;713;2507;188/4.0;2.00;0/100;6.920;6.856;-0.064
+TIER_5;930;Toyota_SupraMK4TNR_1994;Toyota;Toyota Supra;;;Elite 0;0G;713;1352;188/4.0;2.14;0/100;9.230;9.070;-0.160
+TIER_5;931;Toyota_SupraMKIVF1_1994;Toyota;Brian's Supra Aerotop;fnf;;;5P;715;2325;236/4.0;2.00;0/100;7.082;7.034;-0.048
+TIER_5;932;Toyota_SupraMKIVF7_1995;Toyota;Brian's Supra MK.IV;Fast&Furious;;;5P;713;2453;188/4.0;2.00;0/100;7.014;6.964;-0.050
+TIER_5;933;Toyota_SupraMKIVVaris_1994;Toyota;Noro's Varis Toyota Supra;;;;5P;715;1758;473/5.6;2.00;0/100;8.217;8.217;-0.000
+TIER_5;934;Ultima_EVOCoupeReward_2016;Ultima;Evolution Coupé;;;;5P;713;2149;236/3.4;2.43;0/100;7.608;7.579;-0.029
+TIER_5;935;Ultima_EVOCoupeRewardRecycled_2016;Ultima;Evolution Coupé;;;;5G;713;2131;230/3.4;2.41;0/100;7.643;7.615;-0.028
+TIER_5;936;Ultima_EVOCoupeSupercharged_2016;Ultima;Evolution Coupé Supercharged;;;;5P;713;2311;188/3.3;2.00;0/100;7.284;7.177;-0.107
+TIER_5;937;Ultima_RS_2020;Ultima;RS;;;;5P;713;2382;470/5.7;2.06;0/100;7.109;6.968;-0.141
+TIER_5;938;Ultima_RSGold_2020;Ultima;RS;;;;5G;713;2340;380/5.5;2.18;0/100;7.191;7.045;-0.146
+TIER_5;939;Volkswagen_IDR_2019;Volkswagen;Electric R;;;;5P;713;2619;225/4.0;2.29;0/100;6.692;6.677;-0.015
+TIER_5;940;VUHL_05RRReward_2019;VUHL;05RR Fighter;;;;5P;714;1739;236/4.0;2.33;0/100;8.388;8.246;-0.142
+TIER_5;941;VUHL_05RRRewardRecycled_2019;VUHL;05RR;;;;5G;714;1718;230/4.0;2.37;0/100;8.431;8.315;-0.116
+TIER_5;942;WMotors_FenyrSupersportReward_2016;W Motors;Fenyr Supersport;;;;5P;714;1948;443/5.6;2.00;52/48;7.925;7.840;-0.085
+TIER_5;943;WMotors_FenyrSupersportRewardRecycled_2016;W Motors;Fenyr Supersport;;;;5G;714;1921;425/5.5;2.00;52/48;7.980;7.892;-0.088
+TIER_5;944;WMotors_LykanHyperSportReward_2015;W Motors;Lykan HyperSport;;;;4P;714;1506;473/5.6;2.12;12/88;8.847;8.840;-0.007
+TIER_5;945;WMotors_LykanHyperSportRewardRecycled_2015;W Motors;Lykan HyperSport;;;;4G;714;1478;448/5.5;2.16;12/88;8.902;8.895;-0.007
+TIER_5;946;Zenvo_AuroraAgil_2024;Zenvo;Aurora Agil;;;;5P;713;2605;188/4.0;2.00;0/100;6.727;6.632;-0.095
+TIER_5;947;Zenvo_AuroraTur_2024;Zenvo;Aurora Tur;;(Blue);;5P;713;2534;188/4.0;2.00;0/100;6.868;6.771;-0.097
+TIER_5;948;Zenvo_AuroraTurReward_2024;Zenvo;Aurora Tur;;(White)(Season Prize);;5P;713;2534;188/4.0;2.00;0/100;6.868;6.770;-0.098
+TIER_5;949;Zenvo_AuroraTurRewardRecycled_2024;Zenvo;Aurora Tur;;;;5G;713;2509;188/4.0;2.00;0/100;6.919;6.821;-0.098
+TIER_5;950;Zenvo_TS1GT_2018;Zenvo;TS1 GT 'Sleipnir' 10th Anniversary;;;;5P;714;2210;419/4.0;2.00;56/44;7.427;7.254;-0.173
+TIER_5;951;Zenvo_TS1GTReward_2018;Zenvo;TS1 GT;;;;5P;714;2178;419/4.0;2.00;0/100;7.491;7.285;-0.206
+TIER_5;952;Zenvo_TS1GTRewardRecycled_2018;Zenvo;TS1 GT;;;;5G;714;2157;402/4.0;2.03;0/100;7.534;7.328;-0.206
+TIER_5;953;Zenvo_TSRGTReward_2023;Zenvo;TSR-GT;;;;5P;714;2277;188/4.0;2.10;0/100;7.275;7.208;-0.067
+TIER_5;954;Zenvo_TSRGTRewardRecycled_2023;Zenvo;TSR-GT;;;;5G;714;2245;188/4.0;2.10;0/100;7.340;7.270;-0.070
+TIER_5;955;Zenvo_TSRS_2019;Zenvo;TSR-S;;;;5P;714;2278;392/4.1;2.00;52/48;7.306;7.173;-0.133
+TIER_5;956;Zenvo_TSRS_2020;Zenvo;TSR-S 'Chassis No.2';;;;5P;714;2278;188/4.0;2.11;0/100;7.273;7.207;-0.066
+TIER_5;957;Zenvo_TSRSGold_2020;Zenvo;TSR-S 'Chassis No.3';;;;5P;713;2302;188/4.0;2.08;0/100;7.272;7.196;-0.076

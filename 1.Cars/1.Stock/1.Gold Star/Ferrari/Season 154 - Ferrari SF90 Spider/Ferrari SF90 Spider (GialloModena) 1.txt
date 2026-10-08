@@ -12,8 +12,8 @@
         0.481
       ],
       "fidr": 4.51,
-      "appi": 3,
-      "orpi": 3,
+      "appi": 2,
+      "orpi": 2,
       "apiid": 1453,
       "oriid": 1453,
       "apcid": 11,

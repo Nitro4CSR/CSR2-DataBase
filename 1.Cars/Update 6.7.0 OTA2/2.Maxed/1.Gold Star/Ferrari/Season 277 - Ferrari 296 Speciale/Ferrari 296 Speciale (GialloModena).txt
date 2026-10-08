@@ -15,7 +15,7 @@
       "nlpr": 1.0,
       "ttpp": 0.0,
       "appi": 12,
-      "orpi": 12,
+      "orpi": 14,
       "apiid": 2077,
       "oriid": 2077,
       "apcid": 223,
@@ -523,6 +523,7 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "paid": 182,
       "inid": 2077,
       "caid": 223,

@@ -22,7 +22,7 @@
         "Dodge_ChallengerSRTHellcat_2015_Wheel1A_3D"
       ],
       "opcn": "Dodge_ChallengerSRTHellcat_2015_Wheel1A_3D",
-      "msou": 1007700,
+      "msou": 1496200,
       "nuub": 35,
       "upst": [
         {
@@ -144,7 +144,7 @@
             {
               "ulpf": true,
               "fsg": [
-                2,
+                1,
                 2,
                 3,
                 0,
@@ -154,7 +154,7 @@
             {
               "ulpf": true,
               "fsg": [
-                2,
+                3,
                 3,
                 0,
                 0,
@@ -203,7 +203,7 @@
             {
               "ulpf": true,
               "fsg": [
-                2,
+                1,
                 2,
                 3,
                 0,
@@ -420,7 +420,7 @@
             {
               "ulpf": true,
               "fsg": [
-                2,
+                1,
                 2,
                 2,
                 0,
@@ -431,7 +431,7 @@
               "ulpf": true,
               "fsg": [
                 2,
-                3,
+                2,
                 3,
                 3,
                 0
@@ -509,8 +509,8 @@
           ]
         }
       ],
-      "fpin": 9,
-      "fpul": 3,
+      "fpin": 11,
+      "fpul": 2,
       "rsup": 3,
       "rpbb": 12,
       "fcu": true,

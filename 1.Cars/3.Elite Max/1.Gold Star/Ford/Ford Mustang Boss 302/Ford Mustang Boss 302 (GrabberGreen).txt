@@ -24,7 +24,7 @@
         "Ford_Mustang302_1970_Wheel3A_3D"
       ],
       "opcn": "Ford_Mustang302_1970_Wheel3A_3D",
-      "msou": 202460,
+      "msou": 186460,
       "nuub": 35,
       "upst": [
         {
@@ -155,7 +155,7 @@
             {
               "ulpf": true,
               "fsg": [
-                2,
+                1,
                 2,
                 3,
                 0,
@@ -248,7 +248,7 @@
               "ulpf": true,
               "fsg": [
                 1,
-                2,
+                1,
                 2,
                 2,
                 3
@@ -293,7 +293,7 @@
             {
               "ulpf": true,
               "fsg": [
-                2,
+                1,
                 2,
                 3,
                 0,
@@ -350,8 +350,8 @@
           ]
         }
       ],
-      "fpin": 9,
-      "fpul": 3,
+      "fpin": 11,
+      "fpul": 2,
       "rsup": 3,
       "rpbb": 9,
       "rncu": true,
@@ -367,6 +367,7 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "cmlv": 50,
       "paid": 1162,
       "inid": 66,

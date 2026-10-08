@@ -2,9 +2,7 @@
       "unid": 4962,
       "crdb": "Pininfarina_BattistaNinoFarina_2023",
       "grsp": [
-        5.0,
-        3.2,
-        2.2
+        1.0
       ],
       "fidr": 2.0,
       "nlpr": 1.0,

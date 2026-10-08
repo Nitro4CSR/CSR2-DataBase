@@ -537,6 +537,7 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "cmlv": 36,
       "paid": 2452,
       "inid": 1090,

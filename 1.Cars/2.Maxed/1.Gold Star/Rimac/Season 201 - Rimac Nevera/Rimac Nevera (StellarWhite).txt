@@ -2,11 +2,7 @@
       "unid": 5568,
       "crdb": "Rimac_NeveraRewardrecycled_2022",
       "grsp": [
-        5.0,
-        3.653,
-        2.53,
-        1.795,
-        1.29
+        1.0
       ],
       "fidr": 2.0,
       "nlpr": 1.0,

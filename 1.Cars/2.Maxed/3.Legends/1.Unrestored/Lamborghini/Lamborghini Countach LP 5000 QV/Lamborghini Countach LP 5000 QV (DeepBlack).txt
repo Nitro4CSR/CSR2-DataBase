@@ -534,5 +534,6 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "gacp": true
     }

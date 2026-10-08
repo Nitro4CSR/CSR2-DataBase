@@ -1,5 +1,5 @@
 {
-      "unid": 3625,
+      "unid": 3685,
       "crdb": "Lamborghini_RevueltoSV_2027",
       "grsp": [
         3.9,
@@ -522,5 +522,12 @@
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      }
+      },
+      "esup": true,
+      "paid": 1235,
+      "inid": 2119,
+      "caid": 279,
+      "lzsid": 9,
+      "livid": 1430,
+      "whbn": "Wheel1A_3D"
     }

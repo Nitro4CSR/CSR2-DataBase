@@ -514,6 +514,5 @@
       "csrc": "ShopCash",
       "nupl": {
         "cpf": false
-      },
-      "esup": true
+      }
     }

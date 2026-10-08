@@ -2,11 +2,7 @@
       "unid": 2978,
       "crdb": "Hyundai_NVision74Concept_2023",
       "grsp": [
-        4.62,
-        3.2,
-        2.131,
-        1.296,
-        0.798
+        1.0
       ],
       "fidr": 2.0,
       "nlpr": 1.0,

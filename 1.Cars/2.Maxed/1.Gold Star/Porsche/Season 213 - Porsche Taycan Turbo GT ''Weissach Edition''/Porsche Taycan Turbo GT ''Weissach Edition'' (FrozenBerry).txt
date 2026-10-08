@@ -2,11 +2,7 @@
       "unid": 5514,
       "crdb": "Porsche_TaycanTurboGTRewardRecycled_2025",
       "grsp": [
-        5.0,
-        3.653,
-        2.695,
-        2.149,
-        1.421
+        1.0
       ],
       "fidr": 2.0,
       "nlpr": 1.0,

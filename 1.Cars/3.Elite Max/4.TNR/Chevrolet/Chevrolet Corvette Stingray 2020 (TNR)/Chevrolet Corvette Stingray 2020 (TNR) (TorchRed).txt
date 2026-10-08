@@ -522,6 +522,7 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "cmlv": 35,
       "isra": true,
       "paid": 1000125,

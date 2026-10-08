@@ -8,8 +8,6 @@
         1.0
       ],
       "fidr": 3.5,
-      "appi": 1,
-      "orpi": 1,
       "apiid": 66,
       "oriid": 66,
       "apcid": 4,

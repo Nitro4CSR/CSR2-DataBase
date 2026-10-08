@@ -440,7 +440,7 @@
         },
         {
           "lvlo": 6,
-          "lvlf": 5,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true

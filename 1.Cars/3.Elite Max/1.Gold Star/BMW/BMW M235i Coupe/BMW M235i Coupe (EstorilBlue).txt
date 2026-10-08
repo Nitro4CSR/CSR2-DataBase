@@ -211,7 +211,7 @@
         },
         {
           "lvlo": 6,
-          "lvlf": 5,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true
@@ -335,7 +335,7 @@
         },
         {
           "lvlo": 6,
-          "lvlf": 5,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true
@@ -397,7 +397,7 @@
         },
         {
           "lvlo": 6,
-          "lvlf": 5,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true
@@ -474,6 +474,7 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "cmlv": 50,
       "paid": 287,
       "inid": 218,

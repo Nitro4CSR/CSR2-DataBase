@@ -1,5 +1,5 @@
 {
-      "unid": 3084,
+      "unid": 3143,
       "crdb": "Jaguar_XJR15_1991",
       "grsp": [
         2.66,
@@ -14,6 +14,8 @@
       "oriid": 2112,
       "apcid": 20,
       "orcid": 20,
+      "aplzsid": -1,
+      "orlzsid": -1,
       "apcn": [
         "Jaguar_XJR15_1991_Wheel1A_3D"
       ],
@@ -133,5 +135,11 @@
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      }
+      },
+      "paid": 1382,
+      "inid": 2112,
+      "caid": 20,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
     }

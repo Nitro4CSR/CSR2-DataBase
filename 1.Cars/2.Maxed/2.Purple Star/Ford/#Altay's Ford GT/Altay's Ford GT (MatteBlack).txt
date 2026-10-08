@@ -517,5 +517,6 @@
       "csrc": "High_Stakes",
       "nupl": {
         "cpf": false
-      }
+      },
+      "esup": true
     }

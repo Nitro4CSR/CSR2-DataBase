@@ -2,11 +2,7 @@
       "unid": 3516,
       "crdb": "Lamborghini_IVRewardRecycled_2024",
       "grsp": [
-        5.0,
-        3.653,
-        2.64,
-        2.031,
-        1.481
+        1.0
       ],
       "fidr": 2.0,
       "nlpr": 1.0,

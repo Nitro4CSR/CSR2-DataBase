@@ -518,5 +518,6 @@
       "csrc": "Prize",
       "nupl": {
         "cpf": false
-      }
+      },
+      "esup": true
     }

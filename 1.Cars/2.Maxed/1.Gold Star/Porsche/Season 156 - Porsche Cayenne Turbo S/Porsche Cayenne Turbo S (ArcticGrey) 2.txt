@@ -14,8 +14,6 @@
       "fidr": 2.34,
       "nlpr": 0.91,
       "ttpp": 0.0,
-      "appi": 10,
-      "orpi": 10,
       "apiid": 1459,
       "oriid": 1459,
       "apcid": 83,
@@ -523,6 +521,7 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "paid": 1948,
       "inid": 1459,
       "caid": 83,

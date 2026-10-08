@@ -1,5 +1,5 @@
 {
-      "unid": 5578,
+      "unid": 5647,
       "crdb": "RUF_CTR3EVO_2023",
       "grsp": [
         3.91,
@@ -15,6 +15,8 @@
       "oriid": 2116,
       "apcid": 7,
       "orcid": 7,
+      "aplzsid": -1,
+      "orlzsid": -1,
       "apcn": [
         "RUF_CTR3EVO_2023_Wheel1A_3D"
       ],
@@ -134,5 +136,11 @@
       "csrc": "IAPSpecial",
       "nupl": {
         "cpf": false
-      }
+      },
+      "paid": 2780,
+      "inid": 2116,
+      "caid": 7,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
     }

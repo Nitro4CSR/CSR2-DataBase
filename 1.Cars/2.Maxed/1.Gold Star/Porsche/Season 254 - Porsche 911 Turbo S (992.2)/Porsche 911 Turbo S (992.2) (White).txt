@@ -525,6 +525,7 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "paid": 682,
       "inid": 2011,
       "caid": 253,

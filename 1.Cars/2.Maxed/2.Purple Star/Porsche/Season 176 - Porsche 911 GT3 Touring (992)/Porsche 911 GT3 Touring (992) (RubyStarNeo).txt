@@ -517,5 +517,6 @@
       "csrc": "IAPSpecial",
       "nupl": {
         "cpf": false
-      }
+      },
+      "esup": true
     }

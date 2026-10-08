@@ -31,6 +31,7 @@
               "ulpf": true
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 1,
@@ -40,6 +41,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -59,6 +61,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -97,6 +100,7 @@
               "ulpf": true
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -106,6 +110,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -164,6 +169,7 @@
               "ulpf": true
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -173,6 +179,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -241,6 +248,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -299,6 +307,7 @@
               "ulpf": true
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -308,6 +317,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -317,6 +327,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -365,6 +376,7 @@
               "ulpf": true
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -374,6 +386,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -432,6 +445,7 @@
               "ulpf": true
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -441,6 +455,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 0,
@@ -450,6 +465,7 @@
               ]
             },
             {
+              "ulpf": true,
               "fsg": [
                 1,
                 2,
@@ -501,6 +517,7 @@
       "nupl": {
         "cpf": false
       },
+      "esup": true,
       "paid": 2127,
       "inid": 1548,
       "caid": 3,
