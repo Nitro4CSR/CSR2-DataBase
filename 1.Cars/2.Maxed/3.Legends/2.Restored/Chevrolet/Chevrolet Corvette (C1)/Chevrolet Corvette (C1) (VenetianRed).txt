@@ -535,7 +535,6 @@
         "cpf": false
       },
       "esup": true,
-      "cmlv": 36,
       "paid": 2502,
       "inid": 1932,
       "caid": 0,

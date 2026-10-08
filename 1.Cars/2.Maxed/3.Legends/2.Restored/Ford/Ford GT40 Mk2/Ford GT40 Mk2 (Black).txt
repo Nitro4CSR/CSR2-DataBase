@@ -538,6 +538,5 @@
         "cpf": false
       },
       "esup": true,
-      "cmlv": 35,
       "gacp": true
     }
