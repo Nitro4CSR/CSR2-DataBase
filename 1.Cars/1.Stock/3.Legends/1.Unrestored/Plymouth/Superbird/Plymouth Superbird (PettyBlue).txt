@@ -1,0 +1,145 @@
+{
+      "unid": 4988,
+      "crdb": "Plymouth_SuperbirdLPClassic_1970",
+      "grsp": [
+        2.44,
+        1.6,
+        1.1,
+        0.75
+      ],
+      "fidr": 2.77,
+      "apiid": 1090,
+      "oriid": 1090,
+      "apcid": 9,
+      "orcid": 9,
+      "aplid": 1220,
+      "orlid": 1220,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Plymouth_SuperbirdLPClassic_1970_Wheel2A_3D"
+      ],
+      "opcn": "Plymouth_SuperbirdLPClassic_1970_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 603,
+      "ttqm": 10.454,
+      "tthm": 16.065,
+      "ctie": "TIER_5",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2452,
+      "inid": 1090,
+      "caid": 9,
+      "lzsid": 15,
+      "livid": 1220,
+      "whbn": "Wheel2A_3D"
+    }

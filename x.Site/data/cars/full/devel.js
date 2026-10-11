@@ -1,1 +1,1 @@
-CSR.put("cars/full/devel",{"Devel_Sixteen_2022":[{"c":"White","f":"1.Cars/2.Maxed/2.Purple Star/Devel/Devel Sixteen/Devel Sixteen (White).txt","i":"1.Cars/2.Maxed/2.Purple Star/Devel/Devel Sixteen/Devel Sixteen (White).jpg"}]});
+CSR.put("cars/full/devel",{"Devel_Sixteen_2022":[{"c":"White","f":"1.Cars/2.Maxed/2.Purple Star/Devel/Sixteen/Devel Sixteen (White).txt","i":"1.Cars/2.Maxed/2.Purple Star/Devel/Sixteen/Devel Sixteen (White).jpg","u":"1.Cars/1.Stock/2.Purple Star/Devel/Sixteen/#fusions.jpg","p":[36,50,49]}]});

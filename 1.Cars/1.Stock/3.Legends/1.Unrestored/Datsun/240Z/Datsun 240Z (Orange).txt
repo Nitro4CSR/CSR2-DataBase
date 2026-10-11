@@ -1,0 +1,141 @@
+{
+      "unid": 1782,
+      "crdb": "Datsun_240ZLPClassic_1972",
+      "grsp": [
+        3.6,
+        2.25,
+        1.41,
+        1.0
+      ],
+      "fidr": 2.71,
+      "apiid": 1927,
+      "oriid": 1927,
+      "apcid": 2,
+      "orcid": 2,
+      "apcn": [
+        "Datsun_240ZLPClassic_1972_Wheel2A_3D"
+      ],
+      "opcn": "Datsun_240ZLPClassic_1972_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 603,
+      "ttqm": 10.085,
+      "tthm": 16.056,
+      "ctie": "TIER_5",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2525,
+      "inid": 1927,
+      "caid": 2,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel2A_3D"
+    }

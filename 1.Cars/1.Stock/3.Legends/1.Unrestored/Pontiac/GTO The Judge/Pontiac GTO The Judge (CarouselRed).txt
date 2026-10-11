@@ -1,0 +1,140 @@
+{
+      "unid": 4994,
+      "crdb": "Pontiac_GTOTheJudgeClassic_1969",
+      "grsp": [
+        2.2,
+        1.64,
+        1.28,
+        1.0
+      ],
+      "fidr": 3.63,
+      "apiid": 874,
+      "oriid": 874,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 417,
+      "orlid": 417,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Pontiac_GTOTheJudgeClassic_1969_Wheel2A_3D"
+      ],
+      "opcn": "Pontiac_GTOTheJudgeClassic_1969_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 403,
+      "ttqm": 12.655,
+      "tthm": 20.257,
+      "ctie": "TIER_3",
+      "csrc": "ShopCash",
+      "nupl": {
+        "cpf": false
+      },
+      "gacp": true
+    }

@@ -1,1 +1,1 @@
-CSR.put("cars/full/aspark",{"Aspark_Owl_2021":[{"c":"ArcticIceBlue","f":"1.Cars/2.Maxed/2.Purple Star/Aspark/Aspark Owl/Aspark Owl (ArcticIceBlue).txt","i":"1.Cars/2.Maxed/2.Purple Star/Aspark/Aspark Owl/Aspark Owl (ArcticIceBlue).jpg"}]});
+CSR.put("cars/full/aspark",{"Aspark_Owl_2021":[{"c":"ArcticIceBlue","f":"1.Cars/2.Maxed/2.Purple Star/Aspark/Owl/Aspark Owl (ArcticIceBlue).txt","i":"1.Cars/2.Maxed/2.Purple Star/Aspark/Owl/Aspark Owl (ArcticIceBlue).jpg","u":"1.Cars/1.Stock/2.Purple Star/Aspark/Owl/#fusions.jpg","p":[36,50,49]}]});

@@ -1,0 +1,142 @@
+{
+      "unid": 1605,
+      "crdb": "Chevrolet_CorvetteC1LPClassic_1958",
+      "grsp": [
+        2.3,
+        1.4,
+        1.0
+      ],
+      "fidr": 2.1,
+      "apiid": 1932,
+      "oriid": 1932,
+      "aplid": 1335,
+      "orlid": 1335,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apcn": [
+        "Chevrolet_CorvetteC1LPClassic_1958_Wheel2A_3D"
+      ],
+      "opcn": "Chevrolet_CorvetteC1LPClassic_1958_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 603,
+      "ttqm": 10.602,
+      "tthm": 16.052,
+      "ctie": "TIER_5",
+      "csrc": "ShopGold",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2502,
+      "inid": 1932,
+      "caid": 0,
+      "lzsid": 15,
+      "livid": 1335,
+      "whbn": "Wheel2A_3D"
+    }

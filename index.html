@@ -9,6 +9,7 @@
   --bg:#0e1014; --bg2:#151820; --card:#1b1f29; --card2:#222735; --line:#2c3243;
   --text:#e8eaf0; --muted:#9aa3b5; --accent:#ff7a1a; --accent2:#ffb46b;
   --gold:#f2c230; --purple:#b07cff; --legend:#3fd0c9; --tnr:#ff5470; --shop:#8fa0b8;
+  --t1:#fa0a0a; --t2:#f7bc03; --t3:#1bbbee; --t4:#3ca605; --t5:#b0c5c0;   /* game colours (garages_atlas.png) */
   --ok:#3ecf8e; --warn:#ffcc4d; --radius:12px;
   --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
@@ -40,7 +41,7 @@ select.lang{padding:7px 8px;border-radius:10px;border:1px solid var(--line);back
 main{flex:1;min-width:0;padding:22px 24px 90px}
 .panel{width:0;flex-shrink:0;overflow:hidden;border-left:1px solid var(--line);background:var(--bg2);transition:width .2s;
   position:sticky;top:57px;height:calc(100vh - 57px);display:flex;flex-direction:column}
-.panel.open{width:min(46vw,760px)}
+.panel.open{width:min(26vw,540px)}
 .ph{padding:12px 14px;border-bottom:1px solid var(--line);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .ph .t{font-weight:700;flex:1;min-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .ph .sub{width:100%;color:var(--muted);font-size:12.5px}
@@ -100,6 +101,10 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:1px;color:var(--muted)
 .car .tick{position:absolute;top:6px;right:8px;color:var(--accent);font-weight:900;display:none}
 .car.on .tick{display:block}
 .bd{font-size:11px;font-weight:700;padding:2px 7px;border-radius:20px;background:var(--bg2);color:var(--muted)}
+.bd.tier{color:#fff;border-radius:4px;font-weight:800;text-shadow:0 1px 1px rgba(0,0,0,.45)}
+.bd.t1{background:var(--t1)} .bd.t2{background:var(--t2)} .bd.t3{background:var(--t3)} .bd.t4{background:var(--t4)} .bd.t5{background:var(--t5)}
+.bd.tp{padding:0;background:none;display:inline-flex;align-items:center} .bd.tp img{height:18px;border-radius:4px;display:block}
+.ncnote{margin-top:8px;font-size:12px;color:var(--muted);border:1px dashed var(--line);border-radius:8px;padding:6px 8px}
 .bd.gold{color:var(--gold)} .bd.purple{color:var(--purple)} .bd.legend{color:var(--legend)} .bd.tnr{color:var(--tnr)} .bd.shop{color:var(--shop)}
 
 .hero{display:flex;gap:18px;align-items:center;margin-bottom:8px}
@@ -116,6 +121,57 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:1px;color:var(--muted)
 .shot .cap{padding:8px 10px;font-weight:650;font-size:13.5px;display:flex;justify-content:space-between;gap:8px}
 .shot .cap small{color:var(--muted);font-weight:500}
 .shot.fus{cursor:zoom-in}
+/* car page: identity (tier frame) + release, fusions, tokens, setup; colours below */
+main{container-type:inline-size}
+.top{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start;margin-bottom:6px}
+.idcol{display:flex;flex-direction:column;gap:10px;max-width:560px;min-width:310px;flex:0 1 auto}
+.top > .card,.top > .tokcol,.top > #fusbox,.top > #setupbox{flex:none}
+.idbox code{word-break:break-all}
+#setupbox .card{max-width:230px}
+@container (min-width:900px){ .top{flex-wrap:nowrap} }
+.idbox{--tc:var(--line);display:flex;gap:12px;align-items:center;padding:8px 12px 8px 8px;border-radius:12px;
+  border:1px solid var(--tc);border-left-width:5px;background:color-mix(in srgb,var(--tc) 9%,var(--card))}
+.idbox.t1{--tc:var(--t1)} .idbox.t2{--tc:var(--t2)} .idbox.t3{--tc:var(--t3)} .idbox.t4{--tc:var(--t4)} .idbox.t5{--tc:var(--t5)}
+.idbox > img,.idbox > .ph0{width:96px;height:96px;flex-shrink:0}
+.idbox h1{font-size:20px;line-height:1.2}
+.idbox code{font-size:12px}
+.idbox .who{min-width:0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+.card .k{font-size:11px;text-transform:uppercase;letter-spacing:.8px;color:var(--muted);margin-bottom:5px}
+.card .v{font-weight:700;font-size:14px;line-height:1.5}
+.card .v small{color:var(--muted);font-weight:500;font-size:12px}
+.tokcol{display:flex;flex-direction:column;gap:10px}
+.hist .hrows{display:grid;grid-template-columns:auto 1fr;gap:3px 10px;font-size:13.5px;line-height:1.4}
+.hist .hk{color:var(--muted);font-size:12px;white-space:nowrap;padding-top:1px}
+.hist .hv{font-weight:650}
+.hist .hv small{color:var(--muted);font-weight:500}
+.toks{display:grid;grid-template-columns:auto auto;gap:6px 10px}
+.toks .ico img{height:19px}
+.ico{display:inline-flex;align-items:center;gap:5px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
+.ico img{height:22px;width:auto;display:block}
+.tot{color:var(--muted);font-weight:600;font-variant-numeric:tabular-nums}
+.cnt{display:flex;flex-wrap:nowrap;align-items:center;gap:4px 10px;font-size:14px}
+.cnt .ico img{height:24px}
+.fus .capimg{width:360px;max-width:100%;aspect-ratio:16/9;border-radius:8px;overflow:hidden;cursor:zoom-in;margin:2px 0 8px;background:var(--bg2)}
+.fus .capimg img{width:100%;height:100%;object-fit:contain;display:block}
+.setup{display:grid;grid-template-columns:66px auto;gap:7px 10px;align-items:center;font-variant-numeric:tabular-nums;font-size:15px}
+.setup img{height:22px;width:auto;max-width:66px;object-fit:contain;display:block}
+.setup img[src*="tyres"]{height:30px}
+.times{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:9px;font-size:13px;color:var(--muted)}
+.times b{color:var(--text);font-variant-numeric:tabular-nums}
+.spec{margin-top:8px;padding:5px 8px;border-radius:7px;background:rgba(255,204,77,.1);color:var(--warn);font-size:12.5px;font-weight:600}
+.colhead{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:22px 0 12px}
+.colhead h2{margin:0}
+.seg.sm button{padding:6px 14px;font-size:13px}
+.shot .img .noimg{color:var(--muted);font-size:13px}
+.shot.shop{border-style:dashed}
+.shot.shop .img{position:relative}
+.shot.shop .img img{filter:saturate(.35) brightness(.85)}
+.shot .shoptag{position:absolute;top:8px;left:8px;background:var(--shop,#e0a100);color:#111;font-weight:800;font-size:11px;letter-spacing:.06em;padding:3px 8px;border-radius:4px}
+.hv .evl{display:block}
+.shots.picked .shot:not(.on){display:none}
+.shots.picked{grid-template-columns:minmax(0,460px)}
+
 
 .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .qty{display:flex;gap:8px;align-items:center}
@@ -246,6 +302,39 @@ const I18N = {
  choose_colour:['Choose a colour · {0} file(s)','Choisis une couleur · {0} fichier(s)','Farbe wählen · {0} Datei(en)','Elige un color · {0} archivo(s)','Escolha uma cor · {0} arquivo(s)'],
  no_shot:['no screenshot','pas de capture','kein Screenshot','sin captura','sem captura'],
  enlarge:['click to enlarge','cliquer pour agrandir','zum Vergrößern klicken','clic para ampliar','clique para ampliar'],
+ leg_unres:['To restore','À restaurer','Zu restaurieren','Por restaurar','A restaurar'], leg_res:['Restored','Restaurée','Restauriert','Restaurado','Restaurado'],
+ setup:['Setup','Réglages','Setup','Ajustes','Ajustes'],
+ s_nitrous:['Nitrous','Nitro','Lachgas','Nitro','Nitro'], s_box:['Box','Boîte','Getriebe','Caja','Câmbio'], s_tyres:['Tyres','Pneus','Reifen','Neumáticos','Pneus'],
+ s_wr:['World record','Record du monde','Weltrekord','Récord mundial','Recorde mundial'], s_dyno:['Dyno','Dyno','Dyno','Dyno','Dyno'], s_spec:['Spec','Spéc.','Spez.','Espec.','Espec.'],
+ release:['Release','Sortie','Erschienen','Lanzamiento','Lançamento'],
+ history:['History','Historique','Geschichte','Historia','Histórico'],
+ h_first:['1st appearance','1re apparition','Erstes Erscheinen','Primera aparición','Primeira aparição'],
+ h_prize:['Season prize','Prix de saison','Saisonpreis','Premio de temporada','Prêmio de temporada'],
+ h_prestige:['Prestige Cup','Prestige Cup','Prestige Cup','Prestige Cup','Prestige Cup'],
+ h_showdown:['ShowDown','ShowDown','ShowDown','ShowDown','ShowDown'],
+ h_events:['Events','Évènements','Events','Eventos','Eventos'],
+ shop_cap:['Shop · colour chosen when buying','Shop · couleur choisie à l\'achat','Shop · Farbe beim Kauf gewählt','Tienda · color elegido al comprar','Loja · cor escolhida na compra'],
+ shop_tip:['In-game shop version: own fusion pattern; picture = gacha version, default colour','Version de la boutique du jeu : pattern de fusion différent ; image = version gacha, couleur par défaut','Shop-Version: eigenes Fusionsmuster; Bild = Gacha-Version, Standardfarbe','Versión de la tienda: patrón de fusión propio; imagen = versión gacha, color por defecto','Versão da loja: padrão de fusão próprio; imagem = versão gacha, cor padrão'],
+ season:['Season {0}','Saison {0}','Saison {0}','Temporada {0}','Temporada {0}'],
+ seasons:['Seasons {0}','Saisons {0}','Saisons {0}','Temporadas {0}','Temporadas {0}'],
+ beta:['beta','béta','Beta','beta','beta'],
+ tempest:['Tempest Boss car','Voiture de Boss Tempest','Tempest-Boss-Auto','Coche de jefe Tempest','Carro de chefe Tempest'],
+ nc_note:['Boss car not available to the players: no code for this car.','Voiture de Boss non disponible pour les joueurs : pas de code pour cette voiture.','Boss-Auto für Spieler nicht verfügbar: kein Code für dieses Auto.','Coche de jefe no disponible para los jugadores: sin código para este coche.','Carro de chefe não disponível para os jogadores: sem código para este carro.'],
+ game_version:['Game version {0}','Version du jeu {0}','Spielversion {0}','Versión del juego {0}','Versão do jogo {0}'],
+ file_note:['Local file: the browser does not let the page read the .txt. To test, run « python3 -m http.server 8000 » in the repository folder and open http://localhost:8000 (on GitHub the code is shown normally).',"Fichier local : le navigateur interdit à la page de lire le .txt. Pour tester, lancer « python3 -m http.server 8000 » dans le dossier du dépôt et ouvrir http://localhost:8000 (sur GitHub le code s'affiche normalement).",'Lokale Datei: Der Browser erlaubt das Lesen der .txt nicht. Zum Testen « python3 -m http.server 8000 » im Repository-Ordner starten und http://localhost:8000 öffnen.','Archivo local: el navegador no deja leer el .txt. Para probar, ejecuta « python3 -m http.server 8000 » en la carpeta del repositorio y abre http://localhost:8000.','Arquivo local: o navegador não deixa ler o .txt. Para testar, execute « python3 -m http.server 8000 » na pasta do repositório e abra http://localhost:8000.'],
+ fus_full:['Fusions · Full','Fusions · Full','Fusionen · Full','Fusiones · Full','Fusões · Full'],
+ fus_max:['Fusions · Elite Max','Fusions · Elite Max','Fusionen · Elite Max','Fusiones · Elite Max','Fusões · Elite Max'],
+ tok_elite:['Elite tokens','Jetons Elite','Elite-Token','Fichas Elite','Fichas Elite'],
+ tok_legends:['Legends tokens','Jetons Legends','Legends-Token','Fichas Legends','Fichas Legends'],
+ all_colours:['Show all colours ({0})','Afficher toutes les couleurs ({0})','Alle Farben zeigen ({0})','Ver todos los colores ({0})','Ver todas as cores ({0})'],
+ fus_stock:['Fusion parts to reach Full','Pièces de fusion pour passer Full','Fusionsteile bis Full','Piezas de fusión hasta Full','Peças de fusão até o Full'],
+ fus_slots:['Fusion parts · {0}','Pièces de fusion · {0}','Fusionsteile · {0}','Piezas de fusión · {0}','Peças de fusão · {0}'],
+ fus_nocap:['No in-game capture for the Elite Max (its pattern differs from Stock / Full).',"Pas de capture en jeu pour l'Elite Max (son patron est différent du Stock / Full).",'Kein Screenshot für Elite Max (anderes Muster als Stock / Full).','Sin captura para el Elite Max (patrón distinto de Stock / Full).','Sem captura para o Elite Max (padrão diferente do Stock / Full).'],
+ fus_capof:['Capture of the {0} version','Capture de la version {0}','Screenshot der Version {0}','Captura de la versión {0}','Captura da versão {0}'],
+ f_green:['Uncommon (green)','Peu commune (verte)','Ungewöhnlich (grün)','Poco común (verde)','Incomum (verde)'],
+ f_blue:['Rare (blue)','Rare (bleue)','Selten (blau)','Rara (azul)','Rara (azul)'],
+ f_red:['Epic (red)','Épique (rouge)','Episch (rot)','Épica (roja)','Épica (vermelha)'],
+ t_green:['Green','Vert','Grün','Verde','Verde'], t_blue:['Blue','Bleu','Blau','Azul','Azul'], t_red:['Red','Rouge','Rot','Rojo','Vermelho'], t_gold:['Gold','Or','Gold','Oro','Ouro'],
  no_vignette:['No vignette for this car','Pas de vignette pour cette voiture','Keine Vignette für dieses Auto','Sin viñeta para este coche','Sem vinheta para este carro'],
  fus_lead:['Fusion parts for one brand or for all brands. AMOUNT is replaced by your quantity.','Pièces de fusion pour une marque ou pour toutes. AMOUNT est remplacé par ta quantité.','Fusionsteile für eine Marke oder alle Marken. AMOUNT wird durch deine Menge ersetzt.','Piezas de fusión para una marca o para todas. AMOUNT se sustituye por tu cantidad.','Peças de fusão para uma marca ou para todas. AMOUNT é substituído pela sua quantidade.'],
  by_brand:['By brand','Par marque','Pro Marke','Por marca','Por marca'],
@@ -325,7 +414,8 @@ const MODE_SUB = {stock:'1.Stock', full:'2.Maxed', max:'3.Elite Max'};
 function badges(c){
   let h = '';
   if (c.s) h += `<span class="bd ${c.s}">${STAR[c.s]||c.s}</span>`;
-  if (c.t) h += `<span class="bd">${esc(c.t.replace('TIER_','T'))}</span>`;
+  if (c.t) h += `<span class="bd tier t${esc(String(c.t).replace(/\D/g,''))}">${esc(c.t.replace('TIER_','T'))}</span>`;
+  if (c.tp){ const im = icon('tempest', T('tempest')); h += im ? `<span class="bd tp" title="${esc(T('tempest'))}">${im}</span>` : `<span class="bd">Tempest</span>`; }
   return h;
 }
 function thumb(c, cls=''){
@@ -464,6 +554,76 @@ function pageCarsBrand(mode, brand){
   $('#grid').onclick = e=>{ const c=e.target.closest('.car'); if(c) go(`#/cars/${mode}/${brand}/${c.dataset.c}`); };
   carsBar(mode, brand);
 }
+/* icons (x.Site/Icons, file names given by build_site.py in IDX.icons); a missing icon is simply left out */
+const icon = (key, title) => { const f = (IDX.icons||{})[key];
+  return f ? `<img src="${esc(u(window.SITE+f))}" alt="" title="${esc(title)}" onerror="this.style.display='none'">` : ''; };
+function fusionCounts(p){                      // p = [green, blue, red]
+  if (!p) return '';
+  return ['green','blue','red'].map((k,i)=>`<span class="ico" title="${esc(T('f_'+k))}">${icon('fus_'+k, T('f_'+k))}${num(p[i])}</span>`).join('')
+    + `<span class="tot">= ${num(p[0]+p[1]+p[2])}</span>`;
+}
+// HISTORY card (Tables/cars.csv): first appearance, season prize, Prestige Cup, ShowDown
+function historyCard(c){
+  // CDN numbering (user rule of 2026-10-11): seasons 1 to 8 are the beta seasons
+  const list = v => String(v||'').split(',').map(x=>x.trim()).filter(Boolean).map(x=>(+x||x) + (+x>=1 && +x<=8 ? ' ('+T('beta')+')' : ''));
+  const seas = v => { const l = list(v); return l.length ? T(l.length>1?'seasons':'season', l.join(', ')) : ''; };
+  // Version_date « AAAA-MM-JJ », or first_date of Tables/cars.csv: range of the season « AAAA-MM-JJ/AAAA-MM-JJ »
+  // shown « 02 – 16 juin 2026 », « 19 mai – 02 juin 2026 », « 29 déc. 2016 – 12 janv. 2017 »
+  const date = v => {
+    if (!v) return '';
+    const loc = LOCALE[LANG]||'en', D = x => new Date(x + 'T12:00:00');
+    if (v.includes('/')){
+      const [a, b] = v.split('/').map(D); if (isNaN(a) || isNaN(b)) return '';
+      const f = (d, o) => d.toLocaleDateString(loc, o);
+      if (a.getFullYear() !== b.getFullYear())
+        return f(a, {day:'2-digit', month:'short', year:'numeric'}) + ' – ' + f(b, {day:'2-digit', month:'short', year:'numeric'});
+      if (a.getMonth() !== b.getMonth())
+        return f(a, {day:'2-digit', month:'long'}) + ' – ' + f(b, {day:'2-digit', month:'long', year:'numeric'});
+      return String(a.getDate()).padStart(2, '0') + ' – ' + f(b, {day:'2-digit', month:'long', year:'numeric'});
+    }
+    const ym = /^\d{4}-\d{2}$/.test(v), d = D(v + (ym ? '-15' : ''));
+    return isNaN(d) ? '' : d.toLocaleDateString(loc, ym ? {year:'numeric', month:'short'} : {year:'numeric', month:'short', day:'numeric'});
+  };
+  const ver = c.fv || c.v, when = date(c.fdt) || date(c.vd);
+  const first = [ver ? esc(T('game_version', ver)) : '', c.fs ? esc(seas(c.fs)) : '', when ? `<small>${esc(when)}</small>` : ''].filter(Boolean).join(' · ');
+  // events (Tables/cars.csv column events): « Flash Events (056) | Evolution Cups (066) »
+  const evs = String(c.ev||'').split('|').map(x=>x.trim()).filter(Boolean).map(x=>{ const m = x.match(/^(.*?)\s*\(([\d,]+)\)$/);
+    return `<span class="evl">${esc(m ? m[1] : x)}${m ? ` <small>· ${esc(seas(m[2]))}</small>` : ''}</span>`; }).join('');
+  const rows = [['h_first', first], ['h_prize', esc(seas(c.se))], ['h_prestige', esc(seas(c.pc))], ['h_events', evs]].filter(r=>r[1]);
+  if (!rows.length) return '';
+  return `<div class="card hist"${c.ri?` title="${esc(c.ri)}"`:''}><div class="k">${T('history')}</div>
+    <div class="hrows">${rows.map(([k,v])=>`<span class="hk">${T(k)}</span><span class="hv">${v}</span>`).join('')}</div></div>`;
+}
+function tokenCards(c){                        // Legends first (the car is restored before going Elite max)
+  let h = '';
+  if (c.tl) h += `<div class="card"><div class="k">${T('tok_legends')}</div><div class="v"><span class="ico">${icon('tok_legends', T('tok_legends'))}${num(c.tl)}</span></div></div>`;
+  if (c.te) h += `<div class="card"><div class="k">${T('tok_elite')}</div><div class="v toks">${['green','blue','red','gold'].map((k,i)=>c.te[i]?`<span class="ico" title="${esc(T('t_'+k))}">${icon('tok_'+k, T('t_'+k))}${num(c.te[i])}</span>`:'').join('')}</div></div>`;
+  return h ? `<div class="tokcol">${h}</div>` : '';
+}
+// fusion card: Stock = parts to reach Full + in-game capture; Full / Max = parts of that version, no image
+function fusionCard(c, mode, f){
+  const k = (f && f.k) || 'G', pick = pp => pp ? (pp[k] || pp.G || pp.S) : null;
+  const p = mode==='stock' ? pick(c.pf) : ((f && f.p) || pick(mode==='max' ? c.pm : c.pf));
+  const cap = mode==='stock' && f && f.u ? f.u : '';
+  if (!p && !cap) return '';
+  const title = mode==='stock' ? T('fus_stock') : mode==='max' ? T('fus_max') : T('fus_full');
+  return `<div class="card fus"><div class="k">${esc(title)}</div>
+    ${cap?`<div class="capimg" data-zoom="${esc(u(cap))}" title="${esc(T('enlarge'))}"><img src="${esc(u(cap))}" alt="#fusions"></div>`:''}
+    ${p?`<div class="cnt">${fusionCounts(p)}</div>`:''}</div>`;
+}
+// setup card (Tables/world_records.csv), shown once a colour is chosen: Stock / Full = full row, Max = "Elite full" row
+function setupCard(c, mode){
+  const su = c.su || {}, r = mode==='max' ? su.M : su.F;
+  if (!r) return '';
+  const line = (key, lbl, v) => v ? `<span title="${esc(T(lbl))}">${icon(key, T(lbl)) || esc(T(lbl))}</span><b>${esc(v)}</b>` : '';
+  return `<div class="card"><div class="k">${T('setup')} · ${mode==='max'?'Elite Max':'Full'}</div>
+    <div class="setup">${line('nitrous','s_nitrous',r.n)}${line('box','s_box',r.b)}${line('tyres','s_tyres',r.t)}</div>
+    ${r.wr||r.dy?`<div class="times">${r.dy?`<span>${T('s_dyno')} <b>${esc(r.dy)} s</b></span>`:''}${r.wr?`<span>WR <b>${esc(r.wr)} s</b></span>`:''}</div>`:''}
+    ${r.sp?`<div class="spec">${T('s_spec')} : ${esc(r.sp)}</div>`:''}</div>`;
+}
+
+/* colour chosen on a car page (colour + Legends state): kept when switching Stock / Full / Max on the same car */
+let CARSEL = {id:null, c:null, r:null};
 async function pageCar(mode, brand, crdb){
   setNav('cars'); store.set('mode', mode);
   const c = CARS[crdb];
@@ -473,27 +633,78 @@ async function pageCar(mode, brand, crdb){
   const files = data[crdb] || [];
   const other = Object.keys(c.m).filter(m=>m!==mode);
   const names = namesOf(c);
+  const legends = files.some(f=>f.r!==undefined);              // Legends: "to restore" and "restored" kept apart
+  let state = CARSEL.id===crdb && CARSEL.r!==null && CARSEL.r!==undefined ? CARSEL.r : 0;
+  const tier = String(c.t||'').replace(/\D/g,'');
   $('#main').innerHTML = crumbCars(mode, brand, c) + `
-    <div class="hero">${thumb(c)}<div><h1>${esc(nameOf(c))}</h1>
-      <div class="alt">${esc((names.L||'').trim())}${names.S&&names.S!==names.M?' · '+esc(names.S.trim()):''}</div>
-      <div class="row" style="margin-top:6px"><code>${esc(crdb)}</code>${badges(c)}</div>
-      ${other.length?`<div class="row" style="margin-top:8px">${other.map(m=>`<a class="btn sm" href="#/cars/${m}/${brand}/${crdb}">${T('show', MODE[m])}</a>`).join('')}</div>`:''}
-    </div></div>
-    <h2>${T('choose_colour', files.length)}</h2>
-    <div class="shots" id="shots">${files.map((f,i)=>`<div class="shot" data-i="${i}"><div class="img">${f.i?`<img src="${esc(u(f.i))}" alt="" loading="lazy">`:(c.th?`<img class="v" src="${esc(u(window.SITE+c.th))}" alt="">`:'')}</div>
-      <div class="cap">${esc(f.c)}${f.i?'':`<small>${T('no_shot')}</small>`}</div></div>`).join('')}
-      ${c.fu?`<div class="shot fus" data-fu="1"><div class="img"><img src="${esc(u(c.fu))}" alt="" loading="lazy"></div><div class="cap">#fusions<small>${T('enlarge')}</small></div></div>`:''}</div>`;
-  $('#shots').onclick = async e=>{
-    const s = e.target.closest('.shot'); if(!s) return;
-    if (s.dataset.fu){ zoom(u(c.fu)); return; }
-    document.querySelectorAll('#shots .shot').forEach(x=>x.classList.toggle('on',x===s));
-    const f = files[+s.dataset.i];
+    <div class="top">
+      <div class="idcol"><div class="idbox t${esc(tier)}">${thumb(c)}<div class="who"><h1>${esc(nameOf(c))}</h1>
+          <div class="alt">${esc((names.L||'').trim())}${names.S&&names.S!==names.M?' · '+esc(names.S.trim()):''}</div>
+          <div class="row" style="margin-top:6px"><code>${esc(crdb)}</code>${badges(c)}</div>
+          ${c.nc?`<div class="ncnote">${esc(T('nc_note'))}</div>`:''}
+          ${other.length?`<div class="row" style="margin-top:8px">${other.map(m=>`<a class="btn sm" href="#/cars/${m}/${brand}/${crdb}">${T('show', MODE[m])}</a>`).join('')}</div>`:''}
+        </div></div>${historyCard(c)}</div>
+      <div id="fusbox"></div>${tokenCards(c)}<div id="setupbox"></div>
+    </div>
+    <div class="colhead"><h2 id="colt"></h2>
+      ${legends?`<div class="seg sm" id="legseg"><button data-r="0">${T('leg_unres')} (${files.filter(f=>f.r===0).length})</button><button data-r="1">${T('leg_res')} (${files.filter(f=>f.r===1).length})</button></div>`:''}
+      <button class="btn sm" id="allcol" style="display:none"></button></div>
+    <div class="shots" id="shots"></div>`;
+
+  const visible = ()=>files.map((f,i)=>[f,i]).filter(([f])=>!legends || f.r===state);
+  const fus = f=>{ $('#fusbox').innerHTML = fusionCard(c, mode, f); };
+  $('#fusbox').onclick = e=>{ const z = e.target.closest('[data-zoom]'); if (z) zoom(z.dataset.zoom); };
+  const renderShots = ()=>{
+    const v = visible();
+    $('#colt').textContent = T('choose_colour', v.length);
+    $('#allcol').textContent = T('all_colours', v.length);
+    if (legends) document.querySelectorAll('#legseg button').forEach(b=>b.classList.toggle('on', +b.dataset.r===state));
+    // only the in-game captures (.jpg); a file without capture gets an empty tile, never the .png vignette
+    // shop version (k "S"): no capture of its own (colour chosen when buying) -> gacha capture, default colour ("ib")
+    $('#shots').innerHTML = v.map(([f,i])=>{ const shop = f.k==='S';
+      return `<div class="shot${shop?' shop':''}" data-i="${i}"${shop?` title="${esc(T('shop_tip'))}"`:''}><div class="img">${f.i?`<img src="${esc(u(f.i))}" alt="" loading="lazy">`:`<span class="noimg">${T('no_shot')}</span>`}${shop?'<span class="shoptag">SHOP</span>':''}</div>
+      <div class="cap">${shop?esc(T('shop_cap')):esc(f.c)}</div></div>`; }).join('');
+    $('#shots').classList.remove('picked'); $('#allcol').style.display='none'; $('#setupbox').innerHTML='';
+    fus((v.find(([f])=>f.u)||v[0]||[])[0]);
+  };
+  let token = 0;
+  const pick = async (i, auto=false)=>{
+    const shots = $('#shots'), s = shots.querySelector(`.shot[data-i="${i}"]`), f = files[i];
+    shots.querySelectorAll('.shot').forEach(x=>x.classList.toggle('on',x===s));
+    const n = visible().length;
+    shots.classList.toggle('picked', n>1); $('#allcol').style.display = n>1 ? '' : 'none';
+    CARSEL = {id:crdb, c:f.c, r:f.r!==undefined ? f.r : null}; fus(f); $('#setupbox').innerHTML = setupCard(c, mode);
+    if (c.nc || !f.f){ closePanel(); if (!auto) toast(T('nc_note')); return; }   // Boss without code on the site
+    const my = ++token;
     if (f.t === undefined){                    // repository version: the .txt is read from the repository itself
       try { const r = await fetch(u(f.f)); if(!r.ok) throw new Error(r.status); f.t = await r.text(); }
-      catch(err){ toast('⚠ '+f.f.split('/').pop()); return; }
+      catch(err){                              // file:// : the browser refuses to read the .txt (local test)
+        if (location.protocol === 'file:'){ if (my === token) showPanel(`${nameOf(c)} · ${MODE[mode]} · ${f.c}`, '', f.f.split('/').pop(), f.f, T('file_note')); return; }
+        toast('⚠ '+f.f.split('/').pop()); return; }
     }
-    showPanel(`${nameOf(c)} · ${f.c}`, f.t, f.f.split('/').pop(), f.f);
+    if (my !== token) return;                  // another colour was chosen meanwhile
+    const st = f.r===undefined ? '' : ' · ' + T(f.r ? 'leg_res' : 'leg_unres');
+    showPanel(`${nameOf(c)} · ${MODE[mode]}${st} · ${f.c}`, f.t, f.f.split('/').pop(), f.f);
   };
+  $('#allcol').onclick = ()=>{ $('#shots').classList.remove('picked'); $('#allcol').style.display='none'; };
+  $('#shots').onclick = e=>{
+    const s = e.target.closest('.shot'); if(!s) return;
+    if (s.classList.contains('on') && $('#shots').classList.contains('picked')){ $('#allcol').click(); return; }  // click again = show all
+    pick(+s.dataset.i);
+  };
+  if (legends) $('#legseg').onclick = e=>{ const b = e.target.closest('button'); if (!b || +b.dataset.r===state) return;
+    state = +b.dataset.r; const keepC = CARSEL.id===crdb ? CARSEL.c : null; closePanel(); renderShots();
+    const j = keepC ? files.findIndex(f=>f.r===state && f.c===keepC) : -1;   // same colour in the other state
+    if (j>=0) pick(j); else { CARSEL = {id:crdb, c:null, r:state}; autoPick(); } };
+  // a single colour (purple version, shop car...): chosen automatically -> setup and code shown at once
+  function autoPick(){ const v = visible(); if (v.length===1) pick(v[0][1], true); }
+  // same car as before (e.g. Stock -> Full): same colour (and same Legends state) again, else nothing selected
+  if (legends && CARSEL.id===crdb && CARSEL.c && (CARSEL.r===null || CARSEL.r===undefined)) state = 1;   // from Elite Max (restored)
+  renderShots();
+  let keep = -1;
+  if (CARSEL.id===crdb && CARSEL.c) keep = files.findIndex(f=>f.c===CARSEL.c && (!legends || f.r===state));
+  if (keep>=0) pick(keep);
+  else { closePanel(); CARSEL = {id:crdb, c:null, r:legends ? state : null}; autoPick(); }
   carsBar(mode, brand, c);
 }
 
