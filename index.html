@@ -103,7 +103,7 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:1px;color:var(--muted)
 .bd{font-size:11px;font-weight:700;padding:2px 7px;border-radius:20px;background:var(--bg2);color:var(--muted)}
 .bd.tier{color:#fff;border-radius:4px;font-weight:800;text-shadow:0 1px 1px rgba(0,0,0,.45)}
 .bd.t1{background:var(--t1)} .bd.t2{background:var(--t2)} .bd.t3{background:var(--t3)} .bd.t4{background:var(--t4)} .bd.t5{background:var(--t5)}
-.bd.tp{padding:0;background:none;display:inline-flex;align-items:center} .bd.tp img{height:18px;border-radius:4px;display:block}
+.bd.tp{padding:0;background:none;display:inline-flex;align-items:center} .bd.tp img{height:32px;display:block}   /* Tempest_icon.png (logo du jeu, fond transparent) */
 .ncnote{margin-top:8px;font-size:12px;color:var(--muted);border:1px dashed var(--line);border-radius:8px;padding:6px 8px}
 .bd.gold{color:var(--gold)} .bd.purple{color:var(--purple)} .bd.legend{color:var(--legend)} .bd.tnr{color:var(--tnr)} .bd.shop{color:var(--shop)}
 
@@ -435,7 +435,8 @@ function qtyValue(id){
 }
 function sortCars(list){
   const o = {gold:0,purple:1,legend:2,tnr:3,shop:4,other:5};
-  return list.sort((a,b)=>(o[a.s]??9)-(o[b.s]??9) || nameOf(a).localeCompare(nameOf(b)));
+  /* alphabetical order of the displayed name; same name (Gold / Purple version) -> star order */
+  return list.sort((a,b)=>nameOf(a).localeCompare(nameOf(b), undefined, {sensitivity:'base'}) || (o[a.s]??9)-(o[b.s]??9));
 }
 
 /* ------------------------------------------------------------------ side panel */
