@@ -1,0 +1,133 @@
+{
+      "unid": 8001,
+      "crdb": "Shelby_GT500_1967",
+      "grsp": [
+        3.794,
+        2.324,
+        1.624,
+        1.271,
+        1.0,
+        0.794
+      ],
+      "fidr": 2.44,
+      "apiid": 1842,
+      "oriid": 1842,
+      "apcid": 5,
+      "orcid": 5,
+      "aplid": 1437,
+      "orlid": 1437,
+      "aplzsid": 0,
+      "orlzsid": 0,
+      "apcn": [
+        "Shelby_GT500_1967_Wheel1A_3D"
+      ],
+      "opcn": "Shelby_GT500_1967_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.43,
+      "tthm": 16.054,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2795,
+      "inid": 1842,
+      "caid": 5,
+      "lzsid": 0,
+      "livid": 1437,
+      "whbn": "Wheel1A_3D"
+    }
