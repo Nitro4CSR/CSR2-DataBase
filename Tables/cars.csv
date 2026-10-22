@@ -387,6 +387,7 @@ Dodge_ChallengerSRTSuperStockReward_2021;Dodge;Challenger SRT Super Stock;Dodge 
 Dodge_ChallengerSRTSuperStockRewardRecycled_2021;Dodge;Challenger SRT Super Stock;Dodge Challenger SRT Super Stock;157;repository;repository;193;;;2022-02-03/2022-02-17;Duality Cups + Duality Evo Cups (220) | 90's REWIND: Legacy Lap (Duality Cup);155;confirmé
 Dodge_ChargerDaytona_1970;Dodge;Charger Daytona 'Demon' 1970;Dodge Charger Daytona 'Demon' 1970;;repository;;;;Flash Events (220);2024-08-01/2024-08-15;;220;saison
 Dodge_ChargerDaytonaF6_1970;Dodge;Charger Daytona;Dodge Charger Daytona;;repository;;;;;2020-07-09/2020-07-23;;114;version
+Dodge_ChargerDaytonaHalloween_1970;Dodge;Charger Daytona 'Demon' 1970 (Event);Dodge Charger Daytona 'Demon' 1970;;automatic;;;;;2026-10-08/2026-10-22;;277;version
 Dodge_ChargerDaytonaScatPack_2025;Dodge;Charger Daytona Scat Pack;Dodge Charger Daytona Scat Pack;;repository;;;;;2025-04-24/2025-05-08;Duality Cups + Duality Evo Cups (239);239;saison
 Dodge_ChargerHellcat_2020;Dodge;Charger SRT Hellcat;Dodge Charger SRT Hellcat;;repository;;;;American Road Trip 1 (114);2020-07-09/2020-07-23;;114;saison
 Dodge_ChargerHellcatDaytona50th_2020;Dodge;Charger SRT Hellcat 50th Anniversary Edition;Dodge Charger SRT Hellcat 50th Anniversary Edition;;repository;;;;American Road Trip 1 (114);2020-07-09/2020-07-23;;114;saison
@@ -547,6 +548,7 @@ Ford_MustangDarkHorse_2024;Ford;Mustang GT Dark Horse 2024;Ford Mustang GT Dark 
 Ford_MustangDarkHorseSCReward_2025;Ford;Mustang Dark Horse SC;Ford Mustang Dark Horse SC;271;repository;repository;;;;2026-07-16/2026-07-30;;271;saison
 Ford_MustangDarkHorseSCRewardRecycled_2025;Ford;Mustang Dark Horse SC;Ford Mustang Dark Horse SC;271;repository;repository;;;;2026-07-16/2026-07-30;;271;saison
 Ford_MustangF3_1967;Ford;Mustang Fastback;Ford Mustang Fastback;;repository;;;;;2020-10-15/2020-10-29;;121;version
+Ford_MustangFastbackF6_1969;Ford;Roman's Ford Mustang Fastback 'Anvil';Roman's Ford Mustang Fastback 'Anvil';;automatic;;;;;2026-10-08/2026-10-22;;277;version
 Ford_MustangFoxbodyF9_1987;Ford;Mustang Fox Body;Ford Mustang Fox Body;;repository;;;;;2022-02-03/2022-02-17;;155;version
 Ford_MustangGT350F9_2016;Ford;Mustang GT350;Ford Mustang GT350;;repository;;;;;2022-03-03/2022-03-17;;157;version
 Ford_MustangGT_2024;Ford;Mustang GT 2024;Ford Mustang GT 2024;;repository;;;;Anniversary Events (191);2023-06-22/2023-07-06;;191;saison
@@ -568,6 +570,7 @@ Ford_MustangRTRSPEC5_2019;Ford;RTR Spec 5 Mustang '10th Anniversary Edition';For
 Ford_MustangShelbyGT350LPClassic_1965;Ford;Mustang Shelby GT350;Ford Mustang Shelby GT350;;repository;;;;;2025-04-24/2025-05-08;Legends / Legends: Revival / Legends: Legacy;239;version
 Ford_MustangShelbyGT500Reward_2019;Ford;Shelby GT500;Ford Shelby GT500;082;repository;repository;;;Trinity Cups (115);2019-04-18/2019-05-02;;082;saison
 Ford_MustangShelbyGT500RewardRecycled_2019;Ford;Shelby GT500;Ford Shelby GT500;082;repository;repository;;;Trinity Cups (115);2019-04-18/2019-05-02;;082;saison
+Ford_MustangSVTCobraR_2000;Ford;Mustang SVT Cobra R (Event);Ford Mustang SVT Cobra R;;automatic;;;;;2026-10-08/2026-10-22;;277;version
 Ford_MustangSVTCobraRLPClassic_1993;Ford;Mustang SVT Cobra R;Ford Mustang SVT Cobra R;;repository;;;;;2026-02-26/2026-03-12;Legends / Legends: Revival / Legends: Legacy;261;version
 Ford_RadRidesTroyRoadster_1936;Ford;Rad Rides by Troy Roadster 'Fenderless';Ford Rad Rides by Troy Roadster 'Fenderless';;repository;;;;;2026-07-30/2026-08-13;;272;version
 Ford_RingbrothersMustang_1969;Ford;Ringbrothers Mustang Mach 1 'Kingpin';Ford Ringbrothers Mustang Mach 1 'Kingpin';;repository;;;;American Road Trip 6 (270);2026-07-02/2026-07-16;Duality Cups + Duality Evo Cups (270);270;saison
@@ -598,6 +601,8 @@ Hennessey_VenomF5_2020;Hennessey;Venom F5 'Concept';Hennessey Venom F5 ''Concept
 Hennessey_VenomF5_2021;Hennessey;Venom F5 2021;Hennessey Venom F5 2021;;repository;;;;American Road Trip 2 (167);2022-07-21/2022-08-04;Duality Cups + Duality Evo Cups (245);167;saison
 Hennessey_VenomF5Gold_2020;Hennessey;Venom F5 'Concept';Hennessey Venom F5 ''Concept'';;repository;;;;Trinity Cups (116) | American Road Trip 1 (116) | Flash Events (117);2020-08-06/2020-08-20;Duality Cups + Duality Evo Cups (150) | Duality Cups + Duality Evo Cups (245);116;saison
 Hennessey_VenomF5Revolution_2023;Hennessey;Venom F5 Revolution;Hennessey Venom F5 Revolution;;repository;;;;Hypercar: Crucible (259);2026-01-29/2026-02-12;;259;saison
+Hennessey_VenomF5RevRReward_2025;Hennessey;Venom F5 Revolution Roadster;Hennessey Venom F5 Revolution Roadster;279;automatic;cdn;;;;2026-11-05/2026-11-19;;279;saison
+Hennessey_VenomF5RevRRewardRecycled_2025;Hennessey;Venom F5 Revolution Roadster;Hennessey Venom F5 Revolution Roadster;279;automatic;cdn;;;;2026-11-05/2026-11-19;;279;saison
 Hennessey_VenomF5RoadsterReward_2023;Hennessey;Venom F5 Roadster;Hennessey Venom F5 Roadster;196;repository;repository;;;;2023-08-31/2023-09-14;;196;saison
 Hennessey_VenomF5RoadsterRewardRecycled_2023;Hennessey;Venom F5 Roadster;Hennessey Venom F5 Roadster;196;repository;repository;207;;;2023-08-31/2023-09-14;;196;saison
 Hennessey_VenomGT_2012;Hennessey;Venom GT;Hennessey Venom GT;;repository;;;;;2016-06-16/2016-06-30;;008;version
@@ -791,6 +796,8 @@ Lamborghini_Veneno_2013;Lamborghini;Veneno;Lamborghini Veneno;;repository;;;;For
 Lamborghini_VenenoGold_2013;Lamborghini;Veneno;Lamborghini Veneno;;repository;;;;;2022-12-08/2022-12-22;Duality Cups + Duality Evo Cups (177);177;saison
 Lamborghini_VenenoRoadster_2014;Lamborghini;Veneno Roadster;Lamborghini Veneno Roadster;;repository;;;;European Series (147,148) | Trinity Cups (147);2020-08-20/2020-09-03;;117;version
 Lamborghini_VenenoRoadsterGold_2014;Lamborghini;Veneno Roadster;Lamborghini Veneno Roadster;;repository;;;;European Series (147,148) | Trinity Cups (147);2021-10-14/2021-10-28;;147;saison
+Lamborghini_ZacoeTemerarioReward_2024;Lamborghini;Zacoe Temerario;Zacoe Lamborghini Temerario;280;automatic;cdn;;;;2026-11-19/2026-12-03;;280;saison
+Lamborghini_ZacoeTemerarioRewardRecycled_2024;Lamborghini;Zacoe Temerario;Zacoe Lamborghini Temerario;280;automatic;cdn;;;;2026-11-19/2026-12-03;;280;saison
 Lancia_DeltaHFIntegraleEvo2_1994;Lancia;Delta HF Integrale Evo 2;Lancia Delta HF Integrale Evo 2;;repository;;;;90s Rewind (219);2024-07-18/2024-08-01;;219;saison
 Landrover_RangeRoverEvoqueCoupeCrew_2016;Land Rover;Shana's Land Rover Range Rover Evoque;Shana's Land Rover Range Rover Evoque;;repository;;;;;2016-12-15/2016-12-29;;021;version
 Landrover_RangeRoverEvoqueCoupeCrewRecycled_2016;Land Rover;Range Rover Evoque;Land Rover Range Rover Evoque;;repository;;;;;2016-12-15/2016-12-29;;021;version
@@ -978,6 +985,7 @@ Nissan_KRCJapanGTRR35Reward_2017;Nissan;KRC-Japan (R35) GT-R;Nissan KRC-Japan (R
 Nissan_KRCJapanGTRR35RewardRecycled_2017;Nissan;KRC-Japan (R35) GT-R;Nissan KRC-Japan (R35) GT-R;192;repository;repository;211;;;2023-07-06/2023-07-20;;192;saison
 Nissan_LBER34Skyline_2002;Nissan;LB Super Silhouette Skyline GT-R (BNR34);Nissan LB Super Silhouette Skyline GT-R (BNR34);;repository;;;;;2026-01-01/2026-01-15;Duality Cups + Duality Evo Cups (257);257;saison
 Nissan_LBGTRType2_2017;Nissan;Gt-R (R35) (LB-Works Type-2) 2017;Nissan Gt-R (R35);;repository;;;;Lunar New Year Events (155);2022-02-03/2022-02-17;;155;saison
+Nissan_LBSkylineR32_1993;Nissan;LB-KAIDO Works Skyline GT-R (R32);LB-KAIDO Works Nissan Skyline GT-R (R32);;automatic;;;;;2026-10-08/2026-10-22;;277;version
 Nissan_LBSuperSilhouetteSilviaS15_1999;Nissan;LB Super Silhouette Silvia (S15);Nissan LB Super Silhouette Silvia (S15);;repository;;;;;2022-06-09/2022-06-23;;164;version
 Nissan_PandeMGTRR33Reward_1995;Nissan;Skyline (BCNR33) GT-R;Nissan Skyline (BCNR33) GT-R;186;repository;repository;;;;2023-04-13/2023-04-27;;186;saison
 Nissan_PandeMGTRR33RewardRecycled_1995;Nissan;Skyline (BCNR33) GT-R;Nissan Skyline (BCNR33) GT-R;186;repository;repository;218;;;2023-04-13/2023-04-27;;186;saison
@@ -1180,6 +1188,7 @@ SCG_SCG004CReward_2019;SCG;004C;SCG 004C;080,258;repository;repository;;;;2019-0
 SCG_SCG004CRewardRecycled_2019;SCG;004C;SCG 004C;080,258;repository;repository;;;;2019-03-21/2019-04-04;Duality Cups + Duality Evo Cups (138);080;saison
 Shelby_Cobra427SCClassic_1965;Shelby;Cobra 427 SC;Shelby Cobra 427 SC;;repository;;;;European Series (143,144,145,146,148);2018-11-01/2018-11-15;Legends / Legends: Revival / Legends: Legacy;070;version
 Shelby_CobraDaytonaLP_1964;Shelby;Cobra Daytona Coupe;Shelby Cobra Daytona Coupe;;repository;;;;;2025-04-24/2025-05-08;Legends / Legends: Revival / Legends: Legacy;239;version
+Shelby_GT500_1967;Shelby;GT500;Shelby GT500;;automatic;;;;;2026-10-08/2026-10-22;;277;version
 Shelby_MustangSuperSnakeR_2025;Shelby;Super Snake R;Shelby Super Snake R;;repository;;;;;2026-06-04/2026-06-18;Duality Cups + Duality Evo Cups (268);268;saison
 Shelby_SuperSnakeReward_2019;Shelby;Super Snake (2019);Shelby Super Snake;088,133;repository;repository;;;American Road Trip 1 (118) | European Series (143,144,145,146,148);2019-07-11/2019-07-25;Golden Cup (105) | Duality Cups + Duality Evo Cups (118) | Made In America;088;saison
 Shelby_SuperSnakeRewardRecycled_2019;Shelby;Super Snake (2019);Shelby Super Snake;088,133;repository;repository;;;American Road Trip 1 (118) | European Series (143,144,145,146,148);2019-07-11/2019-07-25;Golden Cup (105) | Duality Cups + Duality Evo Cups (118) | Made In America;088;saison
@@ -1226,6 +1235,7 @@ Toyota_SupraMK4TNR_1994;Toyota;Supra MK4 (TNR);Toyota Supra MK4 (TNR);;repositor
 Toyota_SupraMKIVF1_1994;Toyota;Supra Aerotop;Toyota Supra Aerotop;;repository;;;;;2019-06-13/2019-06-27;;086;version
 Toyota_SupraMKIVF7_1995;Toyota;Supra Mk. IV;Toyota Supra Mk. IV;;repository;;;;;2026-07-02/2026-07-16;;270;version
 Toyota_SupraMKIVVaris_1994;Toyota;Noro's Toyota VARIS Supra;Noro's Toyota VARIS Supra;;repository;;;;;2020-12-10/2020-12-24;;125;version
+TVR_CerberaSpeed12_1996;TVR;Cerbera Speed 12;TVR Cerbera Speed 12;;automatic;;;;;2026-10-08/2026-10-22;;277;version
 TVR_GriffithReward_2019;TVR;Griffith;TVR Griffith;109;repository;repository;;;;2020-04-30/2020-05-14;;109;saison
 TVR_GriffithRewardRecycled_2019;TVR;Griffith;TVR Griffith;109;repository;repository;124;;;2020-04-30/2020-05-14;;109;saison
 TVR_Sagaris_2006;TVR;Sagaris (Event);TVR Sagaris;;repository;;;;Best of British and British Legends Cup (101);2020-01-09/2020-01-23;;101;saison

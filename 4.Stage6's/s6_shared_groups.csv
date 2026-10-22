@@ -304,9 +304,9 @@ Ferrari_296GTB_2022;103
 Ferrari_296GTBAssettoFiorano_2022;103
 Ferrari_296GTSReward_2023;103
 Ferrari_296GTSRewardRecycled_2023;103
-Ferrari_296SpecialeA_2026;296
-Ferrari_296SpecialeReward_2026;296
-Ferrari_296SpecialeRewardRecycled_2026;296
+Ferrari_296SpecialeA_2026;298
+Ferrari_296SpecialeReward_2026;298
+Ferrari_296SpecialeRewardRecycled_2026;298
 Ferrari_488PistaReward_2019;104
 Ferrari_488PistaRewardRecycled_2019;104
 Ferrari_488PistaSpiderReward_2019;104
@@ -401,6 +401,8 @@ Hennessey_VenomF5_2020;140
 Hennessey_VenomF5_2021;140
 Hennessey_VenomF5Gold_2020;140
 Hennessey_VenomF5Revolution_2023;140
+Hennessey_VenomF5RevRReward_2025;297
+Hennessey_VenomF5RevRRewardRecycled_2025;297
 Hennessey_VenomF5RoadsterReward_2023;140
 Hennessey_VenomF5RoadsterRewardRecycled_2023;140
 Hennessey_VenomGT_2012;141
@@ -542,6 +544,8 @@ Lamborghini_Veneno_2013;183
 Lamborghini_VenenoGold_2013;183
 Lamborghini_VenenoRoadster_2014;183
 Lamborghini_VenenoRoadsterGold_2014;183
+Lamborghini_ZacoeTemerarioReward_2024;176
+Lamborghini_ZacoeTemerarioRewardRecycled_2024;176
 Landrover_RangeRoverEvoqueCoupeCrew_2016;184
 Landrover_RangeRoverEvoqueCoupeCrewRecycled_2016;184
 Lexus_LC500ConvertibleReward_2017;185

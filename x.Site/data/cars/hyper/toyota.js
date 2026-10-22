@@ -1,0 +1,1 @@
+CSR.put("cars/hyper/toyota",{"Toyota_GRSupraTNR_2020":[{"c":"RenaissanceRed20","f":"1.Cars/4.Hypermod/4.TNR/Toyota/GR Supra (TNR)/Toyota GR Supra (TNR) (RenaissanceRed20).txt","i":"1.Cars/3.Elite Max/4.TNR/Toyota/GR Supra (TNR)/Toyota GR Supra (TNR) (RenaissanceRed20).jpg","p":[39,57,54]}]});

@@ -1,0 +1,143 @@
+{
+      "unid": 1686,
+      "crdb": "Dodge_ChargerDaytonaHalloween_1970",
+      "grsp": [
+        2.65,
+        1.93,
+        1.39,
+        1.0
+      ],
+      "fidr": 2.8,
+      "apiid": 439,
+      "oriid": 439,
+      "aplid": 1249,
+      "orlid": 1249,
+      "apcid": 0,
+      "orcid": 0,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Dodge_ChargerDaytonaHalloween_1970_Wheel1A_3D"
+      ],
+      "opcn": "Dodge_ChargerDaytonaHalloween_1970_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ctie": "TIER_5",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2279,
+      "inid": 439,
+      "caid": 0,
+      "lzsid": 9,
+      "livid": 1249,
+      "whbn": "Wheel1A_3D"
+    }

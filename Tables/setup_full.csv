@@ -1223,7 +1223,7 @@
 1223;SSC_UltimateAeroTT_2009;TIER_5;2.0;1.0;0.0;713;2572;Prize
 1224;Subaru_BRZF8_2013;TIER_3;2.56;1.0;0.0;580;777;IAPSpecial
 1225;Subaru_BRZRocketBunny_2013;TIER_3;2.6;0.99;0.0;580;664;Gacha
-1226;Subaru_BRZRocketBunnyVIP_2013;TIER_3;2.61;0.99;0.0;580;677;Gacha
+1226;Subaru_BRZRocketBunnyVIP_2013;TIER_3;2.61;0.99;0.0;580;677;Prize
 1227;Subaru_BRZtSReward_2024;TIER_3;2.0;1.0;0.0;581;917;IAPSpecial
 1228;Subaru_BRZtSRewardRecycled_2024;TIER_3;2.0;1.0;0.0;581;899;Gacha
 1229;Subaru_BRZtSTNR_2020;TIER_5;3.36;0.89;0.0;713;1162;IAPSpecial
@@ -1293,3 +1293,13 @@
 1293;Zenvo_TSRS_2019;TIER_5;2.0;1.0;0.52;714;2278;Prize
 1294;Zenvo_TSRS_2020;TIER_5;2.11;1.0;0.0;714;2278;IAPSpecial
 1295;Zenvo_TSRSGold_2020;TIER_5;2.06;1.0;0.0;713;2306;Prize
+1296;Ford_MustangFastbackF6_1969;TIER_5;2.0;1.0;0.0;713;2464;IAPSpecial
+1297;Ford_MustangSVTCobraR_2000;TIER_5;2.0;1.0;0.0;713;2317;Prize
+1298;Hennessey_VenomF5RevRRewardRecycled_2025;TIER_5;2.0;1.0;0.0;713;2300;Gacha
+1299;Hennessey_VenomF5RevRReward_2025;TIER_5;2.0;1.0;0.0;713;2326;Prize
+1300;Lamborghini_ZacoeTemerarioRewardRecycled_2024;TIER_5;2.0;1.0;0.0;713;2404;Gacha
+1301;Lamborghini_ZacoeTemerarioReward_2024;TIER_5;2.0;1.0;0.0;713;2434;Prize
+1302;Nissan_LBSkylineR32_1993;TIER_5;2.0;1.0;0.0;713;2505;Prize
+1303;TVR_CerberaSpeed12_1996;TIER_5;2.0;1.0;0.0;713;2643;IAPSpecial
+1304;Dodge_ChargerDaytonaHalloween_1970;TIER_5;2.0;1.0;0.0;713;2518;Prize
+1305;Shelby_GT500_1967;TIER_5;2.0;1.0;0.0;713;2505;IAPSpecial

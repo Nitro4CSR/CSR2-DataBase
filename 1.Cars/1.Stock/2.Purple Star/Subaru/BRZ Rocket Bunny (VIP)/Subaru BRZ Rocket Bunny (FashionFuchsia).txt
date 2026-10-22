@@ -1,0 +1,147 @@
+{
+      "unid": 5687,
+      "crdb": "Subaru_BRZRocketBunnyVIP_2013",
+      "grsp": [
+        3.626,
+        2.188,
+        1.541,
+        1.213,
+        1.0,
+        0.767
+      ],
+      "fidr": 4.1,
+      "apiid": 1243,
+      "oriid": 1243,
+      "apcid": 205,
+      "orcid": 205,
+      "aplid": 1063,
+      "orlid": 1063,
+      "aplzsid": 0,
+      "orlzsid": 0,
+      "apcn": [
+        "Subaru_BRZRocketBunnyVIP_2013_Wheel1A_3D"
+      ],
+      "opcn": "Subaru_BRZRocketBunnyVIP_2013_Wheel1A_3D",
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 401,
+      "ttqm": 12.687,
+      "tthm": 20.011,
+      "ctie": "TIER_3",
+      "csrc": "Prize",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1705,
+      "inid": 1243,
+      "caid": 205,
+      "lzsid": 0,
+      "livid": 1063,
+      "whbn": "Wheel1A_3D"
+    }

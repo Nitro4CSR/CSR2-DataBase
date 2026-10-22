@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>CSR2 DataBase</title>
+<title>CSR2 DataBase from Nitro4CSR</title>
 <style>
 :root{
   --bg:#0e1014; --bg2:#151820; --card:#1b1f29; --card2:#222735; --line:#2c3243;
@@ -211,7 +211,7 @@ main{container-type:inline-size}
 </head>
 <body>
 <header>
-  <div class="logo" onclick="go('#/')">CSR2 <span>DataBase</span><span class="proto">PROTOTYPE</span></div>
+  <div class="logo" onclick="go('#/')">CSR2 <span>DataBase</span> <span>from</span> <span>Nitro4CSR</span><span class="proto">PROTOTYPE</span></div>
   <nav id="nav">
     <a href="#/cars" data-s="cars">Cars</a>
     <a href="#/fusions" data-s="fusions">Fusions</a>
@@ -232,6 +232,8 @@ main{container-type:inline-size}
       <div class="t" id="pt">—</div>
       <button class="btn sm" id="pcopy">Copy</button>
       <button class="btn sm" id="pdl">Download</button>
+      <a class="btn sm" id="pgh" target="_blank" rel="noopener" style="display:none"></a>
+      <a class="btn sm" id="pdir" target="_blank" rel="noopener" style="display:none"></a>
       <button class="btn sm" id="pclose" title="Close">✕</button>
       <div class="sub" id="psub"></div>
     </div>
@@ -280,6 +282,9 @@ const I18N = {
  no_car_found:['No car found','Aucune voiture trouvée','Kein Auto gefunden','Ningún coche encontrado','Nenhum carro encontrado'],
  copy:['Copy','Copier','Kopieren','Copiar','Copiar'],
  download:['Download','Télécharger','Herunterladen','Descargar','Baixar'],
+ open_gh:['Open on GitHub','Ouvrir sur GitHub','Auf GitHub öffnen','Abrir en GitHub','Abrir no GitHub'],
+ open_file:['Open file','Ouvrir le fichier','Datei öffnen','Abrir archivo','Abrir arquivo'],
+ open_dir:['Folder','Dossier','Ordner','Carpeta','Pasta'],
  close:['Close','Fermer','Schließen','Cerrar','Fechar'],
  copied:['Copied','Copié','Kopiert','Copiado','Copiado'],
  lines:['{0} lines · {1} KB','{0} lignes · {1} Ko','{0} Zeilen · {1} KB','{0} líneas · {1} KB','{0} linhas · {1} KB'],
@@ -319,6 +324,7 @@ const I18N = {
  seasons:['Seasons {0}','Saisons {0}','Saisons {0}','Temporadas {0}','Temporadas {0}'],
  beta:['beta','béta','Beta','beta','beta'],
  tempest:['Tempest Boss car','Voiture de Boss Tempest','Tempest-Boss-Auto','Coche de jefe Tempest','Carro de chefe Tempest'],
+ nu_note:['Car of a recent update: no code on the site for now.','Voiture d\'une mise à jour récente : pas de code sur le site pour le moment.','Auto aus einem neuen Update: vorerst kein Code auf der Seite.','Coche de una actualización reciente: sin código en el sitio por ahora.','Carro de uma atualização recente: sem código no site por enquanto.'],
  nc_note:['Boss car not available to the players: no code for this car.','Voiture de Boss non disponible pour les joueurs : pas de code pour cette voiture.','Boss-Auto für Spieler nicht verfügbar: kein Code für dieses Auto.','Coche de jefe no disponible para los jugadores: sin código para este coche.','Carro de chefe não disponível para os jogadores: sem código para este carro.'],
  game_version:['Game version {0}','Version du jeu {0}','Spielversion {0}','Versión del juego {0}','Versão do jogo {0}'],
  file_note:['Local file: the browser does not let the page read the .txt. To test, run « python3 -m http.server 8000 » in the repository folder and open http://localhost:8000 (on GitHub the code is shown normally).',"Fichier local : le navigateur interdit à la page de lire le .txt. Pour tester, lancer « python3 -m http.server 8000 » dans le dossier du dépôt et ouvrir http://localhost:8000 (sur GitHub le code s'affiche normalement).",'Lokale Datei: Der Browser erlaubt das Lesen der .txt nicht. Zum Testen « python3 -m http.server 8000 » im Repository-Ordner starten und http://localhost:8000 öffnen.','Archivo local: el navegador no deja leer el .txt. Para probar, ejecuta « python3 -m http.server 8000 » en la carpeta del repositorio y abre http://localhost:8000.','Arquivo local: o navegador não deixa ler o .txt. Para testar, execute « python3 -m http.server 8000 » na pasta do repositório e abra http://localhost:8000.'],
@@ -326,6 +332,8 @@ const I18N = {
  fus_max:['Fusions · Elite Max','Fusions · Elite Max','Fusionen · Elite Max','Fusiones · Elite Max','Fusões · Elite Max'],
  tok_elite:['Elite tokens','Jetons Elite','Elite-Token','Fichas Elite','Fichas Elite'],
  tok_legends:['Legends tokens','Jetons Legends','Legends-Token','Fichas Legends','Fichas Legends'],
+ hm_full:['Hyper Mods: parts to go full','Hyper Mods : pièces pour être full','Hyper Mods: Teile bis Full','Hyper Mods: piezas para full','Hyper Mods: peças para o full'],
+ hm_tokens:['Mechanic tokens','Jetons de mécanicien','Mechaniker-Token','Fichas de mecánico','Fichas de mecânico'],
  all_colours:['Show all colours ({0})','Afficher toutes les couleurs ({0})','Alle Farben zeigen ({0})','Ver todos los colores ({0})','Ver todas as cores ({0})'],
  fus_stock:['Fusion parts to reach Full','Pièces de fusion pour passer Full','Fusionsteile bis Full','Piezas de fusión hasta Full','Peças de fusão até o Full'],
  fus_slots:['Fusion parts · {0}','Pièces de fusion · {0}','Fusionsteile · {0}','Piezas de fusión · {0}','Peças de fusão · {0}'],
@@ -409,8 +417,8 @@ function nameOf(c, kind='M'){
   return String(v).trim();
 }
 const STAR = {gold:'Gold', purple:'Purple', legend:'Legends', tnr:'TNR', shop:'Shop', other:'Other'};
-const MODE = {stock:'Stock', full:'Full', max:'Max'};
-const MODE_SUB = {stock:'1.Stock', full:'2.Maxed', max:'3.Elite Max'};
+const MODE = {stock:'Stock', full:'Full', max:'Max', hyper:'Hyper Mods'};
+const MODE_SUB = {stock:'1.Stock', full:'2.Maxed', max:'3.Elite Max', hyper:'4.Hypermod'};
 function badges(c){
   let h = '';
   if (c.s) h += `<span class="bd ${c.s}">${STAR[c.s]||c.s}</span>`;
@@ -441,8 +449,23 @@ function sortCars(list){
 
 /* ------------------------------------------------------------------ side panel */
 let PANEL = {text:'', file:'output.txt'};
-function showPanel(title, text, file, sub='', note=''){
+/* links to the file shown (request of 2026-10-16): on the web, the file / folder on GitHub (branch main);
+   in a local clone opened in the browser (file://), the file / folder on the disk (index.html is at the root) */
+const REPO_URL = 'https://github.com/Nitro4CSR/CSR2-DataBase', REPO_BRANCH = 'restructuration';
+function repoLinks(path){
+  const gh = $('#pgh'), dir = $('#pdir');
+  const local = location.protocol === 'file:';
+  if (!path || (local && window.SITE !== 'x.Site/')){ gh.style.display = dir.style.display = 'none'; return; }
+  const enc = p => p.split('/').map(encodeURIComponent).join('/');
+  const folder = path.split('/').slice(0, -1).join('/');
+  gh.href = local ? enc(path) : `${REPO_URL}/blob/${REPO_BRANCH}/${enc(path)}`;
+  dir.href = local ? enc(folder) + '/' : `${REPO_URL}/tree/${REPO_BRANCH}/${enc(folder)}`;
+  gh.textContent = T(local ? 'open_file' : 'open_gh'); dir.textContent = T('open_dir');
+  gh.title = dir.title = path; gh.style.display = dir.style.display = '';
+}
+function showPanel(title, text, file, sub='', note='', path=''){
   PANEL = {text, file};
+  repoLinks(path);
   $('#pt').textContent = title; $('#psub').textContent = sub || T('lines', num(text.split('\n').length), (text.length/1024).toFixed(1));
   $('#pre').textContent = text;
   $('#pnote').style.display = note ? '' : 'none'; $('#pnote').textContent = note;
@@ -599,6 +622,10 @@ function tokenCards(c){                        // Legends first (the car is rest
   let h = '';
   if (c.tl) h += `<div class="card"><div class="k">${T('tok_legends')}</div><div class="v"><span class="ico">${icon('tok_legends', T('tok_legends'))}${num(c.tl)}</span></div></div>`;
   if (c.te) h += `<div class="card"><div class="k">${T('tok_elite')}</div><div class="v toks">${['green','blue','red','gold'].map((k,i)=>c.te[i]?`<span class="ico" title="${esc(T('t_'+k))}">${icon('tok_'+k, T('t_'+k))}${num(c.te[i])}</span>`:'').join('')}</div></div>`;
+  if (c.hm){                                    // Hyper Mods: every mod crafted then levelled up to its max level
+    const lab = k=>k.replace(/_/g,' ').replace(/^./,x=>x.toUpperCase());
+    h += `<div class="card"><div class="k">${T('hm_full')}</div><div class="v toks">${(c.hm.m||[]).map(([k,n])=>`<span class="ico" title="${esc(lab(k))}">${icon('hm_'+k, lab(k))}${num(n)}</span>`).join('')}${c.hm.t?`<span class="ico" title="${esc(T('hm_tokens'))}">${icon('hm_token', T('hm_tokens'))}${num(c.hm.t)}</span>`:''}${c.hm.g?`<span class="ico" title="Gold">🪙${num(c.hm.g)}</span>`:''}</div></div>`;
+  }
   return h ? `<div class="tokcol">${h}</div>` : '';
 }
 // fusion card: Stock = parts to reach Full + in-game capture; Full / Max = parts of that version, no image
@@ -642,7 +669,7 @@ async function pageCar(mode, brand, crdb){
       <div class="idcol"><div class="idbox t${esc(tier)}">${thumb(c)}<div class="who"><h1>${esc(nameOf(c))}</h1>
           <div class="alt">${esc((names.L||'').trim())}${names.S&&names.S!==names.M?' · '+esc(names.S.trim()):''}</div>
           <div class="row" style="margin-top:6px"><code>${esc(crdb)}</code>${badges(c)}</div>
-          ${c.nc?`<div class="ncnote">${esc(T('nc_note'))}</div>`:''}
+          ${c.nc?`<div class="ncnote">${esc(T(c.nu?'nu_note':'nc_note'))}</div>`:''}
           ${other.length?`<div class="row" style="margin-top:8px">${other.map(m=>`<a class="btn sm" href="#/cars/${m}/${brand}/${crdb}">${T('show', MODE[m])}</a>`).join('')}</div>`:''}
         </div></div>${historyCard(c)}</div>
       <div id="fusbox"></div>${tokenCards(c)}<div id="setupbox"></div>
@@ -675,17 +702,17 @@ async function pageCar(mode, brand, crdb){
     const n = visible().length;
     shots.classList.toggle('picked', n>1); $('#allcol').style.display = n>1 ? '' : 'none';
     CARSEL = {id:crdb, c:f.c, r:f.r!==undefined ? f.r : null}; fus(f); $('#setupbox').innerHTML = setupCard(c, mode);
-    if (c.nc || !f.f){ closePanel(); if (!auto) toast(T('nc_note')); return; }   // Boss without code on the site
+    if (c.nc || !f.f){ closePanel(); if (!auto) toast(T(c.nu?'nu_note':'nc_note')); return; }   // Boss/Excluded or Update: no code on the site
     const my = ++token;
     if (f.t === undefined){                    // repository version: the .txt is read from the repository itself
       try { const r = await fetch(u(f.f)); if(!r.ok) throw new Error(r.status); f.t = await r.text(); }
       catch(err){                              // file:// : the browser refuses to read the .txt (local test)
-        if (location.protocol === 'file:'){ if (my === token) showPanel(`${nameOf(c)} · ${MODE[mode]} · ${f.c}`, '', f.f.split('/').pop(), f.f, T('file_note')); return; }
+        if (location.protocol === 'file:'){ if (my === token) showPanel(`${nameOf(c)} · ${MODE[mode]} · ${f.c}`, '', f.f.split('/').pop(), f.f, T('file_note'), f.f); return; }
         toast('⚠ '+f.f.split('/').pop()); return; }
     }
     if (my !== token) return;                  // another colour was chosen meanwhile
     const st = f.r===undefined ? '' : ' · ' + T(f.r ? 'leg_res' : 'leg_unres');
-    showPanel(`${nameOf(c)} · ${MODE[mode]}${st} · ${f.c}`, f.t, f.f.split('/').pop(), f.f);
+    showPanel(`${nameOf(c)} · ${MODE[mode]}${st} · ${f.c}`, f.t, f.f.split('/').pop(), f.f, '', f.f);
   };
   $('#allcol').onclick = ()=>{ $('#shots').classList.remove('picked'); $('#allcol').style.display='none'; };
   $('#shots').onclick = e=>{
@@ -725,7 +752,7 @@ async function pageFusions(){
     const q = qtyValue('#fq'); if(q===null) return; store.set('fq', q);
     if (fusMode==='one'){
       if(!fusSel){ toast(T('t_brand')); return; }
-      showPanel(`Fusions · ${F[fusSel].n} · ×${q}`, F[fusSel].t.replace(/"AMOUNT"/g, q), `${F[fusSel].n} fusions x${q}.txt`);
+      showPanel(`Fusions · ${F[fusSel].n} · ×${q}`, F[fusSel].t.replace(/"AMOUNT"/g, q), `${F[fusSel].n} fusions x${q}.txt`, '', '', `3.Fusions/${F[fusSel].n}.txt`);
     } else {
       const parts = keys.map(k=>inner(F[k].t,'caup').replace(/"AMOUNT"/g, q));
       showPanel(`${T('nav_fus')} · ${T('all_brands')} · ×${q}`, '{\n  "caup": [\n' + parts.join(',\n') + '\n  ]\n}', `All fusions x${q}.txt`, T('fus_hint_all', keys.length));
@@ -797,11 +824,11 @@ let giftSel = new Set(), giftOpt = {}, restoView = false, restoSel = new Set();
 async function pageGifts(){
   setNav('gifts'); bar(''); const G = (await load('gifts'));
   if (restoView) return pageResto(G);
-  const icons = {cash:'💵',gold:'🪙',keys:'🔑',ect:'🎟️',fuel:'⛽',wildcard:'🃏',crewrp:'👥',collections:'📚'};
+  const icons = {cash:'💵',gold:'🪙',keys:'🔑',ect:'🎟️',fuel:'⛽',wildcard:'🃏',crewrp:'👥',collections:'📚',hypermods:'🔧'};
   $('#main').innerHTML = `<h1>${T('nav_gift')}</h1><p class="lead">${T('gift_lead')}</p>
     <div class="tiles" id="gt">${Object.entries(G.gifts).map(([k,g])=>`<div class="tile ${giftSel.has(k)?'on':''}" data-k="${k}"><span class="chk">✓</span>
-      <div class="ic">${icons[k]||'🎁'}</div><b>${esc(I18N['g_'+k]?T('g_'+k):g.n)}</b><small>${g.opts.length>1?T('ntypes', g.opts.length):'&nbsp;'}</small>
-      ${g.opts.length>1&&giftSel.has(k)?`<div class="sub-opts">${g.opts.map((o,i)=>`<label onclick="event.stopPropagation()"><input type="checkbox" data-k="${k}" data-i="${i}" ${(giftOpt[k]||[0]).includes(i)?'checked':''}>${esc(o.n)}</label>`).join('')}</div>`:''}
+      <div class="ic">${g.img?`<img src="${esc(u(window.SITE+g.img))}" alt="" style="height:34px" onerror="this.style.display='none'">`:(icons[k]||'🎁')}</div><b>${esc(I18N['g_'+k]?T('g_'+k):g.n)}</b><small>${g.opts.length>1?T('ntypes', g.opts.length):'&nbsp;'}</small>
+      ${g.opts.length>1&&giftSel.has(k)?`<div class="sub-opts">${g.opts.map((o,i)=>`<label onclick="event.stopPropagation()"><input type="checkbox" data-k="${k}" data-i="${i}" ${(giftOpt[k]||[0]).includes(i)?'checked':''}>${o.img?`<img src="${esc(u(window.SITE+o.img))}" alt="" style="height:20px" onerror="this.style.display='none'">`:''}${esc(o.n)}</label>`).join('')}</div>`:''}
     </div>`).join('')}
       <div class="tile" id="rt"><div class="ic">🛠️</div><b>${T('resto')}</b><small>${T('resto_sub')}</small></div></div>
     <h2>${T('quantity')}</h2><div class="row qty"><input id="gq" type="number" min="1" placeholder="${T('eg',num(1000000))}" value="${esc(store.get('gq',''))}">
