@@ -1,0 +1,11 @@
+﻿rarity;max_slots;default_unlocked;unlock_cost_type;unlock_costs;remove_cost;remove_cost_type
+gold_1;4;1;19 (mm_token);[0,3,3,3];900;2 (gold)
+gold_2;4;1;19 (mm_token);[0,3,3,3];900;2 (gold)
+gold_3;4;2;19 (mm_token);[0,3,3,3];900;2 (gold)
+gold_4;4;2;19 (mm_token);[0,3,3,3];900;2 (gold)
+gold_5;4;3;19 (mm_token);[0,3,3,3];900;2 (gold)
+purple_1;7;3;19 (mm_token);[0,3,3,3,3,3,3];900;2 (gold)
+purple_2;7;4;19 (mm_token);[0,3,3,3,3,3,3];900;2 (gold)
+purple_3;7;4;19 (mm_token);[0,3,3,3,3,3,3];900;2 (gold)
+purple_4;7;5;19 (mm_token);[0,3,3,3,3,3,3];900;2 (gold)
+purple_5;7;5;19 (mm_token);[0,3,3,3,3,3,3];900;2 (gold)
