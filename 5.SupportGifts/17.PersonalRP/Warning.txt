@@ -1,3 +1,1 @@
-The chosen currency might not be applied even if
-everything is correctly implemented due to the
-anticheat system!
+Warning: Solo RP are added to your game and let you rank up, but they do not count towards the daily Solo RP of the weekly leaderboard.
