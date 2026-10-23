@@ -24,4 +24,4 @@
   ==========USAGE==========
   <AMOUNT>:
   *Don't forget about the limit of universal parts!
-  restoration parts: 5 max
+  restoration parts: 1 max

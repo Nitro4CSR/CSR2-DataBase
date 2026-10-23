@@ -1,0 +1,20 @@
+"picl": [
+    "eRewards"
+  ],
+  "playinbitms": [
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 66,
+        "name": "",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": 10,
+        "ConsumableBoostId": ""
+      }
+    }
+  ],

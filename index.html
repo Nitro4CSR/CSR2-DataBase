@@ -180,6 +180,8 @@ main{container-type:inline-size}
 .hint{color:var(--muted);font-size:13px}
 .sub-opts{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
 .sub-opts label{display:flex;gap:6px;align-items:center;background:var(--bg2);border:1px solid var(--line);padding:4px 9px;border-radius:20px;font-size:13px;cursor:pointer}
+.giftinfo{margin-top:18px;max-width:560px}
+.giftinfo .row{margin-top:8px}
 .chips{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 14px}
 .chip{padding:5px 12px;border-radius:20px;border:1px solid var(--line);background:var(--card);cursor:pointer;font-size:13px;font-weight:600;color:var(--muted)}
 .chip.on{color:var(--text);border-color:var(--accent)}
@@ -357,7 +359,6 @@ const I18N = {
  t_car:['Select a car','Choisis une voiture','Wähle ein Auto','Elige un coche','Escolha um carro'],
  t_cars:['Select at least one car','Choisis au moins une voiture','Mindestens ein Auto wählen','Elige al menos un coche','Escolha pelo menos um carro'],
  t_gift:['Select at least one gift','Choisis au moins un cadeau','Mindestens ein Geschenk wählen','Elige al menos un regalo','Escolha pelo menos um presente'],
- t_type:['Tick at least one type','Coche au moins un type','Mindestens einen Typ ankreuzen','Marca al menos un tipo','Marque pelo menos um tipo'],
  t_invalid:['Invalid quantity','Quantité invalide','Ungültige Menge','Cantidad no válida','Quantidade inválida'],
  s6_lead:['Stage 6 parts for one car or for all cars. Cars sharing the same Stage 6 parts are counted once.',"Pièces Stage 6 pour une voiture ou pour toutes. Les voitures qui partagent les mêmes pièces ne comptent qu'une fois.",'Stage-6-Teile für ein Auto oder alle Autos. Autos mit denselben Teilen zählen nur einmal.','Piezas Stage 6 para un coche o para todos. Los coches que comparten las mismas piezas cuentan una sola vez.','Peças Stage 6 para um carro ou para todos. Carros que compartilham as mesmas peças contam uma só vez.'],
  by_car:['By car','Par voiture','Pro Auto','Por coche','Por carro'],
@@ -365,9 +366,14 @@ const I18N = {
  s6_hint_one:['Select a brand, then a car, then Generate.','Choisis une marque, puis une voiture, puis Générer.','Wähle eine Marke, dann ein Auto, dann Erzeugen.','Elige una marca, luego un coche y luego Generar.','Escolha uma marca, depois um carro e depois Gerar.'],
  s6_hint_all:['{0} files ({1} duplicates removed thanks to the shared groups).','{0} fichiers ({1} doublons retirés grâce aux groupes partagés).','{0} Dateien ({1} Duplikate dank der gemeinsamen Gruppen entfernt).','{0} archivos ({1} duplicados eliminados gracias a los grupos compartidos).','{0} arquivos ({1} duplicados removidos graças aos grupos compartilhados).'],
  s6_shared:['Shared Stage 6 (group {0}): also valid for {1}','Stage 6 partagées (groupe {0}) : valables aussi pour {1}','Gemeinsame Stage 6 (Gruppe {0}): auch gültig für {1}','Stage 6 compartidas (grupo {0}): también válidas para {1}','Stage 6 compartilhadas (grupo {0}): também válidas para {1}'],
- gift_lead:['Select one or several gifts, enter a quantity, then Generate. All selected gifts go into one block.','Choisis un ou plusieurs cadeaux, saisis une quantité, puis Générer. Tous les cadeaux choisis vont dans un seul bloc.','Wähle ein oder mehrere Geschenke, gib eine Menge ein, dann Erzeugen. Alle gewählten Geschenke kommen in einen Block.','Elige uno o varios regalos, introduce una cantidad y luego Generar. Todos los regalos elegidos van en un solo bloque.','Escolha um ou vários presentes, informe uma quantidade e depois Gerar. Todos os presentes escolhidos vão em um só bloco.'],
+ gift_lead:['Choose ONE gift and its type, enter a quantity, then Generate. The game limits are shown: the site does not split quantities, the choice is yours.','Choisis UN cadeau et son type, saisis une quantité, puis Générer. Les limites du jeu sont indiquées : le site ne découpe pas les quantités, à toi de choisir.','Wähle EIN Geschenk und seinen Typ, gib eine Menge ein, dann Erzeugen. Die Spiellimits werden angezeigt: Die Seite teilt Mengen nicht auf, du entscheidest.','Elige UN regalo y su tipo, introduce una cantidad y luego Generar. Se muestran los límites del juego: el sitio no divide las cantidades, tú decides.','Escolha UM presente e seu tipo, informe uma quantidade e depois Gerar. Os limites do jogo são mostrados: o site não divide as quantidades, você decide.'],
+ cap_stock:['Game stock limit: {0}','Stock max du jeu : {0}','Max. Bestand im Spiel: {0}','Stock máximo del juego: {0}','Estoque máximo do jogo: {0}'],
+ cap_reward:['Max per reward: {0}','Max par récompense : {0}','Max. pro Belohnung: {0}','Máx. por recompensa: {0}','Máx. por recompensa: {0}'],
+ cap_none:['No known game limit','Pas de limite connue dans le jeu','Kein bekanntes Spiellimit','Sin límite conocido en el juego','Sem limite conhecido no jogo'],
+ cap_over:['Quantity above the game limit (not split by the site).','Quantité au-dessus de la limite du jeu (non découpée par le site).','Menge über dem Spiellimit (von der Seite nicht aufgeteilt).','Cantidad por encima del límite del juego (el sitio no la divide).','Quantidade acima do limite do jogo (o site não a divide).'],
+ gift_tpl:['Template on GitHub','Modèle sur GitHub','Vorlage auf GitHub','Plantilla en GitHub','Modelo no GitHub'],
+ g_joker:['Universal parts','Pièces universelles','Universalteile','Piezas universales','Peças universais'], g_tickets:['Elite Tuners tickets','Tickets Elite Tuners','Elite-Tuners-Tickets','Tickets Elite Tuners','Tickets Elite Tuners'],
  ntypes:['{0} types','{0} types','{0} Typen','{0} tipos','{0} tipos'],
- ngifts:['{0} gift(s) selected','{0} cadeau(x) choisi(s)','{0} Geschenk(e) gewählt','{0} regalo(s) elegido(s)','{0} presente(s) escolhido(s)'],
  g_cash:['Cash','Cash','Cash','Dinero','Dinheiro'], g_gold:['Gold','Or','Gold','Oro','Ouro'], g_keys:['Keys','Clés','Schlüssel','Llaves','Chaves'], g_fuel:['Fuel','Carburant','Treibstoff','Combustible','Combustível'],
  resto:['Restoration parts','Pièces de restauration','Restaurierungsteile','Piezas de restauración','Peças de restauração'],
  resto_sub:['Legends · by car or all Legends','Legends · par voiture ou toutes','Legends · pro Auto oder alle','Legends · por coche o todas','Legends · por carro ou todas'],
@@ -819,37 +825,44 @@ async function pageStage6(){
     $('#scars').scrollIntoView({behavior:'smooth', block:'start'}); }; renderCars(); }
 }
 
-/* ---- Support gifts */
-let giftSel = new Set(), giftOpt = {}, restoView = false, restoSel = new Set();
+/* ---- Support gifts: ONE gift (one type) per block; the game caps are shown, quantities are never split (23/10/2026) */
+let giftK = null, giftI = 0, restoView = false, restoSel = new Set();
+function ghUrl(path, folder){ return `${REPO_URL}/${folder?'tree':'blob'}/${REPO_BRANCH}/${path.split('/').map(encodeURIComponent).join('/')}`; }
+function capText(o){
+  const c = o.cap || {};
+  return [c.s!==undefined ? T('cap_stock', num(c.s)) : '', c.r!==undefined ? T('cap_reward', num(c.r)) : ''].filter(Boolean).join(' · ');
+}
 async function pageGifts(){
   setNav('gifts'); bar(''); const G = (await load('gifts'));
   if (restoView) return pageResto(G);
-  const icons = {cash:'💵',gold:'🪙',keys:'🔑',ect:'🎟️',fuel:'⛽',wildcard:'🃏',crewrp:'👥',collections:'📚',hypermods:'🔧'};
+  const icons = {cash:'💵',gold:'🪙',keys:'🔑',ect:'🎟️',joker:'♾️',fuel:'⛽',wildcard:'🃏',crewrp:'👥',tickets:'🎫',collections:'📚',hypermods:'🔧'};
+  const gname = k => I18N['g_'+k] ? T('g_'+k) : G.gifts[k].n;
+  const g = giftK && G.gifts[giftK], o = g && g.opts[giftI];
   $('#main').innerHTML = `<h1>${T('nav_gift')}</h1><p class="lead">${T('gift_lead')}</p>
-    <div class="tiles" id="gt">${Object.entries(G.gifts).map(([k,g])=>`<div class="tile ${giftSel.has(k)?'on':''}" data-k="${k}"><span class="chk">✓</span>
-      <div class="ic">${g.img?`<img src="${esc(u(window.SITE+g.img))}" alt="" style="height:34px" onerror="this.style.display='none'">`:(icons[k]||'🎁')}</div><b>${esc(I18N['g_'+k]?T('g_'+k):g.n)}</b><small>${g.opts.length>1?T('ntypes', g.opts.length):'&nbsp;'}</small>
-      ${g.opts.length>1&&giftSel.has(k)?`<div class="sub-opts">${g.opts.map((o,i)=>`<label onclick="event.stopPropagation()"><input type="checkbox" data-k="${k}" data-i="${i}" ${(giftOpt[k]||[0]).includes(i)?'checked':''}>${o.img?`<img src="${esc(u(window.SITE+o.img))}" alt="" style="height:20px" onerror="this.style.display='none'">`:''}${esc(o.n)}</label>`).join('')}</div>`:''}
+    <div class="tiles" id="gt">${Object.entries(G.gifts).map(([k,g])=>`<div class="tile ${giftK===k?'on':''}" data-k="${k}"><span class="chk">✓</span>
+      <div class="ic">${g.img?`<img src="${esc(u(window.SITE+g.img))}" alt="" style="height:34px" onerror="this.style.display='none'">`:(icons[k]||'🎁')}</div><b>${esc(gname(k))}</b><small>${g.opts.length>1?T('ntypes', g.opts.length):'&nbsp;'}</small>
+      ${g.opts.length>1&&giftK===k?`<div class="sub-opts">${g.opts.map((o,i)=>`<label onclick="event.stopPropagation()"><input type="radio" name="gopt" data-i="${i}" ${giftI===i?'checked':''}>${o.img?`<img src="${esc(u(window.SITE+o.img))}" alt="" style="height:20px" onerror="this.style.display='none'">`:''}${esc(o.n)}</label>`).join('')}</div>`:''}
     </div>`).join('')}
       <div class="tile" id="rt"><div class="ic">🛠️</div><b>${T('resto')}</b><small>${T('resto_sub')}</small></div></div>
-    <h2>${T('quantity')}</h2><div class="row qty"><input id="gq" type="number" min="1" placeholder="${T('eg',num(1000000))}" value="${esc(store.get('gq',''))}">
-      <button class="btn pri" id="gg">${T('generate')}</button><span class="hint">${T('ngifts', giftSel.size)}</span></div>`;
+    ${o?`<div class="card giftinfo"><div class="k">${esc(gname(giftK))}${g.opts.length>1?' · '+esc(o.n):''}</div>
+      <div class="v">${esc(capText(o) || T('cap_none'))}</div>
+      ${o.p?`<div class="row"><a class="btn sm" href="${esc(ghUrl(o.p+'/'+(o.tf||'')))}" target="_blank" rel="noopener">${T('gift_tpl')}</a><a class="btn sm" href="${esc(ghUrl(o.p, true))}" target="_blank" rel="noopener">${T('open_dir')}</a></div>`:''}</div>`:''}
+    <h2>${T('quantity')}</h2><div class="row qty"><input id="gq" type="number" min="1" placeholder="${T('eg',num(o&&o.cap?(o.cap.r??o.cap.s):1000000))}" value="${esc(store.get('gq',''))}">
+      <button class="btn pri" id="gg">${T('generate')}</button><span class="hint">${o?'':T('t_gift')}</span></div>`;
   $('#gt').onclick = e=>{
     if (e.target.closest('#rt')){ restoView=true; pageGifts(); return; }
-    const t=e.target.closest('.tile[data-k]'); if(!t) return; const k=t.dataset.k;
-    giftSel.has(k)?giftSel.delete(k):giftSel.add(k); if(!giftOpt[k]) giftOpt[k]=[0]; pageGifts();
+    const t=e.target.closest('.tile[data-k]'); if(!t) return;
+    giftK = giftK===t.dataset.k ? null : t.dataset.k; giftI = 0; pageGifts();
   };
-  document.querySelectorAll('.sub-opts input').forEach(cb=>cb.onchange=()=>{
-    const k=cb.dataset.k; giftOpt[k]=[...document.querySelectorAll(`.sub-opts input[data-k="${k}"]:checked`)].map(x=>+x.dataset.i);
-  });
+  document.querySelectorAll('.sub-opts input').forEach(r=>r.onchange=()=>{ giftI=+r.dataset.i; pageGifts(); });
+  $('#gq').oninput = ()=>store.set('gq', $('#gq').value.trim());
   $('#gg').onclick = ()=>{
-    if(!giftSel.size){ toast(T('t_gift')); return; }
+    if(!o){ toast(T('t_gift')); return; }
     const q = qtyValue('#gq'); if(q===null) return; store.set('gq', q);
-    const items = []; const warns = []; const labels = [];
-    for (const k of giftSel){ const g=G.gifts[k]; const idx = g.opts.length>1 ? (giftOpt[k]||[]) : [0];
-      idx.forEach(i=>{ items.push(giftItem(g.opts[i].t).replace(/("amount":\s*)-?\d+/, '$1'+q)); labels.push(g.opts[i].n); });
-      if (g.warn) warns.push(`${g.n}: ${g.warn.replace(/\s*\n\s*/g,' ')}`); }
-    if(!items.length){ toast(T('t_type')); return; }
-    showPanel(`${T('nav_gift')} · ×${q}`, giftBlock(items), `Support gift x${q}.txt`, labels.join(', '), warns.join('\n'));
+    const c = o.cap || {}, over = q > Math.min(c.s ?? Infinity, c.r ?? Infinity);
+    const notes = [capText(o) ? (over ? '⚠ '+T('cap_over')+'\n' : '')+capText(o) : '', g.warn ? g.warn.replace(/\s*\n\s*/g,' ') : ''];
+    showPanel(`${gname(giftK)}${g.opts.length>1?' · '+o.n:''} · ×${num(q)}`, giftBlock([giftItem(o.t).replace(/("amount":\s*)-?\d+/, '$1'+q)]),
+      `${o.n} x${q}.txt`, '', notes.filter(Boolean).join('\n'), o.p ? o.p+'/'+(o.tf||'') : '');
   };
 }
 function giftItem(t){ return inner(t,'playinbitms'); }

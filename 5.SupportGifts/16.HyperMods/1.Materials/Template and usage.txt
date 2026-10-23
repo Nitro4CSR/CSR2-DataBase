@@ -1,0 +1,37 @@
+"picl": [
+    "eRewards"
+  ],
+  "playinbitms": [
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 65,
+        "name": "<material>",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": <amount>,
+        "ConsumableBoostId": ""
+      }
+    }
+  ],
+
+
+==========USAGE==========
+  <material>:
+  iron           Iron           stock max 500
+  aluminium      Aluminium      stock max 500
+  copper         Copper         stock max 500
+  carbon_fiber   Carbon fiber   stock max 300
+  silicon        Silicon        stock max 300
+  polymer        Polymer        stock max 300
+  rare_metal     Rare metal     stock max 100
+  rare_chemical  Rare chemical  stock max 100
+  super_alloy    Super alloy    stock max 100
+
+  <amount>:
+  *Above the stock max, the surplus stays in the inbox.
+  One dictionary per material.

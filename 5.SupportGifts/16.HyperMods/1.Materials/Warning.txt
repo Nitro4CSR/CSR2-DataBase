@@ -1,0 +1,1 @@
+Stock max: Iron 500, Aluminium 500, Copper 500, Carbon fiber 300, Silicon 300, Polymer 300, Rare metal 100, Rare chemical 100, Super alloy 100. The surplus stays in the inbox.

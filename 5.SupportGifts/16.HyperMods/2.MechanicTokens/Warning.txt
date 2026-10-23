@@ -1,0 +1,1 @@
+Stock max: 50 mechanic tokens. The surplus stays in the inbox.

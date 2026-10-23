@@ -9,7 +9,7 @@
       "rank": 0,
       "CSR2ApplyableReward": {
         "rewardType": 35,
-        "name": "EuropeSeries_Credits",
+        "name": "EliteTuners_Credits",
         "partType": 7,
         "partGrade": 0,
         "gachaConfig": -1,
