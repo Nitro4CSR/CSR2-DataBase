@@ -61,7 +61,7 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:1px;color:var(--muted)
 .crumb a{color:var(--muted);text-decoration:none}
 .crumb a:hover{color:var(--text)}
 
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px;align-items:start}
 .tile{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px 18px;cursor:pointer;
   transition:transform .12s,border-color .12s;position:relative}
 .tile:hover{transform:translateY(-2px);border-color:var(--accent)}
@@ -88,6 +88,9 @@ h2{font-size:15px;text-transform:uppercase;letter-spacing:1px;color:var(--muted)
 .brand.off{opacity:.25;pointer-events:none}
 .brand .cnt{position:absolute;right:6px;bottom:4px;font-size:11px;color:var(--muted)}
 .brands.locked .brand{opacity:.35;pointer-events:none}
+/* smaller logos in the Support gift page (user, 23/10/2026) */
+.brands.sm{grid-template-columns:repeat(auto-fill,minmax(86px,1fr));gap:8px}
+.brands.sm .brand{height:54px;padding:6px 8px}
 
 .cars{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
 .car{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;cursor:pointer;text-align:center;position:relative}
@@ -180,8 +183,16 @@ main{container-type:inline-size}
 .hint{color:var(--muted);font-size:13px}
 .sub-opts{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
 .sub-opts label{display:flex;gap:6px;align-items:center;background:var(--bg2);border:1px solid var(--line);padding:4px 9px;border-radius:20px;font-size:13px;cursor:pointer}
-.giftinfo{margin-top:18px;max-width:560px}
-.giftinfo .row{margin-top:8px}
+.giftinfo{margin-top:18px;max-width:680px}
+.giftinfo .note{margin:8px 0 0}
+.gline{display:flex;align-items:center;flex-wrap:wrap;gap:10px;padding:7px 0;border-bottom:1px solid var(--line)}
+.gline:last-child{border-bottom:0}
+.gline .nm{font-weight:600;min-width:150px}
+.gline .cap{flex:1;color:var(--muted);font-size:13px}
+.gline.over .cap{color:var(--warn);font-weight:600}
+.gline input{width:130px;padding:7px 10px;border-radius:9px;border:1px solid var(--line);background:var(--bg2)}
+.gline a{text-decoration:none;color:var(--muted)}
+.gall{margin-top:10px}
 .chips{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 14px}
 .chip{padding:5px 12px;border-radius:20px;border:1px solid var(--line);background:var(--card);cursor:pointer;font-size:13px;font-weight:600;color:var(--muted)}
 .chip.on{color:var(--text);border-color:var(--accent)}
@@ -366,12 +377,25 @@ const I18N = {
  s6_hint_one:['Select a brand, then a car, then Generate.','Choisis une marque, puis une voiture, puis Générer.','Wähle eine Marke, dann ein Auto, dann Erzeugen.','Elige una marca, luego un coche y luego Generar.','Escolha uma marca, depois um carro e depois Gerar.'],
  s6_hint_all:['{0} files ({1} duplicates removed thanks to the shared groups).','{0} fichiers ({1} doublons retirés grâce aux groupes partagés).','{0} Dateien ({1} Duplikate dank der gemeinsamen Gruppen entfernt).','{0} archivos ({1} duplicados eliminados gracias a los grupos compartidos).','{0} arquivos ({1} duplicados removidos graças aos grupos compartilhados).'],
  s6_shared:['Shared Stage 6 (group {0}): also valid for {1}','Stage 6 partagées (groupe {0}) : valables aussi pour {1}','Gemeinsame Stage 6 (Gruppe {0}): auch gültig für {1}','Stage 6 compartidas (grupo {0}): también válidas para {1}','Stage 6 compartilhadas (grupo {0}): também válidas para {1}'],
- gift_lead:['Choose ONE gift and its type, enter a quantity, then Generate. The game limits are shown: the site does not split quantities, the choice is yours.','Choisis UN cadeau et son type, saisis une quantité, puis Générer. Les limites du jeu sont indiquées : le site ne découpe pas les quantités, à toi de choisir.','Wähle EIN Geschenk und seinen Typ, gib eine Menge ein, dann Erzeugen. Die Spiellimits werden angezeigt: Die Seite teilt Mengen nicht auf, du entscheidest.','Elige UN regalo y su tipo, introduce una cantidad y luego Generar. Se muestran los límites del juego: el sitio no divide las cantidades, tú decides.','Escolha UM presente e seu tipo, informe uma quantidade e depois Gerar. Os limites do jogo são mostrados: o site não divide as quantidades, você decide.'],
+ gift_lead:['Choose ONE family, tick one or several types, enter a quantity for each, then Generate. The game limits are shown: the site does not split quantities, the choice is yours.','Choisis UNE famille, coche un ou plusieurs types, saisis une quantité pour chacun, puis Générer. Les limites du jeu sont indiquées : le site ne découpe pas les quantités, à toi de choisir.','Wähle EINE Familie, kreuze einen oder mehrere Typen an, gib für jeden eine Menge ein, dann Erzeugen. Die Spiellimits werden angezeigt: Die Seite teilt Mengen nicht auf, du entscheidest.','Elige UNA familia, marca uno o varios tipos, introduce una cantidad para cada uno y luego Generar. Se muestran los límites del juego: el sitio no divide las cantidades, tú decides.','Escolha UMA família, marque um ou vários tipos, informe uma quantidade para cada um e depois Gerar. Os limites do jogo são mostrados: o site não divide as quantidades, você decide.'],
  cap_stock:['Game stock limit: {0}','Stock max du jeu : {0}','Max. Bestand im Spiel: {0}','Stock máximo del juego: {0}','Estoque máximo do jogo: {0}'],
  cap_reward:['Max per reward: {0}','Max par récompense : {0}','Max. pro Belohnung: {0}','Máx. por recompensa: {0}','Máx. por recompensa: {0}'],
- cap_none:['No known game limit','Pas de limite connue dans le jeu','Kein bekanntes Spiellimit','Sin límite conocido en el juego','Sem limite conhecido no jogo'],
  cap_over:['Quantity above the game limit (not split by the site).','Quantité au-dessus de la limite du jeu (non découpée par le site).','Menge über dem Spiellimit (von der Seite nicht aufgeteilt).','Cantidad por encima del límite del juego (el sitio no la divide).','Quantidade acima do limite do jogo (o site não a divide).'],
  gift_tpl:['Template on GitHub','Modèle sur GitHub','Vorlage auf GitHub','Plantilla en GitHub','Modelo no GitHub'],
+ t_type:['Tick at least one type','Coche au moins un type','Mindestens einen Typ ankreuzen','Marca al menos un tipo','Marque pelo menos um tipo'],
+ t_qtys:['Enter a quantity for every ticked type','Saisis une quantité pour chaque type coché','Gib für jeden angekreuzten Typ eine Menge ein','Introduce una cantidad para cada tipo marcado','Informe uma quantidade para cada tipo marcado'],
+ same_qty:['Same quantity for all','Même quantité pour tous','Gleiche Menge für alle','Misma cantidad para todos','Mesma quantidade para todos'],
+ apply:['Apply','Appliquer','Anwenden','Aplicar','Aplicar'],
+ nrewards:['{0} reward(s)','{0} récompense(s)','{0} Belohnung(en)','{0} recompensa(s)','{0} recompensa(s)'],
+ fus_gift_hint:['One quantity for every part (7 parts per colour)','Une quantité pour toutes les pièces (7 pièces par couleur)','Eine Menge für alle Teile (7 Teile pro Farbe)','Una cantidad para todas las piezas (7 piezas por color)','Uma quantidade para todas as peças (7 peças por cor)'],
+ no_s6:['No Stage 6 file for this car','Pas de fichier Stage 6 pour cette voiture','Keine Stage-6-Datei für dieses Auto','No hay archivo Stage 6 para este coche','Sem arquivo Stage 6 para este carro'],
+ no_fus:['No fusion id for this brand','Pas d’identifiant de fusion pour cette marque','Keine Fusions-ID für diese Marke','Sin id de fusión para esta marca','Sem id de fusão para esta marca'],
+ car_purple:['Purple car: rewardType 11 is used. The game may treat it as a Gacha car and not allow the right number of fusions to be installed.','Voiture Purple : rewardType 11 utilisé. Le jeu risque de la considérer comme une voiture Gacha et de ne pas permettre l’installation du bon nombre de fusions.','Purple-Auto: rewardType 11 wird verwendet. Das Spiel könnte es als Gacha-Auto behandeln und nicht die richtige Anzahl Fusionen zulassen.','Coche Purple: se usa rewardType 11. El juego puede tratarlo como un coche Gacha y no permitir instalar el número correcto de fusiones.','Carro Purple: é usado o rewardType 11. O jogo pode tratá-lo como um carro Gacha e não permitir instalar o número certo de fusões.'],
+ car_f0:['Bare car','Voiture nue','Auto ohne Extras','Coche desnudo','Carro sem extras'], car_f1:['Bare car + gold','Voiture nue + or','Auto + Gold','Coche + oro','Carro + ouro'],
+ car_f2:['Bare car + S6','Voiture nue + S6','Auto + S6','Coche + S6','Carro + S6'], car_f3:['Bare car + gold + S6','Voiture nue + or + S6','Auto + Gold + S6','Coche + oro + S6','Carro + ouro + S6'],
+ car_f4:['Full car (S6 + fusions)','Voiture complète (S6 + fusions)','Komplettes Auto (S6 + Fusionen)','Coche completo (S6 + fusiones)','Carro completo (S6 + fusões)'],
+ g_rp:['Respect points','Respect points','Respect points','Respect points','Respect points'], g_fusions:['Fusions','Fusions','Fusionen','Fusiones','Fusões'], g_s6:['Stage 6','Stage 6','Stage 6','Stage 6','Stage 6'],
+ g_cars:['Cars','Voitures','Autos','Coches','Carros'], g_collections:['Collections','Collections','Sammlungen','Colecciones','Coleções'],
  g_joker:['Universal parts','Pièces universelles','Universalteile','Piezas universales','Peças universais'], g_tickets:['Elite Tuners tickets','Tickets Elite Tuners','Elite-Tuners-Tickets','Tickets Elite Tuners','Tickets Elite Tuners'],
  ntypes:['{0} types','{0} types','{0} Typen','{0} tipos','{0} tipos'],
  g_cash:['Cash','Cash','Cash','Dinero','Dinheiro'], g_gold:['Gold','Or','Gold','Oro','Ouro'], g_keys:['Keys','Clés','Schlüssel','Llaves','Chaves'], g_fuel:['Fuel','Carburant','Treibstoff','Combustible','Combustível'],
@@ -825,44 +849,115 @@ async function pageStage6(){
     $('#scars').scrollIntoView({behavior:'smooth', block:'start'}); }; renderCars(); }
 }
 
-/* ---- Support gifts: ONE gift (one type) per block; the game caps are shown, quantities are never split (23/10/2026) */
-let giftK = null, giftI = 0, restoView = false, restoSel = new Set();
+/* ---- Support gifts (23/10/2026): ONE family at a time, several types with one quantity each (Fusions: one quantity
+   for all); Fusions / Stage 6 / Cars need a brand or a car; the game caps are shown, quantities are never split */
+let giftK = null, giftSel = new Set(), giftQ = {}, giftB = null, giftCar = null, giftF = 0, restoSel = new Set();
 function ghUrl(path, folder){ return `${REPO_URL}/${folder?'tree':'blob'}/${REPO_BRANCH}/${path.split('/').map(encodeURIComponent).join('/')}`; }
 function capText(o){
   const c = o.cap || {};
   return [c.s!==undefined ? T('cap_stock', num(c.s)) : '', c.r!==undefined ? T('cap_reward', num(c.r)) : ''].filter(Boolean).join(' · ');
 }
+function capOver(o, q){ const c = o.cap || {}; return q > Math.min(c.s ?? Infinity, c.r ?? Infinity); }
+function setF(item, key, v){ return item.replace(new RegExp('("'+key+'":\\s*)("[^"]*"|[^,\\n}]+)'), (m, a)=>a+JSON.stringify(v)); }
+function gIcon(src, h){ return src ? `<img src="${esc(u(window.SITE+src))}" alt="" style="height:${h}px" onerror="this.style.display='none'">` : ''; }
 async function pageGifts(){
-  setNav('gifts'); bar(''); const G = (await load('gifts'));
-  if (restoView) return pageResto(G);
-  const icons = {cash:'💵',gold:'🪙',keys:'🔑',ect:'🎟️',joker:'♾️',fuel:'⛽',wildcard:'🃏',crewrp:'👥',tickets:'🎫',collections:'📚',hypermods:'🔧'};
+  setNav('gifts'); bar(''); const G = await load('gifts');
+  const g = giftK && G.gifts[giftK], kind = g ? g.kind || '' : '';
+  const F = kind==='fus' || kind==='car' ? await load('fusions') : null;
+  const S = kind==='s6' || kind==='car' ? await load('stage6') : null;
   const gname = k => I18N['g_'+k] ? T('g_'+k) : G.gifts[k].n;
-  const g = giftK && G.gifts[giftK], o = g && g.opts[giftI];
+  const oname = o => o.k && I18N[o.k] ? T(o.k) : o.n;
+  const fusId = b => { const m = F && F[b] && F[b].t.match(/"upma":\s*"([^"]+)"/); return m ? m[1] : ''; };
+  const hasS6 = id => !!(S && (S.files[id] || (S.groups[id] && Object.keys(S.groups).some(x=>S.groups[x]===S.groups[id] && S.files[x]))));
+  const carOk = c => !c.nc && c.m && Object.keys(c.m).length && (kind!=='s6' || hasS6(c.id));   // Stage 6: cars with a Stage 6 file
+  const sel = [...giftSel].filter(i=>g && g.opts[i]).sort((a,b)=>a-b);
+  const qOf = i => giftQ[giftK+':'+i] ?? '';
+  let box = '', pick = '';   // pick (brand / car) under the Generate button: long lists (23/10/2026)
+  if (kind==='fus'){
+    const keys = Object.keys(F).filter(k=>fusId(k)).sort((a,b)=>F[a].n.localeCompare(F[b].n));
+    pick += `<h2>${T('brand')}</h2><div class="brands sm" id="gb">${keys.map(k=>brandTile({k, n:F[k].n, logo:(BRANDS[k]||{}).logo||F[k].logo||''}, k===giftB?'on':'')).join('')}</div>`;
+  }
+  if (kind==='s6' || kind==='car'){
+    const brands = IDX.brands.filter(b=>IDX.cars.some(c=>c.b===b.k && carOk(c)));
+    pick += `<h2>${T('brand')}</h2><div class="brands sm" id="gb">${brands.map(b=>brandTile(b, b.k===giftB?'on':'')).join('')}</div>`;
+    if (giftB){
+      const list = sortCars(IDX.cars.filter(c=>c.b===giftB && carOk(c)));
+      pick += `<h2>${T('car')} · ${esc(BRANDS[giftB].n)}</h2><div class="cars" id="gc">${list.map(c=>`<div class="car ${c.id===giftCar?'on':''}" data-c="${esc(c.id)}">${thumb(c)}<div class="nm">${esc(nameOf(c))}</div><div class="meta">${badges(c)}</div></div>`).join('')}</div>`;
+    }
+  }
+  if (kind==='car'){
+    const o = g.opts[giftF], c = giftCar && CARS[giftCar];
+    const lack = c ? [o.f.includes('s6') && !hasS6(c.id) ? T('no_s6') : '', o.f.includes('fus') && !fusId(c.b) ? T('no_fus') : ''].filter(Boolean) : [];
+    box += `<div class="card giftinfo"><div class="gline">${gIcon(o.img,26)}<span class="nm">${esc(oname(o))}</span><span class="cap">${c ? esc(nameOf(c))+' · rewardType '+(c.s==='purple'?11:20) : T('t_car')}</span><a href="${esc(ghUrl(o.p, true))}" target="_blank" rel="noopener" title="${T('gift_tpl')}">↗</a></div>
+      ${c && c.s==='purple' ? `<div class="note">${T('car_purple')}</div>` : ''}${lack.map(x=>`<div class="note">${x}</div>`).join('')}</div>`;
+  } else if (sel.length){
+    const one = kind==='fus';
+    box += `<div class="card giftinfo">${sel.map(i=>{ const o = g.opts[i], q = +qOf(i);
+        return `<div class="gline ${!one && q && capOver(o,q) ? 'over' : ''}">${gIcon(o.img,26)}<span class="nm">${esc(oname(o))}</span><span class="cap">${esc(capText(o))}</span>${one ? '' : `<input type="number" min="1" data-i="${i}" value="${esc(qOf(i))}" placeholder="${T('quantity')}">`}<a href="${esc(ghUrl(o.p+'/'+(o.tf||'')))}" target="_blank" rel="noopener" title="${T('gift_tpl')}">↗</a></div>`; }).join('')}
+      ${one ? `<div class="row qty gall"><input id="gone" type="number" min="1" value="${esc(giftQ[giftK+':all'] ?? '')}" placeholder="${T('quantity')}"><span class="hint">${T('fus_gift_hint')}</span></div>`
+            : sel.length>1 ? `<div class="row qty gall"><input id="gsame" type="number" min="1" placeholder="${T('same_qty')}"><button class="btn sm" id="gsameb">${T('apply')}</button></div>` : ''}</div>`;
+  }
   $('#main').innerHTML = `<h1>${T('nav_gift')}</h1><p class="lead">${T('gift_lead')}</p>
-    <div class="tiles" id="gt">${Object.entries(G.gifts).map(([k,g])=>`<div class="tile ${giftK===k?'on':''}" data-k="${k}"><span class="chk">✓</span>
-      <div class="ic">${g.img?`<img src="${esc(u(window.SITE+g.img))}" alt="" style="height:34px" onerror="this.style.display='none'">`:(icons[k]||'🎁')}</div><b>${esc(gname(k))}</b><small>${g.opts.length>1?T('ntypes', g.opts.length):'&nbsp;'}</small>
-      ${g.opts.length>1&&giftK===k?`<div class="sub-opts">${g.opts.map((o,i)=>`<label onclick="event.stopPropagation()"><input type="radio" name="gopt" data-i="${i}" ${giftI===i?'checked':''}>${o.img?`<img src="${esc(u(window.SITE+o.img))}" alt="" style="height:20px" onerror="this.style.display='none'">`:''}${esc(o.n)}</label>`).join('')}</div>`:''}
+    <div class="tiles" id="gt">${Object.entries(G.gifts).map(([k,f])=>`<div class="tile ${giftK===k?'on':''}" data-k="${k}"><span class="chk">✓</span>
+      <div class="ic">${f.img ? gIcon(f.img, f.ih || 40) : '🎁'}</div><b>${esc(gname(k))}</b><small>${f.opts.length>1?T('ntypes', f.opts.length):'&nbsp;'}</small>
+      ${f.opts.length>1&&giftK===k?`<div class="sub-opts">${f.opts.map((o,i)=>`<label onclick="event.stopPropagation()"><input type="${f.kind==='car'?'radio':'checkbox'}" name="gopt" data-i="${i}" ${(f.kind==='car' ? giftF===i : giftSel.has(i))?'checked':''}>${gIcon(o.img,20)}${esc(oname(o))}</label>`).join('')}</div>`:''}
     </div>`).join('')}
-      <div class="tile" id="rt"><div class="ic">🛠️</div><b>${T('resto')}</b><small>${T('resto_sub')}</small></div></div>
-    ${o?`<div class="card giftinfo"><div class="k">${esc(gname(giftK))}${g.opts.length>1?' · '+esc(o.n):''}</div>
-      <div class="v">${esc(capText(o) || T('cap_none'))}</div>
-      ${o.p?`<div class="row"><a class="btn sm" href="${esc(ghUrl(o.p+'/'+(o.tf||'')))}" target="_blank" rel="noopener">${T('gift_tpl')}</a><a class="btn sm" href="${esc(ghUrl(o.p, true))}" target="_blank" rel="noopener">${T('open_dir')}</a></div>`:''}</div>`:''}
-    <h2>${T('quantity')}</h2><div class="row qty"><input id="gq" type="number" min="1" placeholder="${T('eg',num(o&&o.cap?(o.cap.r??o.cap.s):1000000))}" value="${esc(store.get('gq',''))}">
-      <button class="btn pri" id="gg">${T('generate')}</button><span class="hint">${o?'':T('t_gift')}</span></div>`;
+      <div class="tile" id="rt"><div class="ic">${G.restoration.img ? gIcon(G.restoration.img,40) : '🛠️'}</div><b>${T('resto')}</b><small>${T('resto_sub')}</small></div></div>
+    <div id="gbox">${box}</div>
+    ${g ? `<div class="row" style="margin-top:16px"><button class="btn pri" id="gg">${T('generate')}</button></div>` : ''}${pick}`;
   $('#gt').onclick = e=>{
-    if (e.target.closest('#rt')){ restoView=true; pageGifts(); return; }
-    const t=e.target.closest('.tile[data-k]'); if(!t) return;
-    giftK = giftK===t.dataset.k ? null : t.dataset.k; giftI = 0; pageGifts();
+    if (e.target.closest('#rt')){ go('#/gifts/resto'); return; }
+    const t = e.target.closest('.tile[data-k]'); if(!t) return;
+    if (giftK===t.dataset.k) giftK = null;
+    else { giftK = t.dataset.k; giftSel = new Set([0]); giftF = 0; giftB = null; giftCar = null; }
+    pageGifts();
   };
-  document.querySelectorAll('.sub-opts input').forEach(r=>r.onchange=()=>{ giftI=+r.dataset.i; pageGifts(); });
-  $('#gq').oninput = ()=>store.set('gq', $('#gq').value.trim());
+  document.querySelectorAll('#gt .sub-opts input').forEach(r=>r.onchange=()=>{ const i = +r.dataset.i;
+    if (kind==='car') giftF = i; else if (r.checked) giftSel.add(i); else giftSel.delete(i);
+    pageGifts(); });
+  if ($('#gb')) $('#gb').onclick = e=>{ const t=e.target.closest('.brand'); if(!t) return; giftB = t.dataset.b; giftCar = null; pageGifts(); };
+  if ($('#gc')) $('#gc').onclick = e=>{ const c=e.target.closest('.car'); if(!c) return; giftCar = c.dataset.c; pageGifts(); };
+  document.querySelectorAll('.gline input').forEach(inp=>inp.oninput=()=>{ const i = +inp.dataset.i; giftQ[giftK+':'+i] = inp.value.trim();
+    inp.closest('.gline').classList.toggle('over', capOver(g.opts[i], +inp.value)); });
+  if ($('#gone')) $('#gone').oninput = ()=>{ giftQ[giftK+':all'] = $('#gone').value.trim(); };
+  if ($('#gsameb')) $('#gsameb').onclick = ()=>{ const v = $('#gsame').value.trim();
+    if (!/^\d+$/.test(v) || +v<1){ toast(T('t_invalid')); return; }
+    sel.forEach(i=>giftQ[giftK+':'+i] = v); pageGifts(); };
+  if (!$('#gg')) return;
   $('#gg').onclick = ()=>{
-    if(!o){ toast(T('t_gift')); return; }
-    const q = qtyValue('#gq'); if(q===null) return; store.set('gq', q);
-    const c = o.cap || {}, over = q > Math.min(c.s ?? Infinity, c.r ?? Infinity);
-    const notes = [capText(o) ? (over ? '⚠ '+T('cap_over')+'\n' : '')+capText(o) : '', g.warn ? g.warn.replace(/\s*\n\s*/g,' ') : ''];
-    showPanel(`${gname(giftK)}${g.opts.length>1?' · '+o.n:''} · ×${num(q)}`, giftBlock([giftItem(o.t).replace(/("amount":\s*)-?\d+/, '$1'+q)]),
-      `${o.n} x${q}.txt`, '', notes.filter(Boolean).join('\n'), o.p ? o.p+'/'+(o.tf||'') : '');
+    const items = [], notes = [], int = v => /^\d+$/.test(String(v).trim()) && +v>0 ? +v : null;
+    let path = '', title = gname(giftK);
+    if (kind==='car'){
+      if (!giftCar){ toast(T('t_car')); return; }
+      const o = g.opts[giftF], c = CARS[giftCar], purple = c.s==='purple', fid = fusId(c.b);
+      if (o.f.includes('s6') && !hasS6(c.id)){ toast(T('no_s6')); return; }
+      if (o.f.includes('fus') && !fid){ toast(T('no_fus')); return; }
+      items.push(setF(setF(giftItem(purple ? g.t11 : g.t20), 'name', giftCar), 'amount', 1));
+      if (o.f.includes('gold')) items.push(setF(giftItem(g.tg), 'amount', 5040));
+      if (o.f.includes('s6')) for (let p=0; p<7; p++) items.push(setF(setF(setF(giftItem(g.ts6), 'name', giftCar), 'partType', p), 'amount', 1));
+      if (o.f.includes('fus')) for (let gr=1; gr<=3; gr++) for (let p=0; p<7; p++)
+        items.push(setF(setF(setF(setF(giftItem(g.tfus), 'name', fid), 'partType', p), 'partGrade', gr), 'amount', 20));
+      if (purple) notes.push(T('car_purple'));
+      title += ` · ${oname(o)} · ${nameOf(c)}`; path = `5.SupportGifts/07.Cars/Option${purple?1:2}/Template.txt`;
+    } else {
+      if (!sel.length){ toast(T('t_type')); return; }
+      if (kind==='fus' && !giftB){ toast(T('t_brand')); return; }
+      if (kind==='s6' && !giftCar){ toast(T('t_car')); return; }
+      const qAll = kind==='fus' ? int(giftQ[giftK+':all'] ?? '') : 0;
+      if (kind==='fus' && !qAll){ toast(T('t_qtys')); $('#gone').focus(); return; }
+      for (const i of sel){
+        const o = g.opts[i], q = kind==='fus' ? qAll : int(qOf(i));
+        if (!q){ toast(T('t_qtys')); const inp = document.querySelector(`.gline input[data-i="${i}"]`); if (inp) inp.focus(); return; }
+        if (kind==='fus') for (let p=0; p<7; p++) items.push(setF(setF(setF(setF(giftItem(o.t), 'name', fusId(giftB)), 'partType', p), 'partGrade', o.g), 'amount', q));
+        else { let it = setF(giftItem(o.t), 'amount', q); if (kind==='s6') it = setF(setF(it, 'name', giftCar), 'partType', o.pt); items.push(it); }
+        if (kind!=='fus' && capOver(o, q)) notes.push(`⚠ ${oname(o)} : ${T('cap_over')} ${capText(o)}`);
+      }
+      path = g.opts[sel[0]].p + '/' + (g.opts[sel[0]].tf || '');
+      title += kind==='fus' ? ` · ${F[giftB].n}` : kind==='s6' ? ` · ${nameOf(CARS[giftCar])}` : '';
+      if (sel.length===1 && g.opts.length>1) title += ' · ' + oname(g.opts[sel[0]]);
+    }
+    if (g.warn) notes.push(g.warn.replace(/\s*\n\s*/g,' '));
+    showPanel(title, giftBlock(items), `${title.replace(/[^\w .+-]+/g,' ').replace(/\s+/g,' ').trim()}.txt`, T('nrewards', items.length), notes.join('\n'), path);
   };
 }
 function giftItem(t){ return inner(t,'playinbitms'); }
@@ -871,9 +966,9 @@ function giftBlock(items){
   const picl = items.map(()=>'    "eRewards"').join(',\n');
   return '"picl": [\n' + picl + '\n  ],\n  "playinbitms": [\n' + items.join(',\n') + '\n  ],';
 }
-function pageResto(G){
-  const R = G.restoration; const list = R.cars.map(r=>({...(CARS[r.crdb]||{id:r.crdb}), q:r.q}));
-  $('#main').innerHTML = `<div class="crumb"><a href="#/gifts" onclick="restoView=false">${T('nav_gift')}</a> › ${T('resto')}</div>
+async function pageResto(){
+  setNav('gifts'); bar(''); const G = await load('gifts'); const R = G.restoration; const list = R.cars.map(r=>({...(CARS[r.crdb]||{id:r.crdb}), q:r.q}));
+  $('#main').innerHTML = `<div class="crumb"><a href="#/gifts">${T('nav_gift')}</a> › ${T('resto')}</div>
     <h1>${T('resto')}</h1><p class="lead">${T('resto_lead')}</p>
     <div class="row"><div class="seg" id="rm"><button data-m="one" class="${restoMode==='one'?'on':''}">${T('sel_cars')}</button><button data-m="all" class="${restoMode==='all'?'on':''}">${T('all_legends')}</button></div></div>
     <h2>${T('quantity')}</h2><div class="row qty"><input id="rq" type="number" min="1" placeholder="${T('rec_ph')}" value="">
@@ -886,8 +981,8 @@ function pageResto(G){
   $('#rc').onclick = e=>{ const c=e.target.closest('.car'); if(!c) return; const id=c.dataset.c;
     restoSel.has(id)?restoSel.delete(id):restoSel.add(id); c.classList.toggle('on'); restoMode='one';
     document.querySelectorAll('#rm button').forEach(x=>x.classList.toggle('on',x.dataset.m==='one')); hint(); };
-  $('#rall').onclick = ()=>{ list.forEach(c=>restoSel.add(c.id)); pageResto(G); };
-  $('#rnone').onclick = ()=>{ restoSel.clear(); pageResto(G); };
+  $('#rall').onclick = ()=>{ list.forEach(c=>restoSel.add(c.id)); pageResto(); };
+  $('#rnone').onclick = ()=>{ restoSel.clear(); pageResto(); };
   $('#rg').onclick = ()=>{
     const v=$('#rq').value.trim(); if (v && (!/^\d+$/.test(v)||+v<1)){ toast(T('t_invalid')); return; }
     const chosen = restoMode==='all' ? list : list.filter(c=>restoSel.has(c.id));
@@ -944,7 +1039,7 @@ function route(){
   }
   if (p[0]==='fusions') return pageFusions();
   if (p[0]==='stage6') return pageStage6();
-  if (p[0]==='gifts'){ if(p.length===1) restoView=false; return pageGifts(); }
+  if (p[0]==='gifts') return p[1]==='resto' ? pageResto() : pageGifts();   // own address: the menu link leaves the page (23/10/2026)
   if (p[0]==='discounts') return pageDiscounts();
   pageHome();
 }

@@ -16,5 +16,5 @@
         "amount": 50000,
         "ConsumableBoostId": ""
       }
-    
+    }
   ],
