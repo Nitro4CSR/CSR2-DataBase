@@ -132,7 +132,7 @@
       "fpin": 3,
       "cppi": 603,
       "ctie": "TIER_5",
-      "csrc": "IAPSpecial",
+      "csrc": "Prize",
       "nupl": {
         "cpf": false
       },
