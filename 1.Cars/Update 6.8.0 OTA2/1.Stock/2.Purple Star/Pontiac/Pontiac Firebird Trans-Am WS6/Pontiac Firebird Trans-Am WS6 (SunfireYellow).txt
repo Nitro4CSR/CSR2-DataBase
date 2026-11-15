@@ -1,0 +1,133 @@
+{
+      "unid": 8041,
+      "crdb": "Pontiac_FirebirdTransAm_2002",
+      "grsp": [
+        2.66,
+        1.78,
+        1.3,
+        1,
+        0.8,
+        0.63
+      ],
+      "fidr": 2.44,
+      "apiid": 2131,
+      "oriid": 2131,
+      "apcid": 5,
+      "orcid": 5,
+      "aplid": 1442,
+      "orlid": 1442,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Pontiac_FirebirdTransAm_2002_Wheel1A_3D"
+      ],
+      "opcn": "Pontiac_FirebirdTransAm_2002_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.317,
+      "tthm": 16.044,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2818,
+      "inid": 2131,
+      "caid": 5,
+      "lzsid": 9,
+      "livid": 1442,
+      "whbn": "Wheel1A_3D"
+    }

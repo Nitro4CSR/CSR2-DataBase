@@ -1,0 +1,128 @@
+{
+      "unid": 8047,
+      "crdb": "Hyundai_RN22e_2023",
+      "grsp": [
+        1
+      ],
+      "fidr": 4.11,
+      "apiid": 2129,
+      "oriid": 2129,
+      "apcid": 310,
+      "orcid": 310,
+      "aplid": 1441,
+      "orlid": 1441,
+      "aplzsid": 0,
+      "orlzsid": 0,
+      "apcn": [
+        "Hyundai_RN22e_2023_Wheel1A_3D"
+      ],
+      "opcn": "Hyundai_RN22e_2023_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.962,
+      "tthm": 16.048,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2127,
+      "inid": 2129,
+      "caid": 310,
+      "lzsid": 0,
+      "livid": 1441,
+      "whbn": "Wheel1A_3D"
+    }

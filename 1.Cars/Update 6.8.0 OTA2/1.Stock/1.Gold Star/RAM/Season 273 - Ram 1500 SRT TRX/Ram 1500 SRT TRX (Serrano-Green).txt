@@ -1,0 +1,135 @@
+{
+      "unid": 8003,
+      "crdb": "RAM_SRT1500TRXRewardRecycled_2026",
+      "grsp": [
+        4.71,
+        3.14,
+        2.1,
+        1.67,
+        1.29,
+        1,
+        0.84,
+        0.67
+      ],
+      "fidr": 2.62,
+      "apiid": 2121,
+      "oriid": 2121,
+      "apcid": 20,
+      "orcid": 20,
+      "aplid": 1436,
+      "orlid": 1436,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "RAM_SRT1500TRXRewardRecycled_2026_Wheel1A_3D"
+      ],
+      "opcn": "RAM_SRT1500TRXRewardRecycled_2026_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 503,
+      "ttqm": 11.732,
+      "tthm": 18.179,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2804,
+      "inid": 2121,
+      "caid": 20,
+      "lzsid": 9,
+      "livid": 1436,
+      "whbn": "Wheel1A_3D"
+    }

@@ -1,0 +1,133 @@
+{
+      "unid": 8049,
+      "crdb": "Pagani_ZondaArrivederci_2024",
+      "grsp": [
+        2.88,
+        1.77,
+        1.27,
+        1,
+        0.83,
+        0.71
+      ],
+      "fidr": 3.77,
+      "apiid": 2118,
+      "oriid": 2118,
+      "apcid": 143,
+      "orcid": 143,
+      "aplid": 1432,
+      "orlid": 1432,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Pagani_ZondaArrivederci_2024_Wheel1A_3D"
+      ],
+      "opcn": "Pagani_ZondaArrivederci_2024_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 604,
+      "ttqm": 10.21,
+      "tthm": 16.038,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2789,
+      "inid": 2118,
+      "caid": 143,
+      "lzsid": 9,
+      "livid": 1432,
+      "whbn": "Wheel1A_3D"
+    }

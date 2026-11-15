@@ -1,0 +1,131 @@
+{
+      "unid": 8051,
+      "crdb": "Toyota_GRYarisTNR_2021",
+      "grsp": [
+        3.626,
+        2.189,
+        1.541,
+        1.213,
+        1,
+        0.767
+      ],
+      "fidr": 2.44,
+      "apiid": 1000133,
+      "oriid": 1000133,
+      "apcid": 1000031,
+      "orcid": 1000031,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Toyota_GRYarisTNR_2021_Wheel1A_Alpha"
+      ],
+      "opcn": "Toyota_GRYarisTNR_2021_Wheel1A_Alpha",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 603,
+      "ttqm": 10.017,
+      "tthm": 16.066,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1000140,
+      "inid": 1000133,
+      "caid": 1000031,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_Alpha"
+    }

@@ -23303,5 +23303,250 @@
       "esut": "TRANSMISSION",
       "esdb": "Dodge_ChargerDaytonaHalloween_1970"
     },
+    3,
+    {
+      "esut": "ENGINE",
+      "esdb": "RAM_SRT1500TRXRewardRecycled_2026"
+    },
+    3,
+    {
+      "esut": "TURBO",
+      "esdb": "RAM_SRT1500TRXRewardRecycled_2026"
+    },
+    3,
+    {
+      "esut": "INTAKE",
+      "esdb": "RAM_SRT1500TRXRewardRecycled_2026"
+    },
+    3,
+    {
+      "esut": "NITROUS",
+      "esdb": "RAM_SRT1500TRXRewardRecycled_2026"
+    },
+    3,
+    {
+      "esut": "BODY",
+      "esdb": "RAM_SRT1500TRXRewardRecycled_2026"
+    },
+    3,
+    {
+      "esut": "TYRES",
+      "esdb": "RAM_SRT1500TRXRewardRecycled_2026"
+    },
+    3,
+    {
+      "esut": "TRANSMISSION",
+      "esdb": "RAM_SRT1500TRXRewardRecycled_2026"
+    },
+    3,
+    {
+      "esut": "ENGINE",
+      "esdb": "Pontiac_FirebirdTransAm_2002"
+    },
+    3,
+    {
+      "esut": "TURBO",
+      "esdb": "Pontiac_FirebirdTransAm_2002"
+    },
+    3,
+    {
+      "esut": "INTAKE",
+      "esdb": "Pontiac_FirebirdTransAm_2002"
+    },
+    3,
+    {
+      "esut": "NITROUS",
+      "esdb": "Pontiac_FirebirdTransAm_2002"
+    },
+    3,
+    {
+      "esut": "BODY",
+      "esdb": "Pontiac_FirebirdTransAm_2002"
+    },
+    3,
+    {
+      "esut": "TYRES",
+      "esdb": "Pontiac_FirebirdTransAm_2002"
+    },
+    3,
+    {
+      "esut": "TRANSMISSION",
+      "esdb": "Pontiac_FirebirdTransAm_2002"
+    },
+    3,
+    {
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_MonteCarloF3_1971"
+    },
+    3,
+    {
+      "esut": "TURBO",
+      "esdb": "Chevrolet_MonteCarloF3_1971"
+    },
+    3,
+    {
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_MonteCarloF3_1971"
+    },
+    3,
+    {
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_MonteCarloF3_1971"
+    },
+    3,
+    {
+      "esut": "BODY",
+      "esdb": "Chevrolet_MonteCarloF3_1971"
+    },
+    3,
+    {
+      "esut": "TYRES",
+      "esdb": "Chevrolet_MonteCarloF3_1971"
+    },
+    3,
+    {
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_MonteCarloF3_1971"
+    },
+    3,
+    {
+      "esut": "ENGINE",
+      "esdb": "Czinger_21CBlackbird_2024"
+    },
+    3,
+    {
+      "esut": "TURBO",
+      "esdb": "Czinger_21CBlackbird_2024"
+    },
+    3,
+    {
+      "esut": "INTAKE",
+      "esdb": "Czinger_21CBlackbird_2024"
+    },
+    3,
+    {
+      "esut": "NITROUS",
+      "esdb": "Czinger_21CBlackbird_2024"
+    },
+    3,
+    {
+      "esut": "BODY",
+      "esdb": "Czinger_21CBlackbird_2024"
+    },
+    3,
+    {
+      "esut": "TYRES",
+      "esdb": "Czinger_21CBlackbird_2024"
+    },
+    3,
+    {
+      "esut": "TRANSMISSION",
+      "esdb": "Czinger_21CBlackbird_2024"
+    },
+    3,
+    {
+      "esut": "ENGINE",
+      "esdb": "Hyundai_RN22e_2023"
+    },
+    3,
+    {
+      "esut": "TURBO",
+      "esdb": "Hyundai_RN22e_2023"
+    },
+    3,
+    {
+      "esut": "INTAKE",
+      "esdb": "Hyundai_RN22e_2023"
+    },
+    3,
+    {
+      "esut": "NITROUS",
+      "esdb": "Hyundai_RN22e_2023"
+    },
+    3,
+    {
+      "esut": "BODY",
+      "esdb": "Hyundai_RN22e_2023"
+    },
+    3,
+    {
+      "esut": "TYRES",
+      "esdb": "Hyundai_RN22e_2023"
+    },
+    3,
+    {
+      "esut": "TRANSMISSION",
+      "esdb": "Hyundai_RN22e_2023"
+    },
+    3,
+    {
+      "esut": "ENGINE",
+      "esdb": "Pagani_ZondaArrivederci_2024"
+    },
+    3,
+    {
+      "esut": "TURBO",
+      "esdb": "Pagani_ZondaArrivederci_2024"
+    },
+    3,
+    {
+      "esut": "INTAKE",
+      "esdb": "Pagani_ZondaArrivederci_2024"
+    },
+    3,
+    {
+      "esut": "NITROUS",
+      "esdb": "Pagani_ZondaArrivederci_2024"
+    },
+    3,
+    {
+      "esut": "BODY",
+      "esdb": "Pagani_ZondaArrivederci_2024"
+    },
+    3,
+    {
+      "esut": "TYRES",
+      "esdb": "Pagani_ZondaArrivederci_2024"
+    },
+    3,
+    {
+      "esut": "TRANSMISSION",
+      "esdb": "Pagani_ZondaArrivederci_2024"
+    },
+    3,
+    {
+      "esut": "ENGINE",
+      "esdb": "Toyota_GRYarisTNR_2021"
+    },
+    3,
+    {
+      "esut": "TURBO",
+      "esdb": "Toyota_GRYarisTNR_2021"
+    },
+    3,
+    {
+      "esut": "INTAKE",
+      "esdb": "Toyota_GRYarisTNR_2021"
+    },
+    3,
+    {
+      "esut": "NITROUS",
+      "esdb": "Toyota_GRYarisTNR_2021"
+    },
+    3,
+    {
+      "esut": "BODY",
+      "esdb": "Toyota_GRYarisTNR_2021"
+    },
+    3,
+    {
+      "esut": "TYRES",
+      "esdb": "Toyota_GRYarisTNR_2021"
+    },
+    3,
+    {
+      "esut": "TRANSMISSION",
+      "esdb": "Toyota_GRYarisTNR_2021"
+    },
     3
   ]
