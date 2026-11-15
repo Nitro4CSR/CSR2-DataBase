@@ -29,7 +29,7 @@ Due to the amount of files this project has it can be quite hard to find the fil
 
 ## Latest Update Info
 **Update 6.8.0 OTA2**
-![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/6.8.0_OTA_2.png)
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/6.8.0_OTA2.png)
 ## History
 **Update V.3.4.0**
 ![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.4.0.png)
